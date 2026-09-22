@@ -1,0 +1,16 @@
+# 文字檔統一以 LF 存進 repo，簽出時不強制轉換（core.autocrlf=false）
+*.md    text eol=lf
+*.py    text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+*.txt   text eol=lf
+
+# 二進位，不做換行正規化、不做 diff
+*.xls   binary
+*.xlsx  binary
+*.ods   binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.zip   binary
+*.docx  binary

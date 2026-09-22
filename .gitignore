@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# --- Office / 系統暫存 ---
+~$*
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# --- 書件成果不進版控 ---
+# 計畫書 docx 動輒上百 MB，且成果一律以日期版存放於 NAS 案件資料夾，
+# 本專案只保留「取數紀錄 + 原始資料 + 可重跑的腳本」。
+*.docx
+*.doc
+*.pptx
+
+# --- 暫存輸出 ---
+/scratch/
+/out/
