@@ -1,0 +1,3733 @@
+[
+ {
+  "name": "民政局",
+  "children": [
+   {
+    "name": "10122-00-01-2 臺南市各區戶數、人口數按戶別及性別分",
+    "children": [
+     {
+      "name": "戶數依戶別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f1f3128-4a22-4a7c-9a44-343056372c5d&uid=509&cuid=7573"
+     },
+     {
+      "name": "人口數依性別、戶別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f1f3128-4a22-4a7c-9a44-343056372c5d&uid=510&cuid=7574"
+     }
+    ]
+   },
+   {
+    "name": "10122-00-03-2 臺南市現住人口數按性別、年齡、婚姻狀況及婚姻類型分",
+    "children": [
+     {
+      "name": "人口數依性別、年齡別_、婚姻狀況別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d569645a-de15-4fc1-9465-18890293578e&uid=512&cuid=7575"
+     }
+    ]
+   },
+   {
+    "name": "10122-00-04-2 臺南市十五歲以上現住人口數按性別、年齡及教育程度分",
+    "children": [
+     {
+      "name": "十五歲以上現住人口數依性別、年齡別、教育程度別、結業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66314a5c-d2ac-4f74-b7a6-c7d0d2114afb&uid=586&cuid=7576"
+     }
+    ]
+   },
+   {
+    "name": "10122-00-11-2 臺南市各區現住原住民戶數、人口數按戶別及性別分",
+    "children": [
+     {
+      "name": "原住民戶數依戶別、原住民身份別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bafdfe31-5035-4859-b249-2cb5837e1d06&uid=529&cuid=7577"
+     },
+     {
+      "name": "原住民人口數依性別、戶別、原住民身份別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bafdfe31-5035-4859-b249-2cb5837e1d06&uid=528&cuid=7578"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-01-2 臺南市各區嬰兒出生數按生母年齡分(按發生日期)",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0bf23044-2152-4f68-be76-8121ffca255e&uid=534&cuid=7579"
+     },
+     {
+      "name": "嬰兒出生數(按發生日期)依生母年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0bf23044-2152-4f68-be76-8121ffca255e&uid=535&cuid=7580"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-02-2 臺南市嬰兒出生數按生母原屬國籍（地區）、年齡及教育程度分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依性別、生母教育程度別、國籍別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d463cd90-2e89-45fb-8e42-e7218c3521d0&uid=536&cuid=7582"
+     },
+     {
+      "name": "嬰兒出生數(按發生日期)依生母年齡別、教育程度別、國籍別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d463cd90-2e89-45fb-8e42-e7218c3521d0&uid=537&cuid=7583"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-03-2 臺南市嬰兒出生數按生母年齡、教育程度及生育胎次分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依生母年齡別、教育程度別、生育胎次別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6f8f587-2912-450e-a796-72bde1bfb445&uid=538&cuid=7584"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-04-2 臺南市嬰兒出生數按生母年齡及生育胎次分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依生母年齡別、生育胎次別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdb93478-dcd7-4646-b678-3cf8c6e3e584&uid=539&cuid=7585"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-05-2 臺南市嬰兒出生數按生母單一年齡及生育胎次分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依生母單一年齡別、生育胎次別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=678b9ade-290c-4ee5-ae32-7a2aee6ae771&uid=540&cuid=7586"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-06-2 臺南市嬰兒出生數按嬰兒性別及生父母年齡分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依性別、生母年齡別、生父年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c5f6d9-7d91-457e-a63c-3ab459a1757a&uid=543&cuid=7587"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-07-2 臺南市嬰兒出生數按生父母教育程度及生母生育胎次分（按發生日期）",
+    "children": [
+     {
+      "name": "嬰兒出生數(按發生日期)依生母教育程度別、生父教育程度別、生育胎次別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=236a1983-bfbb-4d70-9e3e-218b8dd49f7d&uid=544&cuid=7588"
+     }
+    ]
+   },
+   {
+    "name": "10131-01-11-2 臺南市各區嬰兒出生數按生母單一年齡分（按登記日期）",
+    "children": [
+     {
+      "name": "各區 嬰兒出生數按生母單一年齡分(按登記日期)依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0012b27a-b209-4f88-bd8a-4b75ecf5da88&uid=39592&cuid=7589"
+     },
+     {
+      "name": "各區 嬰兒出生數按生母單一年齡分(按登記日期)依生母單一年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0012b27a-b209-4f88-bd8a-4b75ecf5da88&uid=39593&cuid=7590"
+     }
+    ]
+   },
+   {
+    "name": "10132-01-01-2 臺南市各區人口死亡數按死亡者性別、單一年齡及五歲年齡組分（按發生日期）",
+    "children": [
+     {
+      "name": "人口死亡數(按發生日期)依性別、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdaec593-c05d-4357-93db-e4470bbd5187&uid=545&cuid=7591"
+     }
+    ]
+   },
+   {
+    "name": "10132-01-02-2 臺南市十五歲以上人口死亡數按死亡者性別、年齡、婚姻狀況及婚姻類型分",
+    "children": [
+     {
+      "name": "十五歲以上人口死亡數(按發生日期)依性別、年齡別、婚姻狀況別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=311a7fbd-07ee-4705-93c6-cf7e847912ee&uid=546&cuid=7592"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-01-2 臺南市結婚人數按婚姻類型、原屬國籍、性別、婚前婚姻狀況及年齡分（登記）",
+    "children": [
+     {
+      "name": "結婚人數(按登記日期)依性別、年齡別、婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc128838-6835-488f-9fc0-3b7364dfba04&uid=29248&cuid=7593"
+     },
+     {
+      "name": "男生結婚年齡第一四分位數Q1(按登記日期)依婚姻狀況別、國籍別、婚姻兩性性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc128838-6835-488f-9fc0-3b7364dfba04&uid=29250&cuid=7594"
+     },
+     {
+      "name": "男生結婚年齡中位數Q2(按登記日期)依婚姻狀況別、國籍別、婚姻兩性性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc128838-6835-488f-9fc0-3b7364dfba04&uid=29241&cuid=7595"
+     },
+     {
+      "name": "男生結婚年齡第三四分位數Q3(按登記日期)依婚姻狀況別、國籍別、婚姻兩性性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc128838-6835-488f-9fc0-3b7364dfba04&uid=29252&cuid=7596"
+     },
+     {
+      "name": "男生結婚年齡平均數(按登記日期)依婚姻狀況別、國籍別、婚姻兩性性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc128838-6835-488f-9fc0-3b7364dfba04&uid=29254&cuid=7597"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-02-2 臺南市結婚人數按婚姻類型、原屬國籍、性別、婚前婚姻狀況及年齡分（發生）",
+    "children": [
+     {
+      "name": "結婚人數(按發生日期)依性別、年齡別、婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39555&cuid=7598"
+     },
+     {
+      "name": "男生結婚年齡第一四分位數Q1(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39558&cuid=7600"
+     },
+     {
+      "name": "男生結婚年齡中位數Q2(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39560&cuid=7601"
+     },
+     {
+      "name": "男生結婚年齡第三四分位數Q3(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39562&cuid=7602"
+     },
+     {
+      "name": "男生結婚年齡平均數(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39564&cuid=7603"
+     },
+     {
+      "name": "女生結婚年齡第一四分位數Q1(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39566&cuid=7604"
+     },
+     {
+      "name": "女生結婚年齡中位數Q2(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39568&cuid=7605"
+     },
+     {
+      "name": "女生結婚年齡第三四分位數Q3(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39570&cuid=7606"
+     },
+     {
+      "name": "女生結婚年齡平均數(按發生日期)依婚姻狀況別、國籍別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e931084-94c7-4a42-99e6-e84480b987c6&uid=39552&cuid=7599"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-03-2 臺南市結婚人數按婚姻類型、性別、單一年齡、五歲年齡及初婚、再婚分(發生）",
+    "children": [
+     {
+      "name": "結婚人數(按發生日期)依性別、年齡別、初婚、再婚別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=33f13815-dccc-4273-9bf6-af9e10f6b3fb&uid=39556&cuid=7607"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-04-2 臺南市結婚對數按婚姻類型、性別及年齡分(按發生日期)",
+    "children": [
+     {
+      "name": "結婚對數(按發生日期)依男方年齡別、女方年齡別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a92b0c97-f056-4568-b494-1fe189ebcb04&uid=39578&cuid=7608"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-05-2 臺南市初婚人數按婚姻類型、性別、教育程度及年齡分暨結婚年齡中位數(發生)",
+    "children": [
+     {
+      "name": "初婚人數(按發生日期)依性別、年齡別、教育程度別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e4b249c-d6a9-4ff4-9eee-6acd341491bb&uid=39846&cuid=7609"
+     },
+     {
+      "name": "男生初婚年齡中位數(按發生日期)依教育程度別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e4b249c-d6a9-4ff4-9eee-6acd341491bb&uid=39848&cuid=7610"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-06-2 臺南市結婚對數按婚姻類型、性別、婚前婚姻狀況及年齡分(按發生日期)",
+    "children": [
+     {
+      "name": "結婚對數(按發生日期)依男方婚前婚姻別、女方婚前婚姻別、男方年齡別、女方年齡別_、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5117e39c-8af0-483a-8232-a1e997e402fe&uid=39579&cuid=7611"
+     }
+    ]
+   },
+   {
+    "name": "10140-01-07-2 臺南市結婚對數按婚姻類型、性別、初婚、再婚及教育程度分(按發生日期)",
+    "children": [
+     {
+      "name": "結婚對數(按發生日期)依教育程度別_男方、男方初婚、再婚別、女方初婚、再婚別、教育程度別_女生、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0992a74f-ecde-4d19-a144-81208ccb8f59&uid=39580&cuid=7612"
+     }
+    ]
+   },
+   {
+    "name": "10140-03-01-2 臺南市離婚/終止結婚人數按婚姻類型、性別及年齡分（按發生日期）",
+    "children": [
+     {
+      "name": "離婚/終止結婚人數(按發生日期)依性別、年齡別、婚姻類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ec278d9e-72c6-47f0-bc3f-2b35adfac875&uid=29182&cuid=7613"
+     }
+    ]
+   },
+   {
+    "name": "10140-03-02-2 臺南市離婚/終止結婚對數按婚姻類型、性別、原屬國籍及年齡分(按發生日期)",
+    "children": [
+     {
+      "name": "離婚、終止結婚對數(按發生日期)依男方年齡別、女方年齡別、婚姻類型、男方原屬國籍別、女方原屬國籍別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d2dd9114-69ef-4467-933c-639ddb210f75&uid=29151&cuid=7614"
+     }
+    ]
+   },
+   {
+    "name": "10140-03-03-2 臺南市離婚/終止結婚對數按婚姻類型、性別、原屬國籍及教育程度分(發生)",
+    "children": [
+     {
+      "name": "離婚、終止結婚對數(按發生日期)依教育程度別_男方、教育程度別_女生、婚姻類型、男方原屬國籍(地區)別、女方原屬國籍(地區)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=784013d0-55b4-41dd-aa75-47c1f255fb9b&uid=29150&cuid=7615"
+     }
+    ]
+   },
+   {
+    "name": "10190-90-01-2 臺南市戶政受理案件",
+    "children": [
+     {
+      "name": "戶政受理案件數依戶政受理案件別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a847a40-b58f-41bb-8276-6e44ade6c522&uid=581&cuid=7616"
+     }
+    ]
+   },
+   {
+    "name": "10963-00-01-2 臺南市妨害兵役案件",
+    "children": [
+     {
+      "name": "本年移送人數依妨礙兵役原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=595&cuid=7617"
+     },
+     {
+      "name": "本年起訴人數依妨礙兵役原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=596&cuid=7618"
+     },
+     {
+      "name": "本年不起訴處分人數依妨礙兵役原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=597&cuid=7619"
+     },
+     {
+      "name": "年底偵查中人數依妨礙兵役原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=598&cuid=7620"
+     },
+     {
+      "name": "本年審判結果確定人數(含歷年起訴者)依妨礙兵役原因別、審判結果別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=599&cuid=7621"
+     },
+     {
+      "name": "年底尚未宣判人數(含歷年起訴者)依妨礙兵役原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a1d9c6-b504-4356-9b03-10982fa83454&uid=600&cuid=7622"
+     }
+    ]
+   },
+   {
+    "name": "11130-00-01-2 臺南市宗教財團法人概況",
+    "children": [
+     {
+      "name": "宗教財團法人數量依宗教別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=30e4d61a-5e37-4ff6-a156-2e56b2c200a9&uid=734&cuid=7623"
+     }
+    ]
+   },
+   {
+    "name": "11130-00-02-2 臺南市寺廟登記概況",
+    "children": [
+     {
+      "name": "寺廟登記概況-寺廟數依宗教別、登記別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=746f4b2c-9aa9-4b04-9c78-5fa76d0256ae&uid=737&cuid=7624"
+     },
+     {
+      "name": "寺廟登記概況-寺廟數依宗教別、組織型態別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=746f4b2c-9aa9-4b04-9c78-5fa76d0256ae&uid=735&cuid=7625"
+     },
+     {
+      "name": "寺廟登記概況-不動產依宗教別、不動產別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=746f4b2c-9aa9-4b04-9c78-5fa76d0256ae&uid=738&cuid=7626"
+     },
+     {
+      "name": "寺廟登記概況-信徒人數依宗教別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=746f4b2c-9aa9-4b04-9c78-5fa76d0256ae&uid=739&cuid=7627"
+     }
+    ]
+   },
+   {
+    "name": "11130-00-03-2 臺南市教會（堂）概況",
+    "children": [
+     {
+      "name": "教會(堂)數依宗教別、組織型態別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a8940731-fd3d-4847-839e-cb29c41b1e38&uid=740&cuid=7628"
+     }
+    ]
+   },
+   {
+    "name": "11130-00-04-2 臺南市宗教團體興辦公益慈善及社會教化事業概況",
+    "children": [
+     {
+      "name": "醫療機構數依宗教別、醫療機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4850f8ac-2663-4644-aaca-1d1a38f63711&uid=741&cuid=7631"
+     },
+     {
+      "name": "文教機構數依宗教別、文化機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4850f8ac-2663-4644-aaca-1d1a38f63711&uid=742&cuid=7632"
+     },
+     {
+      "name": "公益慈善事業數依宗教別、公益慈善事業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4850f8ac-2663-4644-aaca-1d1a38f63711&uid=743&cuid=7633"
+     }
+    ]
+   },
+   {
+    "name": "30293-03-01-2 臺南市辦理調解業務概況",
+    "children": [
+     {
+      "name": "結案件數依調解業務項目別、成立與否分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5a0c2597-ce5c-4e03-8f4e-607a71f1fb6d&uid=668&cuid=7635"
+     }
+    ]
+   },
+   {
+    "name": "30293-03-02-2 臺南市調解委員會組織概況",
+    "children": [
+     {
+      "name": "委員總人數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=677&cuid=7637"
+     },
+     {
+      "name": "委員總人數依年資別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=672&cuid=7638"
+     },
+     {
+      "name": "委員總人數依服務公職分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=673&cuid=7639"
+     },
+     {
+      "name": "委員總人數依行業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=674&cuid=7640"
+     },
+     {
+      "name": "委員總人數依教育程度別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=675&cuid=7641"
+     },
+     {
+      "name": "委員總人數依年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8b9013-1401-4be7-9cec-6f9ec33a02d0&uid=676&cuid=7642"
+     }
+    ]
+   },
+   {
+    "name": "30293-03-03-2 臺南市辦理調解方式概況",
+    "children": [
+     {
+      "name": "調解方式成立比率依調解方式分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3b9ca73-f59f-41ed-a34c-ec6d0a34e3d8&uid=679&cuid=7643"
+     },
+     {
+      "name": "調解方式件數依調解方式、成立與否分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3b9ca73-f59f-41ed-a34c-ec6d0a34e3d8&uid=683&cuid=7644"
+     }
+    ]
+   },
+   {
+    "name": "30294-01-02-2 臺南市忠烈祠管理概況",
+    "children": [
+     {
+      "name": "本年入祠牌位數按身分別、性別、忠烈祠別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d42158fc-be35-488b-aa57-e2de729827b9&uid=14232&cuid=7646"
+     },
+     {
+      "name": "本年底入祠共立牌位牌位數按忠烈祠別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d42158fc-be35-488b-aa57-e2de729827b9&uid=14231&cuid=7647"
+     },
+     {
+      "name": "本年底入祠牌位數按身分別、性別、忠烈祠別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d42158fc-be35-488b-aa57-e2de729827b9&uid=14233&cuid=7648"
+     },
+     {
+      "name": "本年入祠共立牌位牌位數按忠烈祠別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d42158fc-be35-488b-aa57-e2de729827b9&uid=14234&cuid=7649"
+     }
+    ]
+   },
+   {
+    "name": "30294-03-01-2 臺南市殯葬服務業概況",
+    "children": [
+     {
+      "name": "年底殯葬設施經營業-家數依許可、備查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=724&cuid=7650"
+     },
+     {
+      "name": "年底殯葬設施經營業-員工數依性別、許可、備查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=725&cuid=7651"
+     },
+     {
+      "name": "年底殯葬禮儀服務業-家數依許可、備查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=726&cuid=7652"
+     },
+     {
+      "name": "年底殯葬禮儀服務業-員工數依性別、許可、備查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=727&cuid=7653"
+     },
+     {
+      "name": "年底殯葬禮儀服務業兼合法生前契約業者-家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=728&cuid=7654"
+     },
+     {
+      "name": "年底殯葬禮儀服務業兼合法生前契約業者-本年簽訂生前契約件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=729&cuid=7655"
+     },
+     {
+      "name": "年底殯葬禮儀服務業兼合法生前契約業者-累計簽訂生前契約件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=730&cuid=7656"
+     },
+     {
+      "name": "年底其他法人-家數依殯葬業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=731&cuid=7657"
+     },
+     {
+      "name": "年底其他法人-員工數依性別、殯葬業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=732&cuid=7658"
+     },
+     {
+      "name": "本年殯葬服務業及殯葬行為違反殯葬法規處分件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36040f60-02cf-42e5-ab78-c7c7e07f9cb8&uid=733&cuid=7659"
+     }
+    ]
+   },
+   {
+    "name": "30294-04-01-2 臺南市公墓設施概況",
+    "children": [
+     {
+      "name": "公墓設施概況-年底處數依公立、私立別、經規劃啟用、未經規劃別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=691&cuid=7660"
+     },
+     {
+      "name": "公墓設施概況-年底處數依公立、私立別、開放中、已停用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=692&cuid=7661"
+     },
+     {
+      "name": "公墓設施概況-年底土地面積(平方公尺)依公立、私立別、經規劃啟用、未經規劃別、使用、未使用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=694&cuid=7662"
+     },
+     {
+      "name": "公墓設施概況-經規劃並啟用者-年底可使用墓基總數(座)依公立、私立別、使用、未使用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=696&cuid=7663"
+     },
+     {
+      "name": "公墓設施概況-經規劃並啟用者-本年墓基使用數(座)依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=698&cuid=7664"
+     },
+     {
+      "name": "公墓設施概況-本年埋葬數依公立、私立別、經規劃啟用、未經規劃別、屍骨別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=700&cuid=7665"
+     },
+     {
+      "name": "公墓設施概況-本年遷出數依公立、私立別、經規劃啟用、未經規劃別、骨灰(骸)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02583956-90cc-4869-9730-3a83b8ac2600&uid=701&cuid=7666"
+     }
+    ]
+   },
+   {
+    "name": "30294-04-02-2 臺南市骨灰(骸)存放設施概況",
+    "children": [
+     {
+      "name": "骨灰(骸)存放設施概況-年底座數依公立、私立別、使用中、已停用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3100c03-6aee-4c2f-9284-356751c11c29&uid=702&cuid=7667"
+     },
+     {
+      "name": "骨灰(骸)存放設施概況-年底最大容量依公立、私立別、使用、未使用別、骨灰(骸)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3100c03-6aee-4c2f-9284-356751c11c29&uid=703&cuid=7668"
+     },
+     {
+      "name": "骨灰(骸)存放設施概況-本年納入數量依公立、私立別、骨灰(骸)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3100c03-6aee-4c2f-9284-356751c11c29&uid=704&cuid=7669"
+     },
+     {
+      "name": "骨灰(骸)存放設施概況-本年遷出數量依公立、私立別、骨灰(骸)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3100c03-6aee-4c2f-9284-356751c11c29&uid=705&cuid=7670"
+     }
+    ]
+   },
+   {
+    "name": "30294-04-03-2 臺南市殯葬管理業務概況",
+    "children": [
+     {
+      "name": "本年環保葬件數依性別、公共造產鄉鎮市(區)別、環保葬類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=706&cuid=7671"
+     },
+     {
+      "name": "年底公立公墓收費狀況-公墓數依公共造產鄉鎮市(區)別、收費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=707&cuid=7672"
+     },
+     {
+      "name": "年底公立公墓管理人員依性別、專、兼任別、公共造產鄉鎮市(區)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=708&cuid=7673"
+     },
+     {
+      "name": "年底公立各級單位殯葬業務承辦人員依性別、專、兼任別、公共造產鄉鎮市(區)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=709&cuid=7674"
+     },
+     {
+      "name": "本年核發埋葬火化許可證明依性別、公共造產鄉鎮市(區)別、埋葬、火化別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=710&cuid=7675"
+     },
+     {
+      "name": "本年殯葬設施違反殯葬法規處分件數依公共造產鄉鎮市(區)別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7fd3034-de60-4eb6-a1f7-cc97503d1881&uid=711&cuid=7676"
+     }
+    ]
+   },
+   {
+    "name": "30294-04-04-2 臺南市殯儀館設施概況",
+    "children": [
+     {
+      "name": "年底殯儀館數依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=712&cuid=7677"
+     },
+     {
+      "name": "年底土地面積依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=713&cuid=7678"
+     },
+     {
+      "name": "年底總樓地板面積依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=714&cuid=7679"
+     },
+     {
+      "name": "年底禮廳數依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=715&cuid=7680"
+     },
+     {
+      "name": "年底屍體冷凍室最大容量依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=716&cuid=7681"
+     },
+     {
+      "name": "本年殯殮數依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b3bedd2-7eee-4655-87c2-57e263ef50b5&uid=717&cuid=7682"
+     }
+    ]
+   },
+   {
+    "name": "30294-04-05-2 臺南市火化場設施概況",
+    "children": [
+     {
+      "name": "年底火化場數依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=718&cuid=7683"
+     },
+     {
+      "name": "火化場設施概況-年底土地面積依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=719&cuid=7684"
+     },
+     {
+      "name": "火化場設施概況-年底總樓地板面積依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=720&cuid=7685"
+     },
+     {
+      "name": "年底每日最大處理量依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=721&cuid=7686"
+     },
+     {
+      "name": "年底火化爐數依公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=722&cuid=7687"
+     },
+     {
+      "name": "本年屍體火化數依性別、公立、私立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9003e158-8af3-4431-bbaf-4bf5b5e7188b&uid=723&cuid=7688"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "農業局",
+  "children": [
+   {
+    "name": "11233-02-01-2 臺南市苗圃育苗數量",
+    "children": [
+     {
+      "name": "育苗面積依苗圃別、苗圃計畫別、苗圃所有權別、育苗種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d15d6801-f0d8-4fc0-b6d8-c47e3f9d5bbb&uid=12860&cuid=7689"
+     },
+     {
+      "name": "苗床面積依苗圃別、苗圃計畫別、苗圃所有權別、育苗種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d15d6801-f0d8-4fc0-b6d8-c47e3f9d5bbb&uid=12861&cuid=7690"
+     },
+     {
+      "name": "附屬地面積依苗圃別、苗圃計畫別、苗圃所有權別、育苗種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d15d6801-f0d8-4fc0-b6d8-c47e3f9d5bbb&uid=12862&cuid=7691"
+     }
+    ]
+   },
+   {
+    "name": "11243-01-01-2 臺南市農耕土地面積",
+    "children": [
+     {
+      "name": "農耕土地面積依農耕土地別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b88b966-4597-4207-9dc7-fc74c0f0e9e4&uid=12579&cuid=7696"
+     }
+    ]
+   },
+   {
+    "name": "20329-02-01-2 臺南市農路改善及維護工程",
+    "children": [
+     {
+      "name": "農路改善及維護工程-總工程費依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c6e5ebd-1ec2-4487-b1d9-eb1b6560958a&uid=40546&cuid=7693"
+     },
+     {
+      "name": "農路改善及維護工程-道路總長度-維護",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c6e5ebd-1ec2-4487-b1d9-eb1b6560958a&uid=40549&cuid=7694"
+     },
+     {
+      "name": "農路改善及維護工程-道路總長度-改善",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c6e5ebd-1ec2-4487-b1d9-eb1b6560958a&uid=40550&cuid=7695"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "工務局",
+  "children": [
+   {
+    "name": "10981-03-04-2 臺南市建築物機械停車設備安全檢查統計",
+    "children": [
+     {
+      "name": "建築物機械停車設備安全檢查統計依機械停車設備類型、合格與否分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6514ab18-d888-41bb-85fc-71423ea8f77d&uid=12460&cuid=7697"
+     }
+    ]
+   },
+   {
+    "name": "10981-03-05-2 臺南市建築物昇降設備檢查取得使用許可證統計",
+    "children": [
+     {
+      "name": "建築物昇降設備檢查取得使用許可證統計-定期安全檢查取得使用許可證依定期安全檢查取得使用許可證分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9f960b29-77d4-4c19-b0b9-0227e832ab74&uid=14014&cuid=7698"
+     },
+     {
+      "name": "建築物昇降設備檢查取得使用許可證統計-竣工檢查取得使用許可證依竣工檢查取得使用許可證分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9f960b29-77d4-4c19-b0b9-0227e832ab74&uid=14015&cuid=7699"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-07-2 臺南市都市計畫區域內現有已開闢道路長度及面積暨橋梁座數、自行車道長度",
+    "children": [
+     {
+      "name": "都市計畫區域內現有已開闢道路長度及面積-長度依都市計畫區別、路面別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27a36c8b-a414-4a10-8137-0b40b20b014b&uid=12475&cuid=7700"
+     },
+     {
+      "name": "都市計畫區域內現有已開闢橋梁座數依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27a36c8b-a414-4a10-8137-0b40b20b014b&uid=12476&cuid=7701"
+     },
+     {
+      "name": "都市計畫區域內現有已開闢自行車道長度依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27a36c8b-a414-4a10-8137-0b40b20b014b&uid=12477&cuid=7702"
+     },
+     {
+      "name": "都市計畫區域內現有已開闢道路長度及面積-面積依都市計畫區別、路面別、道路種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27a36c8b-a414-4a10-8137-0b40b20b014b&uid=12478&cuid=7703"
+     }
+    ]
+   },
+   {
+    "name": "20533-00-01-2 臺南市建築師開業家數及人數",
+    "children": [
+     {
+      "name": "建築師事務所開業家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7a48c945-b4ae-4d8e-bdea-ea34b4f19561&uid=12385&cuid=7704"
+     },
+     {
+      "name": "建築師事務所開業人數依性別、建築師開業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7a48c945-b4ae-4d8e-bdea-ea34b4f19561&uid=12386&cuid=7705"
+     }
+    ]
+   },
+   {
+    "name": "20535-01-01-2 臺南市都市計畫區域內公共工程實施數量",
+    "children": [
+     {
+      "name": "都市計畫區域內公共工程實施數量-道路(包括廣場)面積依都市計畫區別、路面別、施工別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12387&cuid=7706"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-鋼筋混凝土橋-座依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12388&cuid=7707"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-鋼筋混凝土橋-面積依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12389&cuid=7708"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-其他-座依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12390&cuid=7709"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-其他-面積依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12391&cuid=7710"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-抽水站-座依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12392&cuid=7711"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-抽水站-抽水量依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12393&cuid=7712"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-排水幹支線依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12394&cuid=7713"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水處理廠-座依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12395&cuid=7714"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水處理廠-抽水量依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12396&cuid=7715"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水幹支線依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12397&cuid=7716"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-公園-處依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12398&cuid=7717"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-公園-面積依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f24c97b-d95e-48da-916f-be0a2c5a6e3b&uid=12399&cuid=7718"
+     }
+    ]
+   },
+   {
+    "name": "20539-90-01-2 臺南市廣告物管理統計",
+    "children": [
+     {
+      "name": "廣告物管理統計-招牌廣告-申請許可",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12461&cuid=7719"
+     },
+     {
+      "name": "廣告物管理統計-招牌廣告-處理違規情形-罰鍰",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12462&cuid=7720"
+     },
+     {
+      "name": "廣告物管理統計-招牌廣告-處理違規情形-拆除",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12463&cuid=7721"
+     },
+     {
+      "name": "廣告物管理統計-樹立廣告-申請許可",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12464&cuid=7722"
+     },
+     {
+      "name": "廣告物管理統計-樹立廣告-處理違規情形-罰鍰",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12465&cuid=7723"
+     },
+     {
+      "name": "廣告物管理統計-樹立廣告-處理違規情形-拆除",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4abfe826-5c58-4868-b699-cbeb809046bc&uid=12466&cuid=7724"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "水利局",
+  "children": [
+   {
+    "name": "11242-03-01-2 臺南市河川、排水、海堤公地許可使用費徵收情形-總表",
+    "children": [
+     {
+      "name": "(總表)金額-應收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=76e1b9d4-ffc1-46f3-825e-d192b5c3bee5&uid=13363&cuid=7726"
+     },
+     {
+      "name": "(總表)金額-實收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=76e1b9d4-ffc1-46f3-825e-d192b5c3bee5&uid=13364&cuid=7727"
+     },
+     {
+      "name": "(總表)金額-實收-滯納金依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=76e1b9d4-ffc1-46f3-825e-d192b5c3bee5&uid=13365&cuid=7728"
+     },
+     {
+      "name": "(總表)金額-未收數依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=76e1b9d4-ffc1-46f3-825e-d192b5c3bee5&uid=13366&cuid=7729"
+     },
+     {
+      "name": "(總表)面積依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=76e1b9d4-ffc1-46f3-825e-d192b5c3bee5&uid=13362&cuid=7725"
+     }
+    ]
+   },
+   {
+    "name": "11242-03-02-2 臺南市河川、排水、海堤公地許可使用費徵收情形-本年度",
+    "children": [
+     {
+      "name": "(本年度)金額-應收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6534d64c-9234-424d-92b5-dc3dd4062e4a&uid=13369&cuid=7731"
+     },
+     {
+      "name": "(本年度)金額-實收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6534d64c-9234-424d-92b5-dc3dd4062e4a&uid=13370&cuid=7732"
+     },
+     {
+      "name": "(本年度)金額-實收-滯納金依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6534d64c-9234-424d-92b5-dc3dd4062e4a&uid=13371&cuid=7733"
+     },
+     {
+      "name": "(本年度)金額-未收數依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6534d64c-9234-424d-92b5-dc3dd4062e4a&uid=13372&cuid=7734"
+     },
+     {
+      "name": "(本年度)面積依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6534d64c-9234-424d-92b5-dc3dd4062e4a&uid=13368&cuid=7730"
+     }
+    ]
+   },
+   {
+    "name": "11242-03-03-2 臺南市河川、排水、海堤公地許可使用費徵收情形-舊欠",
+    "children": [
+     {
+      "name": "(舊欠)金額-應收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56e6dbbe-19ef-46d9-8a27-58e327727f4a&uid=13375&cuid=7736"
+     },
+     {
+      "name": "(舊欠)金額-實收依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56e6dbbe-19ef-46d9-8a27-58e327727f4a&uid=13376&cuid=7737"
+     },
+     {
+      "name": "(舊欠)金額-實收-滯納金依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56e6dbbe-19ef-46d9-8a27-58e327727f4a&uid=13377&cuid=7738"
+     },
+     {
+      "name": "(舊欠)金額-未收數依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56e6dbbe-19ef-46d9-8a27-58e327727f4a&uid=13378&cuid=7739"
+     },
+     {
+      "name": "(舊欠)面積依公地許可別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56e6dbbe-19ef-46d9-8a27-58e327727f4a&uid=13374&cuid=7735"
+     }
+    ]
+   },
+   {
+    "name": "11260-90-02-2 臺南市天然災害禦潮(海堤)設施受損情形",
+    "children": [
+     {
+      "name": "(禦潮(海堤)設施受損情形)海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fe51899-09c1-4e8b-997f-63425c88ad72&uid=13392&cuid=7740"
+     },
+     {
+      "name": "(禦潮(海堤)設施受損情形)海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fe51899-09c1-4e8b-997f-63425c88ad72&uid=13394&cuid=7741"
+     },
+     {
+      "name": "(禦潮(海堤)設施受損情形)水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fe51899-09c1-4e8b-997f-63425c88ad72&uid=13395&cuid=7742"
+     },
+     {
+      "name": "(禦潮(海堤)設施受損情形)其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fe51899-09c1-4e8b-997f-63425c88ad72&uid=13396&cuid=7743"
+     },
+     {
+      "name": "(禦潮(海堤)設施受損情形)預估經費依修建經費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fe51899-09c1-4e8b-997f-63425c88ad72&uid=13397&cuid=7744"
+     }
+    ]
+   },
+   {
+    "name": "11260-90-03-2 臺南市天然災害區域排水設施受損情形",
+    "children": [
+     {
+      "name": "(區域排水設施受損情形)排水路",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=014d25ac-38eb-41a6-9af3-e5e567bcadb9&uid=13398&cuid=7745"
+     },
+     {
+      "name": "(區域排水設施受損情形)水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=014d25ac-38eb-41a6-9af3-e5e567bcadb9&uid=13399&cuid=7746"
+     },
+     {
+      "name": "(區域排水設施受損情形)其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=014d25ac-38eb-41a6-9af3-e5e567bcadb9&uid=13400&cuid=7747"
+     },
+     {
+      "name": "(區域排水設施受損情形)預估經費依修建經費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=014d25ac-38eb-41a6-9af3-e5e567bcadb9&uid=13401&cuid=7748"
+     }
+    ]
+   },
+   {
+    "name": "20535-08-02-2 臺南市污水下水道系統執行概況",
+    "children": [
+     {
+      "name": "年底人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bcd9309-18f2-446f-bc21-24c02d28d628&uid=13420&cuid=7749"
+     },
+     {
+      "name": "總處理戶數-當年依污水處理戶別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bcd9309-18f2-446f-bc21-24c02d28d628&uid=13421&cuid=7750"
+     },
+     {
+      "name": "總處理戶數-累計依污水處理戶別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bcd9309-18f2-446f-bc21-24c02d28d628&uid=13422&cuid=7751"
+     },
+     {
+      "name": "戶量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bcd9309-18f2-446f-bc21-24c02d28d628&uid=13423&cuid=7752"
+     },
+     {
+      "name": "全年污水處理總量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bcd9309-18f2-446f-bc21-24c02d28d628&uid=13424&cuid=7753"
+     }
+    ]
+   },
+   {
+    "name": "20535-08-03-2 臺南市污水下水道已建設管線長度及設施",
+    "children": [
+     {
+      "name": "管線長度-當年依行政機關別、長度別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=757b6951-a71f-43de-878c-329fa925702c&uid=13425&cuid=7754"
+     },
+     {
+      "name": "管線長度-累計依行政機關別、長度別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=757b6951-a71f-43de-878c-329fa925702c&uid=13426&cuid=7755"
+     },
+     {
+      "name": "污水處理設施-當年依行政機關別、污水處理設施別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=757b6951-a71f-43de-878c-329fa925702c&uid=13427&cuid=7756"
+     },
+     {
+      "name": "污水處理設施-累計依行政機關別、污水處理設施別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=757b6951-a71f-43de-878c-329fa925702c&uid=13428&cuid=7757"
+     }
+    ]
+   },
+   {
+    "name": "20535-08-04-2 臺南市污水下水道系統營運管理費用及收入",
+    "children": [
+     {
+      "name": "污水處理廠營運管理費用依污水下水道系統別、營運管理費用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1851024c-5975-4832-a2af-0ad0fd2b2615&uid=27393&cuid=7758"
+     },
+     {
+      "name": "全年度使用費收入依污水下水道系統別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1851024c-5975-4832-a2af-0ad0fd2b2615&uid=27395&cuid=7759"
+     },
+     {
+      "name": "管線修繕及維護費用依污水下水道系統別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1851024c-5975-4832-a2af-0ad0fd2b2615&uid=27391&cuid=7760"
+     }
+    ]
+   },
+   {
+    "name": "20535-08-05-2 臺南市污水下水道建設投入經費",
+    "children": [
+     {
+      "name": "污水下水道建設投入經費依污水下水道建設別、污水下水道建設投入經費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7ac72f1-996c-459f-914b-966628915ed4&uid=13431&cuid=7761"
+     }
+    ]
+   },
+   {
+    "name": "20535-08-06-2 臺南市污水處理廠統計",
+    "children": [
+     {
+      "name": "已完成規劃待建設系統座數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a66f530-614d-4880-a98a-82e8a74902e7&uid=27497&cuid=7762"
+     },
+     {
+      "name": "營運中污水處理廠座數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a66f530-614d-4880-a98a-82e8a74902e7&uid=27501&cuid=7763"
+     },
+     {
+      "name": "建設中污水處理廠座數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a66f530-614d-4880-a98a-82e8a74902e7&uid=27503&cuid=7764"
+     },
+     {
+      "name": "污水處理廠統計-營運中污水處理廠面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a66f530-614d-4880-a98a-82e8a74902e7&uid=27507&cuid=7765"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-01-2 臺南市治山防災整體治理工程",
+    "children": [
+     {
+      "name": "(治山)總工程費依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67a9b86b-abb8-48c0-8fcc-c9474945814c&uid=13380&cuid=7766"
+     },
+     {
+      "name": "工作數量-防砂壩",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67a9b86b-abb8-48c0-8fcc-c9474945814c&uid=13381&cuid=7767"
+     },
+     {
+      "name": "工作數量-整流",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67a9b86b-abb8-48c0-8fcc-c9474945814c&uid=13385&cuid=7768"
+     },
+     {
+      "name": "工作數量-固床工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67a9b86b-abb8-48c0-8fcc-c9474945814c&uid=13386&cuid=7769"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-08-2 臺南市海岸環境改善工程",
+    "children": [
+     {
+      "name": "(海岸環境改善)工程內容-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13463&cuid=7770"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-離岸堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13464&cuid=7771"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13465&cuid=7772"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13466&cuid=7773"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13467&cuid=7774"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-環境改善-長度",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13468&cuid=7775"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-環境改善-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13469&cuid=7776"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-環境改善-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13470&cuid=7777"
+     },
+     {
+      "name": "(海岸環境改善)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff0c1344-aa25-4994-8285-6272c6cc5c54&uid=13471&cuid=7778"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-09-2 臺南市禦潮(海堤)─養護工程",
+    "children": [
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13472&cuid=7779"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-離岸堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13473&cuid=7780"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13474&cuid=7781"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13475&cuid=7782"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13476&cuid=7783"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9737b780-97cb-4f53-809d-bc76da753314&uid=13477&cuid=7784"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-10-2 臺南市禦潮(海堤)─整建工程",
+    "children": [
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13478&cuid=7785"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-離岸堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13479&cuid=7786"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13480&cuid=7787"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13481&cuid=7788"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13482&cuid=7789"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da3a149b-7042-444e-84fd-54ce24fe23dc&uid=13483&cuid=7790"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-11-2 臺南市禦潮(海堤)─災害復建工程",
+    "children": [
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13484&cuid=7791"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-離岸堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13485&cuid=7792"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13486&cuid=7793"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13487&cuid=7794"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13488&cuid=7795"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc3fcee3-20a6-4e07-acdd-51f64e41bb2a&uid=13489&cuid=7796"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-16-2 臺南市區域排水構造物維護管理",
+    "children": [
+     {
+      "name": "(區域排水構造物維護管理)工程內容-排水路修護",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cbcfe6e-2604-44ba-a111-e1f6cd1bbfa9&uid=13506&cuid=7797"
+     },
+     {
+      "name": "(區域排水構造物維護管理)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cbcfe6e-2604-44ba-a111-e1f6cd1bbfa9&uid=13507&cuid=7798"
+     },
+     {
+      "name": "(區域排水構造物維護管理)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cbcfe6e-2604-44ba-a111-e1f6cd1bbfa9&uid=13509&cuid=7799"
+     },
+     {
+      "name": "(區域排水構造物維護管理)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cbcfe6e-2604-44ba-a111-e1f6cd1bbfa9&uid=13510&cuid=7800"
+     },
+     {
+      "name": "(區域排水構造物維護管理)工程內容-河道整理",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cbcfe6e-2604-44ba-a111-e1f6cd1bbfa9&uid=25845&cuid=7801"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-17-2 臺南市區域排水整治工程",
+    "children": [
+     {
+      "name": "(區域排水整治工程)工程內容-排水路",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b70b697-9400-46c3-a424-afc5770bc2d2&uid=13511&cuid=7802"
+     },
+     {
+      "name": "(區域排水整治工程)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b70b697-9400-46c3-a424-afc5770bc2d2&uid=13512&cuid=7803"
+     },
+     {
+      "name": "(區域排水整治工程)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b70b697-9400-46c3-a424-afc5770bc2d2&uid=13513&cuid=7804"
+     },
+     {
+      "name": "(區域排水整治工程)工程內容-工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b70b697-9400-46c3-a424-afc5770bc2d2&uid=13532&cuid=7805"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-18-2 臺南市區域排水災害復建工程",
+    "children": [
+     {
+      "name": "(區域排水災害復建工程)工程內容-排水路",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2a1cf21-58ff-42a9-ae2f-804a017bb3a3&uid=13514&cuid=7806"
+     },
+     {
+      "name": "(區域排水災害復建工程)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2a1cf21-58ff-42a9-ae2f-804a017bb3a3&uid=13515&cuid=7807"
+     },
+     {
+      "name": "(區域排水災害復建工程)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2a1cf21-58ff-42a9-ae2f-804a017bb3a3&uid=13516&cuid=7808"
+     },
+     {
+      "name": "(區域排水災害復建工程)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2a1cf21-58ff-42a9-ae2f-804a017bb3a3&uid=13517&cuid=7809"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-19-2 臺南市區域排水搶修(搶險)工程",
+    "children": [
+     {
+      "name": "(區域排水搶修(搶險)工程)工程內容-排水路",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22dc94ef-51e4-4142-b6dd-950fdb8f8fe6&uid=13518&cuid=7810"
+     },
+     {
+      "name": "(區域排水搶修(搶險)工程)工程內容-水門",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22dc94ef-51e4-4142-b6dd-950fdb8f8fe6&uid=13519&cuid=7811"
+     },
+     {
+      "name": "(區域排水搶修(搶險)工程)工程內容-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22dc94ef-51e4-4142-b6dd-950fdb8f8fe6&uid=13520&cuid=7812"
+     },
+     {
+      "name": "(區域排水搶修(搶險)工程)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22dc94ef-51e4-4142-b6dd-950fdb8f8fe6&uid=13521&cuid=7813"
+     }
+    ]
+   },
+   {
+    "name": "20535-09-20-2 臺南市區域排水疏濬工程",
+    "children": [
+     {
+      "name": "(區域排水疏濬工程)疏濬",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97a5b4d3-6106-404a-b6e0-da5edbed65af&uid=13522&cuid=7814"
+     },
+     {
+      "name": "(區域排水疏濬工程)工程決算數依經費來源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97a5b4d3-6106-404a-b6e0-da5edbed65af&uid=13523&cuid=7815"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "社會局",
+  "children": [
+   {
+    "name": "10720-90-01-2 臺南市遊民處理情形",
+    "children": [
+     {
+      "name": "受理報案或查報遊民處理案數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43758&cuid=8408"
+     },
+     {
+      "name": "查報未列冊遊民人數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43749&cuid=8409"
+     },
+     {
+      "name": "列冊遊民人數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=13891&cuid=8410"
+     },
+     {
+      "name": "列冊遊民人數依性別、居住狀況、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=27568&cuid=8411"
+     },
+     {
+      "name": "處理遊民情形-人次依性別、處理遊民情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43751&cuid=8412"
+     },
+     {
+      "name": "遊民處理情形-人數依性別、處理遊民情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43757&cuid=8413"
+     },
+     {
+      "name": "列冊遊民人數依性別、列冊遊民別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43764&cuid=8414"
+     },
+     {
+      "name": "遊民處理情形-因故死亡依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460b4523-4e8c-40ff-a135-119764819e16&uid=43767&cuid=8415"
+     }
+    ]
+   },
+   {
+    "name": "10730-02-04-2 臺南市兒童及少年福利服務",
+    "children": [
+     {
+      "name": "兒童及少年福利服務-兒童及少年代表人數 依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=27164&cuid=7818"
+     },
+     {
+      "name": "兒童及少年福利服務-兒童及少年代表人數為委員人數依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=27163&cuid=7819"
+     },
+     {
+      "name": "兒童及少年福利服務-無依兒童及少年安置及處理-尋獲父母或監護人者依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=13131&cuid=7820"
+     },
+     {
+      "name": "兒童及少年福利服務-兒童及少年培力活動參與人次 依性別、身分別分 (統計至110年止)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=13130&cuid=7825"
+     },
+     {
+      "name": "兒童及少年福利服務-無依兒童及少年安置及處理-逾法定期限未尋獲父母或監護人者依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=13132&cuid=7821"
+     },
+     {
+      "name": "兒童及少年福利服務-無依兒童及少年安置及處理-法定期限內尚在協尋父母或監護人者依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=13133&cuid=7822"
+     },
+     {
+      "name": "兒童及少年福利服務-兒童及少年福利服務中心期底數依成立別、機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=29482&cuid=7824"
+     },
+     {
+      "name": "兒童及少年福利服務-兒童及少年福利服務人次依性別、機構別、兒童及少年福利服務別分(110~112疫情影響數字偏低)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c2ea4af-48c6-4999-beaa-7fcc14a784db&uid=29481&cuid=7823"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-03-2 臺南市身心障礙者障礙成因",
+    "children": [
+     {
+      "name": "身心障礙者人數-身心障礙者人數(報表一)依性別、身心障礙類別-、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29916cf-9703-4a1e-8c29-5ad9b1134376&uid=40306&cuid=7909"
+     },
+     {
+      "name": "身心障礙者人數-身心障礙者人數(報表二)依性別、身心障礙類別、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29916cf-9703-4a1e-8c29-5ad9b1134376&uid=40310&cuid=7910"
+     },
+     {
+      "name": "身心障礙者人數-身心障礙者人數(報表三)依性別、身心障礙類別-(新制ICF障礙類別)、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29916cf-9703-4a1e-8c29-5ad9b1134376&uid=40311&cuid=7911"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-07-2 臺南市註銷領有身心障礙證明者及死亡者年齡分析",
+    "children": [
+     {
+      "name": "註銷領有身心障礙證明手冊者及死亡者年齡分析(報表一)-死亡者依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=40377&cuid=7912"
+     },
+     {
+      "name": "註銷領有身心障礙證明手冊者及死亡者年齡分析(報表一)-死亡者依年齡別、新舊制別、身心障礙類別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=40375&cuid=7913"
+     },
+     {
+      "name": "註銷領有身心障礙證明手冊者及死亡者年齡分析(報表一)-註銷(移出)身心障礙證明(手冊)人數依新舊制別、身心障礙類別、註銷(移出)原因別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=40370&cuid=7914"
+     },
+     {
+      "name": "註銷領有身心障礙證明手冊者及死亡者年齡分析(報表一)-註銷(移出)身心障礙證明(手冊)人數依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=40372&cuid=7915"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表二)-死亡者依年齡別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29137&cuid=7916"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表二)-死亡者依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29138&cuid=7917"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表二)-註銷(移出)身心障礙證明(手冊)人數依身心障礙類別、註銷(移出)原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29140&cuid=7918"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表二)-註銷(移出)身心障礙證明(手冊)人數依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29141&cuid=7919"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表三)-死亡者依年齡別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29143&cuid=7920"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表三)-死亡者依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29144&cuid=7921"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表三)-註銷(移出)身心障礙證明(手冊)人次依身心障礙類別、註銷(移出)原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29146&cuid=7922"
+     },
+     {
+      "name": "註銷領有身心障礙證明者及死亡者年齡分析(報表三)-註銷(移出)身心障礙證明(手冊)人次依性別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1f2bd0c-2471-4d2f-8113-ce0c0c492d8c&uid=29147&cuid=7923"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-12-2 臺南市多重障礙者人數按多重障礙類別分",
+    "children": [
+     {
+      "name": "多重障礙者人數依性別、新舊制別、障礙等級別、身心障礙類別-依「身心障礙者權益保障法」第5條及「身心障礙者保護法」第3條規定分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a2504c3-2d75-4b51-8a0d-bbfba72e3945&uid=29275&cuid=7924"
+     },
+     {
+      "name": "多重障礙者人數-尚無詳細類別之多障者依性別、新舊制別、障礙等級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a2504c3-2d75-4b51-8a0d-bbfba72e3945&uid=29270&cuid=7925"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-13-2 臺南市多重障礙者之年齡分配按多重障礙類別分",
+    "children": [
+     {
+      "name": "多重障礙者人數依性別、年齡別(0~65歲以上)、新舊制別、障礙等級別、身心障礙類別-依「身心障礙者權益保障法」第5條及「身心障礙者保護法」第3條規定分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c52f778b-1da0-4136-9a83-3714752b3882&uid=29276&cuid=7926"
+     },
+     {
+      "name": "多重障礙者人數-尚無詳細類別之多障者依性別、年齡別(0~65歲以上)、新舊制別、障礙等級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c52f778b-1da0-4136-9a83-3714752b3882&uid=29271&cuid=7927"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-16-2 臺南市原住民身心障礙者人數",
+    "children": [
+     {
+      "name": "原住民身心障礙者人數(報表一)依性別、新舊制別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8c2faf7-66e4-448b-b7f8-ea080168c8d0&uid=25975&cuid=7928"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表二)依性別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8c2faf7-66e4-448b-b7f8-ea080168c8d0&uid=25982&cuid=7929"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表三)-人次依性別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8c2faf7-66e4-448b-b7f8-ea080168c8d0&uid=25983&cuid=7930"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-17-2 臺南市原住民身心障礙者之年齡分配",
+    "children": [
+     {
+      "name": "原住民身心障礙者人數(報表一)依性別、年齡別、新舊制別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29a5339-28a9-471c-b769-aa59474d1ec8&uid=25976&cuid=7931"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表二)依性別、年齡別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29a5339-28a9-471c-b769-aa59474d1ec8&uid=25980&cuid=7932"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表三)-人次依性別、年齡別、障礙等級別、身心障礙類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d29a5339-28a9-471c-b769-aa59474d1ec8&uid=25984&cuid=7933"
+     }
+    ]
+   },
+   {
+    "name": "10730-05-18-2 臺南市原住民身心障礙者障礙成因",
+    "children": [
+     {
+      "name": "原住民身心障礙者人數(報表一)依性別、新舊制別、身心障礙類別、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eefae80b-5d50-427d-844c-fa4834b31dbe&uid=25977&cuid=7934"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表二)依性別、身心障礙類別、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eefae80b-5d50-427d-844c-fa4834b31dbe&uid=25981&cuid=7935"
+     },
+     {
+      "name": "原住民身心障礙者人數(報表三)-人次依性別、身心障礙類別、致殘成因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eefae80b-5d50-427d-844c-fa4834b31dbe&uid=25985&cuid=7936"
+     }
+    ]
+   },
+   {
+    "name": "11123-00-02-2 臺南市合作事業現有工作人員",
+    "children": [
+     {
+      "name": "合作事業-專營合作社-社數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=1998&cuid=7937"
+     },
+     {
+      "name": "合作事業現有工作人員-工作人員數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=28621&cuid=7938"
+     },
+     {
+      "name": "合作事業現有工作人員-工作人員數依性別、合作社類別、工作人員分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=28622&cuid=7939"
+     },
+     {
+      "name": "合作事業-兼營合作社-場數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=28623&cuid=7940"
+     },
+     {
+      "name": "合作事業-儲蓄互助社-場數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=28624&cuid=7941"
+     },
+     {
+      "name": "合作社-社數依合作社類別、合作社(單位/聯合)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=43044&cuid=7942"
+     },
+     {
+      "name": "合作社-社場員數依性別、合作社類別、合作社(單位/聯合)、社員分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=43045&cuid=7943"
+     },
+     {
+      "name": "合作社-股金總額依合作社類別、合作社(單位/聯合)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6d6f620-0648-4421-8911-9eb934e98aea&uid=43046&cuid=7944"
+     }
+    ]
+   },
+   {
+    "name": "11140-01-01-2 臺南市推行社區發展工作概況",
+    "children": [
+     {
+      "name": "社區活動中心依社區活動中心分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1915&cuid=7945"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區幹部訓練",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1916&cuid=7946"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區觀摩",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1917&cuid=7947"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區長壽俱樂部",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1918&cuid=7948"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區成長(媽媽)教室",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1919&cuid=7949"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區守望相助隊",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1920&cuid=7950"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-團隊",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1922&cuid=7951"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-志工數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1923&cuid=7952"
+     },
+     {
+      "name": "社區發展工作項目-社區刊物",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1926&cuid=7953"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-其他服務",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1928&cuid=7954"
+     },
+     {
+      "name": "社區發展協會數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1929&cuid=7955"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1930&cuid=7956"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1931&cuid=7957"
+     },
+     {
+      "name": "理監事人數依性別、理監事分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1932&cuid=7958"
+     },
+     {
+      "name": "社區發展協會會員數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1933&cuid=7959"
+     },
+     {
+      "name": "設置社區生產建設基金",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1934&cuid=7960"
+     },
+     {
+      "name": "實際使用經費依經費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1935&cuid=7961"
+     },
+     {
+      "name": "推行社區發展工作概況-已劃定社區數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=43796&cuid=7962"
+     },
+     {
+      "name": "推行社區發展工作概況-社區發展工作項目-社區照顧關懷據點",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=43799&cuid=7963"
+     },
+     {
+      "name": "推行社區發展工作概況-社區發展工作項目-長期照顧據點",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=43800&cuid=7964"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-福利服務或活動",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=1927&cuid=7965"
+     },
+     {
+      "name": "推行社區發展工作概況-已劃定社區數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=500277b8-e188-4bf0-adb2-4e8e909afb56&uid=43567&cuid=7966"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "勞工局",
+  "children": [
+   {
+    "name": "10370-02-01-2 臺南市勞工教育概況",
+    "children": [
+     {
+      "name": "提撥勞工教育經費-提撥金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=93217869-fbcd-45d7-ac04-ed879c7ace51&uid=644&cuid=7967"
+     },
+     {
+      "name": "提撥勞工教育經費-支出金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=93217869-fbcd-45d7-ac04-ed879c7ace51&uid=645&cuid=7968"
+     },
+     {
+      "name": "辦理勞工教育-班數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=93217869-fbcd-45d7-ac04-ed879c7ace51&uid=646&cuid=7969"
+     },
+     {
+      "name": "勞工刊物依刊物類型分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=93217869-fbcd-45d7-ac04-ed879c7ace51&uid=648&cuid=7970"
+     }
+    ]
+   },
+   {
+    "name": "10370-90-01-2 臺南市勞工志願服務概況",
+    "children": [
+     {
+      "name": "勞工志願服務-志工人數依性別、身分別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9dd0230b-418c-4467-b718-915a73d69075&uid=28436&cuid=7971"
+     },
+     {
+      "name": "勞工志願服務-志工人數依性別、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9dd0230b-418c-4467-b718-915a73d69075&uid=28437&cuid=7972"
+     },
+     {
+      "name": "勞工志願服務-志工隊數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9dd0230b-418c-4467-b718-915a73d69075&uid=649&cuid=7973"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "地政局",
+  "children": [
+   {
+    "name": "11242-01-01-2 臺南市已登記公私有土地筆數面積",
+    "children": [
+     {
+      "name": "已登記公私有土地筆數面積-面積依組織別、用地類別、公有私有分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbbf7b70-2fea-48d8-8755-5207c359abb3&uid=1&cuid=7974"
+     },
+     {
+      "name": "已登記公私有土地筆數面積-筆數依組織別、用地類別、公有私有分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbbf7b70-2fea-48d8-8755-5207c359abb3&uid=2&cuid=7975"
+     }
+    ]
+   },
+   {
+    "name": "11242-01-03-2 臺南市公地撥用",
+    "children": [
+     {
+      "name": "公地撥用-面積依組織別、權屬別、公地用途別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c73ba56c-7010-41c1-b78f-2613fc2f5715&uid=3&cuid=7976"
+     },
+     {
+      "name": "公地撥用-筆數依組織別、權屬別、公地用途別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c73ba56c-7010-41c1-b78f-2613fc2f5715&uid=4&cuid=7977"
+     }
+    ]
+   },
+   {
+    "name": "11242-02-01-2 臺南市實施耕地三七五減租成果",
+    "children": [
+     {
+      "name": "實施耕地三七五減租成果-承租人人數依自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49d888c4-77f0-4e1c-b74e-ecec023cb1a1&uid=28877&cuid=7978"
+     },
+     {
+      "name": "實施耕地三七五減租成果-出租人人數依自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49d888c4-77f0-4e1c-b74e-ecec023cb1a1&uid=28878&cuid=7979"
+     },
+     {
+      "name": "實施耕地三七五減租成果-土地筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49d888c4-77f0-4e1c-b74e-ecec023cb1a1&uid=29062&cuid=7980"
+     },
+     {
+      "name": "實施耕地三七五減租成果-租約件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49d888c4-77f0-4e1c-b74e-ecec023cb1a1&uid=29063&cuid=7981"
+     },
+     {
+      "name": "實施耕地三七五減租成果-租約(訂約)面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49d888c4-77f0-4e1c-b74e-ecec023cb1a1&uid=29065&cuid=7982"
+     }
+    ]
+   },
+   {
+    "name": "11242-02-02-2 臺南市實施耕地三七五減租後承租人承買耕地面積及人數",
+    "children": [
+     {
+      "name": "實施耕地三七五減租後承租人承買耕地面積及人數-承買(購買)耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a146f9-1dc4-4c70-848c-a2117c04c5d9&uid=29088&cuid=7983"
+     },
+     {
+      "name": "實施耕地三七五減租後承租人承買耕地面積及人數-累計至本年底止-承買(購買)耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a146f9-1dc4-4c70-848c-a2117c04c5d9&uid=29090&cuid=7984"
+     },
+     {
+      "name": "實施耕地三七五減租後承租人承買耕地面積及人數-承買耕地承租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a146f9-1dc4-4c70-848c-a2117c04c5d9&uid=28845&cuid=7985"
+     },
+     {
+      "name": "實施耕地三七五減租後承租人承買耕地面積及人數-累計至本年底止-承買耕地承租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a146f9-1dc4-4c70-848c-a2117c04c5d9&uid=29277&cuid=7986"
+     }
+    ]
+   },
+   {
+    "name": "11242-02-04-2 臺南市實施耕地三七五減租成果增減原因",
+    "children": [
+     {
+      "name": "上年底原有數-租約件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29074&cuid=7987"
+     },
+     {
+      "name": "上年底原有數-土地筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29075&cuid=7988"
+     },
+     {
+      "name": "上年底原有數-租約面積(訂約面積)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29077&cuid=7989"
+     },
+     {
+      "name": "增加原因-承租人人數依三七五減租成果原因-增加、自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29078&cuid=7990"
+     },
+     {
+      "name": "增加原因-出租人人數依三七五減租成果原因-增加、自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29079&cuid=7991"
+     },
+     {
+      "name": "減少原因-承租人人數依三七五減租成果原因-減少、自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29080&cuid=7992"
+     },
+     {
+      "name": "減少原因-出租人人數依三七五減租成果原因-減少、自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29081&cuid=7993"
+     },
+     {
+      "name": "上年底原有數-承租人人數依自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29084&cuid=7994"
+     },
+     {
+      "name": "上年底原有數-出租人人數依自然人別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29085&cuid=7995"
+     },
+     {
+      "name": "增加原因-土地筆數依三七五減租成果原因-增加分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29050&cuid=7996"
+     },
+     {
+      "name": "增加原因-租約件數依三七五減租成果原因-增加分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29051&cuid=7997"
+     },
+     {
+      "name": "增加原因-租約面積(訂約面積)依三七五減租成果原因-增加分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29053&cuid=7998"
+     },
+     {
+      "name": "減少原因-土地筆數依三七五減租成果原因-減少分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29056&cuid=7999"
+     },
+     {
+      "name": "減少原因-租約件數依三七五減租成果原因-減少分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29057&cuid=8000"
+     },
+     {
+      "name": "減少原因-租約面積(訂約面積)依三七五減租成果原因-減少分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea7cf7cc-e3e4-40fd-959b-3751dad1712c&uid=29059&cuid=8001"
+     }
+    ]
+   },
+   {
+    "name": "11242-02-07-2 臺南市公辦市地重劃成果財務狀況",
+    "children": [
+     {
+      "name": "公辦市地重劃成果財務狀況-總面積依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=55&cuid=8002"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-已出售-筆數依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=56&cuid=8003"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-已出售-面積依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=57&cuid=8004"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-已出售-金額依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=58&cuid=8005"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-未出售-筆數依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=59&cuid=8006"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-未出售-面積依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=60&cuid=8007"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-抵費地標讓售情形-未出售-金額依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=61&cuid=8008"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-差額地價-已收金額依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=62&cuid=8009"
+     },
+     {
+      "name": "公辦市地重劃成果財務狀況-差額地價-未收金額依市地重劃區期別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de45758e-7932-4ebe-9e7d-42eb5d8cb8bb&uid=63&cuid=8010"
+     }
+    ]
+   },
+   {
+    "name": "11242-03-01-2 臺南市辦理土地徵收情形",
+    "children": [
+     {
+      "name": "辦理土地徵收情形-徵收筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=272ed56a-ca8e-4021-b649-cc760df17674&uid=72&cuid=8011"
+     },
+     {
+      "name": "辦理土地徵收情形-補償費用依費用補償項目分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=272ed56a-ca8e-4021-b649-cc760df17674&uid=74&cuid=8013"
+     },
+     {
+      "name": "辦理土地徵收情形-徵收面積依公地用途別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=272ed56a-ca8e-4021-b649-cc760df17674&uid=73&cuid=8012"
+     }
+    ]
+   },
+   {
+    "name": "11242-03-06-2 臺南市正辦理中區段徵收地區統計",
+    "children": [
+     {
+      "name": "正辦理中區段徵收地區統計-抵價地比例-未曾辦過農地重劃依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=78&cuid=8014"
+     },
+     {
+      "name": "正辦理中區段徵收地區統計-抵價地比例-曾經辦過農地重劃依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=79&cuid=8015"
+     },
+     {
+      "name": "正辦理中區段徵收地區統計-開發總費用概算依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=82&cuid=8018"
+     },
+     {
+      "name": "正辦理中區段徵收地區統計-節省政府財政負擔依用地徵購及工程建設費用、區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=83&cuid=8019"
+     },
+     {
+      "name": "正辦理中區段徵收地區統計-辦理面積依公有私有、區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=80&cuid=8016"
+     },
+     {
+      "name": "正辦理中區段徵收地區統計-土地分配面積依區段徵收地區別、區段徵收土地分配分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3417e728-0116-4d35-ae86-c0bdd3f23e9d&uid=81&cuid=8017"
+     }
+    ]
+   },
+   {
+    "name": "11242-03-08-2 臺南市區段徵收成果財務狀況",
+    "children": [
+     {
+      "name": "區段徵收成果財務狀況-辦理面積依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=90&cuid=8020"
+     },
+     {
+      "name": "區段徵收成果財務狀況-政府取得土地-累計已處分-筆數依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=91&cuid=8021"
+     },
+     {
+      "name": "區段徵收成果財務狀況-政府取得土地-累計已處分-面積依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=92&cuid=8022"
+     },
+     {
+      "name": "區段徵收成果財務狀況-政府取得土地-累計已處分-金額依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=93&cuid=8023"
+     },
+     {
+      "name": "區段徵收成果財務狀況-政府取得土地-尚未處分-筆數依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=94&cuid=8024"
+     },
+     {
+      "name": "區段徵收成果財務狀況-政府取得土地-尚未處分-面積依區段徵收地區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6e7b972-8801-4e07-884c-7f3c9dbf920b&uid=95&cuid=8025"
+     }
+    ]
+   },
+   {
+    "name": "11242-05-01-2 臺南市各級租佃委員會調解調處案件",
+    "children": [
+     {
+      "name": "各級租佃委員會調解調處案件-成立依租佃委員會別、調解調處案件分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2757144e-efdb-4288-9955-6cb6adc9dd64&uid=133&cuid=8026"
+     },
+     {
+      "name": "各級租佃委員會調解調處案件-不成立依租佃委員會別、調解調處案件分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2757144e-efdb-4288-9955-6cb6adc9dd64&uid=29456&cuid=8027"
+     }
+    ]
+   },
+   {
+    "name": "11242-06-02-2 臺南市土地筆數面積公告土地現值統計",
+    "children": [
+     {
+      "name": "土地筆數面積公告土地現值-筆數依用地類別、公有私有分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccf8c659-fe19-4fd3-8052-8510d8afab15&uid=138&cuid=8028"
+     },
+     {
+      "name": "土地筆數面積公告土地現值-公告土地現值總額依用地類別、公有私有分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccf8c659-fe19-4fd3-8052-8510d8afab15&uid=140&cuid=8030"
+     },
+     {
+      "name": "土地筆數面積公告土地現值-面積依用地類別、公有私有分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccf8c659-fe19-4fd3-8052-8510d8afab15&uid=139&cuid=8029"
+     }
+    ]
+   },
+   {
+    "name": "11242-06-04-2 臺南市公告土地現值劃分地價區段及最高最低地價表",
+    "children": [
+     {
+      "name": "公告土地現值劃分地價區段及最高最低地價-區段數依地價區段類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8e9e8b6-4bff-43e6-b4b8-6b4076256965&uid=144&cuid=8031"
+     },
+     {
+      "name": "公告土地現值劃分地價區段及最高最低地價-最高地價依地價區段類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8e9e8b6-4bff-43e6-b4b8-6b4076256965&uid=145&cuid=8032"
+     },
+     {
+      "name": "公告土地現值劃分地價區段及最高最低地價-最低地價依地價區段類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8e9e8b6-4bff-43e6-b4b8-6b4076256965&uid=146&cuid=8033"
+     },
+     {
+      "name": "公告土地現值劃分地價區段及最高最低地價-最高宗地地價",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b8e9e8b6-4bff-43e6-b4b8-6b4076256965&uid=28322&cuid=8034"
+     }
+    ]
+   },
+   {
+    "name": "11242-06-05-2 臺南市公告土地現值、公告地價漲跌幅一覽表",
+    "children": [
+     {
+      "name": "公告土地現值、公告地價漲跌幅及徵收補償加成數一覽表-本期公告土地現值總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=80d3cec1-4a8a-4e65-b6f4-bf1aae7660bd&uid=148&cuid=8035"
+     },
+     {
+      "name": "公告土地現值、公告地價漲跌幅及徵收補償加成數一覽表-最近一期公告地價總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=80d3cec1-4a8a-4e65-b6f4-bf1aae7660bd&uid=150&cuid=8036"
+     },
+     {
+      "name": "公告土地現值、公告地價漲跌幅及徵收補償加成數一覽表-本期一般正常交易價格總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=80d3cec1-4a8a-4e65-b6f4-bf1aae7660bd&uid=152&cuid=8037"
+     }
+    ]
+   },
+   {
+    "name": "11242-90-01-2 臺南市未辦繼承登記土地及建物列冊管理",
+    "children": [
+     {
+      "name": "未辦繼承登記土地及建物列冊管理-土地筆數依組織別、列冊管理年、列冊管理別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7459c90b-7474-4269-a0a7-110e83e0a1c5&uid=161&cuid=8038"
+     },
+     {
+      "name": "未辦繼承登記土地及建物列冊管理-建物棟數依組織別、列冊管理年、列冊管理別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7459c90b-7474-4269-a0a7-110e83e0a1c5&uid=163&cuid=8040"
+     },
+     {
+      "name": "未辦繼承登記土地及建物列冊管理-土地面積依組織別、列冊管理年、列冊管理別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7459c90b-7474-4269-a0a7-110e83e0a1c5&uid=162&cuid=8039"
+     },
+     {
+      "name": "未辦繼承登記土地及建物列冊管理-建物面積依組織別、列冊管理年、列冊管理別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7459c90b-7474-4269-a0a7-110e83e0a1c5&uid=164&cuid=8041"
+     }
+    ]
+   },
+   {
+    "name": "21921-01-01-2 臺南市地政士開業及異動",
+    "children": [
+     {
+      "name": "地政士開業及異動-核准開業人數依性別、地政士核准開業分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bb086402-51ba-40e6-b27c-155cda3b6ccf&uid=156&cuid=8042"
+     },
+     {
+      "name": "地政士開業及異動-註銷開業人數依性別、地政士註銷開業分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bb086402-51ba-40e6-b27c-155cda3b6ccf&uid=157&cuid=8043"
+     },
+     {
+      "name": "地政士開業及異動-截至本期開業人數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bb086402-51ba-40e6-b27c-155cda3b6ccf&uid=158&cuid=8044"
+     },
+     {
+      "name": "地政士開業及異動-補(換)發開業執照人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bb086402-51ba-40e6-b27c-155cda3b6ccf&uid=159&cuid=8045"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "都市發展局",
+  "children": [
+   {
+    "name": "11920-01-01-2 臺南市都市計畫地區面積及人口",
+    "children": [
+     {
+      "name": "都市計畫地區面積及人口-計畫人口數依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5630dd4-1f3d-44b1-80fd-c16f4b563a9a&uid=12468&cuid=8047"
+     },
+     {
+      "name": "都市計畫地區面積及人口-現況人口數依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5630dd4-1f3d-44b1-80fd-c16f4b563a9a&uid=12469&cuid=8048"
+     },
+     {
+      "name": "都市計畫地區面積及人口-都市計畫區面積依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5630dd4-1f3d-44b1-80fd-c16f4b563a9a&uid=12467&cuid=8046"
+     },
+     {
+      "name": "都市計畫地區面積及人口-計畫人口密度依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5630dd4-1f3d-44b1-80fd-c16f4b563a9a&uid=12470&cuid=8049"
+     },
+     {
+      "name": "都市計畫地區面積及人口-現況人口密度依都市計畫區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5630dd4-1f3d-44b1-80fd-c16f4b563a9a&uid=12471&cuid=8050"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-02-2 臺南市都市計畫地區種類",
+    "children": [
+     {
+      "name": "都市計畫地區種類-處數依都市計畫區別、都市計畫地區種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=35b46c09-fcaa-4b5c-9e79-a83f681c5e45&uid=12499&cuid=8051"
+     },
+     {
+      "name": "都市計畫地區種類-面積依都市計畫區別、都市計畫地區種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=35b46c09-fcaa-4b5c-9e79-a83f681c5e45&uid=12500&cuid=8052"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-03-2 臺南市都市計畫公共設施用地計畫面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地計畫面積依都市計畫區別、公共設施分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2dfba1fd-cbbe-47a5-bfc0-0f6a42e69620&uid=12472&cuid=8053"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-04-2 臺南市都市計畫公共設施用地已取得面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地已取得面積依都市計畫區別、公共設施分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=173b69c0-fda1-4faf-beb6-d00a2f74db4b&uid=12473&cuid=8054"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-05-2 臺南市都市計畫土地使用分區面積",
+    "children": [
+     {
+      "name": "都市計畫土地使用分區面積依都市計畫區別、都市計畫土地使用分區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=aa45ba5c-7ada-4905-9c00-6719e03cf390&uid=12474&cuid=8055"
+     }
+    ]
+   },
+   {
+    "name": "11920-01-06-2 臺南市都市計畫公共設施用地已闢建面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地已闢建計畫面積依都市計畫區別、公共設施分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d1dc629-a019-4397-9b17-9da489c358a1&uid=12501&cuid=8056"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "文化局",
+  "children": [
+   {
+    "name": "11011-01-01-2 臺南市古蹟概況",
+    "children": [
+     {
+      "name": "古蹟總數依古蹟指定別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85d7b004-864a-4128-a378-240be0986bb0&uid=12366&cuid=8057"
+     },
+     {
+      "name": "古蹟總數依古蹟種類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85d7b004-864a-4128-a378-240be0986bb0&uid=12367&cuid=8058"
+     }
+    ]
+   },
+   {
+    "name": "11019-90-01-2 臺南市政府文化局經費概況",
+    "children": [
+     {
+      "name": "經費概況依文化機關別、文化經費概況別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f1baf30-8866-482c-ba2a-ed8cd6df5e31&uid=12527&cuid=8059"
+     }
+    ]
+   },
+   {
+    "name": "30294-02-01-2 臺南市孔廟管理概況",
+    "children": [
+     {
+      "name": "孔廟管理概況-土地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cea50a1-ad09-4668-86c8-33528f2739ad&uid=26286&cuid=8060"
+     },
+     {
+      "name": "孔廟管理概況-建物面積-地面層面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cea50a1-ad09-4668-86c8-33528f2739ad&uid=26287&cuid=8061"
+     },
+     {
+      "name": "孔廟管理概況-建物面積-總樓地板面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cea50a1-ad09-4668-86c8-33528f2739ad&uid=26288&cuid=8062"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "交通局",
+  "children": [
+   {
+    "name": "20621-01-21-2 臺南市市區汽車客運駕駛員概況－按年齡及性別分",
+    "children": [
+     {
+      "name": "市區汽車客運駕駛員概況-人數依性別、客運別、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c081bdca-3757-47e3-94bf-567010607ea5&uid=29483&cuid=8063"
+     }
+    ]
+   },
+   {
+    "name": "20621-01-22-2 臺南市市區汽車客運駕駛員概況－按年資及性別分",
+    "children": [
+     {
+      "name": "市區汽車客運駕駛員概況-人數依性別、客運別、年資別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4190220f-7b38-419a-a521-3ab8577ffc05&uid=29484&cuid=8065"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "衛生局",
+  "children": [
+   {
+    "name": "10511-90-02-2 臺南市精神醫療資源現況",
+    "children": [
+     {
+      "name": "開辦項目-日間型精神復健機構-家數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12914&cuid=8066"
+     },
+     {
+      "name": "開辦項目-日間型精神復健機構-可收治服務對象數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12915&cuid=8067"
+     },
+     {
+      "name": "開辦項目-住宿型精神復健機構-家數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12916&cuid=8068"
+     },
+     {
+      "name": "開辦項目-住宿型精神復健機構-可收治服務對象數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12917&cuid=8069"
+     },
+     {
+      "name": "開辦項目-精神護理之家-家數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12918&cuid=8070"
+     },
+     {
+      "name": "開辦項目-精神護理之家-許可床位數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12919&cuid=8071"
+     },
+     {
+      "name": "開辦項目-精神護理之家-開放床位數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=12920&cuid=8072"
+     },
+     {
+      "name": "開辦項目-急診依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24384&cuid=8073"
+     },
+     {
+      "name": "開辦項目-居家治療依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24387&cuid=8074"
+     },
+     {
+      "name": "開辦項目-強制社區治療依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24388&cuid=8075"
+     },
+     {
+      "name": "開辦項目-全日住院依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24504&cuid=8076"
+     },
+     {
+      "name": "開辦項目-強制住院依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24505&cuid=8077"
+     },
+     {
+      "name": "開辦項目-門診依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24685&cuid=8078"
+     },
+     {
+      "name": "全日住院病床-精神科加護病床依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=24770&cuid=8079"
+     },
+     {
+      "name": "精神醫療資源現況-精神醫療設施-日間照護單位-許可數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=43805&cuid=8080"
+     },
+     {
+      "name": "精神醫療資源現況-精神醫療設施-日間照護單位-開放數依精神醫療機構分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a3a7347-8874-45b8-b286-eceae99b4399&uid=43807&cuid=8081"
+     }
+    ]
+   },
+   {
+    "name": "10521-01-02-2 臺南市食品衛生管理工作",
+    "children": [
+     {
+      "name": "查核不符規定之原因-違規標示處理依食品種類、食品衛生違規處理分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28886&cuid=8082"
+     },
+     {
+      "name": "查驗件數依食品種類、檢查檢驗分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28887&cuid=8083"
+     },
+     {
+      "name": "查驗不符規定件數依食品種類、檢查檢驗分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28888&cuid=8084"
+     },
+     {
+      "name": "檢驗不符規定之原因依食品種類、食品衛生檢驗項目分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28890&cuid=8085"
+     },
+     {
+      "name": "查核不符規定之原因-違規標示件數依食品種類、標示違規條例分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=40299&cuid=8086"
+     },
+     {
+      "name": "處理部分-限期改善依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28891&cuid=8087"
+     },
+     {
+      "name": "處理部分-飭其收回重製依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28892&cuid=8088"
+     },
+     {
+      "name": "處理部分-禁止出售或沒收依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28893&cuid=8089"
+     },
+     {
+      "name": "處理部分-廢棄件數依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28894&cuid=8090"
+     },
+     {
+      "name": "處理部分-廢棄重量依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28895&cuid=8091"
+     },
+     {
+      "name": "處理部分-罰鍰件數依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28896&cuid=8092"
+     },
+     {
+      "name": "處理部分-停業家數依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28897&cuid=8093"
+     },
+     {
+      "name": "處理部分-移送法院件數依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28898&cuid=8094"
+     },
+     {
+      "name": "處理部分-辦理中(移外縣市)依食品種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28899&cuid=8095"
+     },
+     {
+      "name": "稽查部分-現有家數依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28900&cuid=8096"
+     },
+     {
+      "name": "稽查部分-稽查家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28901&cuid=8097"
+     },
+     {
+      "name": "稽查部分-輔導改善家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28902&cuid=8098"
+     },
+     {
+      "name": "稽查部分-限期改善家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28903&cuid=8099"
+     },
+     {
+      "name": "稽查部分-罰款處理家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28904&cuid=8100"
+     },
+     {
+      "name": "稽查部分-停業處理家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28905&cuid=8101"
+     },
+     {
+      "name": "稽查部分-移送法院家次依食品衛生廠商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d0e3683-4372-4736-91d8-4249ddb35b68&uid=28906&cuid=8102"
+     }
+    ]
+   },
+   {
+    "name": "10522-01-01-2 臺南市藥政管理",
+    "children": [
+     {
+      "name": "藥政管理-現有停業家數-藥局",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e1e967f-22a4-4718-8eb2-e61fc2b533a2&uid=28908&cuid=8103"
+     },
+     {
+      "name": "藥政管理-現有停業家數-藥商",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e1e967f-22a4-4718-8eb2-e61fc2b533a2&uid=28909&cuid=8104"
+     },
+     {
+      "name": "藥政管理-現有停業家數-醫療器材商",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e1e967f-22a4-4718-8eb2-e61fc2b533a2&uid=28912&cuid=8105"
+     }
+    ]
+   },
+   {
+    "name": "10551-03-01-2 臺南市精神衛生行政工作執行成果",
+    "children": [
+     {
+      "name": "轄區總人口數依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13081&cuid=8135"
+     },
+     {
+      "name": "目前管理個案數-上年依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13082&cuid=8136"
+     },
+     {
+      "name": "領具精神障礙手冊/證明人數依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13084&cuid=8137"
+     },
+     {
+      "name": "訪視人次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13085&cuid=8138"
+     },
+     {
+      "name": "指定精神醫療機構數依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13086&cuid=8139"
+     },
+     {
+      "name": "訪員人數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13096&cuid=8140"
+     },
+     {
+      "name": "協助病人就醫次數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13099&cuid=8141"
+     },
+     {
+      "name": "會商選定指定保護人次數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13100&cuid=8142"
+     },
+     {
+      "name": "指定保護人次數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13101&cuid=8143"
+     },
+     {
+      "name": "嚴重病人人數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=24332&cuid=8144"
+     },
+     {
+      "name": "緊急處置人數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=24333&cuid=8145"
+     },
+     {
+      "name": "目前管理個案數-本年依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=28883&cuid=8146"
+     },
+     {
+      "name": "管理個案分級人數依分級程度、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=28884&cuid=8147"
+     },
+     {
+      "name": "指定精神科專科醫師人數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=43643&cuid=8148"
+     },
+     {
+      "name": "指定保護人人次數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=43653&cuid=8149"
+     },
+     {
+      "name": "會商選定指定保護人人次數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=43657&cuid=8150"
+     },
+     {
+      "name": "一般民眾宣導活動-人次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13087&cuid=8151"
+     },
+     {
+      "name": "一般民眾宣導活動-場次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13088&cuid=8152"
+     },
+     {
+      "name": "工作人員在職訓練-人次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13089&cuid=8153"
+     },
+     {
+      "name": "工作人員在職訓練-場次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13090&cuid=8154"
+     },
+     {
+      "name": "相關基層人員研習會-人次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13091&cuid=8155"
+     },
+     {
+      "name": "相關基層人員研習會-場次依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13092&cuid=8156"
+     },
+     {
+      "name": "工作協調會議依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13093&cuid=8157"
+     },
+     {
+      "name": "指定精神專科醫師人數依性別、精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13102&cuid=8158"
+     },
+     {
+      "name": "民眾申訴案件依精神衛生行政區域別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2a24feb-c315-4939-b1ab-9bec2d4b878a&uid=13094&cuid=8159"
+     }
+    ]
+   },
+   {
+    "name": "10570-00-01-2 臺南市政府醫療保健經費支出",
+    "children": [
+     {
+      "name": "醫療保健經費支出-中央或上級政府補助款依機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=26296&cuid=8128"
+     },
+     {
+      "name": "醫療保健經費支出-醫療保健相關作業基金依機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=40615&cuid=8129"
+     },
+     {
+      "name": "醫療保健經費支出依機構別、醫療保健經費支出項目別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=40616&cuid=8130"
+     },
+     {
+      "name": "醫療保健經費支出-醫療保健經費支出依機構別、公務支出項目別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=40617&cuid=8131"
+     },
+     {
+      "name": "醫療保健經費支出-本府經費依機構別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=40618&cuid=8132"
+     },
+     {
+      "name": "醫療保健經費支出-經常門-用途別(含中央或上級政府補助款)依機構別、醫療保健用途別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53fe5be8-62c1-4de2-98ce-c46bbc0fc864&uid=40619&cuid=8133"
+     }
+    ]
+   },
+   {
+    "name": "30910-01-01-2 臺南市政府衛生局及所屬衛生行政機關在職人員數",
+    "children": [
+     {
+      "name": "衛生局在職人員數依性別、衛生局人員編制分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba2dd662-600d-46d2-934c-8c055ccfc025&uid=14051&cuid=8134"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "環境保護局",
+  "children": [
+   {
+    "name": "11212-01-01-2 臺南市空氣品質監測站設置概況與測定項目",
+    "children": [
+     {
+      "name": "測點高度依測站名稱別、測站編號別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=17601b85-81f4-4e02-a32d-d79aac6fafd8&uid=12543&cuid=8160"
+     },
+     {
+      "name": "距離道路依測站名稱別、測站編號別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=17601b85-81f4-4e02-a32d-d79aac6fafd8&uid=12544&cuid=8161"
+     }
+    ]
+   },
+   {
+    "name": "11213-00-03-2 臺南市營建工程空氣污染防制費徵收統計",
+    "children": [
+     {
+      "name": "收繳金額-本年收(補)繳依工程類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=30663c7f-4774-411e-a1b5-e59472a9e51d&uid=12834&cuid=8162"
+     },
+     {
+      "name": "收繳金額-本年退費依工程類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=30663c7f-4774-411e-a1b5-e59472a9e51d&uid=12835&cuid=8163"
+     },
+     {
+      "name": "收繳金額-本年淨收繳依工程類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=30663c7f-4774-411e-a1b5-e59472a9e51d&uid=43681&cuid=8164"
+     }
+    ]
+   },
+   {
+    "name": "11223-01-01-2 臺南市事業廢水污染源管理情形",
+    "children": [
+     {
+      "name": "(事業廢水)列管家數依事業別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f6f99c36-f7ea-416f-9bd7-91a60f3aeb30&uid=25275&cuid=8165"
+     },
+     {
+      "name": "(事業廢水)應申請家數依事業別、事業文件別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f6f99c36-f7ea-416f-9bd7-91a60f3aeb30&uid=25276&cuid=8166"
+     },
+     {
+      "name": "(事業廢水)已核發家數依事業別、事業文件別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f6f99c36-f7ea-416f-9bd7-91a60f3aeb30&uid=25277&cuid=8167"
+     }
+    ]
+   },
+   {
+    "name": "11223-01-02-2 臺南市污水下水道系統污染源管理情形",
+    "children": [
+     {
+      "name": "(污水下水道系統)列管系統數依系統別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9ff14c0c-e5e5-42b7-80e0-32dc8debb2cd&uid=25284&cuid=8168"
+     },
+     {
+      "name": "(污水下水道系統)應申請系統數依系統別、事業文件別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9ff14c0c-e5e5-42b7-80e0-32dc8debb2cd&uid=25285&cuid=8169"
+     },
+     {
+      "name": "(污水下水道系統)已核發系統數依系統別、事業文件別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9ff14c0c-e5e5-42b7-80e0-32dc8debb2cd&uid=25286&cuid=8170"
+     }
+    ]
+   },
+   {
+    "name": "11251-03-01-2 臺南市公民營廢棄物清除處理機構許可(核備)數",
+    "children": [
+     {
+      "name": "清除機構依級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19a2c6ae-e69d-45c8-9971-7f116feba230&uid=12595&cuid=8171"
+     },
+     {
+      "name": "處理機構-同意設置依級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19a2c6ae-e69d-45c8-9971-7f116feba230&uid=12596&cuid=8172"
+     },
+     {
+      "name": "處理機構-處理許可依級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19a2c6ae-e69d-45c8-9971-7f116feba230&uid=12597&cuid=8173"
+     }
+    ]
+   },
+   {
+    "name": "11289-01-01-2 臺南市環境用藥管理成果",
+    "children": [
+     {
+      "name": "環境用藥查核-製造業-次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12676&cuid=8174"
+     },
+     {
+      "name": "環境用藥查核-製造業-家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12677&cuid=8175"
+     },
+     {
+      "name": "環境用藥查核-販賣業(不含一般環境用藥零售業)-次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12678&cuid=8176"
+     },
+     {
+      "name": "環境用藥查核-販賣業(不含一般環境用藥零售業)-家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12679&cuid=8177"
+     },
+     {
+      "name": "環境用藥查核-病媒防治業-次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12680&cuid=8178"
+     },
+     {
+      "name": "環境用藥查核-病媒防治業-家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12681&cuid=8179"
+     },
+     {
+      "name": "環境用藥查核-環境用藥廣告件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12682&cuid=8180"
+     },
+     {
+      "name": "環境用藥查核-特殊環境用藥施藥查核件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12683&cuid=8181"
+     },
+     {
+      "name": "環境用藥查核-環境用藥標示件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12684&cuid=8182"
+     },
+     {
+      "name": "環境用藥查核-環境用藥查核抽驗樣品送驗件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12685&cuid=8183"
+     },
+     {
+      "name": "環境用藥查核-查獲劣質環境用藥件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12686&cuid=8184"
+     },
+     {
+      "name": "環境用藥查核-查獲偽造、禁用環境用藥件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12687&cuid=8185"
+     },
+     {
+      "name": "違規處分(含標示查核)-次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12688&cuid=8186"
+     },
+     {
+      "name": "違規處分(含標示查核)-家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=12689&cuid=8187"
+     },
+     {
+      "name": "環境用藥管理成果-年底列管業者-製造",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40783&cuid=8188"
+     },
+     {
+      "name": "環境用藥管理成果-年底列管業者-販賣業",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40784&cuid=8189"
+     },
+     {
+      "name": "環境用藥管理成果-年底列管業者-病媒防治業",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40785&cuid=8190"
+     },
+     {
+      "name": "環境用藥管理成果-申請審查案件-販賣業許可執照",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40786&cuid=8191"
+     },
+     {
+      "name": "環境用藥管理成果-申請審查案件-病媒防治業許可執照",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40787&cuid=8192"
+     },
+     {
+      "name": "環境用藥管理成果-申請審查案件-工廠變更會勘",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40788&cuid=8193"
+     },
+     {
+      "name": "環境用藥管理成果-申請審查案件-貯存場所變更",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40789&cuid=8194"
+     },
+     {
+      "name": "環境用藥管理成果-核發許可執照-販賣業",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40790&cuid=8195"
+     },
+     {
+      "name": "環境用藥管理成果-核發許可執照-病媒防治業",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9452f580-2815-45da-8ce8-f8a6c6efb847&uid=40791&cuid=8196"
+     }
+    ]
+   },
+   {
+    "name": "11291-00-01-2 臺南市環境影響評估案件數",
+    "children": [
+     {
+      "name": "環境影響說明書-應處理件數-本年未結依開發行為別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7df98392-e17e-42a1-801e-0e4d7b1ea27e&uid=12531&cuid=8197"
+     },
+     {
+      "name": "環境影響說明書-應處理件數-本年受理依開發行為別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7df98392-e17e-42a1-801e-0e4d7b1ea27e&uid=12532&cuid=8198"
+     },
+     {
+      "name": "環境影響說明書-完成審查件數依開發行為別、完成審查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7df98392-e17e-42a1-801e-0e4d7b1ea27e&uid=12533&cuid=8199"
+     },
+     {
+      "name": "環境影響說明書-內容、資料、格式不符退件依開發行為別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7df98392-e17e-42a1-801e-0e4d7b1ea27e&uid=12534&cuid=8200"
+     }
+    ]
+   },
+   {
+    "name": "11292-03-04-2 臺南市空氣污染稽查處分概況",
+    "children": [
+     {
+      "name": "(空氣污染)稽查數依稽查別、空氣污染源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c4e5082-05cb-47d6-a40e-96c7d7cc7b47&uid=12743&cuid=8201"
+     },
+     {
+      "name": "(空氣污染)稽查數依空氣污染物別、稽查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c4e5082-05cb-47d6-a40e-96c7d7cc7b47&uid=12744&cuid=8202"
+     },
+     {
+      "name": "(空氣污染)處分數依處分(理)情形別、空氣污染物別、稽查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c4e5082-05cb-47d6-a40e-96c7d7cc7b47&uid=12747&cuid=8203"
+     },
+     {
+      "name": "(空氣污染)處分數依處分(理)情形別、稽查別、空氣污染源別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c4e5082-05cb-47d6-a40e-96c7d7cc7b47&uid=12751&cuid=8204"
+     }
+    ]
+   },
+   {
+    "name": "11292-03-05-2 臺南市噪音稽查處分概況",
+    "children": [
+     {
+      "name": "(噪音)稽查數依管制區別、時段別、稽查別、噪音稽查概況分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374417b5-a5c1-42bd-82a7-70a98ad20957&uid=12755&cuid=8205"
+     },
+     {
+      "name": "(噪音)處分數依處分(理)情形別、管制區別、時段別、稽查別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374417b5-a5c1-42bd-82a7-70a98ad20957&uid=12759&cuid=8206"
+     }
+    ]
+   },
+   {
+    "name": "11292-03-06-2 臺南市涉及不法利得案件裁處概況",
+    "children": [
+     {
+      "name": "裁處-件數依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12786&cuid=8207"
+     },
+     {
+      "name": "裁處-不法利得依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12788&cuid=8209"
+     },
+     {
+      "name": "撤銷-件數依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12789&cuid=8210"
+     },
+     {
+      "name": "撤銷-不法利得依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12791&cuid=8212"
+     },
+     {
+      "name": "繳款-件數依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12793&cuid=8213"
+     },
+     {
+      "name": "裁處-金額依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12787&cuid=8208"
+     },
+     {
+      "name": "撤銷-金額依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12790&cuid=8211"
+     },
+     {
+      "name": "繳款-金額依環保法律分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=024ab18b-00d2-4181-b268-3d916cceb6df&uid=12796&cuid=8214"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "警察局",
+  "children": [
+   {
+    "name": "10951-01-07-2 臺南市現有分駐(派出所)警力配置",
+    "children": [
+     {
+      "name": "現有分駐(派出所)警力配置-分駐所依分局別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a44b9c7-4b07-4d92-83ff-987ad2b3b0c5&uid=430&cuid=8215"
+     },
+     {
+      "name": "現有分駐(派出所)警力配置-派出所依分局別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a44b9c7-4b07-4d92-83ff-987ad2b3b0c5&uid=431&cuid=8216"
+     },
+     {
+      "name": "現有分駐(派出所)警力配置-駐在所依分局別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a44b9c7-4b07-4d92-83ff-987ad2b3b0c5&uid=40775&cuid=8435"
+     },
+     {
+      "name": "現有警力配置-現有警力數依分局別、警力別、分局組織別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a44b9c7-4b07-4d92-83ff-987ad2b3b0c5&uid=44028&cuid=8220"
+     }
+    ]
+   },
+   {
+    "name": "10954-01-02-2 臺南市民防團隊年度訓練成果",
+    "children": [
+     {
+      "name": "民防團隊年度訓練成果-常年訓練-訓練人數依民防團隊編組別、出席別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=275&cuid=8221"
+     },
+     {
+      "name": "民防團隊年度訓練成果-常年訓練-訓練場次依民防團隊編組別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=276&cuid=8222"
+     },
+     {
+      "name": "民防團隊年度訓練成果-基本訓練-訓練人數依民防團隊編組別、出席別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=277&cuid=8223"
+     },
+     {
+      "name": "民防團隊年度訓練成果-基本訓練-訓練場次依民防團隊編組別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=278&cuid=8224"
+     },
+     {
+      "name": "民防團隊年度訓練成果-幹部訓練-訓練人數依民防團隊編組別、出席別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=279&cuid=8225"
+     },
+     {
+      "name": "民防團隊年度訓練成果-幹部訓練-訓練場次依民防團隊編組別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a97e2d4a-fc3c-4af9-bd10-6ad020230f76&uid=280&cuid=8226"
+     }
+    ]
+   },
+   {
+    "name": "10954-03-01-2 臺南市防空疏散避難設施",
+    "children": [
+     {
+      "name": "防空疏散避難設施-容量依分局別、防空避難設備別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25987&cuid=8227"
+     },
+     {
+      "name": "防空疏散避難設施-數量依分局別、防空避難設備別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25989&cuid=8228"
+     },
+     {
+      "name": "防空疏散避難設施-數量-本年異動增加數依防空避難設備別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25990&cuid=8229"
+     },
+     {
+      "name": "防空疏散避難設施-容量-本年異動增加數依防空避難設備別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25991&cuid=8230"
+     },
+     {
+      "name": "防空疏散避難設施-數量-本年異動減少數依防空避難設備別、避難設施減少原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25992&cuid=8231"
+     },
+     {
+      "name": "防空疏散避難設施-容量-本年異動減少數依防空避難設備別、避難設施減少原因別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c12e759a-7cf7-4c8e-b3a4-7ba269eec163&uid=25993&cuid=8232"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "消防局",
+  "children": [
+   {
+    "name": "10981-06-01-2 臺南市消防人員講習訓練",
+    "children": [
+     {
+      "name": "消防人員講習訓練依講習訓練別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c4aa4eda-8ce7-4dd4-8684-30914ba1c2ae&uid=1374&cuid=8233"
+     }
+    ]
+   },
+   {
+    "name": "10989-01-01-2 臺南市消防人力",
+    "children": [
+     {
+      "name": "(消防人力)編制員額依分隊別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1375&cuid=8234"
+     },
+     {
+      "name": "(消防人力)預算員額依分隊別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1376&cuid=8235"
+     },
+     {
+      "name": "(消防人力)現有員額依分隊別、官等別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1377&cuid=8236"
+     },
+     {
+      "name": "(消防人力)現有員額依分隊別、年齡別_未滿25歲-65歲以上[間隔5歲]分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1378&cuid=8237"
+     },
+     {
+      "name": "(消防人力)現有員額依分隊別、性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1379&cuid=8238"
+     },
+     {
+      "name": "(消防人力)現有員額依分隊別、考試及任用別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1380&cuid=8239"
+     },
+     {
+      "name": "(消防人力)現有員額依分隊別、學歷別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7e8f262-70bf-4965-aeac-247aef20e2ad&uid=1381&cuid=8240"
+     }
+    ]
+   },
+   {
+    "name": "10989-03-01-2 臺南市消防員工傷亡慰問情形",
+    "children": [
+     {
+      "name": "傷亡慰問依分隊別、傷亡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=17e4170e-8d06-4414-a218-4fd13eefd512&uid=1457&cuid=8241"
+     }
+    ]
+   },
+   {
+    "name": "11260-01-02-2 臺南市震災災害人員傷亡、建物損失",
+    "children": [
+     {
+      "name": "(震災)人員傷亡依性別、人員傷亡別、年齡別(特殊)、災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=973&cuid=8242"
+     },
+     {
+      "name": "(震災)建物損失-棟依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=974&cuid=8243"
+     },
+     {
+      "name": "(震災)建物損失-戶依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=975&cuid=8244"
+     },
+     {
+      "name": "(震災)搶救災民人數依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=976&cuid=8245"
+     },
+     {
+      "name": "(震災)出動救災人員依災害應變別、出動救災人員別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=980&cuid=8246"
+     },
+     {
+      "name": "(震災)出動救災裝備-車輛依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=981&cuid=8247"
+     },
+     {
+      "name": "(震災)出動救災裝備-船艇依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=982&cuid=8248"
+     },
+     {
+      "name": "(震災)出動救災裝備-直升機依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=983&cuid=8249"
+     },
+     {
+      "name": "(震災)出動救災裝備-其他依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14462efe-4c27-401c-99dd-d0cfc42b42c1&uid=984&cuid=8250"
+     }
+    ]
+   },
+   {
+    "name": "11260-01-03-2 臺南市風災災害人員傷亡、建物損失",
+    "children": [
+     {
+      "name": "(風災)人員傷亡依性別、人員傷亡別、年齡別(特殊)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1979&cuid=8251"
+     },
+     {
+      "name": "(風災)建物損失-棟依建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1980&cuid=8252"
+     },
+     {
+      "name": "(風災)建物損失-戶依建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1981&cuid=8253"
+     },
+     {
+      "name": "(風災)搶救災民人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1982&cuid=8254"
+     },
+     {
+      "name": "(風災)出動救災人員依出動救災人員別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1983&cuid=8255"
+     },
+     {
+      "name": "(風災)出動救災裝備-車輛",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1984&cuid=8256"
+     },
+     {
+      "name": "(風災)出動救災裝備-船艇",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1985&cuid=8257"
+     },
+     {
+      "name": "(風災)出動救災裝備-直升機",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1986&cuid=8258"
+     },
+     {
+      "name": "(風災)出動救災裝備-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98e6a322-42db-4ad0-941e-4225fe7615a2&uid=1988&cuid=8259"
+     }
+    ]
+   },
+   {
+    "name": "11260-01-04-2 臺南市水患災害人員傷亡、建物損失",
+    "children": [
+     {
+      "name": "(水患)人員傷亡依性別、人員傷亡別、年齡別(特殊)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1026&cuid=8260"
+     },
+     {
+      "name": "(水患)建物損失-棟依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1027&cuid=8261"
+     },
+     {
+      "name": "(水患)建物損失-戶依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1028&cuid=8262"
+     },
+     {
+      "name": "(水患)搶救災民人數依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1029&cuid=8263"
+     },
+     {
+      "name": "(水患)出動救災人員依災害應變別、出動救災人員別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1030&cuid=8264"
+     },
+     {
+      "name": "(水患)出動救災裝備-車輛依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1031&cuid=8265"
+     },
+     {
+      "name": "(水患)出動救災裝備-船艇依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1032&cuid=8266"
+     },
+     {
+      "name": "(水患)出動救災裝備-直升機依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1033&cuid=8267"
+     },
+     {
+      "name": "(水患)出動救災裝備-其他依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7a93929-5c2e-4265-91fc-8017d2355b93&uid=1034&cuid=8268"
+     }
+    ]
+   },
+   {
+    "name": "11260-90-02-2 臺南市其他天然災害人員傷亡、建物損失",
+    "children": [
+     {
+      "name": "(其他天然)人員傷亡依性別、人員傷亡別、年齡別(特殊)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1053&cuid=8269"
+     },
+     {
+      "name": "(其他天然)建物損失-棟依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1054&cuid=8270"
+     },
+     {
+      "name": "(其他天然)建物損失-戶依災害應變別、建物損失別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1055&cuid=8271"
+     },
+     {
+      "name": "(其他天然)搶救災民人數依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1056&cuid=8272"
+     },
+     {
+      "name": "(其他天然)出動救災人員依災害應變別、出動救災人員別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1057&cuid=8273"
+     },
+     {
+      "name": "(其他天然)出動救災裝備-車輛依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1058&cuid=8274"
+     },
+     {
+      "name": "(其他天然)出動救災裝備-船艇依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1059&cuid=8275"
+     },
+     {
+      "name": "(其他天然)出動救災裝備-直升機依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1060&cuid=8276"
+     },
+     {
+      "name": "(其他天然)出動救災裝備-其他依災害應變別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ed157ef-a565-430b-bf82-37b6ad48c132&uid=1061&cuid=8277"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "財政稅務局",
+  "children": [
+   {
+    "name": "20902-00-02-2 臺南市債負比率",
+    "children": [
+     {
+      "name": "債負比率-長期債務淨償還數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24984&cuid=8278"
+     },
+     {
+      "name": "債負比率-短期債務淨償還數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24985&cuid=8279"
+     },
+     {
+      "name": "債負比率-債務利息",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24987&cuid=8280"
+     },
+     {
+      "name": "債負比率-歲入",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24988&cuid=8281"
+     },
+     {
+      "name": "債負比率-補助收入",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24989&cuid=8282"
+     },
+     {
+      "name": "債負比率-債負比率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ab1d30a-dc54-4026-8645-b58e58cf7570&uid=24990&cuid=8283"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-01-2 臺南市地價稅查定",
+    "children": [
+     {
+      "name": "稅地種類分析-戶數依公私立別、稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1389&cuid=8284"
+     },
+     {
+      "name": "稅地種類分析-筆數依公私立別、稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1390&cuid=8285"
+     },
+     {
+      "name": "稅地種類分析-課稅面積依公私立別、稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1391&cuid=8286"
+     },
+     {
+      "name": "稅地種類分析-課稅地價依公私立別、稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1392&cuid=8287"
+     },
+     {
+      "name": "稅地種類分析-地價稅額依公私立別、稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1393&cuid=8288"
+     },
+     {
+      "name": "加徵空地稅用地-戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1394&cuid=8289"
+     },
+     {
+      "name": "加徵空地稅用地-筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1395&cuid=8290"
+     },
+     {
+      "name": "加徵空地稅用地-課稅面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1396&cuid=8291"
+     },
+     {
+      "name": "加徵空地稅用地-課稅地價",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1397&cuid=8292"
+     },
+     {
+      "name": "加徵空地稅用地-地價稅額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1398&cuid=8293"
+     },
+     {
+      "name": "免稅土地-戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1399&cuid=8294"
+     },
+     {
+      "name": "免稅土地-筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1400&cuid=8295"
+     },
+     {
+      "name": "免稅土地-課稅面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1401&cuid=8296"
+     },
+     {
+      "name": "免稅土地-課稅地價",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1402&cuid=8297"
+     },
+     {
+      "name": "免稅土地-地價稅額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1403&cuid=8298"
+     },
+     {
+      "name": "小額免稅-戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1404&cuid=8299"
+     },
+     {
+      "name": "小額免稅-筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1405&cuid=8300"
+     },
+     {
+      "name": "小額免稅-課稅面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1406&cuid=8301"
+     },
+     {
+      "name": "小額免稅-課稅地價",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1407&cuid=8302"
+     },
+     {
+      "name": "小額免稅-地價稅額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1408&cuid=8303"
+     },
+     {
+      "name": "減免稅地概況-筆數依公私立別、減免稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1409&cuid=8304"
+     },
+     {
+      "name": "減免稅地概況-面積依公私立別、減免稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1410&cuid=8305"
+     },
+     {
+      "name": "減免稅地概況-地價依公私立別、減免稅地種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1411&cuid=8306"
+     },
+     {
+      "name": "稅源概況-宗地筆數依地價稅源種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1412&cuid=8307"
+     },
+     {
+      "name": "稅源概況-持分總筆數依地價稅源種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1413&cuid=8308"
+     },
+     {
+      "name": "稅源概況-面積依地價稅源種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1414&cuid=8309"
+     },
+     {
+      "name": "稅源概況-地價依地價稅源種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a912851a-537f-4152-9876-e048927fdb26&uid=1415&cuid=8310"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-02-2 (滯納期滿) 臺南市地價稅徵績(滯納期滿)",
+    "children": [
+     {
+      "name": "原查定數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1420&cuid=8311"
+     },
+     {
+      "name": "原查定數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1421&cuid=8312"
+     },
+     {
+      "name": "滯納期滿-徵期或滯納期增減數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1422&cuid=8313"
+     },
+     {
+      "name": "滯納期滿-徵期或滯納期增減數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1423&cuid=8314"
+     },
+     {
+      "name": "滯納期滿-調整後查定數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1424&cuid=8315"
+     },
+     {
+      "name": "滯納期滿-調整後查定數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1425&cuid=8316"
+     },
+     {
+      "name": "滯納期滿-徵起數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1426&cuid=8317"
+     },
+     {
+      "name": "滯納期滿-徵起數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1427&cuid=8318"
+     },
+     {
+      "name": "滯納期滿-未徵起數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1428&cuid=8319"
+     },
+     {
+      "name": "滯納期滿-未徵起數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1429&cuid=8320"
+     },
+     {
+      "name": "滯納期滿-徵績-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1431&cuid=8321"
+     },
+     {
+      "name": "滯納期滿-徵績-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a52a16bd-b0e8-4839-af25-228ab7b825cd&uid=1432&cuid=8322"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-02-2 (徵期結束) 臺南市地價稅徵績(徵期結束)",
+    "children": [
+     {
+      "name": "原查定數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1420&cuid=8323"
+     },
+     {
+      "name": "原查定數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1421&cuid=8324"
+     },
+     {
+      "name": "徵期結束-徵期或滯納期增減數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1433&cuid=8325"
+     },
+     {
+      "name": "徵期結束-徵期或滯納期增減數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1434&cuid=8326"
+     },
+     {
+      "name": "徵期結束-調整後查定數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1435&cuid=8327"
+     },
+     {
+      "name": "徵期結束-調整後查定數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1436&cuid=8328"
+     },
+     {
+      "name": "徵期結束-徵起數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1437&cuid=8329"
+     },
+     {
+      "name": "徵期結束-徵起數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1438&cuid=8330"
+     },
+     {
+      "name": "徵期結束-未徵起數-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1439&cuid=8331"
+     },
+     {
+      "name": "徵期結束-未徵起數-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1440&cuid=8332"
+     },
+     {
+      "name": "徵期結束-徵績-件數依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1441&cuid=8333"
+     },
+     {
+      "name": "徵期結束-徵績-稅額依公私別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a7ca5717-e0c6-4563-93b3-98be5188c334&uid=1442&cuid=8334"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-04-2 臺南市土地增值稅稅源",
+    "children": [
+     {
+      "name": "土地增值稅稅源-筆數依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1460&cuid=8335"
+     },
+     {
+      "name": "土地增值稅稅源-面積依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1463&cuid=8336"
+     },
+     {
+      "name": "土地增值稅稅源-移轉現值總額依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1464&cuid=8337"
+     },
+     {
+      "name": "土地增值稅稅源-按物價指數調整後原地價總額依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1465&cuid=8338"
+     },
+     {
+      "name": "土地增值稅稅源-改良土地費用依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1466&cuid=8339"
+     },
+     {
+      "name": "土地增值稅稅源-土地漲價總數額依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1467&cuid=8340"
+     },
+     {
+      "name": "土地增值稅稅源-查定稅額依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1468&cuid=8341"
+     },
+     {
+      "name": "土地增值稅稅源-徵收減徵依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1471&cuid=8342"
+     },
+     {
+      "name": "土地增值稅稅源-長期持有減徵依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1473&cuid=8343"
+     },
+     {
+      "name": "土地增值稅稅源-應納稅額依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=1474&cuid=8344"
+     },
+     {
+      "name": "土地增值稅稅源-減徵或抵繳-其他減徵依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=29467&cuid=8345"
+     },
+     {
+      "name": "土地增值稅稅源-減徵或抵繳-增繳地價稅依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=29470&cuid=8346"
+     },
+     {
+      "name": "土地增值稅稅源-減徵或抵繳-重劃減徵依土地增值稅率別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34194cb5-2fa3-475c-9c9a-d08a7d04bd4d&uid=29471&cuid=8347"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-05-2 臺南市房屋稅查定",
+    "children": [
+     {
+      "name": "房屋稅查定-應稅本稅依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=1493&cuid=8348"
+     },
+     {
+      "name": "房屋稅查定-應稅面積依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=1494&cuid=8349"
+     },
+     {
+      "name": "房屋稅查定-應稅現值依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=1495&cuid=8350"
+     },
+     {
+      "name": "房屋稅查定-免稅面積依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=1497&cuid=8351"
+     },
+     {
+      "name": "房屋稅查定-免稅現值依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=1498&cuid=8352"
+     },
+     {
+      "name": "房屋稅查定-免稅件數依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=39925&cuid=8353"
+     },
+     {
+      "name": "房屋稅查定-應稅件數依房屋稅類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d50c6433-f3ff-4595-8be6-58023178a91d&uid=39927&cuid=8354"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-06-2 (滯納期滿) 臺南市房屋稅徵績(滯納期滿)",
+    "children": [
+     {
+      "name": "房屋稅徵績-滯納期滿-查定數本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=1506&cuid=8355"
+     },
+     {
+      "name": "房屋稅徵績-滯納期滿-徵起數本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=1508&cuid=8356"
+     },
+     {
+      "name": "房屋稅徵績-滯納期滿-徵起數件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=39915&cuid=8359"
+     },
+     {
+      "name": "房屋稅徵績-滯納期滿-查定數件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=39917&cuid=8360"
+     },
+     {
+      "name": "房屋稅徵績-滯納期滿-徵績本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=1510&cuid=8357"
+     },
+     {
+      "name": "房屋稅徵績-滯納期滿-徵績件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45b5aa86-0e10-4a42-88ee-6ec8ccb9187d&uid=39913&cuid=8358"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-06-2 (徵期結束) 臺南市房屋稅徵績(徵期結束)",
+    "children": [
+     {
+      "name": "房屋稅徵績-徵期結束-查定數本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=1500&cuid=8362"
+     },
+     {
+      "name": "房屋稅徵績-徵期結束-徵起數本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=1502&cuid=8363"
+     },
+     {
+      "name": "房屋稅徵績-徵期結束-徵起數件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=39921&cuid=8365"
+     },
+     {
+      "name": "房屋稅徵績-徵期結束-查定數件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=39923&cuid=8366"
+     },
+     {
+      "name": "房屋稅徵績-徵期結束-徵績本稅",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=1504&cuid=8361"
+     },
+     {
+      "name": "房屋稅徵績-徵期結束-徵績件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=885f9d7e-fb07-4347-b60b-b182384cae1e&uid=39919&cuid=8364"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-07-2 臺南市房屋稅籍",
+    "children": [
+     {
+      "name": "房屋稅籍-面積依公私別、房屋稅類別、房屋構造別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a474b99-2a96-4174-a6b5-95d43e9a2246&uid=1514&cuid=8367"
+     },
+     {
+      "name": "房屋稅籍-現值依公私別、房屋稅類別、房屋構造別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a474b99-2a96-4174-a6b5-95d43e9a2246&uid=1515&cuid=8368"
+     },
+     {
+      "name": "房屋稅籍-件數依公私別、房屋稅類別、房屋構造別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3a474b99-2a96-4174-a6b5-95d43e9a2246&uid=39911&cuid=8369"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-09-2 (第一次滯納期滿) 臺南市使用牌照稅徵績(第一次滯納期滿)",
+    "children": [
+     {
+      "name": "使用牌照稅徵績-滯納期滿-查定數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1538&cuid=8370"
+     },
+     {
+      "name": "使用牌照稅徵績-滯納期滿-查定數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1539&cuid=8371"
+     },
+     {
+      "name": "使用牌照稅徵績-滯納期滿-徵起數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1540&cuid=8372"
+     },
+     {
+      "name": "使用牌照稅徵績-滯納期滿-徵起數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1541&cuid=8373"
+     },
+     {
+      "name": "使用牌照稅徵績-滯納期滿-徵績輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1542&cuid=8374"
+     },
+     {
+      "name": "使用牌照稅徵績-滯納期滿-徵績稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c18d01e3-5e2a-4fc7-b921-65b719397a11&uid=1543&cuid=8375"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-09-2 (第一次徵期結束) 臺南市使用牌照稅徵績(第一次徵期結束)",
+    "children": [
+     {
+      "name": "使用牌照稅徵績-徵期結束-查定數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1532&cuid=8380"
+     },
+     {
+      "name": "使用牌照稅徵績-徵期結束-查定數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1533&cuid=8381"
+     },
+     {
+      "name": "使用牌照稅徵績-徵期結束-徵起數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1534&cuid=8382"
+     },
+     {
+      "name": "使用牌照稅徵績-徵期結束-徵起數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1535&cuid=8383"
+     },
+     {
+      "name": "使用牌照稅徵績-徵期結束-徵績輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1536&cuid=8378"
+     },
+     {
+      "name": "使用牌照稅徵績-徵期結束-徵績稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb71a8fd-184f-4e1b-be3b-5549431ab042&uid=1537&cuid=8379"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-09-2 (第二次滯納期滿) 臺南市使用牌照稅徵績(第二次滯納期滿)",
+    "children": [
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-查定數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2120&cuid=8384"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-查定數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2121&cuid=8385"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-徵起數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2122&cuid=8386"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-徵起數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2123&cuid=8387"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-徵績輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2124&cuid=8388"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次滯納期滿-徵績稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a6faa05-9e34-444d-95b9-2ea876d4668b&uid=2126&cuid=8389"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-09-2 (第二次徵期結束) 臺南市使用牌照稅徵績(第二次徵期結束)",
+    "children": [
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-查定數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2113&cuid=8390"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-查定數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2114&cuid=8391"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-徵起數輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2115&cuid=8392"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-徵起數稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2116&cuid=8393"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-徵績輛數依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2118&cuid=8394"
+     },
+     {
+      "name": "使用牌照稅徵績-第二次徵期結束-徵績稅額依機動車輛種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7d1a774-5d6e-4ae4-98d5-63eff4706fcd&uid=2119&cuid=8395"
+     }
+    ]
+   },
+   {
+    "name": "20903-02-10-2 臺南市使用牌照稅稅源",
+    "children": [
+     {
+      "name": "使用牌照稅稅源-免稅輛數依機動車輛種類、汽缸總排氣量分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f520e7c6-029c-4e05-81cc-74724d369a4d&uid=1544&cuid=8396"
+     },
+     {
+      "name": "使用牌照稅稅源-應稅輛數依機動車輛種類、汽缸總排氣量分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f520e7c6-029c-4e05-81cc-74724d369a4d&uid=1545&cuid=8397"
+     },
+     {
+      "name": "使用牌照稅稅源-稅額依機動車輛種類、汽缸總排氣量分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f520e7c6-029c-4e05-81cc-74724d369a4d&uid=26370&cuid=8398"
+     }
+    ]
+   },
+   {
+    "name": "20903-90-01-2 臺南市查(核)定開徵數情形",
+    "children": [
+     {
+      "name": "查(核)定開徵數-件數依稅目別、年度別、開徵數情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fca0d1f1-14ac-4ccc-9dc0-7a8c800d5810&uid=1571&cuid=8399"
+     },
+     {
+      "name": "查(核)定開徵數-金額依稅目別、年度別、開徵數情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fca0d1f1-14ac-4ccc-9dc0-7a8c800d5810&uid=1572&cuid=8400"
+     }
+    ]
+   },
+   {
+    "name": "20903-90-02-2 臺南市未徵數情形",
+    "children": [
+     {
+      "name": "未徵數情形-件數依稅目別、年度別、未徵數情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad4def64-b1b7-4587-bab7-d7290215ab8c&uid=1573&cuid=8401"
+     },
+     {
+      "name": "未徵數情形-金額依稅目別、年度別、未徵數情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad4def64-b1b7-4587-bab7-d7290215ab8c&uid=1574&cuid=8402"
+     }
+    ]
+   },
+   {
+    "name": "20903-90-05-2 臺南市各項稅收稽徵成本",
+    "children": [
+     {
+      "name": "各項稅收稽徵成本-實徵淨額依稅目別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e524a3e4-a834-4a47-8b57-5e318b54e429&uid=1603&cuid=8403"
+     },
+     {
+      "name": "各項稅收稽徵成本-成本總計依稅目別、成本類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e524a3e4-a834-4a47-8b57-5e318b54e429&uid=1604&cuid=8404"
+     },
+     {
+      "name": "各項稅收稽徵成本-每千元成本依稅目別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e524a3e4-a834-4a47-8b57-5e318b54e429&uid=1605&cuid=8405"
+     }
+    ]
+   },
+   {
+    "name": "20903-90-06-2 臺南市各項稅收稽徵人力",
+    "children": [
+     {
+      "name": "各項稅收稽徵人力-人數依稅目別、人力類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0247530a-2935-4e85-982c-98c27fbbe433&uid=1606&cuid=8406"
+     },
+     {
+      "name": "各項稅收稽徵人力-比率依稅目別、人力類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0247530a-2935-4e85-982c-98c27fbbe433&uid=1607&cuid=8407"
+     }
+    ]
+   }
+  ]
+ }
+]

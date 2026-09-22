@@ -1,0 +1,3291 @@
+[
+ {
+  "name": "壹、土地",
+  "children": [
+   {
+    "name": "1-1市界",
+    "children": [
+     {
+      "name": "中心：官田區渡頭里(三塊厝)-東經120度20分00秒、北緯23度3分20秒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=216b2b05-4172-45e8-803b-ec53dd5414a5&uid=43499&cuid=7361"
+     },
+     {
+      "name": "極東：南化區西阿里關-東經120度38分53秒、北緯23度13分00秒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=216b2b05-4172-45e8-803b-ec53dd5414a5&uid=43500&cuid=7362"
+     },
+     {
+      "name": "極西：七股區十分塭-東經120度1分36秒、北緯23度6分00秒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=216b2b05-4172-45e8-803b-ec53dd5414a5&uid=43501&cuid=7363"
+     },
+     {
+      "name": "極南：關廟區龜洞里-東經120度21分00秒、北緯22度53分05秒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=216b2b05-4172-45e8-803b-ec53dd5414a5&uid=43502&cuid=7364"
+     },
+     {
+      "name": "極北：白河區內角里-東經120度26分00秒、北緯23度24分30秒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=216b2b05-4172-45e8-803b-ec53dd5414a5&uid=43503&cuid=7365"
+     }
+    ]
+   },
+   {
+    "name": "1-2已登記土地面積",
+    "children": [
+     {
+      "name": "已登記土地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a68e849-4603-42f4-8b70-f561d6ce5bff&uid=1&cuid=6621"
+     }
+    ]
+   },
+   {
+    "name": "1-3實施三七五減租後佃農購買耕地面積與戶數(~109年)",
+    "children": [
+     {
+      "name": "購買耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3d149b1a-adf8-4e3e-b1a9-ee95d6d25d4b&uid=29087&cuid=7173"
+     },
+     {
+      "name": "購買耕地佃農戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3d149b1a-adf8-4e3e-b1a9-ee95d6d25d4b&uid=29278&cuid=7174"
+     }
+    ]
+   },
+   {
+    "name": "1-3實施耕地三七五減租後承租人承買耕地面積及人數(110年~)",
+    "children": [
+     {
+      "name": "承買(購買)耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffe2ed9e-c7fa-4bb2-b808-690d2e1b8554&uid=29088&cuid=6622"
+     },
+     {
+      "name": "承買耕地承租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffe2ed9e-c7fa-4bb2-b808-690d2e1b8554&uid=28845&cuid=6624"
+     },
+     {
+      "name": "累計至本年底止-承買(購買)耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffe2ed9e-c7fa-4bb2-b808-690d2e1b8554&uid=29090&cuid=7024"
+     },
+     {
+      "name": "累計至本年底止-承買耕地承租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffe2ed9e-c7fa-4bb2-b808-690d2e1b8554&uid=29277&cuid=7025"
+     }
+    ]
+   },
+   {
+    "name": "1-4實施三七五減租成果",
+    "children": [
+     {
+      "name": "訂約面積(~109年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=29444&cuid=7178"
+     },
+     {
+      "name": "佃農戶數(~109年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=29441&cuid=7176"
+     },
+     {
+      "name": "訂約面積(~109年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=39853&cuid=7177"
+     },
+     {
+      "name": "承租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=28877&cuid=6625"
+     },
+     {
+      "name": "出租人人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=28878&cuid=6626"
+     },
+     {
+      "name": "土地筆數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=29062&cuid=6627"
+     },
+     {
+      "name": "租約件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=29063&cuid=6628"
+     },
+     {
+      "name": "租約(訂約)面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a2e4ab63-4bea-4fd2-b814-f3f53165693e&uid=29065&cuid=6629"
+     }
+    ]
+   },
+   {
+    "name": "1-5土地徵收面積",
+    "children": [
+     {
+      "name": "徵收面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1368b551-0b7e-42b4-98cc-abf7cd02fe3f&uid=73&cuid=6630"
+     },
+     {
+      "name": "補償費用",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1368b551-0b7e-42b4-98cc-abf7cd02fe3f&uid=74&cuid=6631"
+     }
+    ]
+   },
+   {
+    "name": "1-6公地撥用面積",
+    "children": [
+     {
+      "name": "公地撥用面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6254ded9-8220-43ee-9fb2-924b4c229fb7&uid=3&cuid=6632"
+     }
+    ]
+   },
+   {
+    "name": "1-8市地重劃成果",
+    "children": [
+     {
+      "name": "市地重劃成果-重劃總面積(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0372a02c-dd1c-4eb3-884f-4733f910526a&uid=29448&cuid=7438"
+     },
+     {
+      "name": "市地重劃成果-提供建築用地面積 (公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0372a02c-dd1c-4eb3-884f-4733f910526a&uid=29449&cuid=7439"
+     },
+     {
+      "name": "市地重劃成果-無償取得公共設施用地(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0372a02c-dd1c-4eb3-884f-4733f910526a&uid=29455&cuid=7442"
+     },
+     {
+      "name": "市地重劃成果-其他公共設施用地",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0372a02c-dd1c-4eb3-884f-4733f910526a&uid=29453&cuid=7440"
+     },
+     {
+      "name": "市地重劃成果-節省政府用地徵購及工程建設費用(元)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0372a02c-dd1c-4eb3-884f-4733f910526a&uid=29454&cuid=7441"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "貳、人口",
+  "children": [
+   {
+    "name": "2-1現住戶數、人口密度及性比例",
+    "children": [
+     {
+      "name": "村里數(戶籍登記)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=05998ab9-6f74-46f8-ba35-60eedd9834bb&uid=40099&cuid=6633"
+     },
+     {
+      "name": "鄰數(戶籍登記)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=05998ab9-6f74-46f8-ba35-60eedd9834bb&uid=40100&cuid=6634"
+     },
+     {
+      "name": "戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=05998ab9-6f74-46f8-ba35-60eedd9834bb&uid=509&cuid=6635"
+     },
+     {
+      "name": "人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=05998ab9-6f74-46f8-ba35-60eedd9834bb&uid=510&cuid=6636"
+     }
+    ]
+   },
+   {
+    "name": "2-2戶籍動態",
+    "children": [
+     {
+      "name": "遷入人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5bd679ed-6efd-48d7-aa4b-4b8f7ad41981&uid=498&cuid=6637"
+     },
+     {
+      "name": "遷出人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5bd679ed-6efd-48d7-aa4b-4b8f7ad41981&uid=499&cuid=6638"
+     },
+     {
+      "name": "出生人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5bd679ed-6efd-48d7-aa4b-4b8f7ad41981&uid=39594&cuid=6639"
+     },
+     {
+      "name": "死亡人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5bd679ed-6efd-48d7-aa4b-4b8f7ad41981&uid=43049&cuid=6803"
+     }
+    ]
+   },
+   {
+    "name": "2-3現住人口之年齡分配",
+    "children": [
+     {
+      "name": "人口數依性別、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d48f992-29b2-4b66-bd68-2191cc766724&uid=511&cuid=6641"
+     }
+    ]
+   },
+   {
+    "name": "2-4現住人口之年齡結構",
+    "children": [
+     {
+      "name": "0-14歲現住人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43486&cuid=7183"
+     },
+     {
+      "name": "0-14歲現住人口數比率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43489&cuid=7186"
+     },
+     {
+      "name": "15-64歲現住人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43487&cuid=7184"
+     },
+     {
+      "name": "15-64歲現住人口數比率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43490&cuid=7187"
+     },
+     {
+      "name": "65歲以上現住人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43488&cuid=7185"
+     },
+     {
+      "name": "65歲以上現住人口數比率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43491&cuid=7188"
+     },
+     {
+      "name": "扶老比",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43015&cuid=7179"
+     },
+     {
+      "name": "扶幼比",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43016&cuid=7180"
+     },
+     {
+      "name": "扶養比",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43017&cuid=7181"
+     },
+     {
+      "name": "老化指數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a15ee6e7-f1a7-433f-bfe9-006d35144192&uid=43018&cuid=7182"
+     }
+    ]
+   },
+   {
+    "name": "2-5十五歲以上現住人口之教育程度--按年齡別分",
+    "children": [
+     {
+      "name": "人數(自修及不識字歸類於畢業項下)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=867b36ac-e9dc-4877-b8c5-eaeff5a345e6&uid=586&cuid=6642"
+     }
+    ]
+   },
+   {
+    "name": "2-6十五歲以上人口之教育程度--按區別分",
+    "children": [
+     {
+      "name": "人數(自修及不識字歸類於畢業項下)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23611e8a-628d-46c9-b7fe-110abbfbc27b&uid=586&cuid=6926"
+     },
+     {
+      "name": "人數(自修及不識字歸類於畢業項下)-行政區",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23611e8a-628d-46c9-b7fe-110abbfbc27b&uid=43029&cuid=7191"
+     }
+    ]
+   },
+   {
+    "name": "2-7現住人口之婚姻狀況--按年齡別分",
+    "children": [
+     {
+      "name": "人口婚姻狀況-依年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56aba07a-4074-449a-b100-01668f6e703e&uid=512&cuid=6643"
+     }
+    ]
+   },
+   {
+    "name": "2-8現住人口之婚姻狀況--按區別分",
+    "children": [
+     {
+      "name": "現住人口婚姻狀況-人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=34a2d5b5-7f3c-410d-bf80-103aee55b074&uid=42686&cuid=7190"
+     }
+    ]
+   },
+   {
+    "name": "2-9現住原住民戶口數",
+    "children": [
+     {
+      "name": "戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0b11a4d-bd68-4524-a11f-18b5ad55f62e&uid=529&cuid=6645"
+     },
+     {
+      "name": "人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0b11a4d-bd68-4524-a11f-18b5ad55f62e&uid=528&cuid=6644"
+     }
+    ]
+   },
+   {
+    "name": "2-10現住原住民年齡分配",
+    "children": [
+     {
+      "name": "原住民年齡分配",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c245ab03-3ca7-4fef-979a-eb7353940167&uid=13984&cuid=6646"
+     }
+    ]
+   },
+   {
+    "name": "2-11 15歲以上現住原住民教育程度",
+    "children": [
+     {
+      "name": "人數(自修及不識字歸類於肄業項下)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48b19246-9e85-4736-a14d-0787486622ff&uid=42690&cuid=7192"
+     }
+    ]
+   },
+   {
+    "name": "2-12現住原住民婚姻狀況",
+    "children": [
+     {
+      "name": "人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a67f17c6-25b2-49e9-81a9-0798a4ccc11c&uid=42691&cuid=7193"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "參、行政組織",
+  "children": [
+   {
+    "name": "3-2臺南市各級機關學校正式預算員額",
+    "children": [
+     {
+      "name": "各級機關學校正式預算員額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04cc59b9-9c34-4047-9ec1-ec0497bfbbea&uid=522&cuid=6647"
+     }
+    ]
+   },
+   {
+    "name": "3-3臺南市各級機關學校員工總人數",
+    "children": [
+     {
+      "name": "員工實有員額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9796b26-1a7e-46fe-adc9-e678fdf19ec0&uid=524&cuid=6962"
+     },
+     {
+      "name": "非正式員工數(技工、駕駛、工友、臨時員工、駐衛警)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9796b26-1a7e-46fe-adc9-e678fdf19ec0&uid=27128&cuid=6963"
+     }
+    ]
+   },
+   {
+    "name": "3-4臺南市各級機關學校公教人員按官等別分",
+    "children": [
+     {
+      "name": "各級機關學校公教人員概況依機關別、官等別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6da4155-571f-494d-b09f-5a2dedb8d6fb&uid=501&cuid=6648"
+     }
+    ]
+   },
+   {
+    "name": "3-5臺南市各級機關學校公教人員按教育程度分",
+    "children": [
+     {
+      "name": "各級機關學校公教人員概況依機關別、教育程度別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78cc3073-c8e4-4058-9ffb-ce5f165ca44d&uid=504&cuid=6908"
+     }
+    ]
+   },
+   {
+    "name": "3-6臺南市各級機關學校公教人員按年齡分",
+    "children": [
+     {
+      "name": "各級機關學校公教人員概況依機關別、年齡別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b1e76eb-455f-4697-8434-e3dd56398058&uid=506&cuid=6650"
+     }
+    ]
+   },
+   {
+    "name": "3-7區域立法委員選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eb10e576-e690-48b7-bd24-6e14e98ca7ce&uid=13168&cuid=7472"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eb10e576-e690-48b7-bd24-6e14e98ca7ce&uid=13169&cuid=7473"
+     },
+     {
+      "name": "投票數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eb10e576-e690-48b7-bd24-6e14e98ca7ce&uid=13170&cuid=7474"
+     },
+     {
+      "name": "已領未投票",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eb10e576-e690-48b7-bd24-6e14e98ca7ce&uid=13171&cuid=7475"
+     },
+     {
+      "name": "當選人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eb10e576-e690-48b7-bd24-6e14e98ca7ce&uid=13172&cuid=7476"
+     }
+    ]
+   },
+   {
+    "name": "3-8市長選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8ebfd6-29c5-4a35-953e-c7bf444b843c&uid=13173&cuid=7477"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8ebfd6-29c5-4a35-953e-c7bf444b843c&uid=13174&cuid=7478"
+     },
+     {
+      "name": "投票數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8ebfd6-29c5-4a35-953e-c7bf444b843c&uid=13175&cuid=7479"
+     },
+     {
+      "name": "已領未投票",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af8ebfd6-29c5-4a35-953e-c7bf444b843c&uid=13176&cuid=7480"
+     }
+    ]
+   },
+   {
+    "name": "3-9市議員選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbfc2d17-b4f9-4517-8cb7-b074c90d286d&uid=13177&cuid=7481"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbfc2d17-b4f9-4517-8cb7-b074c90d286d&uid=13178&cuid=7482"
+     },
+     {
+      "name": "投票數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbfc2d17-b4f9-4517-8cb7-b074c90d286d&uid=13179&cuid=7483"
+     },
+     {
+      "name": "已領未投票",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbfc2d17-b4f9-4517-8cb7-b074c90d286d&uid=13180&cuid=7484"
+     },
+     {
+      "name": "當選人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbfc2d17-b4f9-4517-8cb7-b074c90d286d&uid=13181&cuid=7485"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "肆、農林漁牧",
+  "children": [
+   {
+    "name": "4-1農耕土地面積",
+    "children": [
+     {
+      "name": "耕地面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14ca44c1-0feb-45fa-a17f-581e22789219&uid=12579&cuid=6651"
+     }
+    ]
+   },
+   {
+    "name": "4-2農戶人口數",
+    "children": [
+     {
+      "name": "戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=69385936-b1f5-4667-ae1f-d8a9a84db3a6&uid=13729&cuid=7407"
+     },
+     {
+      "name": "人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=69385936-b1f5-4667-ae1f-d8a9a84db3a6&uid=13730&cuid=7408"
+     }
+    ]
+   },
+   {
+    "name": "4-3稻米收穫面積及生產量",
+    "children": [
+     {
+      "name": "收穫面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=794b5c24-8e0e-4f1f-9b57-3c1564cf11a3&uid=12617&cuid=6652"
+     },
+     {
+      "name": "產量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=794b5c24-8e0e-4f1f-9b57-3c1564cf11a3&uid=12618&cuid=6653"
+     }
+    ]
+   },
+   {
+    "name": "4-4農產品收穫面積及生產量",
+    "children": [
+     {
+      "name": "雜糧生產收穫面積(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12621&cuid=6964"
+     },
+     {
+      "name": "雜糧生產產量(公斤)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12623&cuid=6965"
+     },
+     {
+      "name": "蔬菜生產收穫面積(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12625&cuid=6966"
+     },
+     {
+      "name": "蔬菜生產產量(公斤)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12627&cuid=6967"
+     },
+     {
+      "name": "果品生產收穫面積(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12629&cuid=6968"
+     },
+     {
+      "name": "果品生產產量(公斤)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12631&cuid=6969"
+     },
+     {
+      "name": "特用作物收穫面積(公頃)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12633&cuid=6970"
+     },
+     {
+      "name": "特用作物產量(公斤)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bdcf08dd-863b-456e-95d2-76d9d11d1577&uid=12635&cuid=6971"
+     }
+    ]
+   },
+   {
+    "name": "4-5造林面積及數量",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a29f183b-18fb-48de-9d96-9fe7145618c6&uid=13837&cuid=7409"
+     },
+     {
+      "name": "數量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a29f183b-18fb-48de-9d96-9fe7145618c6&uid=13838&cuid=7410"
+     }
+    ]
+   },
+   {
+    "name": "4-6森林主產物採伐面積及生產量",
+    "children": [
+     {
+      "name": "砍伐數量-林木-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13815&cuid=7411"
+     },
+     {
+      "name": "砍伐數量-林木-立木材積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13816&cuid=7412"
+     },
+     {
+      "name": "砍伐數量-竹-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13817&cuid=7413"
+     },
+     {
+      "name": "砍伐數量-竹-數量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13818&cuid=7414"
+     },
+     {
+      "name": "生產數量-木材",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13819&cuid=7415"
+     },
+     {
+      "name": "生產數量-竹",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd4930d-f520-4815-bc21-74945e34055b&uid=13820&cuid=7416"
+     }
+    ]
+   },
+   {
+    "name": "4-7森林災害",
+    "children": [
+     {
+      "name": "森林災害-發生件數依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13821&cuid=7417"
+     },
+     {
+      "name": "森林災害-蔓延面積依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13822&cuid=7418"
+     },
+     {
+      "name": "森林災害-被害情形-林木依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13823&cuid=7419"
+     },
+     {
+      "name": "森林災害-被害情形-幼齡木依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13824&cuid=7420"
+     },
+     {
+      "name": "森林災害-被害情形-幼苗依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13825&cuid=7421"
+     },
+     {
+      "name": "森林災害-被害情形-竹(支)依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13826&cuid=7422"
+     },
+     {
+      "name": "森林災害-被害情形-竹(叢)依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13827&cuid=7423"
+     },
+     {
+      "name": "森林災害-被害情形-副產物依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13828&cuid=7424"
+     },
+     {
+      "name": "森林災害-被害情形-價值依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13829&cuid=7425"
+     },
+     {
+      "name": "森林災害-損失情形-林木依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13830&cuid=7426"
+     },
+     {
+      "name": "森林災害-損失情形-幼齡木依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13831&cuid=7427"
+     },
+     {
+      "name": "森林災害-損失情形-幼苗依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13832&cuid=7428"
+     },
+     {
+      "name": "森林災害-損失情形-竹(支)依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13833&cuid=7429"
+     },
+     {
+      "name": "森林災害-損失情形-竹(叢)依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13834&cuid=7430"
+     },
+     {
+      "name": "森林災害-損失情形-副產物依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13835&cuid=7431"
+     },
+     {
+      "name": "森林災害-損失情形-價值依災害種類分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b971c70-160a-403f-8862-4edc82c3711c&uid=13836&cuid=7432"
+     }
+    ]
+   },
+   {
+    "name": "4-8漁業從業人員",
+    "children": [
+     {
+      "name": "漁業從業人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6930ce6-7d89-4898-b3a0-a5aae58ff7b2&uid=12792&cuid=6654"
+     }
+    ]
+   },
+   {
+    "name": "4-9漁戶數及漁戶人口數",
+    "children": [
+     {
+      "name": "漁戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32fa1209-ba63-4320-8c6e-9a9d0f8ba526&uid=12794&cuid=6655"
+     },
+     {
+      "name": "漁戶人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32fa1209-ba63-4320-8c6e-9a9d0f8ba526&uid=12795&cuid=6656"
+     }
+    ]
+   },
+   {
+    "name": "4-10現有動力漁船數",
+    "children": [
+     {
+      "name": "艘數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c3b197f-f218-4fad-8437-84446bf47241&uid=26921&cuid=7015"
+     },
+     {
+      "name": "噸數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c3b197f-f218-4fad-8437-84446bf47241&uid=26923&cuid=7016"
+     }
+    ]
+   },
+   {
+    "name": "4-11漁業生產量值",
+    "children": [
+     {
+      "name": "產量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=95223f83-5642-4cfd-9d68-72e3f7f5b3f8&uid=42709&cuid=7325"
+     },
+     {
+      "name": "價值",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=95223f83-5642-4cfd-9d68-72e3f7f5b3f8&uid=42710&cuid=7326"
+     }
+    ]
+   },
+   {
+    "name": "4-12水產養殖面積",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5917d3ef-1d5a-43ec-93d9-ee56514a724e&uid=42711&cuid=7337"
+     }
+    ]
+   },
+   {
+    "name": "4-13遭難漁船數",
+    "children": [
+     {
+      "name": "遭難漁船數-噸數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=69658a57-29ac-46b4-b75c-a26df5743a70&uid=12871&cuid=6659"
+     },
+     {
+      "name": "遭難漁船數-艘數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=69658a57-29ac-46b4-b75c-a26df5743a70&uid=12870&cuid=6660"
+     }
+    ]
+   },
+   {
+    "name": "4-14遭難漁民數",
+    "children": [
+     {
+      "name": "遭難漁民數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=938fed0e-8533-42c8-bd4f-353dabc70244&uid=42588&cuid=7338"
+     }
+    ]
+   },
+   {
+    "name": "4-15現有家畜數",
+    "children": [
+     {
+      "name": "頭數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c1ba5e34-7dac-4901-a78b-fc5f67e73679&uid=42712&cuid=7339"
+     }
+    ]
+   },
+   {
+    "name": "4-16家畜屠宰頭數",
+    "children": [
+     {
+      "name": "頭數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a356f691-d83c-4dc8-bd4a-39a2355330c2&uid=42713&cuid=7340"
+     }
+    ]
+   },
+   {
+    "name": "4-17產乳牛頭數及產乳量",
+    "children": [
+     {
+      "name": "年底飼養場數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c07fed9-ef9a-4b13-9702-8bdd4ff4569f&uid=42716&cuid=7341"
+     },
+     {
+      "name": "年底經產牛頭數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c07fed9-ef9a-4b13-9702-8bdd4ff4569f&uid=42715&cuid=7342"
+     },
+     {
+      "name": "全年產乳量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c07fed9-ef9a-4b13-9702-8bdd4ff4569f&uid=42714&cuid=7343"
+     }
+    ]
+   },
+   {
+    "name": "4-18現有家禽數量",
+    "children": [
+     {
+      "name": "隻數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2f1c99d5-ad93-4eb0-a057-bebf1b06a35b&uid=42717&cuid=7344"
+     }
+    ]
+   },
+   {
+    "name": "4-19水土保持處理面積",
+    "children": [
+     {
+      "name": "農地水土保持依農地地形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13751&cuid=7345"
+     },
+     {
+      "name": "蝕溝控制",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13752&cuid=7346"
+     },
+     {
+      "name": "邊坡穩定",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13753&cuid=7347"
+     },
+     {
+      "name": "排水溝系統-安全排水",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13754&cuid=7348"
+     },
+     {
+      "name": "排水溝系統-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13755&cuid=7349"
+     },
+     {
+      "name": "植生處理-全園植草",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13756&cuid=7350"
+     },
+     {
+      "name": "植生處理-草花種植",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13759&cuid=7353"
+     },
+     {
+      "name": "植生處理-喬、灌木及藤類種植",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13757&cuid=7351"
+     },
+     {
+      "name": "植生處理-其他",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d22b33e2-fe04-43bf-9d68-fdfba54abe29&uid=13758&cuid=7352"
+     }
+    ]
+   },
+   {
+    "name": "4-20農路改善及維護工程",
+    "children": [
+     {
+      "name": "道路總長度-改善",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3364d89-10a8-4caf-8ea9-2eed6e4c378b&uid=40550&cuid=6675"
+     },
+     {
+      "name": "道路總長度-維護",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3364d89-10a8-4caf-8ea9-2eed6e4c378b&uid=40549&cuid=6676"
+     },
+     {
+      "name": "總工程費",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3364d89-10a8-4caf-8ea9-2eed6e4c378b&uid=40546&cuid=6677"
+     }
+    ]
+   },
+   {
+    "name": "4-21灌溉服務面積",
+    "children": [
+     {
+      "name": "灌溉排水服務面積-灌溉",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53cf1d4a-d083-41a4-b857-61ca10750c1d&uid=43496&cuid=7354"
+     },
+     {
+      "name": "灌溉排水服務面積-農排下游具引灌需求",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53cf1d4a-d083-41a4-b857-61ca10750c1d&uid=43497&cuid=7355"
+     },
+     {
+      "name": "灌溉排水服務面積-農排下游不具引灌需求",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53cf1d4a-d083-41a4-b857-61ca10750c1d&uid=43498&cuid=7356"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "伍、工商業及市建設",
+  "children": [
+   {
+    "name": "5-1營運中工廠家數",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7aa42416-0e35-40af-bb0a-c58756ad67ec&uid=42718&cuid=7366"
+     }
+    ]
+   },
+   {
+    "name": "5-2商業登記現有家數與資本額",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1438f4f1-99ba-436b-975d-9ef43f4a8ebb&uid=29342&cuid=7367"
+     },
+     {
+      "name": "資本額-千元",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1438f4f1-99ba-436b-975d-9ef43f4a8ebb&uid=29343&cuid=7368"
+     }
+    ]
+   },
+   {
+    "name": "5-3公司登記現有家數與資本額-按組織別分",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ccc55a5-b348-419f-84a3-6c31cb066901&uid=13611&cuid=7369"
+     },
+     {
+      "name": "資本額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ccc55a5-b348-419f-84a3-6c31cb066901&uid=13612&cuid=7370"
+     }
+    ]
+   },
+   {
+    "name": "5-4公司登記現有家數與資本額-按行業別分",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9eb37c7d-6f08-4064-bfba-6c1c93c3a43d&uid=13615&cuid=7376"
+     },
+     {
+      "name": "資本額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9eb37c7d-6f08-4064-bfba-6c1c93c3a43d&uid=13616&cuid=7377"
+     }
+    ]
+   },
+   {
+    "name": "5-5都市計畫區面積及人口",
+    "children": [
+     {
+      "name": "計畫人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fdda76e-e08a-4b8f-93c9-d89620f9202e&uid=12468&cuid=6680"
+     },
+     {
+      "name": "現況人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fdda76e-e08a-4b8f-93c9-d89620f9202e&uid=12469&cuid=6681"
+     },
+     {
+      "name": "計畫人口密度",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fdda76e-e08a-4b8f-93c9-d89620f9202e&uid=12470&cuid=6682"
+     },
+     {
+      "name": "現況人口密度",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fdda76e-e08a-4b8f-93c9-d89620f9202e&uid=12471&cuid=6683"
+     }
+    ]
+   },
+   {
+    "name": "5-6都市計畫區域內公共工程實施數量",
+    "children": [
+     {
+      "name": "道路(包括廣場)-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12387&cuid=6687"
+     },
+     {
+      "name": "橋梁-鋼筋混凝土橋-座",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12388&cuid=6688"
+     },
+     {
+      "name": "橋梁-鋼筋混凝土橋-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12389&cuid=6689"
+     },
+     {
+      "name": "橋梁-其他-座",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12390&cuid=6690"
+     },
+     {
+      "name": "橋梁-其他-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12391&cuid=6691"
+     },
+     {
+      "name": "下水道-雨水下水道-抽水站-座",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12392&cuid=6692"
+     },
+     {
+      "name": "下水道-雨水下水道-抽水站-抽水量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12393&cuid=6693"
+     },
+     {
+      "name": "下水道-雨水下水道-排水幹支線",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12394&cuid=6694"
+     },
+     {
+      "name": "下水道-污水下水道-污水處理廠-座",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12395&cuid=6695"
+     },
+     {
+      "name": "下水道-污水下水道-污水處理廠-抽水量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12396&cuid=6696"
+     },
+     {
+      "name": "下水道-污水下水道-污水幹支線",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12397&cuid=6697"
+     },
+     {
+      "name": "公園-處",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12398&cuid=6698"
+     },
+     {
+      "name": "公園-面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2cfb67ca-cf6c-4acf-a166-7006c66d62fd&uid=12399&cuid=6699"
+     }
+    ]
+   },
+   {
+    "name": "5-7都市計畫公共設施用地計畫面積",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72521e6e-098b-4a2e-bb45-d5f67d321556&uid=12472&cuid=7378"
+     }
+    ]
+   },
+   {
+    "name": "5-8都市計畫公共設施用地已闢建面積",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c9a79083-6333-4670-944a-71bfed848a41&uid=12501&cuid=6701"
+     }
+    ]
+   },
+   {
+    "name": "5-9核發建築物使用執照總樓地板面積",
+    "children": [
+     {
+      "name": "總樓地板面積-依土地使用分區別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc973aaf-9b74-4f92-b676-dc60f178fb6a&uid=13007&cuid=6704"
+     },
+     {
+      "name": "總樓地板面積-依構造別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc973aaf-9b74-4f92-b676-dc60f178fb6a&uid=13004&cuid=6703"
+     }
+    ]
+   },
+   {
+    "name": "5-10自來水供水普及率",
+    "children": [
+     {
+      "name": "行政區域人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f65e895f-3768-40ec-ac7e-84987a3134f2&uid=42719&cuid=7380"
+     },
+     {
+      "name": "供水區域人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f65e895f-3768-40ec-ac7e-84987a3134f2&uid=42720&cuid=7381"
+     },
+     {
+      "name": "實際供水人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f65e895f-3768-40ec-ac7e-84987a3134f2&uid=42721&cuid=7382"
+     },
+     {
+      "name": "供水普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f65e895f-3768-40ec-ac7e-84987a3134f2&uid=42722&cuid=7379"
+     }
+    ]
+   },
+   {
+    "name": "5-11電力供應情形",
+    "children": [
+     {
+      "name": "年底戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b640047-1a0c-452b-b4f0-a210272e06d1&uid=13620&cuid=7384"
+     },
+     {
+      "name": "售電量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b640047-1a0c-452b-b4f0-a210272e06d1&uid=13621&cuid=7385"
+     },
+     {
+      "name": "每用戶全年平均用電量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b640047-1a0c-452b-b4f0-a210272e06d1&uid=13622&cuid=7386"
+     }
+    ]
+   },
+   {
+    "name": "5-12現有河川防洪設施及各項工程實施",
+    "children": [
+     {
+      "name": "現有河川防洪工程設施-堤防",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29345&cuid=7389"
+     },
+     {
+      "name": "現有河川防洪工程設施-護岸",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29346&cuid=7390"
+     },
+     {
+      "name": "環境改善工程-堤防",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29347&cuid=7391"
+     },
+     {
+      "name": "環境改善工程-護岸",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29348&cuid=7392"
+     },
+     {
+      "name": "歲修工程-堤防",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29349&cuid=7393"
+     },
+     {
+      "name": "歲修工程-護岸",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29350&cuid=7394"
+     },
+     {
+      "name": "防災減災工程-堤防",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29351&cuid=7395"
+     },
+     {
+      "name": "防災減災工程-護岸",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29352&cuid=7396"
+     },
+     {
+      "name": "災修及搶修工程-堤防",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29353&cuid=7397"
+     },
+     {
+      "name": "災修及搶修工程-護岸",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e5ab97b-f32b-47e3-8700-68ea1ef10cf9&uid=29354&cuid=7398"
+     }
+    ]
+   },
+   {
+    "name": "5-13禦潮(海堤)工程實施",
+    "children": [
+     {
+      "name": "養護工程-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13472&cuid=7401"
+     },
+     {
+      "name": "養護工程-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13474&cuid=7402"
+     },
+     {
+      "name": "整建工程-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13478&cuid=7403"
+     },
+     {
+      "name": "整建工程-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13480&cuid=7404"
+     },
+     {
+      "name": "災害復建工程-海堤",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13484&cuid=7405"
+     },
+     {
+      "name": "災害復建工程-海岸保護工",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0faae51c-7c25-4ef5-8ffc-4f154272073d&uid=13486&cuid=7406"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "陸、金融財稅",
+  "children": [
+   {
+    "name": "6-1金融機構分布",
+    "children": [
+     {
+      "name": "金融機構數(108年以前無行政區資料)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94b2c71b-d965-4a6b-985d-469a9293c656&uid=13547&cuid=7358"
+     }
+    ]
+   },
+   {
+    "name": "6-2主要金融機構存、放款餘額",
+    "children": [
+     {
+      "name": "存款餘額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd1acd62-828e-440a-936b-22b9516d5255&uid=13549&cuid=7359"
+     },
+     {
+      "name": "放款餘額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd1acd62-828e-440a-936b-22b9516d5255&uid=13551&cuid=7360"
+     }
+    ]
+   },
+   {
+    "name": "6-3歲入預決算--按來源別分",
+    "children": [
+     {
+      "name": "預算歲入來源別(不含追加預算)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a66855d0-5966-460b-a8d8-acc288ad06e7&uid=29475&cuid=6980"
+     },
+     {
+      "name": "決算歲入來源別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a66855d0-5966-460b-a8d8-acc288ad06e7&uid=39953&cuid=6983"
+     }
+    ]
+   },
+   {
+    "name": "6-4歲出預決算--按政事別分",
+    "children": [
+     {
+      "name": "預算歲出政事別-原預算數(111年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8995fa6e-7f96-455a-81e7-adb1a7e19ce1&uid=26303&cuid=6984"
+     },
+     {
+      "name": "決算歲出政事別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8995fa6e-7f96-455a-81e7-adb1a7e19ce1&uid=39957&cuid=6987"
+     }
+    ]
+   },
+   {
+    "name": "6-5歷年財政狀況",
+    "children": [
+     {
+      "name": "總決算自有財源與補助及協助收入-決算審定數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc45f73a-d5e0-44c8-8491-32b291b1ea51&uid=39952&cuid=6988"
+     }
+    ]
+   },
+   {
+    "name": "6-6各項稅捐實徵數",
+    "children": [
+     {
+      "name": "實徵淨額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b4f96398-e9b3-420a-82e1-5a4bf72b3d3a&uid=13124&cuid=7357"
+     }
+    ]
+   },
+   {
+    "name": "6-7各項稅捐納庫數",
+    "children": [
+     {
+      "name": "各項稅捐納庫數-實徵數依各項稅捐(實徵)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=485a3477-efdd-4bd7-b63c-6888bcb3fd4c&uid=13565&cuid=7371"
+     },
+     {
+      "name": "各項稅捐納庫數-納庫數依各項稅捐(實徵)、各項稅捐(納庫)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=485a3477-efdd-4bd7-b63c-6888bcb3fd4c&uid=13566&cuid=7372"
+     },
+     {
+      "name": "各項稅捐納庫數-未納庫數依各項稅捐(實徵)分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=485a3477-efdd-4bd7-b63c-6888bcb3fd4c&uid=13567&cuid=7373"
+     }
+    ]
+   },
+   {
+    "name": "6-8市公庫收支",
+    "children": [
+     {
+      "name": "收入",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4056f128-8e26-4298-92ce-5e834eef5f60&uid=40365&cuid=7374"
+     },
+     {
+      "name": "支出",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4056f128-8e26-4298-92ce-5e834eef5f60&uid=40367&cuid=7375"
+     }
+    ]
+   },
+   {
+    "name": "6-9營業基金及非營業特種基金盈虧(餘絀)",
+    "children": [
+     {
+      "name": "預算數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=505c4661-4c89-4290-a86f-bf1ac164ac96&uid=28074&cuid=6992"
+     },
+     {
+      "name": "決算數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=505c4661-4c89-4290-a86f-bf1ac164ac96&uid=28488&cuid=6993"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "柒、交通運輸",
+  "children": [
+   {
+    "name": "7-1車輛登記",
+    "children": [
+     {
+      "name": "車輛登記數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38913206-96e7-43c9-8d17-12b347db49fd&uid=13191&cuid=7266"
+     }
+    ]
+   },
+   {
+    "name": "7-2公路里程概況",
+    "children": [
+     {
+      "name": "公路里程數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de03d780-e103-4fea-bf23-3d89de4058f0&uid=13192&cuid=7265"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "捌、教育文化",
+  "children": [
+   {
+    "name": "8-1境內高等教育概況",
+    "children": [
+     {
+      "name": "大學-系所數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13285&cuid=7267"
+     },
+     {
+      "name": "大學-教職員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13286&cuid=7268"
+     },
+     {
+      "name": "大學部-華語先修生",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=44368&cuid=8418"
+     },
+     {
+      "name": "大學-學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13287&cuid=7269"
+     },
+     {
+      "name": "大學-上學年度畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13288&cuid=7270"
+     },
+     {
+      "name": "專科-校數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13289&cuid=7271"
+     },
+     {
+      "name": "專科-教職員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13290&cuid=7272"
+     },
+     {
+      "name": "專科-學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13291&cuid=7562"
+     },
+     {
+      "name": "專科-上學年度畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f8451b0-07ea-49a2-9387-b50aea53deac&uid=13292&cuid=7274"
+     }
+    ]
+   },
+   {
+    "name": "8-2境內高級中等學校概況",
+    "children": [
+     {
+      "name": "高級中等學校校數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=28261&cuid=7279"
+     },
+     {
+      "name": "高級中等學校校數依設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=28260&cuid=7280"
+     },
+     {
+      "name": "高級中等學校教師數行政區別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=894&cuid=7281"
+     },
+     {
+      "name": "高級中等學校教師數設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=893&cuid=6994"
+     },
+     {
+      "name": "高級中等學校職員數行政區別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=896&cuid=7282"
+     },
+     {
+      "name": "高級中等學校職員數設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=895&cuid=6995"
+     },
+     {
+      "name": "普通科班級數依設立別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=746&cuid=7283"
+     },
+     {
+      "name": "普通科班級數依年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=748&cuid=7284"
+     },
+     {
+      "name": "綜合高中班級數依設立別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=753&cuid=7285"
+     },
+     {
+      "name": "綜合高中班級數依年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=754&cuid=7563"
+     },
+     {
+      "name": "專業群(職業)科班級數依設立別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=759&cuid=7287"
+     },
+     {
+      "name": "專業群(職業)科班級數依年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=760&cuid=7288"
+     },
+     {
+      "name": "實用技能學程班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=769&cuid=7290"
+     },
+     {
+      "name": "實用技能學程班級數依設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=768&cuid=7289"
+     },
+     {
+      "name": "進修部(學校)班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=783&cuid=7292"
+     },
+     {
+      "name": "進修部(學校)班級數依設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=782&cuid=7291"
+     },
+     {
+      "name": "普通科學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=749&cuid=6996"
+     },
+     {
+      "name": "普通科學生數依性別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=750&cuid=7293"
+     },
+     {
+      "name": "綜合高中學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=755&cuid=6997"
+     },
+     {
+      "name": "綜合高中學生數依性別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=756&cuid=7296"
+     },
+     {
+      "name": "專業群(職業)科學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=762&cuid=6998"
+     },
+     {
+      "name": "專業群(職業)科學生數依性別、年級別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=763&cuid=7299"
+     },
+     {
+      "name": "實用技能學程學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=770&cuid=6999"
+     },
+     {
+      "name": "實用技能學程學生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=771&cuid=7307"
+     },
+     {
+      "name": "進修部(學校)學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=784&cuid=7048"
+     },
+     {
+      "name": "進修部(學校)學生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=785&cuid=7304"
+     },
+     {
+      "name": "普通科上學年度畢業生數依性別、設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=751&cuid=7294"
+     },
+     {
+      "name": "普通科上學年度畢業生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=752&cuid=7295"
+     },
+     {
+      "name": "綜合高中上學年度畢業生數依性別、設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=757&cuid=7297"
+     },
+     {
+      "name": "綜合高中上學年度畢業生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=758&cuid=7298"
+     },
+     {
+      "name": "專業群(職業)科畢業生數依性別、設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=765&cuid=7300"
+     },
+     {
+      "name": "專業群(職業)科畢業生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=766&cuid=7301"
+     },
+     {
+      "name": "實用技能學程畢業生數依性別、設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=772&cuid=7302"
+     },
+     {
+      "name": "實用技能學程畢業生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=774&cuid=7303"
+     },
+     {
+      "name": "進修部(學校)畢業生數依性別、設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=786&cuid=7305"
+     },
+     {
+      "name": "進修部(學校)畢業生數依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a05252bf-24b1-4673-b5d0-a37068a822d0&uid=787&cuid=7306"
+     }
+    ]
+   },
+   {
+    "name": "8-3境內國民中學概況",
+    "children": [
+     {
+      "name": "校數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=790&cuid=7055"
+     },
+     {
+      "name": "校數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=789&cuid=7308"
+     },
+     {
+      "name": "教師數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=792&cuid=7056"
+     },
+     {
+      "name": "教師數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=791&cuid=7309"
+     },
+     {
+      "name": "職員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=794&cuid=7057"
+     },
+     {
+      "name": "職員數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=793&cuid=7310"
+     },
+     {
+      "name": "班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=796&cuid=7058"
+     },
+     {
+      "name": "班級數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=795&cuid=7311"
+     },
+     {
+      "name": "學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=798&cuid=7059"
+     },
+     {
+      "name": "學生數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=797&cuid=7312"
+     },
+     {
+      "name": "畢業生數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=799&cuid=7313"
+     },
+     {
+      "name": "上學年度畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d455a78-2f6b-48a8-97f1-3f5097659a66&uid=800&cuid=7060"
+     }
+    ]
+   },
+   {
+    "name": "8-4境內國民小學概況",
+    "children": [
+     {
+      "name": "校數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=807&cuid=7061"
+     },
+     {
+      "name": "校數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=806&cuid=7314"
+     },
+     {
+      "name": "教師數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=809&cuid=7062"
+     },
+     {
+      "name": "教師數依設立別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=808&cuid=7315"
+     },
+     {
+      "name": "職員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=812&cuid=7063"
+     },
+     {
+      "name": "職員數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=810&cuid=7316"
+     },
+     {
+      "name": "班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=814&cuid=7064"
+     },
+     {
+      "name": "班級數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=813&cuid=7317"
+     },
+     {
+      "name": "學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=818&cuid=7065"
+     },
+     {
+      "name": "學生數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=817&cuid=7318"
+     },
+     {
+      "name": "上學年度畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=822&cuid=7066"
+     },
+     {
+      "name": "畢業生數依設立別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7951563f-6be5-4cdf-ba73-934d99aaf596&uid=820&cuid=7319"
+     }
+    ]
+   },
+   {
+    "name": "8-5境內幼兒園概況",
+    "children": [
+     {
+      "name": "園數-專設",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=677fa2e9-9c4b-417a-9f39-fb2964d45ad5&uid=42745&cuid=7321"
+     },
+     {
+      "name": "園數-附設",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=677fa2e9-9c4b-417a-9f39-fb2964d45ad5&uid=42744&cuid=7320"
+     },
+     {
+      "name": "教保服務人員",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=677fa2e9-9c4b-417a-9f39-fb2964d45ad5&uid=42746&cuid=7322"
+     },
+     {
+      "name": "職員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=677fa2e9-9c4b-417a-9f39-fb2964d45ad5&uid=42747&cuid=7323"
+     },
+     {
+      "name": "學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=677fa2e9-9c4b-417a-9f39-fb2964d45ad5&uid=42748&cuid=7324"
+     }
+    ]
+   },
+   {
+    "name": "8-6境內各級補校概況",
+    "children": [
+     {
+      "name": "國中小補校校數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=844&cuid=6721"
+     },
+     {
+      "name": "國中小補校班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=846&cuid=6722"
+     },
+     {
+      "name": "國中小補校學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=848&cuid=6723"
+     },
+     {
+      "name": "國中小補校畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=850&cuid=6724"
+     },
+     {
+      "name": "進修部(學校)班級數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=782&cuid=6725"
+     },
+     {
+      "name": "進修部(學校)學生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=784&cuid=6726"
+     },
+     {
+      "name": "進修部(學校)畢業生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e28cb126-0fdd-48b9-9684-9abc168a12ba&uid=786&cuid=6727"
+     }
+    ]
+   },
+   {
+    "name": "8-7短期補習班概況",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3447373-9b29-4520-a8c1-6a30aae18bcb&uid=909&cuid=6737"
+     }
+    ]
+   },
+   {
+    "name": "8-8國中小學中途輟學學生概況",
+    "children": [
+     {
+      "name": "輟學人數依性別、學校類別、學生身分分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a58d0cc6-bcd4-42fe-843b-2a288a1c07f6&uid=874&cuid=6744"
+     }
+    ]
+   },
+   {
+    "name": "8-9國民中學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸眼視力檢查人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70674a05-6222-4364-9ea7-4d76e8750d5f&uid=43025&cuid=6981"
+     },
+     {
+      "name": "裸眼視力不良人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70674a05-6222-4364-9ea7-4d76e8750d5f&uid=43026&cuid=6982"
+     }
+    ]
+   },
+   {
+    "name": "8-10國民小學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸眼視力檢查人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47b0693b-b566-4552-9a2a-a0e54146e1d6&uid=43027&cuid=6756"
+     },
+     {
+      "name": "裸眼視力不良人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47b0693b-b566-4552-9a2a-a0e54146e1d6&uid=43028&cuid=6757"
+     }
+    ]
+   },
+   {
+    "name": "8-11公立公共圖書館概況",
+    "children": [
+     {
+      "name": "圖書冊數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=27538&cuid=7327"
+     },
+     {
+      "name": "期刊種類數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=27543&cuid=7329"
+     },
+     {
+      "name": "借閱人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=27550&cuid=7330"
+     },
+     {
+      "name": "借閱冊數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=42916&cuid=7332"
+     },
+     {
+      "name": "電子書件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=43223&cuid=7334"
+     },
+     {
+      "name": "電子期刊種類數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce7c61a3-6c47-4354-93cd-e6822e1359b5&uid=43224&cuid=7335"
+     }
+    ]
+   },
+   {
+    "name": "8-12各項藝文展演活動",
+    "children": [
+     {
+      "name": "活動個數(地區查詢臺南市表示全區域)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7f45cbd-2dcc-44f7-b66c-2f20faf56ffa&uid=12371&cuid=6758"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "玖、衛生",
+  "children": [
+   {
+    "name": "9-1醫療機構及其他醫事機構開(執)業醫事人員數",
+    "children": [
+     {
+      "name": "醫事從業人員",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d9805dfb-f38e-4dd3-a2b1-2995407b500c&uid=28092&cuid=7247"
+     }
+    ]
+   },
+   {
+    "name": "9-2醫療院所數及各類病床數",
+    "children": [
+     {
+      "name": "醫療院所-病床數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=853f158d-c598-4af5-818a-17317b09a5c6&uid=28087&cuid=7249"
+     },
+     {
+      "name": "病床數依醫療病床別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=853f158d-c598-4af5-818a-17317b09a5c6&uid=28089&cuid=7250"
+     }
+    ]
+   },
+   {
+    "name": "9-3預防接種工作",
+    "children": [
+     {
+      "name": "各項預防接種工作量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6bc87640-2f89-4517-a5d4-80ae0bed8813&uid=12959&cuid=6767"
+     }
+    ]
+   },
+   {
+    "name": "9-4法定傳染病病例人數",
+    "children": [
+     {
+      "name": "人數依法定傳染病別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b73e2fb0-e292-4397-ae5d-502d811d8199&uid=27637&cuid=7251"
+     }
+    ]
+   },
+   {
+    "name": "9-5藥商家數",
+    "children": [
+     {
+      "name": "藥商家數依藥商別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91a74490-abad-448b-a233-01f9e119dc41&uid=13712&cuid=7255"
+     },
+     {
+      "name": "行政區-藥商家數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91a74490-abad-448b-a233-01f9e119dc41&uid=42787&cuid=7256"
+     }
+    ]
+   },
+   {
+    "name": "9-6主要死亡原因",
+    "children": [
+     {
+      "name": "死亡人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=602962bb-81ee-41fc-bcbc-d07b64fdf646&uid=13713&cuid=7261"
+     },
+     {
+      "name": "每十萬人口死亡率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=602962bb-81ee-41fc-bcbc-d07b64fdf646&uid=13714&cuid=7262"
+     },
+     {
+      "name": "每十萬人口標準化死亡率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=602962bb-81ee-41fc-bcbc-d07b64fdf646&uid=13727&cuid=7264"
+     }
+    ]
+   },
+   {
+    "name": "9-7營業衛生管理稽核概況-按稽查家次分",
+    "children": [
+     {
+      "name": "稽查家次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=89e46532-0bb8-4fdf-ac85-9ebc8f2860ac&uid=40654&cuid=6768"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾、環境保護",
+  "children": [
+   {
+    "name": "10-1垃圾清運處理概況",
+    "children": [
+     {
+      "name": "按項目別分-一般垃圾產生量",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffd11d4d-6a0a-4839-a35f-d88b2f13d3c7&uid=40744&cuid=7221"
+     },
+     {
+      "name": "按處理方式分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffd11d4d-6a0a-4839-a35f-d88b2f13d3c7&uid=28344&cuid=7224"
+     },
+     {
+      "name": "廚餘處理方式",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffd11d4d-6a0a-4839-a35f-d88b2f13d3c7&uid=40742&cuid=7225"
+     },
+     {
+      "name": "平均每人每日一般廢棄物產生量(公斤)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffd11d4d-6a0a-4839-a35f-d88b2f13d3c7&uid=25259&cuid=7228"
+     },
+     {
+      "name": "一般廢棄物妥善處理率(％)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffd11d4d-6a0a-4839-a35f-d88b2f13d3c7&uid=25260&cuid=7229"
+     }
+    ]
+   },
+   {
+    "name": "10-2環境空氣品質",
+    "children": [
+     {
+      "name": "年底監測站數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=13717&cuid=7230"
+     },
+     {
+      "name": "人工測站-總懸浮微粒(~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25409&cuid=7231"
+     },
+     {
+      "name": "人工測站-鉛",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25410&cuid=7232"
+     },
+     {
+      "name": "人工測站-落塵量(~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25411&cuid=7233"
+     },
+     {
+      "name": "自動測站-粒徑10微米以下之懸浮微粒",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25412&cuid=7234"
+     },
+     {
+      "name": "自動測站-二氧化硫",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25413&cuid=7235"
+     },
+     {
+      "name": "自動測站-一氧化碳",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25414&cuid=7236"
+     },
+     {
+      "name": "自動測站-二氧化氮",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25415&cuid=7237"
+     },
+     {
+      "name": "自動測站-非甲烷碳氫化合物",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25416&cuid=7238"
+     },
+     {
+      "name": "自動測站-臭氧",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fce45bb-59ce-4374-a593-89f460a5f267&uid=25417&cuid=7239"
+     }
+    ]
+   },
+   {
+    "name": "10-3一般地區環境音量監測不合格情形",
+    "children": [
+     {
+      "name": "(一般地區環境)不合格站數依管制區別、時段別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f171e244-a424-4bb3-8381-7a6714381503&uid=12548&cuid=6809"
+     },
+     {
+      "name": "監測站數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f171e244-a424-4bb3-8381-7a6714381503&uid=13954&cuid=7240"
+     }
+    ]
+   },
+   {
+    "name": "10-4道路交通音量監測不合格情形",
+    "children": [
+     {
+      "name": "監測站數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7b9fae3-7a89-433d-ab18-8f781b74186e&uid=13955&cuid=6814"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7b9fae3-7a89-433d-ab18-8f781b74186e&uid=12550&cuid=7241"
+     }
+    ]
+   },
+   {
+    "name": "10-5公害陳情受理案件",
+    "children": [
+     {
+      "name": "公害污染陳情案件-公害污染陳情案件依被陳情對象別、公害別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9145517f-adef-4c79-83ed-a1ac561b9acc&uid=40673&cuid=7242"
+     }
+    ]
+   },
+   {
+    "name": "10-6環保稽查(查核)概況",
+    "children": [
+     {
+      "name": "稽查次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0fe1cead-3d4e-4cd8-aada-6eb74a36e16f&uid=12723&cuid=7243"
+     },
+     {
+      "name": "罰鍰次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0fe1cead-3d4e-4cd8-aada-6eb74a36e16f&uid=12726&cuid=7244"
+     },
+     {
+      "name": "罰鍰金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0fe1cead-3d4e-4cd8-aada-6eb74a36e16f&uid=40620&cuid=7245"
+     },
+     {
+      "name": "實收金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0fe1cead-3d4e-4cd8-aada-6eb74a36e16f&uid=40623&cuid=7246"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾壹、社會福利",
+  "children": [
+   {
+    "name": "11-1各級人民團體數",
+    "children": [
+     {
+      "name": "團體數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59404049-84ea-4270-b091-ddea66a5a924&uid=43051&cuid=6825"
+     }
+    ]
+   },
+   {
+    "name": "11-2宗教教務概況",
+    "children": [
+     {
+      "name": "寺廟數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=053ee7da-fd80-4f17-ab1e-fb35eda00ada&uid=737&cuid=7548"
+     },
+     {
+      "name": "教會(堂)數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=053ee7da-fd80-4f17-ab1e-fb35eda00ada&uid=740&cuid=6772"
+     },
+     {
+      "name": "信徒人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=053ee7da-fd80-4f17-ab1e-fb35eda00ada&uid=739&cuid=7068"
+     }
+    ]
+   },
+   {
+    "name": "11-3宗教社會服務概況",
+    "children": [
+     {
+      "name": "醫療機構",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3f0b67f-018b-452e-a25a-435c8f56b294&uid=741&cuid=6773"
+     },
+     {
+      "name": "文教機構",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3f0b67f-018b-452e-a25a-435c8f56b294&uid=742&cuid=6774"
+     },
+     {
+      "name": "公益慈善事業",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3f0b67f-018b-452e-a25a-435c8f56b294&uid=743&cuid=6775"
+     }
+    ]
+   },
+   {
+    "name": "11-4合作社概況",
+    "children": [
+     {
+      "name": "合作社數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b006f618-5259-452f-be2f-b8c635d408df&uid=43044&cuid=6776"
+     },
+     {
+      "name": "合作社社場員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b006f618-5259-452f-be2f-b8c635d408df&uid=43045&cuid=6777"
+     },
+     {
+      "name": "合作社股金總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b006f618-5259-452f-be2f-b8c635d408df&uid=43046&cuid=6778"
+     }
+    ]
+   },
+   {
+    "name": "11-5推行社區發展工作成果",
+    "children": [
+     {
+      "name": "社區發展協會數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1929&cuid=6795"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1930&cuid=6796"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1931&cuid=6797"
+     },
+     {
+      "name": "理監事人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1932&cuid=6798"
+     },
+     {
+      "name": "社區發展協會會員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1933&cuid=6799"
+     },
+     {
+      "name": "設置社區生產建設基金",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1934&cuid=6800"
+     },
+     {
+      "name": "社區活動中心",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1915&cuid=6781"
+     },
+     {
+      "name": "實際使用經費依經費別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1935&cuid=6801"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區幹部訓練",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1916&cuid=6782"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區觀摩",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1917&cuid=6783"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區長壽俱樂部",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1918&cuid=6784"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區成長(媽媽)教室",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1919&cuid=6785"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區守望相助隊",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1920&cuid=6786"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區民俗藝文康樂班隊",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1921&cuid=6787"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-團隊",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1922&cuid=6788"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-志工數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1923&cuid=6789"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區照顧關懷據點",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1924&cuid=6790"
+     },
+     {
+      "name": "社區發展工作項目-社區圖書室",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1925&cuid=6791"
+     },
+     {
+      "name": "社區發展工作項目-社區刊物",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1926&cuid=6792"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-福利服務或活動",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1927&cuid=6793"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-其他服務",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=234ec26c-dc8d-4a93-9b5c-d790c519e3a3&uid=1928&cuid=6794"
+     }
+    ]
+   },
+   {
+    "name": "11-6身心障礙人數",
+    "children": [
+     {
+      "name": "身心障礙者人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=387e14f3-18c5-4362-98d7-06d7601c881c&uid=40307&cuid=6804"
+     }
+    ]
+   },
+   {
+    "name": "11-7身心障礙福利服務概況",
+    "children": [
+     {
+      "name": "機構數(110年~)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d8443e08-fc5c-478c-90f8-c354eded40d0&uid=13882&cuid=6813"
+     },
+     {
+      "name": "生活補助人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d8443e08-fc5c-478c-90f8-c354eded40d0&uid=42900&cuid=6808"
+     },
+     {
+      "name": "生活補助金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d8443e08-fc5c-478c-90f8-c354eded40d0&uid=42896&cuid=6807"
+     },
+     {
+      "name": "生活輔具費用補助人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d8443e08-fc5c-478c-90f8-c354eded40d0&uid=40391&cuid=6821"
+     },
+     {
+      "name": "生活輔具費用補助金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d8443e08-fc5c-478c-90f8-c354eded40d0&uid=40389&cuid=6822"
+     }
+    ]
+   },
+   {
+    "name": "11-8低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "低收入戶數依款別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=13910&cuid=6826"
+     },
+     {
+      "name": "以工代賑人次(107~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=42387&cuid=6830"
+     },
+     {
+      "name": "以工代賑人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=43732&cuid=7867"
+     },
+     {
+      "name": "以工代賑金額(111年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=42388&cuid=6834"
+     },
+     {
+      "name": "以工代賑金額(112~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=42389&cuid=6831"
+     },
+     {
+      "name": "以工代賑金額(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=43740&cuid=7868"
+     },
+     {
+      "name": "社政轉介勞政就業媒合服務人次(107~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=42390&cuid=6835"
+     },
+     {
+      "name": "社政轉介勞政就業媒合服務人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=43731&cuid=7869"
+     },
+     {
+      "name": "社政轉介勞政職業訓練人次(107~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=42391&cuid=6836"
+     },
+     {
+      "name": "社政轉介勞政職業訓練人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=43748&cuid=7870"
+     },
+     {
+      "name": "節日慰問戶次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=836&cuid=6832"
+     },
+     {
+      "name": "節日慰問人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cece96b8-c265-421d-8124-6910cbf25528&uid=837&cuid=6833"
+     }
+    ]
+   },
+   {
+    "name": "11-9中低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "中低收入戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=13871&cuid=6842"
+     },
+     {
+      "name": "中低收入人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=13873&cuid=6843"
+     },
+     {
+      "name": "以工代賑人次(113年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=42392&cuid=6846"
+     },
+     {
+      "name": "以工代賑人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=43752&cuid=7871"
+     },
+     {
+      "name": "以工代賑金額(111年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=42395&cuid=6847"
+     },
+     {
+      "name": "以工代賑金額(112~113年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=42396&cuid=6848"
+     },
+     {
+      "name": "以工代賑金額(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=43742&cuid=7872"
+     },
+     {
+      "name": "就業服務人次(113年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=42397&cuid=6849"
+     },
+     {
+      "name": "社政轉介勞政就業媒合服務人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=43754&cuid=7873"
+     },
+     {
+      "name": "社政轉介勞政職業訓練人次(113年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=42400&cuid=6850"
+     },
+     {
+      "name": "社政轉介勞政職業訓練人次(114年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=43746&cuid=7874"
+     },
+     {
+      "name": "特殊項目救助及服務人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=856&cuid=7564"
+     },
+     {
+      "name": "特殊項目救助及服務人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=860&cuid=7565"
+     },
+     {
+      "name": "特殊項目救助及服務戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=40491&cuid=7567"
+     },
+     {
+      "name": "特殊項目救助及服務金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db6f3147-f729-4ff7-8ac3-27ad7bdbfaa3&uid=858&cuid=7568"
+     }
+    ]
+   },
+   {
+    "name": "11-10中低收入老人生活津貼與老農津貼",
+    "children": [
+     {
+      "name": "中低收入老人生活津貼人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f4e3db6e-0b26-4319-80d5-e96660105c6c&uid=13888&cuid=6854"
+     },
+     {
+      "name": "中低收入老人生活津貼金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f4e3db6e-0b26-4319-80d5-e96660105c6c&uid=1339&cuid=6855"
+     }
+    ]
+   },
+   {
+    "name": "11-11辦理社會救助醫療補助概況",
+    "children": [
+     {
+      "name": "醫療補助金額(112年以前)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=33a99680-e42b-4f6a-b64d-d41296a8f6d7&uid=42404&cuid=6859"
+     },
+     {
+      "name": "醫療補助金額(113年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=33a99680-e42b-4f6a-b64d-d41296a8f6d7&uid=42405&cuid=6858"
+     },
+     {
+      "name": "住院總日數(113年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=33a99680-e42b-4f6a-b64d-d41296a8f6d7&uid=42403&cuid=6863"
+     },
+     {
+      "name": "住院人次(113年起)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=33a99680-e42b-4f6a-b64d-d41296a8f6d7&uid=949&cuid=6864"
+     }
+    ]
+   },
+   {
+    "name": "11-12辦理急難救助概況",
+    "children": [
+     {
+      "name": "救助人次依急難救助身分分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4d999d8-0ee2-43a1-9e71-8c6e8ab31a76&uid=26077&cuid=6865"
+     },
+     {
+      "name": "救助金額依急難救助身分分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4d999d8-0ee2-43a1-9e71-8c6e8ab31a76&uid=26079&cuid=6866"
+     },
+     {
+      "name": "救助人次(民眾、榮民具原住民身分)依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4d999d8-0ee2-43a1-9e71-8c6e8ab31a76&uid=26082&cuid=6868"
+     },
+     {
+      "name": "救助金額(民眾、榮民具原住民身分)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4d999d8-0ee2-43a1-9e71-8c6e8ab31a76&uid=26081&cuid=6867"
+     }
+    ]
+   },
+   {
+    "name": "11-13遭受災害救助情形",
+    "children": [
+     {
+      "name": "收容所-所數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40561&cuid=6870"
+     },
+     {
+      "name": "收容所-臨時收容災民數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40563&cuid=6871"
+     },
+     {
+      "name": "受災人數依受災情形分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40565&cuid=6872"
+     },
+     {
+      "name": "遭受災害救助情形-住屋毀損安遷救助戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40567&cuid=6873"
+     },
+     {
+      "name": "遭受災害救助情形-住屋毀損安遷救助人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40569&cuid=6874"
+     },
+     {
+      "name": "遭受災害救助情形-財物受損影響生計者戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40571&cuid=6875"
+     },
+     {
+      "name": "救助金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6dd36463-d70b-48e9-b60f-e478ab4860e0&uid=40559&cuid=6869"
+     }
+    ]
+   },
+   {
+    "name": "11-14遊民人數及處理情形",
+    "children": [
+     {
+      "name": "處理遊民情形",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=043e7dac-ccc8-4636-ab03-59b26e6e3f75&uid=43737&cuid=7865"
+     },
+     {
+      "name": "受理報案或查報遊民處理人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=043e7dac-ccc8-4636-ab03-59b26e6e3f75&uid=26084&cuid=6878"
+     }
+    ]
+   },
+   {
+    "name": "11-15老人福利服務概況",
+    "children": [
+     {
+      "name": "老人公寓-實際進住人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=25900&cuid=6881"
+     },
+     {
+      "name": "社區安養堂-實際進住人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=25892&cuid=6882"
+     },
+     {
+      "name": "老人福利服務（文康）活動中心(個)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=40767&cuid=6884"
+     },
+     {
+      "name": "長青學苑年底所數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=40774&cuid=6886"
+     },
+     {
+      "name": "長青學苑開班數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=40772&cuid=6885"
+     },
+     {
+      "name": "長青學苑參加人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e7f2f757-fa88-4a70-8386-1a229c4578cf&uid=39951&cuid=6883"
+     }
+    ]
+   },
+   {
+    "name": "11-16兒童及少年福利服務概況",
+    "children": [
+     {
+      "name": "安置及教養機構-現有收容人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f542f2d-29eb-4b93-a5dd-ce2204039b39&uid=13900&cuid=6888"
+     },
+     {
+      "name": "寄養家庭戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f542f2d-29eb-4b93-a5dd-ce2204039b39&uid=43052&cuid=6895"
+     },
+     {
+      "name": "寄養兒童及少年人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f542f2d-29eb-4b93-a5dd-ce2204039b39&uid=13906&cuid=6892"
+     },
+     {
+      "name": "弱勢兒童及少年扶助人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f542f2d-29eb-4b93-a5dd-ce2204039b39&uid=39937&cuid=6893"
+     },
+     {
+      "name": "弱勢兒童及少年扶助金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f542f2d-29eb-4b93-a5dd-ce2204039b39&uid=39940&cuid=6894"
+     }
+    ]
+   },
+   {
+    "name": "11-17托育機構概況",
+    "children": [
+     {
+      "name": "專業人員-托育人員數(111年~)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=709022ea-bb97-4aa0-8677-4a139a8f1ea3&uid=13946&cuid=6897"
+     }
+    ]
+   },
+   {
+    "name": "11-18婦女福利服務概況",
+    "children": [
+     {
+      "name": "婦女福利服務中心機構數(111年~)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e079a00-cffa-4500-936c-5926710587fd&uid=13950&cuid=6907"
+     },
+     {
+      "name": "新住民家庭服務中心機構數(112年起停編)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e079a00-cffa-4500-936c-5926710587fd&uid=43053&cuid=6906"
+     },
+     {
+      "name": "婦女福利服務參加總人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e079a00-cffa-4500-936c-5926710587fd&uid=26774&cuid=6904"
+     },
+     {
+      "name": "婦女福利服務辦理總次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e079a00-cffa-4500-936c-5926710587fd&uid=26775&cuid=6905"
+     }
+    ]
+   },
+   {
+    "name": "11-19特殊境遇家庭扶助服務概況",
+    "children": [
+     {
+      "name": "特殊境遇家庭扶助人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84265f5b-2d65-48fc-b7e2-8784b4d53851&uid=1609&cuid=6911"
+     },
+     {
+      "name": "特殊境遇家庭扶助金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84265f5b-2d65-48fc-b7e2-8784b4d53851&uid=1610&cuid=6912"
+     }
+    ]
+   },
+   {
+    "name": "11-20社會福利工作人員數",
+    "children": [
+     {
+      "name": "社會福利工作人員人數(111年起停編)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b44ec58-f8d9-4cde-b20e-04f0fbee7dd0&uid=25240&cuid=6913"
+     }
+    ]
+   },
+   {
+    "name": "11-21性侵害通報案件",
+    "children": [
+     {
+      "name": "通報件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6ddc01b-ae77-4fc4-a6f0-4455da03e335&uid=13629&cuid=7214"
+     },
+     {
+      "name": "被害人性別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6ddc01b-ae77-4fc4-a6f0-4455da03e335&uid=13630&cuid=7215"
+     },
+     {
+      "name": "被害人年齡",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6ddc01b-ae77-4fc4-a6f0-4455da03e335&uid=13631&cuid=7216"
+     }
+    ]
+   },
+   {
+    "name": "11-22家庭暴力通報案件",
+    "children": [
+     {
+      "name": "家庭暴力通報案件-通報件數依家庭暴力案件類型別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92bad7e4-ff37-4de3-8c30-30ebd46e2be1&uid=13632&cuid=7217"
+     },
+     {
+      "name": "家庭暴力通報案件-通報件數依被害及加害者兩造關係別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92bad7e4-ff37-4de3-8c30-30ebd46e2be1&uid=13633&cuid=7218"
+     },
+     {
+      "name": "家庭暴力通報案件-被害人依性別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92bad7e4-ff37-4de3-8c30-30ebd46e2be1&uid=13634&cuid=7219"
+     }
+    ]
+   },
+   {
+    "name": "11-23長期照顧十年計畫服務個案人數",
+    "children": [
+     {
+      "name": "居家服務個案人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf353955-e183-443f-b224-744402045ed1&uid=26809&cuid=6925"
+     },
+     {
+      "name": "日間照顧個案人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf353955-e183-443f-b224-744402045ed1&uid=25839&cuid=7561"
+     },
+     {
+      "name": "家庭托顧個案人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf353955-e183-443f-b224-744402045ed1&uid=40719&cuid=6917"
+     },
+     {
+      "name": "營養餐飲服務人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf353955-e183-443f-b224-744402045ed1&uid=26319&cuid=6919"
+     },
+     {
+      "name": "交通接送服務個案人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf353955-e183-443f-b224-744402045ed1&uid=25863&cuid=6920"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾貳、勞工行政",
+  "children": [
+   {
+    "name": "12-1勞資爭議案件",
+    "children": [
+     {
+      "name": "爭議件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e924a176-a4cf-4a98-9e32-2f88f4088434&uid=40289&cuid=6927"
+     },
+     {
+      "name": "爭議人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e924a176-a4cf-4a98-9e32-2f88f4088434&uid=40290&cuid=6928"
+     },
+     {
+      "name": "爭議終結案件件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e924a176-a4cf-4a98-9e32-2f88f4088434&uid=40203&cuid=6929"
+     }
+    ]
+   },
+   {
+    "name": "12-2勞工團體概況",
+    "children": [
+     {
+      "name": "工會數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5afacd6e-af8a-461b-8163-08ed3a61aefe&uid=40283&cuid=6930"
+     },
+     {
+      "name": "團體會員數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5afacd6e-af8a-461b-8163-08ed3a61aefe&uid=40285&cuid=6931"
+     },
+     {
+      "name": "會員人數(男性會員人數=會員人數-女性會員人數)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5afacd6e-af8a-461b-8163-08ed3a61aefe&uid=40287&cuid=6932"
+     }
+    ]
+   },
+   {
+    "name": "12-3事業單位團體協約及勞資會議現況",
+    "children": [
+     {
+      "name": "團體協約(份)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e2d94611-6ac3-49ed-b206-70de8833c294&uid=40256&cuid=6933"
+     },
+     {
+      "name": "勞資會議(家)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e2d94611-6ac3-49ed-b206-70de8833c294&uid=40258&cuid=6934"
+     }
+    ]
+   },
+   {
+    "name": "12-4勞工服務中心服務概況",
+    "children": [
+     {
+      "name": "服務性質分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ec60ad-9ac6-4621-9a2a-32e694ef6bfd&uid=670&cuid=6935"
+     },
+     {
+      "name": "服務類別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ec60ad-9ac6-4621-9a2a-32e694ef6bfd&uid=671&cuid=7194"
+     }
+    ]
+   },
+   {
+    "name": "12-5勞工教育及志願服務概況",
+    "children": [
+     {
+      "name": "提撥勞工教育經費",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=644&cuid=6936"
+     },
+     {
+      "name": "辦理勞工教育班數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=646&cuid=6937"
+     },
+     {
+      "name": "勞工刊物類型",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=648&cuid=6938"
+     },
+     {
+      "name": "勞工志願服務隊數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=649&cuid=6940"
+     },
+     {
+      "name": "勞工志願服務人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=28437&cuid=6939"
+     },
+     {
+      "name": "勞工志願服務總時數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=652&cuid=6942"
+     },
+     {
+      "name": "勞工志願服務總人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=651&cuid=6941"
+     },
+     {
+      "name": "勞工志願服務教育訓練時數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9b956fe-bd62-4e1b-907f-38d84913bba2&uid=654&cuid=6943"
+     }
+    ]
+   },
+   {
+    "name": "12-6職工福利概況",
+    "children": [
+     {
+      "name": "已設立單位數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d57e6e69-496e-4d03-a1d9-a473cd2b4cb0&uid=43054&cuid=6947"
+     },
+     {
+      "name": "新設立單位職工福利金提撥金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d57e6e69-496e-4d03-a1d9-a473cd2b4cb0&uid=619&cuid=6945"
+     },
+     {
+      "name": "新設立單位職工福利金受益人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d57e6e69-496e-4d03-a1d9-a473cd2b4cb0&uid=620&cuid=6946"
+     }
+    ]
+   },
+   {
+    "name": "12-7勞工保險各類投保單位數及人數",
+    "children": [
+     {
+      "name": "投保單位數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f07d96e0-3e5f-4d98-a397-76d2b4d641b6&uid=13548&cuid=7195"
+     },
+     {
+      "name": "投保人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f07d96e0-3e5f-4d98-a397-76d2b4d641b6&uid=13550&cuid=7196"
+     },
+     {
+      "name": "投保人數依勞保投保單位別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f07d96e0-3e5f-4d98-a397-76d2b4d641b6&uid=13554&cuid=7197"
+     }
+    ]
+   },
+   {
+    "name": "12-8移工概況",
+    "children": [
+     {
+      "name": "移工及外國專業人員概況-產業及社福移工人數依外籍勞工別、國籍別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0bcf3953-2713-4fc2-a3d6-484668702182&uid=43055&cuid=7559"
+     }
+    ]
+   },
+   {
+    "name": "12-9人力資源調查重要結果指標",
+    "children": [
+     {
+      "name": "總人口",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13570&cuid=7198"
+     },
+     {
+      "name": "十五歲以上民間人口",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13572&cuid=7199"
+     },
+     {
+      "name": "勞動力",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13576&cuid=7200"
+     },
+     {
+      "name": "非勞動力",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13577&cuid=7201"
+     },
+     {
+      "name": "勞動力參與率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13578&cuid=7202"
+     },
+     {
+      "name": "失業率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c65f4b8a-ca50-41b5-92c0-a6a51bffa034&uid=13579&cuid=7203"
+     }
+    ]
+   },
+   {
+    "name": "12-10勞動力之年齡分配",
+    "children": [
+     {
+      "name": "勞動力(15~65歲以上)人口數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b0ca09c-5ef9-4acd-8f3a-b2563bbe5882&uid=28238&cuid=6949"
+     }
+    ]
+   },
+   {
+    "name": "12-11就業者之行業",
+    "children": [
+     {
+      "name": "行業別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=05c5f70a-a6d2-45b5-a37f-4b30ad32ddec&uid=13582&cuid=7204"
+     }
+    ]
+   },
+   {
+    "name": "12-12就業者之職業",
+    "children": [
+     {
+      "name": "職業別",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59638c7f-ace1-456e-838e-3f470c57f96c&uid=13583&cuid=7205"
+     }
+    ]
+   },
+   {
+    "name": "12-13就業者之教育程度",
+    "children": [
+     {
+      "name": "教育程度(千人)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d998f7bf-b5cf-4e12-a768-c60b88e20830&uid=28245&cuid=6950"
+     }
+    ]
+   },
+   {
+    "name": "12-14就業者之年齡分配",
+    "children": [
+     {
+      "name": "就業(15~65歲以上)人口數(千人)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1cc6ecfb-8e15-4ebc-8027-f72c406ee2e2&uid=28244&cuid=6951"
+     }
+    ]
+   },
+   {
+    "name": "12-15失業者之教育程度",
+    "children": [
+     {
+      "name": "教育程度(千人)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19bf9d8f-603b-4abe-ad4d-66f07df8320e&uid=28248&cuid=6952"
+     }
+    ]
+   },
+   {
+    "name": "12-16失業者之年齡分配",
+    "children": [
+     {
+      "name": "失業(15~65歲以上)人口數(千人)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94357410-fbe5-477b-ba84-dfc7f2a942a6&uid=28247&cuid=6953"
+     }
+    ]
+   },
+   {
+    "name": "12-17經指定填報職業災害統計之事業單位概況",
+    "children": [
+     {
+      "name": "陳報事業單位數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13588&cuid=7206"
+     },
+     {
+      "name": "僱用勞工數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13589&cuid=7207"
+     },
+     {
+      "name": "總工作日數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13590&cuid=7208"
+     },
+     {
+      "name": "總經歷工時",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13591&cuid=7209"
+     },
+     {
+      "name": "失能傷害次數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13592&cuid=7210"
+     },
+     {
+      "name": "總損失工作日數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13593&cuid=7211"
+     },
+     {
+      "name": "失能傷害嚴重率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13603&cuid=7213"
+     },
+     {
+      "name": "失能傷害頻率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6f75182-60ee-4986-b9d7-42a4f70ac7d3&uid=13602&cuid=7212"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾參、社會治安",
+  "children": [
+   {
+    "name": "13-1刑事案件",
+    "children": [
+     {
+      "name": "發生數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6bbc03ad-1464-431c-87d4-49f1c408b0cf&uid=14101&cuid=6669"
+     },
+     {
+      "name": "破獲數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6bbc03ad-1464-431c-87d4-49f1c408b0cf&uid=14102&cuid=6670"
+     },
+     {
+      "name": "嫌疑犯人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6bbc03ad-1464-431c-87d4-49f1c408b0cf&uid=14103&cuid=6671"
+     }
+    ]
+   },
+   {
+    "name": "13-2違反社會秩序維護法案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4c582b0-052b-457e-a98d-870edb03bea9&uid=40421&cuid=6678"
+     },
+     {
+      "name": "人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4c582b0-052b-457e-a98d-870edb03bea9&uid=40423&cuid=6679"
+     }
+    ]
+   },
+   {
+    "name": "13-3經濟案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3b2b34e3-07c8-4c18-960c-fbacfa21a25c&uid=299&cuid=6684"
+     },
+     {
+      "name": "人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3b2b34e3-07c8-4c18-960c-fbacfa21a25c&uid=300&cuid=6685"
+     },
+     {
+      "name": "估計金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3b2b34e3-07c8-4c18-960c-fbacfa21a25c&uid=301&cuid=6686"
+     }
+    ]
+   },
+   {
+    "name": "13-4道路交通事故原因及傷亡人數",
+    "children": [
+     {
+      "name": "肇事原因(109年~)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e79eda8-c017-4cef-85e7-81e22810c7fe&uid=40629&cuid=6702"
+     },
+     {
+      "name": "死傷人數（30日內）",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e79eda8-c017-4cef-85e7-81e22810c7fe&uid=13201&cuid=7189"
+     }
+    ]
+   },
+   {
+    "name": "13-5消防人力及裝備",
+    "children": [
+     {
+      "name": "消防人力",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=1379&cuid=6714"
+     },
+     {
+      "name": "義勇消防人員人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40174&cuid=6715"
+     },
+     {
+      "name": "救護車輛裝備",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40107&cuid=6720"
+     },
+     {
+      "name": "消防裝備-消防衣帽鞋",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40110&cuid=6728"
+     },
+     {
+      "name": "消防裝備-空氣呼吸器",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40108&cuid=6729"
+     },
+     {
+      "name": "消防裝備-救生艇",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40109&cuid=6730"
+     },
+     {
+      "name": "消防裝備-破壞器材組",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40112&cuid=6732"
+     },
+     {
+      "name": "消防裝備-空氣壓縮機",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40113&cuid=6733"
+     },
+     {
+      "name": "消防裝備-潛水用裝備",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40114&cuid=6734"
+     },
+     {
+      "name": "消防裝備-橡皮艇",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40115&cuid=6735"
+     },
+     {
+      "name": "消防裝備-移動式幫浦",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=79b9f741-946c-4a49-8bea-a18255151a19&uid=40116&cuid=6736"
+     }
+    ]
+   },
+   {
+    "name": "13-6火災起火原因及損失情形",
+    "children": [
+     {
+      "name": "起火原因",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=1356&cuid=6747"
+     },
+     {
+      "name": "(火災)死亡人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=27357&cuid=6759"
+     },
+     {
+      "name": "(火災)受傷人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=27360&cuid=6760"
+     },
+     {
+      "name": "被毀損房屋數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=29457&cuid=6755"
+     },
+     {
+      "name": "被毀損車輛數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=1342&cuid=6749"
+     },
+     {
+      "name": "財物損失情形",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=1343&cuid=6750"
+     },
+     {
+      "name": "被災戶保險情形-保險戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=1344&cuid=6751"
+     },
+     {
+      "name": "被災戶保險情形-保險金額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd26d6b0-4029-4068-8dc7-be18d63c272d&uid=1345&cuid=6752"
+     }
+    ]
+   },
+   {
+    "name": "13-7辦理調解業務概況",
+    "children": [
+     {
+      "name": "委員總人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=599fff6e-d461-4f99-adb3-e05c309915a5&uid=677&cuid=6762"
+     },
+     {
+      "name": "結案件數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=599fff6e-d461-4f99-adb3-e05c309915a5&uid=668&cuid=6761"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾肆、家庭收支",
+  "children": [
+   {
+    "name": "14-1家庭收支主要指標",
+    "children": [
+     {
+      "name": "調查戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42576&cuid=7076"
+     },
+     {
+      "name": "每戶平均人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42577&cuid=7077"
+     },
+     {
+      "name": "每戶平均就業人數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42578&cuid=7078"
+     },
+     {
+      "name": "每戶平均所得總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42579&cuid=7079"
+     },
+     {
+      "name": "每戶平均可支配所得",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42580&cuid=7080"
+     },
+     {
+      "name": "每戶平均經常性支出",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42581&cuid=7081"
+     },
+     {
+      "name": "每戶平均消費支出",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42582&cuid=7082"
+     },
+     {
+      "name": "所得收入者平均每人可支配所得",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42583&cuid=7083"
+     },
+     {
+      "name": "平均消費傾向",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42584&cuid=7084"
+     },
+     {
+      "name": "飲食費占消費支出比率(含家外食物)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42585&cuid=7085"
+     },
+     {
+      "name": "飲食費占消費支出比率(不含家外食物)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42586&cuid=7086"
+     },
+     {
+      "name": "可支配所得高低差距倍數-五等分位",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=287e15ad-5927-4cf6-bb23-1bd70f8dab51&uid=42587&cuid=7087"
+     }
+    ]
+   },
+   {
+    "name": "14-2家庭平均每戶全年經常性收支",
+    "children": [
+     {
+      "name": "消費支出依消費支出別分",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13595&cuid=7549"
+     },
+     {
+      "name": "所得收入",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13594&cuid=7088"
+     },
+     {
+      "name": "非消費支出",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13596&cuid=7090"
+     },
+     {
+      "name": "可支配所得",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13597&cuid=7091"
+     },
+     {
+      "name": "儲蓄",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13598&cuid=7092"
+     },
+     {
+      "name": "所得總額",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a7918cc-962a-48ff-a4a5-b044fdf69211&uid=13599&cuid=7093"
+     }
+    ]
+   },
+   {
+    "name": "14-3家庭住宅及主要設備情形",
+    "children": [
+     {
+      "name": "家庭戶數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43482&cuid=7169"
+     },
+     {
+      "name": "平均建坪",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43483&cuid=7170"
+     },
+     {
+      "name": "每人居住面積",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43484&cuid=7171"
+     },
+     {
+      "name": "自有住宅率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43485&cuid=7172"
+     },
+     {
+      "name": "一般彩色電視機-普及率(~111年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13203&cuid=7101"
+     },
+     {
+      "name": "液晶、電漿電視-普及率(~111年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13204&cuid=7102"
+     },
+     {
+      "name": "彩色電視機-普及率(112年~)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=42575&cuid=7130"
+     },
+     {
+      "name": "數位影音光碟機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13205&cuid=7103"
+     },
+     {
+      "name": "攝影機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13206&cuid=7104"
+     },
+     {
+      "name": "音響-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13207&cuid=7105"
+     },
+     {
+      "name": "鋼琴(含電子琴)-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13208&cuid=7106"
+     },
+     {
+      "name": "數位相機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13209&cuid=7107"
+     },
+     {
+      "name": "電視遊樂器-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13211&cuid=7109"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13212&cuid=7110"
+     },
+     {
+      "name": "家用電腦-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13213&cuid=7111"
+     },
+     {
+      "name": "電話機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13214&cuid=7112"
+     },
+     {
+      "name": "行動電話-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13215&cuid=7113"
+     },
+     {
+      "name": "連網(使用電腦或其他設備)-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13216&cuid=7114"
+     },
+     {
+      "name": "汽車-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13217&cuid=7115"
+     },
+     {
+      "name": "機車-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13218&cuid=7116"
+     },
+     {
+      "name": "電磁爐-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13219&cuid=7117"
+     },
+     {
+      "name": "冷暖氣機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13220&cuid=7118"
+     },
+     {
+      "name": "除濕機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13221&cuid=7119"
+     },
+     {
+      "name": "洗衣機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13222&cuid=7120"
+     },
+     {
+      "name": "烘衣機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13223&cuid=7121"
+     },
+     {
+      "name": "空氣清淨機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13224&cuid=7122"
+     },
+     {
+      "name": "濾水器-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13225&cuid=7123"
+     },
+     {
+      "name": "吸塵器-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13226&cuid=7124"
+     },
+     {
+      "name": "熱水器-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13227&cuid=7125"
+     },
+     {
+      "name": "開飲機-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13228&cuid=7126"
+     },
+     {
+      "name": "微波爐-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13229&cuid=7127"
+     },
+     {
+      "name": "報紙-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13230&cuid=7128"
+     },
+     {
+      "name": "期刊雜誌-普及率",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=13231&cuid=7129"
+     },
+     {
+      "name": "一般彩色電視機-每百戶擁有數(~111年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43479&cuid=7165"
+     },
+     {
+      "name": "液晶、電漿電視-每百戶擁有數(~111年)",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43480&cuid=7166"
+     },
+     {
+      "name": "彩色電視機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43452&cuid=7139"
+     },
+     {
+      "name": "數位影音光碟機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43453&cuid=7140"
+     },
+     {
+      "name": "攝影機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43454&cuid=7141"
+     },
+     {
+      "name": "音響-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43455&cuid=7142"
+     },
+     {
+      "name": "鋼琴(含電子琴)-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43456&cuid=7143"
+     },
+     {
+      "name": "數位相機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43457&cuid=7144"
+     },
+     {
+      "name": "電視遊樂器-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43458&cuid=7145"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43459&cuid=7146"
+     },
+     {
+      "name": "家用電腦-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43460&cuid=7147"
+     },
+     {
+      "name": "電話機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43461&cuid=7148"
+     },
+     {
+      "name": "行動電話-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43462&cuid=7149"
+     },
+     {
+      "name": "汽車-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43464&cuid=7168"
+     },
+     {
+      "name": "機車-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43465&cuid=7151"
+     },
+     {
+      "name": "電磁爐-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43466&cuid=7152"
+     },
+     {
+      "name": "冷暖氣機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43467&cuid=7153"
+     },
+     {
+      "name": "除濕機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43468&cuid=7154"
+     },
+     {
+      "name": "洗衣機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43469&cuid=7155"
+     },
+     {
+      "name": "烘衣機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43470&cuid=7156"
+     },
+     {
+      "name": "空氣清淨機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43471&cuid=7157"
+     },
+     {
+      "name": "濾水器-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43472&cuid=7158"
+     },
+     {
+      "name": "吸塵器-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43473&cuid=7159"
+     },
+     {
+      "name": "熱水器-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43474&cuid=7160"
+     },
+     {
+      "name": "開飲機-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43475&cuid=7161"
+     },
+     {
+      "name": "微波爐-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43476&cuid=7162"
+     },
+     {
+      "name": "報紙-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43477&cuid=7163"
+     },
+     {
+      "name": "期刊雜誌-每百戶擁有數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabcc648-1c9b-4442-8c14-521383c075da&uid=43478&cuid=7164"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾伍、其他",
+  "children": [
+   {
+    "name": "15-1郵政機構概況",
+    "children": [
+     {
+      "name": "郵政機構數",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6bae373-6bcc-40ce-ab5c-11cfaf345de1&uid=13237&cuid=7074"
+     },
+     {
+      "name": "汽車行動郵局",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6bae373-6bcc-40ce-ab5c-11cfaf345de1&uid=44367&cuid=8419"
+     }
+    ]
+   },
+   {
+    "name": "15-2主要觀光遊憩區遊客人數",
+    "children": [
+     {
+      "name": "遊客人次",
+      "url": "https://tainan.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=abe18e0d-5685-4226-a922-2ab2a2779842&uid=13236&cuid=7075"
+     }
+    ]
+   }
+  ]
+ }
+]
