@@ -36,7 +36,9 @@
 任何 Claude session 都能直接問「OO 資料去哪裡拿、口徑是什麼」並即時取數。
 
 - 程式：`stat_mcp/server.py`（工具定義）、`index.py`（彙整索引）、`fetchers.py`（即時取數）
-- 註冊：repo 根目錄 `.mcp.json`（專案範圍，第一次開啟需核准）。啟動指令 `python stat_mcp/server.py`。
+- 註冊：**使用者層（全域）** `~/.claude.json` 的 `mcpServers.stat-hub`（絕對路徑，任何專案都能用，2026-10-04 登記；改前備份 `~/.claude.json.bak-20261004-stathub`）；
+  另有 repo 根目錄 `.mcp.json`（專案範圍，給 clone 本 repo 的同事用）。啟動指令 `python stat_mcp/server.py`。
+  ⚠ **repo 搬家要同步改 `~/.claude.json` 裡的絕對路徑**。
 - 知識來源：`資料庫/索引/來源與用表.json`（**人工維護**：來源、主題速查、案件用表、補充地雷）
   ＋各資料庫 `目錄*.json`＋`來源總表.md` 地雷表（自動解析）。改完重開 session 即生效，不用建置。
 - 工具：
