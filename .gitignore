@@ -22,3 +22,7 @@ desktop.ini
 # --- 暫存輸出 ---
 /scratch/
 /out/
+stat_mcp/.cache/
+__pycache__/
+資料庫/stat.sqlite
+資料庫/原始檔/

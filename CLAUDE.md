@@ -8,6 +8,7 @@
 
 ## 接手時先讀
 
+0. 找資料直接用 MCP 工具 **stat-hub**（`stat_search` 起手），見下方「統計資料機器人」。
 1. `README.md`（專案總覽＋兩個資料庫的選用原則）
 2. 要用哪個資料庫 → 讀該資料庫的 `操作說明.md`（**口徑與陷阱**那段一定要看）
 3. 要找哪張表 → 查該資料庫的 `目錄.md`（或程式用 `目錄.json`）
@@ -29,6 +30,49 @@
 7. **成果 docx 若使用者已手改過，只能原地修補、不可從原始檔重跑舊腳本**（會蓋掉手改）。
    原地修補的腳本要先自動備份（見 `scripts/patch_docx_嘉義農再_表2-14_2-15.py`）。
 
+## 統計資料機器人 stat-hub（MCP，2026-10-04 建立）
+
+仿 TwinkleHub 的「搜尋 → 看 metadata → 拉資料」作法，把本專案的來源知識包成 MCP 工具，
+任何 Claude session 都能直接問「OO 資料去哪裡拿、口徑是什麼」並即時取數。
+
+- 程式：`stat_mcp/server.py`（工具定義）、`index.py`（彙整索引）、`fetchers.py`（即時取數）
+- 註冊：repo 根目錄 `.mcp.json`（專案範圍，第一次開啟需核准）。啟動指令 `python stat_mcp/server.py`。
+- 知識來源：`資料庫/索引/來源與用表.json`（**人工維護**：來源、主題速查、案件用表、補充地雷）
+  ＋各資料庫 `目錄*.json`＋`來源總表.md` 地雷表（自動解析）。改完重開 session 即生效，不用建置。
+- 工具：
+
+| 類 | 工具 | 用途 |
+|---|---|---|
+| 找 | `stat_search` | 關鍵字同時查主題、案件用表、地雷、來源、3,324 個目錄細項 |
+| 找 | `stat_topic` / `stat_case_usage` / `stat_pitfalls` | 主題速查／兩案用表／口徑地雷 |
+| 看 | `stat_get_source` | 來源規格＋操作說明.md 全文 |
+| 拉 | `stat_query_dgbas` | 嘉義（01a）／臺南（06a）主計處平台 varval3 即時查詢 |
+| 拉 | `stat_afa_crops` / `stat_query_afa` | 農糧署鄉鎮×作物 |
+| 拉 | `stat_climate` | CODiS 測站逐月 → 期間氣候表（快取 7 天於 `stat_mcp/.cache/`） |
+| 拉 | `stat_cyhg_reports` | 嘉義公務統計報表清冊（表號／期別） |
+| 拉 | `stat_list_local_files` / `stat_read_local` | 讀案件已歸檔的原始報表 |
+
+| 庫 | `stat_db_harvest` | 自動下載→解析→入庫：`agrstat`（qcode 全選）、`fa`（漁業署年報分包）、`tainan`（臺南年報各章 ODS） |
+| 庫 | `stat_agrstat_meta` | 看 agrstat 某 qcode 的統計量、維度、可選年度 |
+| 庫 | `stat_db_list` / `stat_db_find` / `stat_db_sheet` / `stat_db_query` | 列表、關鍵字找數、看原始格子、唯讀 SQL |
+
+### 本機統計資料庫 `資料庫/stat.sqlite`（2026-10-04）
+
+- 程式：`stat_mcp/harvest.py`（三個抓取器，亦可 CLI：`python stat_mcp/harvest.py agrstat AB01 104 114`／`fa 114 7`／`tainan 114 04`）、
+  `stat_mcp/store.py`（SQLite 結構＋通用表格解析器）。
+- 表：`datasets`（網址、sha256、本機原始檔）→ `sheets`（原始格子 raw_json）→ `facts`（長表 row_label × col_label → value，推定 year／area）。
+- **`stat.sqlite` 與 `資料庫/原始檔/` 不進版控**（可由 harvest 重建）；要保存某次取數請把原始檔另存到 `案件/<案名>/原始報表/`。
+- agrstat 破解要點：統計量與維度代碼以 **AES-ECB（金鑰 `2025000000000000`，寫在頁面 JS）** 加密於隱藏欄位；
+  全選＝解密→Selected=true→把各維度 OriginCodeArray 塞進 `hidInquireGroup`（Position/SerialNo 用 Default 值）→
+  補 `chkYearData=on` 與統計量 checkbox `..._ucItemCode_panCode_{SerialNo}=on` → POST `btnInquire`。結果表 `#..._tabResult`。單次上限 15,000 格，程式依年度分段。
+  平台改版（金鑰換年份等）時先在瀏覽器解 `DecryptCode` 比對。
+- 合併格依檔案內實際合併範圍填滿（ODS 讀 `number-columns/rows-spanned`、xls 用 `merged_cells`、HTML 展開 colspan/rowspan），不用猜。
+- **解析是推定的**：col_label 偶有表頭版型怪異造成的層級錯置（例：AB01「長期耕作地」掛在「短期耕作地」下）。
+  寫進書件前用 `stat_db_sheet` 對照原始格子。
+- 驗證（2026-10-04）：臺南 114 年報 04 章、漁業署 114 年 11409 下載檔與案件既存檔 **SHA-256 完全相同**；
+  AB01 嘉義縣 114 年 73,087.21／實際耕作 72,956.26／長期休閒 130.95、漁業署嘉義縣 114 年總計 6,407.57／休養 122.77 皆與取數紀錄相符。
+- ⚠ Windows 上 `pandas` 必須在 `mcp.run()` 前 import，否則服務中首次 import 會卡死（server.py 開頭已處理）。
+- 自我檢查：`python stat_mcp/index.py` 印出各來源項目數。
 ## 新增資料庫的標準流程
 
 1. 使用者給深層網址 → 往上找平台入口（麵包屑／logo／網站導覽）。
@@ -37,6 +81,7 @@
    - 農業部：左側選單只展開當前大類 → 每個大類各開一頁（`AA01/BA01/CA01/DB01/EA01/FA01/HA01`）
 3. 寫 `操作說明.md`，務必記錄：網站層級、查詢頁操作、**空間解析度／精度／最新年度／與其他來源的差異**。
 4. 能 script 化的放 `scripts/`。
+5. 在 `資料庫/索引/來源與用表.json` 登記來源（及主題速查），stat-hub 才找得到。
 
 ## 版本控制（2026-09-22 起）
 

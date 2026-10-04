@@ -1,0 +1,337 @@
+"""統計資料機器人（stat-hub）MCP server。
+
+仿 TwinkleHub 的「先搜尋 → 看 metadata → 拉資料」流程，對象是本專案收錄的
+嘉義農再、臺南農再用過的全部統計來源：
+
+  找：stat_search / stat_topic / stat_case_usage / stat_pitfalls
+  看：stat_get_source（含該來源 操作說明.md 全文：網站層級、口徑與陷阱）
+  拉：stat_query_dgbas（嘉義/臺南主計處平台）、stat_query_afa（農糧署鄉鎮×作物）、
+      stat_climate（CODiS 測站期間統計）、stat_cyhg_reports（嘉義公務統計報表清冊）、
+      stat_read_local（案件已歸檔的原始報表）
+
+啟動：python stat_mcp/server.py   （stdio；由 .mcp.json 註冊）
+"""
+import json
+import re
+import sys
+from pathlib import Path
+
+import pandas  # noqa: F401  ← 必須在 mcp.run() 前載入：Windows 上於 stdio 服務中才首次 import pandas 會卡死
+from mcp.server.fastmcp import FastMCP
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fetchers  # noqa: E402
+import harvest  # noqa: E402
+import store  # noqa: E402
+from index import ROOT, build_index  # noqa: E402
+
+INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡拿、口徑是什麼、怎麼取數」，並可即時向政府平台取數。
+涵蓋 16 個來源（嘉義縣/臺南市主計處、農業部統計處、漁業署、農糧署、氣象署、臺南市農業局、data.gov.tw，
+以及無公開來源時的索取窗口 X1–X4）、3,300+ 個平台目錄細項、兩案（嘉義農再、臺南農再）實際用表與口徑地雷。
+
+典型流程：
+1. stat_search("關鍵字") 找候選：同時回主題速查、案件用表、地雷、來源、目錄細項（細項附查詢網址）。
+   不確定該用哪個來源時先 stat_topic("主題", region)。
+2. stat_get_source(id) 看來源規格與操作說明（口徑與陷阱段一定要讀）。
+3. 拉資料：
+   - 01a/06a 目錄細項的 varval3 網址 → stat_query_dgbas(url, years, areas)
+   - 鄉鎮×作物 → stat_afa_crops(類別) 取代號 → stat_query_afa(...)
+   - 氣候表 → stat_climate(測站, 起年, 迄年)
+   - 嘉義公務統計報表有哪些表號／期別 → stat_cyhg_reports(機關代碼, 年度)
+   - 已歸檔原始報表 → stat_list_local_files → stat_read_local
+
+鐵律（回答時要提醒使用者）：
+- 寫進書件的縣內數字走「公務統計報表」原始小數（01b、06b）；01a 資料庫查詢平台把小數四捨五入掉了，只適合看趨勢。
+- 同一張表不可混用來源；改書件前先用新來源回測書中既有年度，逐格相符才寫新年度。
+- 農業部 AB04 水產養殖「養殖合計」不含休養；年報/漁業署「總計」含休養。
+
+本機統計資料庫（資料庫/stat.sqlite）：
+- 02 農業部統計處（qcode 全選查詢）、03 漁業署年報（分包 zip）、06b 臺南市統計年報（各章 ODS）可自動下載解析入庫：
+  stat_db_harvest → stat_db_list／stat_db_find 找表 → stat_db_sheet 看原始格子 → stat_db_query 用 SQL 取數。
+- facts 的 col_label／year／area 是解析器推定的；寫進書件前一定要用 stat_db_sheet 對照原始格子。
+"""
+
+mcp = FastMCP("stat-hub", instructions=INSTRUCTIONS)
+_IDX = None
+
+
+def idx():
+    global _IDX
+    if _IDX is None:
+        _IDX = build_index()
+    return _IDX
+
+
+def _terms(q):
+    return [t for t in (q or "").lower().split() if t]
+
+
+def _hit(text, terms):
+    low = text.lower()
+    return all(t in low for t in terms)
+
+
+def _region_ok(src_id, region):
+    if not region or region == "全部":
+        return True
+    s = next((x for x in idx()["sources"] if x["id"] == src_id), None)
+    if not s:
+        return True
+    if region.startswith("全國"):
+        return s["地區"].startswith("全國")
+    return s["地區"] == region.replace("台", "臺")
+
+
+def _src_brief(s):
+    return {k: s.get(k) for k in ("id", "名稱", "機關", "地區", "空間解析度", "精度", "最新年度", "網址")}
+
+
+@mcp.tool()
+def stat_search(query: str, region: str = "全部", kinds: list[str] | None = None, limit: int = 30) -> dict:
+    """關鍵字搜尋全部統計來源知識（空白分隔＝同時符合）。
+
+    query: 中文關鍵字、表號或代碼，如「養殖」「家禽 臺南」「20351」「AB04」「氣溫」。
+    region: 全部｜嘉義縣｜臺南市｜全國（只影響來源與目錄細項）。
+    kinds: 限定類別子集 ["topic","usage","pitfall","source","item"]，預設全部。
+    limit: 目錄細項最多回幾筆。
+    回傳各類命中；目錄細項的 url 可直接丟給 stat_query_dgbas（01a/06a）或給使用者開。
+    """
+    d, t = idx(), _terms(query)
+    kinds = set(kinds or ["topic", "usage", "pitfall", "source", "item"])
+    out = {}
+    if "topic" in kinds:
+        out["主題速查"] = [x for x in d["topics"] if _hit(" ".join(x.values()), t)]
+    if "usage" in kinds:
+        out["案件用表"] = [x for x in d["usage"] if _hit(" ".join(x.values()), t)]
+    if "pitfall" in kinds:
+        out["口徑地雷"] = [x for x in d["pitfalls"] if _hit(x["地雷"] + " " + x["說明"], t)]
+    if "source" in kinds:
+        out["來源"] = [_src_brief(s) for s in d["sources"]
+                     if _region_ok(s["id"], region) and _hit(json.dumps(s, ensure_ascii=False), t)]
+    if "item" in kinds:
+        names = {s["id"]: s["名稱"] + s["機關"] + s["地區"] for s in d["sources"]}
+        hits = [i for i in d["items"]
+                if _region_ok(i["s"], region) and _hit(" ".join([i["n"], i["p"], i["c"], names.get(i["s"], "")]), t)]
+        out["目錄細項_總數"] = len(hits)
+        out["目錄細項"] = [{"id": i["id"], "來源": i["s"], "名稱": i["n"], "代碼": i["c"], "路徑": i["p"], "url": i["u"]}
+                       for i in hits[:limit]]
+    return {k: v for k, v in out.items() if v not in ([], None)} or {"結果": f"查無「{query}」，試同義詞（養殖／魚塭、家禽／雞、雨量／降水）"}
+
+
+@mcp.tool()
+def stat_get_source(source_id: str, include_guide: bool = True) -> dict:
+    """取得單一來源的完整規格：入口網址、解析度、精度、最新年度、適合查什麼、相關腳本，
+    以及該來源 操作說明.md 全文（網站層級、查詢操作、口徑與陷阱）。
+    source_id: 01a 01b 01c 02 03 04 05a 05b 06a 06b 07 08 X1–X4（可先 stat_search 取得）。"""
+    s = next((x for x in idx()["sources"] if x["id"].lower() == source_id.lower()), None)
+    if not s:
+        return {"錯誤": "查無來源", "可用": [x["id"] + " " + x["名稱"] for x in idx()["sources"]]}
+    out = dict(s)
+    out["目錄細項數"] = sum(1 for i in idx()["items"] if i["s"] == s["id"])
+    out["相關地雷"] = [p for p in idx()["pitfalls"] if p.get("來源") == s["id"]]
+    out["用過的案件表"] = [u for u in idx()["usage"] if u["來源"] == s["id"]]
+    if include_guide and s.get("說明檔"):
+        out["操作說明全文"] = (ROOT / s["說明檔"]).read_text(encoding="utf-8")
+    return out
+
+
+@mcp.tool()
+def stat_topic(query: str = "", region: str = "全部") -> list[dict]:
+    """主題速查：某類資料（耕地、養殖、畜牧、作物、稻米、氣候、灌溉、重劃、非都市土地、農機林漁、人口）
+    在嘉義縣／臺南市／全國各該去哪個來源、哪個表號拿。query 空白回全部主題。"""
+    cols = ["嘉義縣", "臺南市", "全國／跨縣市"] if region in ("", "全部") else [
+        "全國／跨縣市" if region.startswith("全國") else region.replace("台", "臺")]
+    t = _terms(query)
+    return [{"主題": x["主題"], **{c: x[c] for c in cols}} for x in idx()["topics"] if _hit(" ".join(x.values()), t)]
+
+
+@mcp.tool()
+def stat_case_usage(case: str = "", query: str = "") -> list[dict]:
+    """案件實際用過的表：表號、來源、更新狀態、回測與口徑備註。
+    case: 嘉義農再｜臺南農再｜空白＝全部；query: 再以關鍵字過濾（如 表2-9、養殖、待辦）。"""
+    t = _terms(query)
+    return [u for u in idx()["usage"] if (not case or case.replace("台", "臺") in u["案件"]) and _hit(" ".join(u.values()), t)]
+
+
+@mcp.tool()
+def stat_pitfalls(query: str = "") -> list[dict]:
+    """跨來源口徑地雷清單（休養口徑、平年值 vs 自算、表號改制、ODS 分頁、遮蔽值…）。query 空白回全部。"""
+    t = _terms(query)
+    return [p for p in idx()["pitfalls"] if _hit(p["地雷"] + " " + p["說明"], t)]
+
+
+@mcp.tool()
+def stat_query_dgbas(url: str, years: list[int] | None = None, areas: list[str] | None = None, max_rows: int = 300) -> dict:
+    """即時查詢嘉義縣（01a）或臺南市（06a）主計處資料庫查詢平台的統計項目。
+
+    url: stat_search 目錄細項的 varval3.aspx 網址。
+    years: 年度，民國或西元皆可（如 [113,114]）；空白＝全部年度。
+    areas: 地區名稱片段（如 ["嘉義縣","民雄"]、["臺南市","新營"]）；空白＝全部。
+    ⚠ 01a 嘉義平台數值已四捨五入成整數，不可直接寫進書件（改走公務統計報表 01b）。"""
+    r = fetchers.dgbas_query(url, years, areas)
+    total = len(r["rows"])
+    r["rows"] = r["rows"][:max_rows]
+    r["total_rows"] = total
+    if "cyhg" in url:
+        r["提醒"] = "嘉義資料庫查詢平台已四捨五入；書件數字請改抓公務統計報表（stat_cyhg_reports 查表號）"
+    return r
+
+
+@mcp.tool()
+def stat_afa_crops(category: str) -> dict:
+    """農糧署作物代號清單。category: 01雜糧 02蔬菜 03果品 04牧草 05特用作物 06花卉 07綠肥 08其他。
+    農糧署沒有類別合計，類別值要自己加總代號（蔬菜要剔除菇類 951 以後；柑橘類＝603–618）。"""
+    return {"類別": fetchers.AFA_CATS.get(category, category), "作物": fetchers.afa_crops(category)}
+
+
+@mcp.tool()
+def stat_query_afa(year: int, county: str, category: str, crop: str, season: str = "03") -> dict:
+    """即時查詢農糧署農情報告資源網「鄉鎮作物」：某年×縣市×作物 的各鄉鎮種植／收穫面積與收量。
+
+    year: 民國年（86–114）；county: 縣市全名，如 嘉義縣、臺南市；
+    category: 作物類別碼（01–08）；crop: 作物代號（stat_afa_crops 查）；
+    season: 00裡作 01一期作 02二期作 03全年作（預設）。"""
+    rows = fetchers.afa_query(year, county, category, crop, season)
+    return {"year": year, "county": county, "crop": crop, "rows": rows,
+            "note": "收量單位為公斤；書件多用公噸（÷1000）。製糖甘蔗不在此站（台糖提供）。"}
+
+
+@mcp.tool()
+def stat_climate(station_id: str, start_year: int, end_year: int, refresh: bool = False) -> dict:
+    """CODiS 測站逐月觀測 → 指定期間氣候統計表（月均最高/平均/最低溫、降水中位數、日照），
+    並回報缺測月份。常用測站：臺南 467410、嘉義 467480。資料快取 7 天，refresh=True 強制重抓。
+    ⚠ 官方 30 年平年值（1991–2020）有補遺，降水量會與自算值差很多；換統計期間要在書件註明。"""
+    return fetchers.climate_stats(station_id, start_year, end_year, refresh)
+
+
+@mcp.tool()
+def stat_cyhg_reports(office: str = "3007", year: str = "", query: str = "") -> dict:
+    """即時查詢嘉義縣「公務統計報表查詢」的報表清冊（表號、表名、格式、期別）。
+    office: 機關代碼（農業處 3007、民政處 3002、地政處 3008、社會局 5007…）；year: 民國年，空白＝最新；
+    query: 表名關鍵字再過濾。⚠ 表號在 113／114 年改制，舊表號查新年度會查無資料。
+    下載報表本體請到 https://cyhg.dgbas.gov.tw/statweb/Page/stat08.aspx 以表號查詢。"""
+    r = fetchers.cyhg_report_list(office, year)
+    t = _terms(query)
+    r["rows"] = [x for x in r["rows"] if _hit(x["no"] + " " + x["name"], t)]
+    return r
+
+
+@mcp.tool()
+def stat_list_local_files(filter: str = "") -> list[dict]:
+    """列出案件資料夾已歸檔的原始報表與中繼資料（ods/xlsx/xls/csv/json/pdf）。filter: 路徑片段，如 嘉義、臺南、2241。"""
+    return fetchers.list_local(filter)
+
+
+@mcp.tool()
+def stat_read_local(path: str, sheet: str | None = None, max_rows: int = 200) -> dict:
+    """讀取已歸檔的原始報表。試算表不給 sheet 時先回分頁清單。
+    path: stat_list_local_files 回傳的 repo 相對路徑。"""
+    return fetchers.read_local(path, sheet, max_rows)
+
+
+# ====================================================================== 本機統計資料庫
+@mcp.tool()
+def stat_db_harvest(source: str, year: int | None = None, qcode: str = "", year_begin: int | None = None,
+                    year_end: int | None = None, parts: list[str] | None = None) -> dict:
+    """自動上網下載 → 解析 → 存入本機統計資料庫（同一資料集重抓即覆蓋）。
+
+    source="agrstat"：農業部統計處，需 qcode（如 AB01、AB04、CC05），year_begin～year_end 民國年（預設近 11 年）。
+        所有統計量與維度全選；超過平台 15,000 格上限會自動依年度分段。先用 stat_agrstat_meta 看維度。
+    source="fa"：漁業署漁業統計年報，year＝民國年，parts＝分包號（預設 ["7"] 漁業生產量／水產養殖面積）。
+    source="tainan"：臺南市統計年報，year＝民國年，parts＝章號（預設 ["04"] 農林漁牧；01土地、02人口…）。
+    原始檔存 資料庫/原始檔/，datasets 表記錄網址與 sha256。"""
+    if source == "agrstat":
+        if not qcode:
+            return {"錯誤": "需要 qcode"}
+        ye = year_end or 114
+        return harvest.harvest_agrstat(qcode.upper(), year_begin or ye - 10, ye)
+    if source == "fa":
+        return {"results": harvest.harvest_fa(year, [int(p) for p in (parts or ["7"])])}
+    if source == "tainan":
+        return {"results": harvest.harvest_tainan(year, parts or ["04"])}
+    return {"錯誤": "source 只接受 agrstat／fa／tainan"}
+
+
+@mcp.tool()
+def stat_agrstat_meta(qcode: str) -> dict:
+    """農業部統計處某 qcode 的統計量、維度與各維度項目、可選年度（不查資料，用來判斷要不要入庫、格數多大）。"""
+    return harvest.agrstat_meta(qcode.upper())
+
+
+def _ro():
+    import sqlite3
+    if not store.DB_PATH.exists():
+        raise ValueError("本機統計資料庫尚未建立，先用 stat_db_harvest 入庫")
+    return sqlite3.connect(f"file:{store.DB_PATH.as_posix()}?mode=ro", uri=True)
+
+
+@mcp.tool()
+def stat_db_list(query: str = "") -> list[dict]:
+    """列出已入庫的資料集與工作表（sheet_id、表名、筆數、取得時間、原始檔）。query 以關鍵字過濾表名／分頁名。"""
+    con = _ro()
+    rows = con.execute("""SELECT d.dataset_id, d.source, d.title, d.year, d.fetched_at, d.local_path,
+                                 s.sheet_id, s.sheet_name, s.title, s.unit, s.n_facts
+                          FROM sheets s JOIN datasets d USING(dataset_id) ORDER BY d.dataset_id, s.sheet_id""").fetchall()
+    t = _terms(query)
+    out = []
+    for r in rows:
+        if _hit(" ".join(str(x) for x in r), t):
+            out.append({"dataset_id": r[0], "來源": r[1], "資料集": r[2], "年度": r[3], "取得時間": r[4], "原始檔": r[5],
+                        "sheet_id": r[6], "分頁": r[7], "表名": r[8], "單位": r[9], "數值筆數": r[10]})
+    return out
+
+
+@mcp.tool()
+def stat_db_find(query: str, year: int | None = None, area: str = "", source: str = "", limit: int = 100) -> dict:
+    """在已入庫的數值中找資料：query 關鍵字（空白分隔＝同時符合）比對 分頁名＋表名＋列標籤＋欄標籤。
+    year：民國年；area：地區（如 嘉義縣、新營區）；source：02／03／06b。
+    回傳每筆的 sheet_id、列欄標籤、數值與原始字樣。"""
+    con = _ro()
+    sql = """SELECT f.sheet_id, s.sheet_name, s.title, f.row_label, f.col_label, f.year, f.area, f.value, f.raw, s.unit
+             FROM facts f JOIN sheets s USING(sheet_id) WHERE 1=1"""
+    args = []
+    for term in _terms(query):
+        sql += " AND (lower(s.sheet_name||' '||coalesce(s.title,'')||' '||f.row_label||' '||f.col_label) LIKE ?)"
+        args.append(f"%{term}%")
+    if year is not None:
+        sql += " AND f.year=?"; args.append(year)
+    if area:
+        sql += " AND (f.area LIKE ? OR f.row_label LIKE ? OR f.col_label LIKE ?)"; args += [f"%{area}%"] * 3
+    if source:
+        sql += " AND f.source=?"; args.append(source)
+    rows = con.execute(sql + " LIMIT ?", args + [limit + 1]).fetchall()
+    keys = ["sheet_id", "分頁", "表名", "列", "欄", "年度", "地區", "數值", "原始", "單位"]
+    return {"筆數": min(len(rows), limit), "還有更多": len(rows) > limit, "rows": [dict(zip(keys, r)) for r in rows[:limit]]}
+
+
+@mcp.tool()
+def stat_db_sheet(sheet_id: int, start_row: int = 0, max_rows: int = 80, max_cols: int = 40) -> dict:
+    """看某工作表的原始格子（合併格已填滿），用來核對解析出來的欄位對應。"""
+    con = _ro()
+    r = con.execute("SELECT dataset_id, sheet_name, title, unit, n_header, n_label, raw_json FROM sheets WHERE sheet_id=?",
+                    (sheet_id,)).fetchone()
+    if not r:
+        return {"錯誤": "查無 sheet_id"}
+    grid = json.loads(r[6])
+    return {"dataset_id": r[0], "分頁": r[1], "表名": r[2], "單位": r[3], "表頭列數": r[4], "標籤欄數": r[5],
+            "總列數": len(grid), "rows": [row[:max_cols] for row in grid[start_row:start_row + max_rows]]}
+
+
+@mcp.tool()
+def stat_db_query(sql: str, limit: int = 500) -> dict:
+    """唯讀 SQL 查詢本機統計資料庫（SQLite）。表：
+    datasets(dataset_id, source, title, year, url, local_path, sha256, fetched_at, note)
+    sheets(sheet_id, dataset_id, sheet_name, title, unit, n_header, n_label, n_facts, raw_json)
+    facts(sheet_id, dataset_id, source, row_no, col_no, row_label, col_label, year, area, value, raw)
+    例：SELECT row_label, col_label, value FROM facts WHERE dataset_id='agrstat:AB01' AND area='嘉義縣' AND year=114"""
+    if not re.match(r"^\s*(select|with)\b", sql, re.I):
+        return {"錯誤": "只允許 SELECT／WITH"}
+    con = _ro()
+    cur = con.execute(sql)
+    cols = [d[0] for d in cur.description]
+    rows = cur.fetchmany(limit + 1)
+    return {"columns": cols, "rows": [list(r) for r in rows[:limit]], "truncated": len(rows) > limit}
+
+
+if __name__ == "__main__":
+    mcp.run()

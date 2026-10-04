@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "stat-hub": {
+      "command": "python",
+      "args": ["stat_mcp/server.py"]
+    }
+  }
+}
