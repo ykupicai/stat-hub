@@ -21,6 +21,7 @@ import math
 import re
 import sys
 import zipfile
+from urllib.parse import urljoin
 from pathlib import Path
 
 import requests
@@ -244,11 +245,11 @@ def harvest_tainan(year, chapters=("04",)):
     d = LH.fromstring(s.get(purl, timeout=60).text)
     chap, odss = None, {}
     for a in d.xpath("//a[@href]"):
-        t, h = a.text_content().strip(), a.get("href")
+        t, h = a.text_content().strip(), urljoin(purl, a.get("href"))
         m = re.match(r"^(\d{2})\s*(\S+)", t)
-        if m and "relfile" in h:
+        if m and re.search(r"relfile|Download|attachment", h):
             chap = (m.group(1), m.group(2))
-        elif chap and t.startswith("資料表") and h.lower().endswith(".ods"):
+        elif chap and t.startswith("資料表") and ".ods" in h.lower():
             odss[chap[0]] = (chap[1], h)
     con = store.connect()
     results = []

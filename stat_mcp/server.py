@@ -47,7 +47,8 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
 
 本機統計資料庫（資料庫/stat.sqlite）：
 - 02 農業部統計處（qcode 全選查詢）、03 漁業署年報（分包 zip）、06b 臺南市統計年報（各章 ODS）可自動下載解析入庫：
-  stat_db_harvest → stat_db_list／stat_db_find 找表 → stat_db_sheet 看原始格子 → stat_db_query 用 SQL 取數。
+  一般用 stat_fetch（用到才下載：已入庫直接查、沒有就當場抓）；stat_search 會標示「已入庫」與每年格數。
+  手動控制：stat_db_harvest → stat_db_list／stat_db_find 找表 → stat_db_sheet 看原始格子 → stat_db_query 用 SQL 取數。
 - facts 的 col_label／year／area 是解析器推定的；寫進書件前一定要用 stat_db_sheet 對照原始格子。
 """
 
@@ -86,6 +87,27 @@ def _src_brief(s):
     return {k: s.get(k) for k in ("id", "名稱", "機關", "地區", "空間解析度", "精度", "最新年度", "網址")}
 
 
+def _loaded_ids():
+    if not store.DB_PATH.exists():
+        return set()
+    try:
+        return {r[0] for r in _ro().execute("SELECT dataset_id || '|' || coalesce(note,'') FROM datasets")}
+    except Exception:  # noqa: BLE001
+        return set()
+
+
+def _is_loaded(item, loaded):
+    c = item["c"]
+    if item["s"] == "02":
+        return any(x.startswith(f"agrstat:{c}|") for x in loaded)
+    if c.startswith("fa:") and c.count(":") == 2:
+        _, y, part = c.split(":")
+        return any(x.startswith(f"fa:{y}:") and f"|第{part}包" in x for x in loaded)
+    if c.startswith("tainan:"):
+        return any(x.startswith(c + "|") for x in loaded)
+    return False
+
+
 @mcp.tool()
 def stat_search(query: str, region: str = "全部", kinds: list[str] | None = None, limit: int = 30) -> dict:
     """關鍵字搜尋全部統計來源知識（空白分隔＝同時符合）。
@@ -111,10 +133,20 @@ def stat_search(query: str, region: str = "全部", kinds: list[str] | None = No
     if "item" in kinds:
         names = {s["id"]: s["名稱"] + s["機關"] + s["地區"] for s in d["sources"]}
         hits = [i for i in d["items"]
-                if _region_ok(i["s"], region) and _hit(" ".join([i["n"], i["p"], i["c"], names.get(i["s"], "")]), t)]
+                if _region_ok(i["s"], region) and _hit(" ".join([i["n"], i["p"], i["c"], i.get("k", ""), names.get(i["s"], "")]), t)]
+        # 表名直接命中的排前面，只靠維度項目命中的排後面
+        hits.sort(key=lambda i: 0 if _hit(" ".join([i["n"], i["p"], i["c"]]), t) else 1)
+        loaded = _loaded_ids()
         out["目錄細項_總數"] = len(hits)
-        out["目錄細項"] = [{"id": i["id"], "來源": i["s"], "名稱": i["n"], "代碼": i["c"], "路徑": i["p"], "url": i["u"]}
-                       for i in hits[:limit]]
+        out["目錄細項"] = []
+        for i in hits[:limit]:
+            row = {"id": i["id"], "來源": i["s"], "名稱": i["n"], "代碼": i["c"], "路徑": i["p"], "url": i["u"]}
+            if i.get("meta"):
+                row.update(i["meta"])
+            if i["s"] in ("02", "03", "06b"):
+                row["已入庫"] = _is_loaded(i, loaded)
+                row["取數"] = "stat_fetch 會自動下載入庫" if not row["已入庫"] else "stat_fetch 直接查庫"
+            out["目錄細項"].append(row)
     return {k: v for k, v in out.items() if v not in ([], None)} or {"結果": f"查無「{query}」，試同義詞（養殖／魚塭、家禽／雞、雨量／降水）"}
 
 
@@ -331,6 +363,67 @@ def stat_db_query(sql: str, limit: int = 500) -> dict:
     cols = [d[0] for d in cur.description]
     rows = cur.fetchmany(limit + 1)
     return {"columns": cols, "rows": [list(r) for r in rows[:limit]], "truncated": len(rows) > limit}
+
+@mcp.tool()
+def stat_fetch(source: str, qcode: str = "", year: int | None = None, year_begin: int | None = None,
+               year_end: int | None = None, part: str = "", query: str = "", area: str = "",
+               refresh: bool = False, limit: int = 200) -> dict:
+    """「用到才下載」取數：資料庫已有就直接查；沒有（或年度不夠）就當場上網下載、解析、入庫後再查。
+
+    source="agrstat"：qcode 必填；year_begin～year_end 民國年（預設該表最近 11 年）。
+    source="fa"：year（民國年）、part（分包號，預設 "7" 漁業生產量／水產養殖面積）。
+    source="tainan"：year（民國年）、part（章號，預設 "04" 農林漁牧）。
+    query／area：在取回的數值中再以關鍵字、地區過濾（同 stat_db_find）。refresh=True 強制重抓。
+    先用 stat_search 找 qcode／分包／章；回傳的 sheet_id 可用 stat_db_sheet 核對原始格子。"""
+    import sqlite3
+    downloaded = None
+    con = store.connect()
+    if source == "agrstat":
+        q = qcode.upper()
+        st = next((i.get("meta") for i in idx()["items"] if i["s"] == "02" and i["c"] == q), None)
+        last = int(st["年度"].split("~")[1]) if st and st.get("年度") else 114
+        yb, ye = year_begin or last - 10, year_end or last
+        row = con.execute("SELECT note FROM datasets WHERE dataset_id=?", (f"agrstat:{q}",)).fetchone()
+        have = re.match(r"(\d+)-(\d+)", row[0]) if row and row[0] else None
+        if refresh or not have or int(have.group(1)) > yb or int(have.group(2)) < ye:
+            if have and not refresh:  # 與既有範圍合併，避免縮小
+                yb, ye = min(yb, int(have.group(1))), max(ye, int(have.group(2)))
+            downloaded = harvest.harvest_agrstat(q, yb, ye)
+        ds_filter, args = "f.dataset_id=?", [f"agrstat:{q}"]
+        if year_begin or year_end:
+            ds_filter += " AND f.year BETWEEN ? AND ?"
+            args += [year_begin or 0, year_end or 999]
+    elif source == "fa":
+        y, pk = int(year), str(part or "7")
+        n = con.execute("SELECT count(*) FROM datasets WHERE dataset_id LIKE ? AND note LIKE ?",
+                        (f"fa:{y}:%", f"第{pk}包%")).fetchone()[0]
+        if refresh or not n:
+            downloaded = harvest.harvest_fa(y, [int(pk)])
+        ds_filter = "f.dataset_id IN (SELECT dataset_id FROM datasets WHERE dataset_id LIKE ? AND note LIKE ?)"
+        args = [f"fa:{y}:%", f"第{pk}包%"]
+    elif source == "tainan":
+        y, c = int(year), f"{int(part or 4):02d}"
+        n = con.execute("SELECT count(*) FROM datasets WHERE dataset_id=?", (f"tainan:{y}:{c}",)).fetchone()[0]
+        if refresh or not n:
+            downloaded = harvest.harvest_tainan(y, [c])
+        ds_filter, args = "f.dataset_id=?", [f"tainan:{y}:{c}"]
+    else:
+        return {"錯誤": "source 只接受 agrstat／fa／tainan"}
+    con.close()
+    sql = f"""SELECT f.sheet_id, s.sheet_name, s.title, f.row_label, f.col_label, f.year, f.area, f.value, f.raw, s.unit
+              FROM facts f JOIN sheets s USING(sheet_id) WHERE {ds_filter}"""
+    for term in _terms(query):
+        sql += " AND (lower(s.sheet_name||' '||coalesce(s.title,'')||' '||f.row_label||' '||f.col_label) LIKE ?)"
+        args.append(f"%{term}%")
+    if area:
+        sql += " AND (f.area LIKE ? OR f.row_label LIKE ? OR f.col_label LIKE ?)"
+        args += [f"%{area}%"] * 3
+    rows = _ro().execute(sql + " ORDER BY f.sheet_id, f.row_no, f.col_no LIMIT ?", args + [limit + 1]).fetchall()
+    keys = ["sheet_id", "分頁", "表名", "列", "欄", "年度", "地區", "數值", "原始", "單位"]
+    sheets = sorted({r[0] for r in rows})
+    return {"本次下載": downloaded or "否（資料庫已有）", "筆數": min(len(rows), limit), "還有更多": len(rows) > limit,
+            "sheet_ids": sheets[:50], "rows": [dict(zip(keys, r)) for r in rows[:limit]],
+            "提醒": "欄位標籤為解析器推定，寫進書件前用 stat_db_sheet 對照原始格子"}
 
 
 if __name__ == "__main__":

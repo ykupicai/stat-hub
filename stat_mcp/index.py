@@ -103,11 +103,31 @@ def build_items():
     for no, a in agg.items():
         per = "、".join(sorted(set(a["periods"])))
         items.append({"s": "01b", "p": f"{a['office']} > 期別 {per}", "n": a["name"], "c": no, "u": CYHG_STAT08})
-    # 02 農業部統計處
+    # 02 農業部統計處（有 結構.json 時附上統計量／維度／項目當搜尋關鍵字）
+    struct_p = DB / "02_農業部統計處_農業統計業務查詢" / "結構.json"
+    struct = load(struct_p)["tables"] if struct_p.exists() else {}
     for cat, subs in load(DB / "02_農業部統計處_農業統計業務查詢" / "目錄.json").items():
         for sub, rows in subs.items():
             for q, n in rows:
-                items.append({"s": "02", "p": f"{cat} > {sub}", "n": n, "c": q, "u": AGRSTAT_Q.format(q)})
+                it = {"s": "02", "p": f"{cat} > {sub}", "n": n, "c": q, "u": AGRSTAT_Q.format(q)}
+                st = struct.get(q)
+                if st and "error" not in st:
+                    it["k"] = " ".join(st["measures"] + [d["name"] + " " + " ".join(d["items"]) for d in st["dims"]])
+                    it["meta"] = {"年度": st["years"], "統計量": st["measures"],
+                                  "維度": {d["name"]: len(d["items"]) for d in st["dims"]},
+                                  "每年格數": st["cells_per_year"], "可一次下載": st["fits_one_year"]}
+                items.append(it)
+    # 03 漁業署、06b 臺南市統計年報 各年度可下載的分包／章（年報結構.json）
+    rel_p = DB / "索引" / "年報結構.json"
+    rel = load(rel_p) if rel_p.exists() else {"fa": {}, "tainan": {}}
+    for y, v in rel.get("fa", {}).items():
+        for f in v["files"]:
+            items.append({"s": "03", "p": f"漁業統計年報 > 民國{y}年", "n": f"{f['name']}（{f['type']} {f['size']}）",
+                          "c": f"fa:{y}:{f['part']}" if f["part"] else f"fa:{y}", "u": f["url"]})
+    for y, v in rel.get("tainan", {}).items():
+        for c, ch in v["chapters"].items():
+            items.append({"s": "06b", "p": f"臺南市統計年報 > {y}年", "n": f"{c}{ch['name']}" + ("（資料表 ODS）" if ch.get("data") else "（僅 PDF）"),
+                          "c": f"tainan:{y}:{c}", "u": ch.get("data") or ch.get("pdf", "")})
     # 06a 臺南三個目錄
     for fn, label in [("目錄_統計年報查詢平臺.json", "統計年報查詢平臺"),
                       ("目錄_內部報表年資料.json", "內部報表(年)"),
