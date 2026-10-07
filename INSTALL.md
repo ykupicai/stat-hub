@@ -5,8 +5,10 @@ stat-hub 是本專案的「統計資料機器人」MCP server：在 Claude 裡�
 
 ## 1. 取得程式
 
+repo 為私人，需先由維護者在 GitHub 加你為協作者（Settings → Collaborators）。
+
 ```bash
-git clone <私人 repo 網址> 統計資料庫
+git clone https://github.com/ykupicai/stat-hub.git 統計資料庫
 ```
 
 需要 Python 3.10 以上（開發環境為 3.14）。**不要用 QGIS 內建的 Python 安裝套件**（會弄壞 QGIS）。

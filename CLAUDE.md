@@ -151,7 +151,8 @@
 
 ## 版本控制（2026-09-22 起）
 
-本專案已納入 git（本機 repo，**尚未設任何遠端**）。
+本專案已納入 git，遠端為 **GitHub 私人 repo** <https://github.com/ykupicai/stat-hub>（2026-10-07 建立，分支 `main`）。
+**已有遠端後不要再重寫歷史**（filter-repo、rebase、force-push），否則已 clone 的同事都得重來。
 
 - **進版控的**：`資料庫/`（目錄與操作說明）、`scripts/`、`案件/*/`（取數紀錄、原始報表、中繼 json/csv）。
   原始報表與 API 原始回應刻意保留，因為口徑追溯（哪一欄差多少）靠的就是它們。
