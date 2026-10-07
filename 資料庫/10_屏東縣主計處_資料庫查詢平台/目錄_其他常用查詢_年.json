@@ -1,0 +1,82 @@
+[
+ {
+  "name": "民政類",
+  "children": [
+   {
+    "name": "結婚對數(按發生日期)依男方年齡別、女方年齡別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9b5dfabb-166d-4603-adea-37d00becbe9c&uid=56753&cuid=1785"
+   },
+   {
+    "name": "結婚對數(按發生日期)依男方年齡別、女方年齡別、婚姻類型分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9b5dfabb-166d-4603-adea-37d00becbe9c&uid=56756&cuid=1786"
+   },
+   {
+    "name": "嬰兒出生數(按發生日期)依生母年齡別、教育程度別、國籍別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9b5dfabb-166d-4603-adea-37d00becbe9c&uid=537&cuid=1253"
+   }
+  ]
+ },
+ {
+  "name": "教育類",
+  "children": [
+   {
+    "name": "各級學校學生人數依性別、學校類別、設立別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=701f8e8f-eba4-4748-b631-5ab515e63526&uid=744&cuid=1254"
+   }
+  ]
+ },
+ {
+  "name": "社會類",
+  "children": [
+   {
+    "name": "中低收入戶數依性別、身分別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=13871&cuid=1798"
+   },
+   {
+    "name": "低收入戶生活扶助-金額依低收入戶生活扶助分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=13885&cuid=1799"
+   },
+   {
+    "name": "低收入戶生活扶助-人次依低收入戶生活扶助分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=13886&cuid=1800"
+   },
+   {
+    "name": "低收入戶生活扶助-戶次依低收入戶生活扶助分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=13887&cuid=1801"
+   },
+   {
+    "name": "低收入戶數依性別、款別、身分別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=13910&cuid=1802"
+   },
+   {
+    "name": "低收入戶人數依性別、款別、年齡別(0~80歲以上)分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=59657&cuid=1803"
+   },
+   {
+    "name": "中低收入人數依性別、年齡別(0~80歲以上)分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac109e1a-685c-42b9-9945-5de4a5526a9a&uid=59659&cuid=1804"
+   }
+  ]
+ },
+ {
+  "name": "衛生類",
+  "children": [
+   {
+    "name": "醫療保健經費支出-醫療保健相關作業基金依機構別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1add6de7-cfa7-46bd-9f3c-114e6352b1d9&uid=57573&cuid=1794"
+   },
+   {
+    "name": "查驗件數依食品種類、檢查檢驗分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1add6de7-cfa7-46bd-9f3c-114e6352b1d9&uid=36436&cuid=1795"
+   },
+   {
+    "name": "查驗不符規定件數依食品種類、檢查檢驗分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1add6de7-cfa7-46bd-9f3c-114e6352b1d9&uid=36437&cuid=1796"
+   },
+   {
+    "name": "檢驗不符規定之原因依食品種類、食品衛生檢驗項目分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1add6de7-cfa7-46bd-9f3c-114e6352b1d9&uid=36439&cuid=1797"
+   }
+  ]
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "name": "民政類",
+  "children": [
+   {
+    "name": "人口數依性別、年齡別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f905862-7300-4fdc-9a06-b507a1a0907c&uid=25039&cuid=346"
+   },
+   {
+    "name": "原住民人口數依性別、原住民身份別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f905862-7300-4fdc-9a06-b507a1a0907c&uid=527&cuid=1378"
+   },
+   {
+    "name": "原住民人口數依性別、年齡別、原住民身份別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f905862-7300-4fdc-9a06-b507a1a0907c&uid=530&cuid=1379"
+   },
+   {
+    "name": "原住民人口數依性別、原住民身份別、原住民族別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f905862-7300-4fdc-9a06-b507a1a0907c&uid=531&cuid=1380"
+   },
+   {
+    "name": "戶數",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f905862-7300-4fdc-9a06-b507a1a0907c&uid=493&cuid=1248"
+   }
+  ]
+ },
+ {
+  "name": "消防類",
+  "children": [
+   {
+    "name": "急救送醫人次依區域別、急救送醫別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=1320&cuid=326"
+   },
+   {
+    "name": "火災次數分類及時間依次數別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=12889&cuid=327"
+   },
+   {
+    "name": "財物損失情形依財物損失別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=1343&cuid=328"
+   },
+   {
+    "name": "(火災)死亡人數依性別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=26075&cuid=329"
+   },
+   {
+    "name": "(火災)受傷人數依性別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=26078&cuid=330"
+   },
+   {
+    "name": "起火建築物依起火建築物火災時用途別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c8a47ca-4f5c-4c33-886c-4b76433de5b4&uid=1351&cuid=347"
+   }
+  ]
+ },
+ {
+  "name": "警政類",
+  "children": [
+   {
+    "name": "舉發違反道路交通管理事件成果-舉發總件數依車輛別、舉發方式別、違反交通項目與適用條例分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=36310&cuid=1777"
+   },
+   {
+    "name": "處理違反社會秩序維護法案件-處罰總數-件數依違反社維法情形別、處罰態樣別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=57396&cuid=1242"
+   },
+   {
+    "name": "處理違反社會秩序維護法案件-處罰總數-人數依違反社維法情形別、處罰態樣別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=57398&cuid=1244"
+   },
+   {
+    "name": "經濟案件-件數依經濟案件別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=299&cuid=1246"
+   },
+   {
+    "name": "經濟案件-人數依經濟案件別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=300&cuid=694"
+   },
+   {
+    "name": "經濟案件-估計金額依經濟案件別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=622958a1-2d63-4097-b3d1-baa374ba4a14&uid=301&cuid=695"
+   }
+  ]
+ },
+ {
+  "name": "財稅類",
+  "children": [
+   {
+    "name": "截至本月底止累計實徵淨額(106)依稅目別分",
+    "url": "https://pthg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=607cfef9-a009-409a-8c2f-64c2e69dd73c&uid=13136&cuid=710"
+   }
+  ]
+ }
+]

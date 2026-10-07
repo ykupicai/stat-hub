@@ -140,6 +140,28 @@ def build_items():
             if c:
                 it["c"] = c
             items.append(it)
+    # 10a 屏東縣主計處資料庫查詢平台（與嘉義、臺南同一套系統）
+    for fn, label in [("目錄_統計年報查詢.json", "統計年報查詢"), ("目錄_其他常用查詢_年.json", "其他常用查詢(年)"),
+                      ("目錄_其他常用查詢_月.json", "其他常用查詢(月)")]:
+        fp = DB / "10_屏東縣主計處_資料庫查詢平台" / fn
+        if fp.exists():
+            tmp = []
+            walk_tree(load(fp), "10a", [label], tmp)
+            for it in tmp:
+                c, rest = code_of(it["p"].split(" > ")[-1])
+                if c:
+                    it["c"] = c
+                items.append(it)
+    # 10b 屏東縣公務統計報表清冊（農業處＋海洋及漁業事務管理所）
+    pt_p = DB / "10_屏東縣主計處_資料庫查詢平台" / "公務統計報表_農業清冊.json"
+    if pt_p.exists():
+        agg = OrderedDict()
+        for r in load(pt_p):
+            a = agg.setdefault((r["office"], r["no"]), {"name": r["name"], "periods": set()})
+            a["periods"].add(r["period"])
+        for (off, no), a in agg.items():
+            items.append({"s": "10b", "p": f"{off} > 期別 {'、'.join(sorted(a['periods']))}", "n": a["name"], "c": no,
+                          "u": "https://pthg.dgbas.gov.tw/statweb/Page/stat08.aspx"})
     # 09 三大普查動態查詢（統計項×可搭配複分類）
     cen_p = DB / "09_主計總處_三大普查動態查詢" / "結構.json"
     if cen_p.exists():

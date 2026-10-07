@@ -44,7 +44,7 @@ def _year_match(label, years):
 
 
 # ---------------------------------------------------------------- 01a / 06a 主計處資料庫查詢平台
-DGBAS_HOSTS = {"cyhg.dgbas.gov.tw": "嘉義縣", "tainan.dgbas.gov.tw": "臺南市"}
+DGBAS_HOSTS = {"cyhg.dgbas.gov.tw": "嘉義縣", "tainan.dgbas.gov.tw": "臺南市", "pthg.dgbas.gov.tw": "屏東縣"}
 
 
 def dgbas_query(varval_url, years=None, areas=None):
@@ -52,7 +52,7 @@ def dgbas_query(varval_url, years=None, areas=None):
     回傳 {years_available, areas_available, rows}；rows[0..1] 為表頭。"""
     host = urlparse(varval_url).netloc.lower()
     if host not in DGBAS_HOSTS or "varval3.aspx" not in varval_url:
-        raise ValueError("只接受 cyhg.dgbas.gov.tw 或 tainan.dgbas.gov.tw 的 varval3.aspx 網址（可由 stat_search 取得）")
+        raise ValueError("只接受 " + "、".join(DGBAS_HOSTS) + " 的 varval3.aspx 網址（可由 stat_search 取得）")
     show = f"https://{host}/%e7%b6%b2%e9%a0%81%e8%b3%87%e6%96%99%e6%9f%a5%e8%a9%a2/ShowQuery.aspx"
     s = _session()
     d = LH.fromstring(s.get(varval_url, timeout=60).text)
@@ -218,12 +218,49 @@ def climate_stats(station_id, start_year, end_year, refresh=False):
 
 
 # ---------------------------------------------------------------- 01b 嘉義縣公務統計報表清冊
+STAT08 = {"嘉義縣": "https://cyhg.dgbas.gov.tw/statweb/Page/stat08.aspx",
+          "屏東縣": "https://pthg.dgbas.gov.tw/statweb/Page/stat08.aspx"}
+
+
+_OFFICES = {}
+
+
+def _retry(fn, tries=5):
+    """屏東站對連續請求會重設連線（WinError 10054），退避重試。"""
+    for k in range(tries):
+        try:
+            return fn()
+        except requests.ConnectionError:
+            if k == tries - 1:
+                raise
+            time.sleep(5 * (k + 1))
+
+
+def stat08_offices(county="嘉義縣"):
+    """各縣市機關代碼不同（嘉義農業處 3007、屏東農業處 3005），從下拉選單讀一次後快取。"""
+    if county not in _OFFICES:
+        d = LH.fromstring(_retry(lambda: _session().get(STAT08[county], timeout=60)).text)
+        _OFFICES[county] = {o.get("value"): o.text_content().strip()
+                            for o in d.xpath('//select[contains(@name,"ddlOffice")]/option') if o.get("value", "").isdigit()}
+    return _OFFICES[county]
+
+
+def stat08_report_list(county="嘉義縣", office="", year=""):
+    """縣市主計處「公務統計報表查詢」(stat08.aspx) 的報表清冊。同一套系統，欄位名與翻頁陷阱見 scripts/cyhg_stat08_清冊.py。"""
+    import cyhg_stat08_清冊 as m
+    county = county.replace("台", "臺")
+    if county not in STAT08:
+        raise ValueError(f"縣市不符，可用：{list(STAT08)}")
+    offices = stat08_offices(county)
+    if office not in offices:
+        raise ValueError(f"{county} 機關代碼不符，可用：{offices}")
+    m.URL, m.OFFICES = STAT08[county], offices  # 共用嘉義的擷取器（含翻頁帶篩選、混入他機關即中止的防呆）
+    return {"county": county, "office": offices[office], "rows": _retry(lambda: m.fetch_office(_session(), office, year))}
+
+
+
 def cyhg_report_list(office="3007", year=""):
-    from cyhg_stat08_清冊 import fetch_office, OFFICES
-    if office not in OFFICES:
-        raise ValueError(f"機關代碼不符，可用：{OFFICES}")
-    rows = fetch_office(_session(), office, year)
-    return {"office": OFFICES[office], "rows": rows}
+    return stat08_report_list("嘉義縣", office, year)
 
 
 # ---------------------------------------------------------------- 本機原始報表

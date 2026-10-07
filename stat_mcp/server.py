@@ -28,7 +28,7 @@ import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
 
 INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡拿、口徑是什麼、怎麼取數」，並可即時向政府平台取數。
-涵蓋 16 個來源（嘉義縣/臺南市主計處、農業部統計處、漁業署、農糧署、氣象署、臺南市農業局、data.gov.tw，
+涵蓋 20 個來源（嘉義縣/臺南市/屏東縣主計處、農業部統計處、漁業署、農糧署、氣象署、臺南市農業局、data.gov.tw，
 以及無公開來源時的索取窗口 X1–X4）、3,300+ 個平台目錄細項、兩案（嘉義農再、臺南農再）實際用表與口徑地雷。
 
 典型流程：
@@ -36,7 +36,8 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
    不確定該用哪個來源時先 stat_topic("主題", region)。
 2. stat_get_source(id) 看來源規格與操作說明（口徑與陷阱段一定要讀）。
 3. 拉資料：
-   - 01a/06a 目錄細項的 varval3 網址 → stat_query_dgbas(url, years, areas)
+   - 01a/06a/10a 目錄細項的 varval3 網址 → stat_query_dgbas(url, years, areas)（嘉義、臺南、屏東同一套系統）
+   - 縣市公務統計報表清冊 → stat_cyhg_reports(county="嘉義縣"|"屏東縣", office, year)
    - 鄉鎮×作物 → stat_afa_crops(類別) 取代號 → stat_query_afa(...)
    - 氣候表 → stat_climate(測站, 起年, 迄年)
    - 嘉義公務統計報表有哪些表號／期別 → stat_cyhg_reports(機關代碼, 年度)
@@ -140,7 +141,13 @@ def stat_search(query: str, region: str = "全部", kinds: list[str] | None = No
         hits = [i for i in d["items"]
                 if _region_ok(i["s"], region) and _hit(" ".join([i["n"], i["p"], i["c"], i.get("k", ""), names.get(i["s"], "")]), t)]
         # 表名直接命中的排前面，只靠維度項目命中的排後面
-        hits.sort(key=lambda i: 0 if _hit(" ".join([i["n"], i["p"], i["c"]]), t) else 1)
+        region_of = {s["id"]: s["地區"] for s in d["sources"]}
+
+        def rank(i):
+            direct = _hit(" ".join([i["n"], i["p"], i["c"], region_of.get(i["s"], "")]), t)
+            pdf_only = i.get("meta", {}).get("格式") == ["pdf"]
+            return (0 if direct else 1, 2 if pdf_only else (1 if i["s"] == "09t" else 0))
+        hits.sort(key=rank)
         loaded = _loaded_ids()
         out["目錄細項_總數"] = len(hits)
         out["目錄細項"] = []
@@ -176,10 +183,10 @@ def stat_get_source(source_id: str, include_guide: bool = True) -> dict:
 def stat_topic(query: str = "", region: str = "全部") -> list[dict]:
     """主題速查：某類資料（耕地、養殖、畜牧、作物、稻米、氣候、灌溉、重劃、非都市土地、農機林漁、人口）
     在嘉義縣／臺南市／全國各該去哪個來源、哪個表號拿。query 空白回全部主題。"""
-    cols = ["嘉義縣", "臺南市", "全國／跨縣市"] if region in ("", "全部") else [
+    cols = ["嘉義縣", "臺南市", "屏東縣", "全國／跨縣市"] if region in ("", "全部") else [
         "全國／跨縣市" if region.startswith("全國") else region.replace("台", "臺")]
     t = _terms(query)
-    return [{"主題": x["主題"], **{c: x[c] for c in cols}} for x in idx()["topics"] if _hit(" ".join(x.values()), t)]
+    return [{"主題": x["主題"], **{c: x.get(c, "—（尚未整理）") for c in cols}} for x in idx()["topics"] if _hit(" ".join(x.values()), t)]
 
 
 @mcp.tool()
@@ -199,12 +206,12 @@ def stat_pitfalls(query: str = "") -> list[dict]:
 
 @mcp.tool()
 def stat_query_dgbas(url: str, years: list[int] | None = None, areas: list[str] | None = None, max_rows: int = 300) -> dict:
-    """即時查詢嘉義縣（01a）或臺南市（06a）主計處資料庫查詢平台的統計項目。
+    """即時查詢嘉義縣（01a）、臺南市（06a）或屏東縣（10a）主計處資料庫查詢平台的統計項目。
 
     url: stat_search 目錄細項的 varval3.aspx 網址。
     years: 年度，民國或西元皆可（如 [113,114]）；空白＝全部年度。
     areas: 地區名稱片段（如 ["嘉義縣","民雄"]、["臺南市","新營"]）；空白＝全部。
-    ⚠ 01a 嘉義平台數值已四捨五入成整數，不可直接寫進書件（改走公務統計報表 01b）。"""
+    ⚠ 01a 嘉義平台數值已四捨五入成整數，不可直接寫進書件（改走公務統計報表 01b）；屏東平台保留小數。"""
     r = fetchers.dgbas_query(url, years, areas)
     total = len(r["rows"])
     r["rows"] = r["rows"][:max_rows]
@@ -242,16 +249,19 @@ def stat_climate(station_id: str, start_year: int, end_year: int, refresh: bool 
 
 
 @mcp.tool()
-def stat_cyhg_reports(office: str = "3007", year: str = "", query: str = "") -> dict:
-    """即時查詢嘉義縣「公務統計報表查詢」的報表清冊（表號、表名、格式、期別）。
-    office: 機關代碼（農業處 3007、民政處 3002、地政處 3008、社會局 5007…）；year: 民國年，空白＝最新；
-    query: 表名關鍵字再過濾。⚠ 表號在 113／114 年改制，舊表號查新年度會查無資料。
-    下載報表本體請到 https://cyhg.dgbas.gov.tw/statweb/Page/stat08.aspx 以表號查詢。"""
-    r = fetchers.cyhg_report_list(office, year)
+def stat_cyhg_reports(office: str = "", year: str = "", query: str = "", county: str = "嘉義縣") -> dict:
+    """即時查詢縣市主計處「公務統計報表查詢」(stat08) 的報表清冊（表號、表名、格式、期別）。書件數字應走這裡的原始報表。
+    county：嘉義縣｜屏東縣（同一套系統）。office：機關代碼，各縣市不同——
+      嘉義：農業處 3007、民政處 3002、地政處 3008、社會局 5007；屏東：農業處 3005、地政處 3007、海洋及漁業事務管理所 5007。
+      不給 office → 回傳該縣市機關代碼表。year：民國年，空白＝最新；query：表名關鍵字再過濾。
+    ⚠ 嘉義表號在 113／114 年改制，舊表號查新年度會查無資料。
+    下載報表本體請到該縣市 stat08.aspx 以表號查詢。"""
+    if not office:
+        return {"county": county, "機關代碼": fetchers.stat08_offices(county.replace("台", "臺")), "網址": fetchers.STAT08.get(county.replace("台", "臺"))}
+    r = fetchers.stat08_report_list(county, office, year)
     t = _terms(query)
     r["rows"] = [x for x in r["rows"] if _hit(x["no"] + " " + x["name"], t)]
     return r
-
 
 @mcp.tool()
 def stat_list_local_files(filter: str = "") -> list[dict]:
