@@ -28,13 +28,16 @@ import ntpc  # noqa: E402
 import kcg  # noqa: E402
 import tpe  # noqa: E402
 import tyc  # noqa: E402
+import hcc  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
 
 INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡拿、口徑是什麼、怎麼取數」，並可即時向政府平台取數。
-涵蓋 20 個來源（嘉義縣/臺南市/屏東縣主計處、農業部統計處、漁業署、農糧署、氣象署、臺南市農業局、data.gov.tw，
-以及無公開來源時的索取窗口 X1–X4）、3,300+ 個平台目錄細項、兩案（嘉義農再、臺南農再）實際用表與口徑地雷。
+涵蓋全國 22 縣市主計處統計平台（來源 01/06/10/11-<縣市>）、農業部統計處、漁業署、農糧署、氣象署、三大普查、
+臺南市農業局、data.gov.tw，以及無公開來源時的索取窗口 X1–X4；約 4 萬個平台目錄細項、兩案實際用表與口徑地雷。
+各縣市取數：同系統用 stat_query_dgbas；新北 stat_query_ntpc、高雄 stat_query_kcg、臺北 stat_query_tpe、
+桃園 stat_query_tyc、新竹市 stat_hcc_report（宜蘭、連江只有 Power BI，無法取數）。
 
 典型流程：
 1. stat_search("關鍵字") 找候選：同時回主題速查、案件用表、地雷、來源、目錄細項（細項附查詢網址）。
@@ -640,6 +643,18 @@ def stat_query_tyc(cuid: str, period: str = "Y", years: list[int] | None = None,
     total = len(r["rows"])
     r["rows"] = r["rows"][:max_rows]
     r["total_rows"] = total
+    return r
+
+@mcp.tool()
+def stat_hcc_report(md: str, period: str | None = None, max_rows: int = 80) -> dict:
+    """下載並讀取新竹市公務統計報表某一期（11-新竹市，約 574 張報表；新竹市沒有資料庫查詢平台）。
+    md：報表代碼（stat_search 目錄細項代碼為 hcc:<md>，例 132＝產業發展處 農耕土地面積）。
+    period：期別，如年報「113」、月報「11506」；未給取最新一期。可用期別見目錄細項的 meta。
+    原始檔存於 資料庫/原始檔/11-新竹市/，回傳各工作表前 max_rows 列（原始格子，未推定欄位）。"""
+    r = hcc.fetch(md.replace("hcc:", ""), period)
+    for sh in r["sheets"]:
+        sh["total_rows"] = len(sh["rows"])
+        sh["rows"] = sh["rows"][:max_rows]
     return r
 
 

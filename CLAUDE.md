@@ -130,7 +130,10 @@
 - 12 縣市：臺中、新竹縣、苗栗、彰化、南投、雲林、花蓮、澎湖、金門（官方清單）＋基隆、嘉義市、臺東（探查補到）；目錄共約 1.1 萬項。
   設定 `資料庫/索引/縣市平台.json`（fetchers 依此認主機與 stat08）、目錄 `資料庫/11_各縣市主計處資料庫查詢平台/<縣市>/目錄.json`、
   爬蟲 `stat_mcp/crawl_counties.py`（臺中走「依機關」模式）。細節見該目錄 `操作說明.md`。
-- 臺東平台無資料庫內容，只登記公務統計報表；臺北、新北、桃園、高雄、宜蘭、新竹市、連江非同系統，未收錄。
+- 臺東平台無資料庫內容，只登記公務統計報表。
+- 非同系統的 7 縣市各一支模組（全 22 縣市已涵蓋）：新北 `ntpc.py`／`stat_query_ntpc`、高雄 `kcg.py`／`stat_query_kcg`（Big5 參數）、
+  臺北 `tpe.py`／`stat_query_tpe`、桃園 `tyc.py`／`stat_query_tyc`（REST API，最好用）、新竹市 `hcc.py`／`stat_hcc_report`
+  （發布時間表報表檔）；宜蘭、連江只有 Power BI，登記為來源但無法取數。index.py 依縣市名分支（代碼前綴 ntpc:/kcg:/tpe:/tyc:/hcc:）。
 - `fetchers._retry` 改為攔所有 `requests.RequestException`（含回傳途中斷線的 ChunkedEncodingError）。
 
 ## stat-hub 擴充 SOP（2026-10-07）

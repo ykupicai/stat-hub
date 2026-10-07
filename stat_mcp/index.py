@@ -189,6 +189,15 @@ def build_items():
                                           "meta": {"取數": f"stat_query_tpe(\"{n['funid']}\", years)"}})
                 tp(load(fp), ["臺北市"])
                 continue
+            if d.is_dir() and fp.exists() and d.name == "新竹市":  # 發布時間表：報表 md → 各期檔
+                for g in load(fp):
+                    for tb in g["children"]:
+                        ps = list(tb["files"])
+                        items.append({"s": "11-新竹市", "p": f"新竹市公務統計報表 > {g['name']} > {tb['種類']}", "n": tb["名稱"],
+                                      "c": f"hcc:{tb['md']}", "u": f"https://stat2.hccg.gov.tw/hccg_bas/ReportDesc.aspx?md={tb['md']}",
+                                      "meta": {"週期": tb["週期"], "期別": f"{ps[0]}～{ps[-1]}（{len(ps)} 期）" if ps else "無已發布檔",
+                                               "取數": f"stat_hcc_report(\"{tb['md']}\", period)"}})
+                continue
             if d.is_dir() and fp.exists() and d.name == "桃園市":  # 統計報表資料庫 API：cuid/週期
                 for g in load(fp):
                     for tb in g["children"]:

@@ -165,9 +165,30 @@
    "mode": "api",
    "no_db": true,
    "說明": "桃園市統計報表資料庫 API（REST/OData，OpenAPI 於 SDBTool_2/swagger/openapi.json）：StatSPIUrlList/<類別> 列統計單元、StatData/<cuid> 取長表。由 stat_mcp/tyc.py 處理。另有重要統計指標查詢平台 statbas.tycg.gov.tw/DgbasWeb（指標，未接）"
+  },
+  "新竹市": {
+   "base": "https://stat2.hccg.gov.tw/hccg_bas/",
+   "catenos": {},
+   "stat08": null,
+   "mode": "calendar",
+   "no_db": true,
+   "說明": "無資料庫查詢平台（統計年報查詢為 Power BI）。爬預告統計資料發布時間表 calendar.aspx 得各報表各期檔，由 stat_mcp/hcc.py 處理"
+  },
+  "宜蘭縣": {
+   "base": null,
+   "catenos": {},
+   "stat08": null,
+   "mode": "powerbi",
+   "no_db": true,
+   "說明": "只有 Power BI 儀表板（鄉鎮市統計資料(指標)查詢平臺、性別統計），無法程式取數"
+  },
+  "連江縣": {
+   "base": "https://www.matsu.gov.tw/chhtml/link/371030000A0012/2041",
+   "catenos": {},
+   "stat08": null,
+   "mode": "powerbi",
+   "no_db": true,
+   "說明": "主計處統計資料查詢系統頁只有 Power BI（鄉指標、性別統計）；統計資料為縣府網站 PDF（downloadclass/371030000A0012/2039）"
   }
- },
- "未納入": {
-  "宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
  }
 }
