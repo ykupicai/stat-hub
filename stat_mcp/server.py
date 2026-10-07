@@ -460,7 +460,7 @@ def stat_census_query(census_name: str, items: list[str], rows: list[str] | None
     ⚠ 普查是 5 年一次；農林漁牧業普查最新為 109 年（114 年普查結果尚未發布），工業及服務業最新 110 年。"""
     r = census.query(census_name, items, rows or [], cols or [])
     saved = None
-    if save and r["data"]:
+    if save and r["data"] and not r["warnings"]:
         import hashlib
         key = hashlib.md5(json.dumps([r["census"], r["items"], r["rows"], r["cols"]], ensure_ascii=False).encode()).hexdigest()[:10]
         tmp = store.RAW_DIR / "census" / f"{key}.json"
@@ -475,7 +475,7 @@ def stat_census_query(census_name: str, items: list[str], rows: list[str] | None
             if not area or any(area.replace("台", "臺") in str(v) for v in d.values())]
     return {"普查": r["census"], "統計項": r["items"], "表側": r["rows"], "表頭": r["cols"], "總列數": len(r["data"]),
             "回傳列數": min(len(data), limit), "data": data[:limit],
-            "入庫": {k: saved[k] for k in ("dataset_id", "facts")} if saved else "未入庫"}
+            "警告": r["warnings"], "入庫": {k: saved[k] for k in ("dataset_id", "facts")} if saved else "未入庫"}
 
 
 if __name__ == "__main__":

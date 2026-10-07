@@ -197,9 +197,17 @@ def query(census, items, rows=(), cols=()):
         for k, v in list(r.items()):
             if isinstance(v, str):
                 r[k] = v.strip()
+    warnings = []
+    if not data:
+        warnings.append("網站回傳 0 列：此統計項很可能不提供所選複分類（例：農事及畜牧服務業普查家數只有縣市別、沒有鄉鎮別）。"
+                        "注意 結構.json 的「可搭配複分類」因縣市別／鄉鎮別共用代碼，無法精確區分。")
+    for u in used:  # 多項一起查時，不支援該分類的項目會被網站填 0 而非報錯
+        vals = [str(r.get(u["name"], "")).replace(",", "") for r in data]
+        if data and all(v in ("0", "", "-") for v in vals):
+            warnings.append(f"「{u['name']}」整欄為 0：很可能不支援此分類而被網站補 0，請單獨查詢或改用縣市別確認，勿當真值。")
     cols_out = [k for k in (data[0].keys() if data else []) if k != "area"]
     return {"census": next(y["name"] for y in st["years"] if y["value"] == yv), "items": used,
-            "rows": list(rows), "cols": list(cols), "columns": cols_out, "data": data}
+            "rows": list(rows), "cols": list(cols), "columns": cols_out, "data": data, "warnings": warnings}
 
 
 def to_grid(res):
