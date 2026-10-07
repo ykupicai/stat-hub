@@ -194,16 +194,25 @@ def harvest(census, year, part="", query="", max_tables=60):
     con = store.connect()
     res = []
     for t in tabs:
-        f = next((x for e in (".ods", ".xlsx", ".xls") for x in t["files"] if x["title"].lower().endswith(e)), None)
-        if not f:
+        cands = [x for e in (".ods", ".xlsx", ".xls") for x in t["files"] if x["title"].lower().endswith(e)]
+        if not cands:
             res.append({"table": t["table"], "note": "只有 PDF，未入庫"})
             continue
         sub = t["sub"]
-        dest = store.RAW_DIR / "普查統計表" / cname / str(year) / sub / f["title"]
-        dest.parent.mkdir(parents=True, exist_ok=True)
-        r = s.get(f["url"], timeout=180)
-        r.raise_for_status()
-        dest.write_bytes(r.content)
+        dest = None
+        for f in cands:  # 有些年度的 ODS 連結回傳的不是有效檔（105 工商），依序改抓 XLSX／XLS
+            r = s.get(f["url"], timeout=180)
+            is_zip, is_ole = r.content[:4] == b"PK\x03\x04", r.content[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"
+            if r.ok and (is_zip or is_ole):
+                # 副檔名可能不實（105 工商「.ods」其實是 OLE 格式 xls）→ 依內容決定讀取器
+                title = re.sub(r"\.(ods|xlsx|xls)$", ".xls", f["title"], flags=re.I) if is_ole else f["title"]
+                dest = store.RAW_DIR / "普查統計表" / cname / str(year) / sub / title
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                dest.write_bytes(r.content)
+                break
+        if dest is None:
+            res.append({"table": t["table"], "note": "各格式下載皆非有效試算表"})
+            continue
         dsid = f"censustab:{cname}:{year}:{sub}:{t['table']}"
         sv = store.save_dataset(con, dsid, "09t", f"{year}年{cname} {sub} {t['table']}", int(year), f["url"], dest,
                                 store.read_workbook(dest), note=t["path"])
