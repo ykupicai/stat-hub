@@ -178,6 +178,17 @@ def build_items():
     if cty.exists():
         for d in sorted(cty.iterdir()):
             fp = d / "目錄.json"
+            if d.is_dir() and fp.exists() and d.name == "臺北市":  # webMain 系統：funid
+                def tp(ns, path):
+                    for n in ns:
+                        if "children" in n:
+                            tp(n["children"], path + [n["name"]])
+                        else:
+                            items.append({"s": "11-臺北市", "p": " > ".join(path), "n": n["name"], "c": f"tpe:{n['funid']}",
+                                          "u": f"https://tsis.dbas.gov.taipei/statis/webMain.aspx?k1={n['funid']}&barf=1",
+                                          "meta": {"取數": f"stat_query_tpe(\"{n['funid']}\", years)"}})
+                tp(load(fp), ["臺北市"])
+                continue
             if d.is_dir() and fp.exists() and d.name == "高雄市":  # PX-Web：矩陣代碼
                 for g in load(fp):
                     for tb in g["children"]:

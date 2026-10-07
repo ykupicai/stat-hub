@@ -26,6 +26,7 @@ import census_tables  # noqa: E402
 import pingtung_yearbook  # noqa: E402
 import ntpc  # noqa: E402
 import kcg  # noqa: E402
+import tpe  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -607,6 +608,18 @@ def stat_query_kcg(ma: str, years: list[int] | None = None, areas: list[str] | N
     years：民國或西元年（只篩「年／期」維度）；areas：地區名片段（只在有該名稱的維度生效）。
     ⚠ 部分表只有全市值、沒有區別（例：耕地面積），以回傳的 dims 為準。"""
     r = kcg.query(ma.replace("kcg:", ""), years, areas)
+    total = len(r["rows"])
+    r["rows"] = r["rows"][:max_rows]
+    r["total_rows"] = total
+    return r
+
+@mcp.tool()
+def stat_query_tpe(funid: str, years: list[int] | None = None, max_rows: int = 300) -> dict:
+    """即時查詢臺北市統計資料庫查詢系統（11-臺北市，約 1,513 表）。
+    funid：表代碼（stat_search 目錄細項代碼為 tpe:<funid>，例 a05013901＝農牧戶概況）。
+    years：民國或西元年（取最小～最大；月資料取該區間各月），未給取最近 10 年。
+    ⚠ 有分類維度的表目前只取網站預設選項（多為「總計」）；「-」照原樣保留。"""
+    r = tpe.query(funid.replace("tpe:", ""), years)
     total = len(r["rows"])
     r["rows"] = r["rows"][:max_rows]
     r["total_rows"] = total

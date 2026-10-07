@@ -149,9 +149,17 @@
    "mode": "pxweb",
    "no_db": true,
    "說明": "PX-Web 2007（統計資訊服務網 kcgdg.kcg.gov.tw › 資料庫查詢）；網址參數須 Big5 編碼。由 stat_mcp/kcg.py 處理"
+  },
+  "臺北市": {
+   "base": "https://tsis.dbas.gov.taipei/statis/",
+   "catenos": {},
+   "stat08": null,
+   "mode": "tsis",
+   "no_db": true,
+   "說明": "臺北市統計資料庫查詢系統（webMain.aspx，與普查動態查詢同廠商）：目錄 sys=100 tpemainTree JSON、表定義 sys=212、取數 sys=220 outmode=8 JSON。由 stat_mcp/tpe.py 處理"
   }
  },
  "未納入": {
-  "臺北市、桃園市、宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
+  "桃園市、宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
  }
 }
