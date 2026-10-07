@@ -148,6 +148,22 @@ def build_items():
             items.append({"s": "09", "p": f"{it['kind']} > {it['path']}", "n": it["name"], "c": f"census:{it['idx']}",
                           "u": "https://dtable.dgbas.gov.tw/censuall/webMain.aspx?sys=210&x=2098&funid=advqry",
                           "k": " ".join(cls), "meta": {"可搭配複分類": cls[:30], "取數": "stat_census_query"}})
+    # 09t 普查結果統計表（靜態 ODS／XLSX）
+    tab_p = DB / "09_主計總處_三大普查動態查詢" / "統計表結構.json"
+    if tab_p.exists():
+        for key, v in load(tab_p).items():
+            cnt = {}
+            for pg in v["pages"]:
+                cnt[pg["path"]] = cnt.get(pg["path"], 0) + 1
+            for pg in v["pages"]:
+                last = pg["path"].split(" > ")[-1]
+                part = (pg.get("heading") or last) if cnt[pg["path"]] > 1 else last
+                stems = {}
+                for f in pg["files"]:
+                    stems.setdefault(re.sub(r"\.(ods|xlsx|xls|pdf)$", "", f["title"], flags=re.I), []).append(f["title"].rsplit(".", 1)[-1])
+                for stem, exts in stems.items():
+                    items.append({"s": "09t", "p": pg["path"] + ("（" + part + "）" if part != last else ""), "n": stem, "c": f"censustab:{v['census']}:{v['year']}",
+                                  "u": pg["page"], "meta": {"格式": exts, "取數": f"stat_census_tables(\"{v['census'][:4]}\", {v['year']}, part=\"{part}\", table=\"{stem}\")"}})
     items.extend(MANUAL_ITEMS)
     return items
 

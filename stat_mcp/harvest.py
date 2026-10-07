@@ -134,6 +134,13 @@ def harvest_agrstat(qcode, year_begin, year_end, title=None):
         form[f"ctl00_ContentPlaceHolder1_ucInquireAdvance_ucItemCode_panCode_{c['SerialNo']}"] = "on"
     form[P + "btnInquire"] = "查詢"
     yb, ye = int(year_begin), int(year_end)
+    try:  # 重抓時與資料庫既有範圍合併，避免整份覆寫後年度變少
+        row = store.connect().execute("SELECT note FROM datasets WHERE dataset_id=?", (f"agrstat:{qcode}",)).fetchone()
+        m = re.match(r"(\d+)-(\d+)", row[0]) if row and row[0] else None
+        if m:
+            yb, ye = min(yb, int(m.group(1))), max(ye, int(m.group(2)))
+    except Exception:  # noqa: BLE001
+        pass
     per_year = len(meas) * math.prod(len(v) for v in dims.values())
     step = max(1, CELL_LIMIT // max(per_year, 1))
     if per_year > CELL_LIMIT:

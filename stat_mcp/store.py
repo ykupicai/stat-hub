@@ -87,14 +87,22 @@ def parse_grid(rows, filled=False):
     rows = [[_clean(c) for c in r] for r in rows]
     width = max((len(r) for r in rows), default=0)
     rows = [r + [""] * (width - len(r)) for r in rows]
+    # 左側整欄空白（主計總處普查統計表等版型）→ 標籤從第一個有內容的欄開始
+    lead = next((j for j in range(width) if any(r[j] for r in rows)), 0)
 
     def is_body(r):
-        rest = [c for c in r[1:] if c]
+        rest = [c for c in r[lead + 1:] if c]
         nums = [c for c in rest if _num(c) is not None]
         dl = [c for c in rest if _datalike(c)]
-        return bool(rest) and (bool(nums) and len(dl) >= 0.5 * len(rest) or len(dl) == len(rest))
+        # 有數字且過半為資料格；或全為「-」等符號（容許夾一個文字標籤，例：第二層列標籤「魚類」）
+        return bool(rest) and (bool(nums) and len(dl) >= 0.5 * len(rest) or (len(dl) >= 2 and len(dl) >= len(rest) - 1))
 
     body_idx = [i for i, r in enumerate(rows) if is_body(r)]
+    # 資料區起點須在 3 列內還有另一列資料（容許空列、英文地名列交錯）；表頭上方孤立的「民國109年｜2020」之類不算
+    for k, i in enumerate(body_idx):
+        if len(body_idx) == 1 or (k + 1 < len(body_idx) and body_idx[k + 1] - i <= 3):
+            body_idx = body_idx[k:]
+            break
     if not body_idx:
         return {"title": next((c for r in rows for c in r if c), ""), "unit": "", "n_header": 0, "n_label": 0}, []
     start = body_idx[0]
@@ -106,7 +114,7 @@ def parse_grid(rows, filled=False):
         joined = " ".join(ne)
         if "單位" in joined or "Unit" in joined:
             unit = unit or joined
-        if not title and TITLE.match(ne[0]):
+        if TITLE.match(ne[0]) and not TITLE.match(title or ""):  # 「表N…」優先於其他單格列
             title = ne[0]
         if len(set(ne)) == 1 and not header:
             title = title or ne[0]
@@ -118,22 +126,23 @@ def parse_grid(rows, filled=False):
                 if not r[j] and r[j - 1] and (hi == 0 or header[hi - 1][j] == header[hi - 1][j - 1]):
                     r[j] = r[j - 1]
     body = [rows[i] for i in body_idx]
+    lead = next((j for j in range(width) if any(r[j] for r in body)), lead)  # 以資料列重新判定第一個有內容的欄
     # 標籤欄：多數 body 列在此欄為非數值文字
-    n_label = 0
-    for j in range(width):
+    n_label = lead
+    for j in range(lead, width):
         txt = sum(1 for r in body if r[j] and not _datalike(r[j]))
-        if txt > 0.5 * len(body) or (j == 0 and txt > 0):
+        if txt > 0.5 * len(body) or (j == lead and txt > 0):
             n_label = j + 1
         else:
             break
-    n_label = max(n_label, 1)
+    n_label = max(n_label, lead + 1)
     # 標籤欄向下補齊（垂直合併）
     prev = [""] * n_label
     labels = []
     for r in body:
         cur = []
         for j in range(n_label):
-            v = r[j] or ("" if filled else (prev[j] if any(r[k] for k in range(j + 1, n_label)) or j == 0 else ""))
+            v = r[j] or ("" if filled else (prev[j] if any(r[k] for k in range(j + 1, n_label)) or j == lead else ""))
             cur.append(v)
         prev = cur
         labels.append(" / ".join(x for x in cur if x))
@@ -336,3 +345,28 @@ def html_table_grid(table):
             col += cs
         grid.append(row)
     return grid
+
+
+def reparse_all(con=None):
+    """解析器改版後，用各 sheet 保存的原始格子重算 facts（不需重新下載）。"""
+    con = con or connect()
+    cur = con.cursor()
+    years = dict(cur.execute("SELECT dataset_id, year FROM datasets"))
+    n_old = cur.execute("SELECT count(*) FROM facts").fetchone()[0]
+    for sid, ds, src, raw in cur.execute("SELECT s.sheet_id, s.dataset_id, d.source, s.raw_json FROM sheets s JOIN datasets d USING(dataset_id)").fetchall():
+        meta, facts = parse_grid(json.loads(raw), True)
+        y = years.get(ds)
+        cur.execute("DELETE FROM facts WHERE sheet_id=?", (sid,))
+        cur.executemany("INSERT INTO facts VALUES(?,?,?,?,?,?,?,?,?,?,?)",
+                        [(sid, ds, src, f["row_no"], f["col_no"], f["row_label"], f["col_label"],
+                          f["year"] if f["year"] is not None else y, f["area"], f["value"], f["raw"]) for f in facts])
+        cur.execute("UPDATE sheets SET title=?, unit=?, n_header=?, n_label=?, n_facts=? WHERE sheet_id=?",
+                    (meta["title"], meta["unit"], meta["n_header"], meta["n_label"], len(facts), sid))
+    con.commit()
+    return {"facts_舊": n_old, "facts_新": cur.execute("SELECT count(*) FROM facts").fetchone()[0]}
+
+
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "reparse":
+        print(reparse_all())

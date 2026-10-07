@@ -22,6 +22,7 @@ from mcp.server.fastmcp import FastMCP
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fetchers  # noqa: E402
 import census  # noqa: E402
+import census_tables  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -47,6 +48,7 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
 - 農業部 AB04 水產養殖「養殖合計」不含休養；年報/漁業署「總計」含休養。
 
 普查（人口及住宅／農林漁牧業／工業及服務業，含鄉鎮別）：stat_census_items 查統計項與可搭配分類 → stat_census_query 即時查並入庫。
+  動態查詢查不到的細項（如農事及畜牧服務業各區家數）→ stat_census_tables（普查結果統計表，按縣市別每縣市約 40 張，用到才下載）。
 
 本機統計資料庫（資料庫/stat.sqlite）：
 - 02 農業部統計處（qcode 全選查詢）、03 漁業署年報（分包 zip）、06b 臺南市統計年報（各章 ODS）可自動下載解析入庫：
@@ -476,6 +478,47 @@ def stat_census_query(census_name: str, items: list[str], rows: list[str] | None
     return {"普查": r["census"], "統計項": r["items"], "表側": r["rows"], "表頭": r["cols"], "總列數": len(r["data"]),
             "回傳列數": min(len(data), limit), "data": data[:limit],
             "警告": r["warnings"], "入庫": {k: saved[k] for k in ("dataset_id", "facts")} if saved else "未入庫"}
+
+@mcp.tool()
+def stat_census_tables(census_name: str, year: int, part: str = "", table: str = "", query: str = "", area: str = "",
+                       refresh: bool = False, limit: int = 300) -> dict:
+    """主計總處「普查結果統計表」（靜態 ODS／XLSX），用到才下載入庫。動態查詢（stat_census_query）查不到的
+    鄉鎮別細項（例：農事及畜牧服務業各區家數）多半在這裡。
+
+    census_name：農林漁牧／人口／工業；year：普查年（農林漁牧 84–109、人口 79–109、工商 95–110）。
+    part：子頁，通常是縣市名（臺南市、嘉義縣）或業別（農牧業、漁業…）。
+    table：表名關鍵字（空白分隔＝同時符合），如「統計結果摘要」「農事及畜牧服務業家數」。
+      不給 table → 只列出該子頁有哪些表（不下載）。
+    query／area：在取回的數值中再以關鍵字、地區過濾。refresh=True 強制重新下載。
+    範例：stat_census_tables("農林漁牧", 109, part="臺南市", table="統計結果摘要", area="新營區")"""
+    tabs = census_tables.list_tables(census_name, year, part, table)
+    if not table:
+        return {"說明": "未指定 table，僅列出可用統計表；指定 table 後會下載入庫並回傳數值",
+                "總數": len(tabs), "tables": [{"子頁": x["path"] + ("（" + x["sub"] + "）" if x["sub"] not in x["path"] else ""), "表名": x["table"],
+                                              "格式": [f["title"].rsplit(".", 1)[-1] for f in x["files"]]} for x in tabs[:200]]}
+    cname = census_tables._census_name(census_name)
+    con = store.connect()
+    have = {r[0] for r in con.execute("SELECT dataset_id FROM datasets WHERE dataset_id LIKE ?", (f"censustab:{cname}:{year}:%",))}
+    con.close()
+    need = [x for x in tabs if refresh or f"censustab:{cname}:{year}:{x['sub']}:{x['table']}" not in have]
+    downloaded = census_tables.harvest(cname, year, part, table) if need else "否（資料庫已有）"
+    ids = []
+    for x in tabs:
+        ids.append(f"censustab:{cname}:{year}:{x['sub']}:{x['table']}")
+    sql = f"""SELECT f.sheet_id, s.dataset_id, s.title, f.row_label, f.col_label, f.year, f.area, f.value, f.raw, s.unit
+              FROM facts f JOIN sheets s USING(sheet_id) WHERE f.dataset_id IN ({','.join('?' * len(ids))})"""
+    args = list(ids)
+    for term in _terms(query):
+        sql += " AND (lower(s.title||' '||f.row_label||' '||f.col_label) LIKE ?)"
+        args.append(f"%{term}%")
+    if area:
+        sql += " AND (f.area LIKE ? OR f.row_label LIKE ?)"
+        args += [f"%{area.replace('台', '臺')}%"] * 2
+    rows = _ro().execute(sql + " ORDER BY f.sheet_id, f.row_no, f.col_no LIMIT ?", args + [limit + 1]).fetchall()
+    keys = ["sheet_id", "dataset_id", "表名", "列", "欄", "年度", "地區", "數值", "原始", "單位"]
+    return {"本次下載": downloaded, "符合統計表": [x["table"] for x in tabs], "筆數": min(len(rows), limit),
+            "還有更多": len(rows) > limit, "rows": [dict(zip(keys, r)) for r in rows[:limit]],
+            "提醒": "數值以空白為千分位、「-」＝0；欄位標籤為推定，寫書件前用 stat_db_sheet 對照原始格子"}
 
 
 if __name__ == "__main__":
