@@ -54,6 +54,7 @@
 | 拉 | `stat_cyhg_reports` | 嘉義公務統計報表清冊（表號／期別） |
 | 拉 | `stat_list_local_files` / `stat_read_local` | 讀案件已歸檔的原始報表 |
 
+| 普查 | `stat_census_items` / `stat_census_query` | 主計總處三大普查動態查詢（人口／農林漁牧／工商，可到鄉鎮別），即時查並入庫（來源 09） |
 | 庫 | **`stat_fetch`** | **用到才下載**：資料庫已有就直接查，沒有（或年度不夠）就當場下載入庫再回傳。一般取數都用這支 |
 | 庫 | `stat_db_harvest` | 自動下載→解析→入庫：`agrstat`（qcode 全選）、`fa`（漁業署年報分包）、`tainan`（臺南年報各章 ODS） |
 | 庫 | `stat_agrstat_meta` | 看 agrstat 某 qcode 的統計量、維度、可選年度 |
@@ -87,6 +88,12 @@
   AB01 嘉義縣 114 年 73,087.21／實際耕作 72,956.26／長期休閒 130.95、漁業署嘉義縣 114 年總計 6,407.57／休養 122.77 皆與取數紀錄相符。
 - ⚠ Windows 上 `pandas` 必須在 `mcp.run()` 前 import，否則服務中首次 import 會卡死（server.py 開頭已處理）。
 - 自我檢查：`python stat_mcp/index.py` 印出各來源項目數。
+### 來源 09 三大普查動態查詢（2026-10-07 新增）
+
+- `stat_mcp/census.py`：主頁內嵌 `gfld`／`gcode1`／`clsfld` 解析成 `資料庫/09_主計總處_三大普查動態查詢/結構.json`＋`目錄.md`（342 統計項、351 複分類）；
+  查詢＝POST 條件到 `setid` session → GET `webQuery.aspx` → 頁內 `var gData=[…]` JSON。細節見該目錄 `操作說明.md`。
+- 案件關聯：嘉義表2-4、臺南表4-7（普查數字）可用 `stat_census_query` 回測 104／109 年值。
+
 ## stat-hub 擴充 SOP（2026-10-07）
 
 依擴充類型由輕到重，**每一種做完都要：回測（拿已知數字核對）→ `python stat_mcp/index.py` 自檢 → 重開 session 驗工具 → commit**。

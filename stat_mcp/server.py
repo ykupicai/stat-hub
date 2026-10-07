@@ -21,6 +21,7 @@ from mcp.server.fastmcp import FastMCP
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fetchers  # noqa: E402
+import census  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -44,6 +45,8 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
 - 寫進書件的縣內數字走「公務統計報表」原始小數（01b、06b）；01a 資料庫查詢平台把小數四捨五入掉了，只適合看趨勢。
 - 同一張表不可混用來源；改書件前先用新來源回測書中既有年度，逐格相符才寫新年度。
 - 農業部 AB04 水產養殖「養殖合計」不含休養；年報/漁業署「總計」含休養。
+
+普查（人口及住宅／農林漁牧業／工業及服務業，含鄉鎮別）：stat_census_items 查統計項與可搭配分類 → stat_census_query 即時查並入庫。
 
 本機統計資料庫（資料庫/stat.sqlite）：
 - 02 農業部統計處（qcode 全選查詢）、03 漁業署年報（分包 zip）、06b 臺南市統計年報（各章 ODS）可自動下載解析入庫：
@@ -424,6 +427,55 @@ def stat_fetch(source: str, qcode: str = "", year: int | None = None, year_begin
     return {"本次下載": downloaded or "否（資料庫已有）", "筆數": min(len(rows), limit), "還有更多": len(rows) > limit,
             "sheet_ids": sheets[:50], "rows": [dict(zip(keys, r)) for r in rows[:limit]],
             "提醒": "欄位標籤為解析器推定，寫進書件前用 stat_db_sheet 對照原始格子"}
+
+# ====================================================================== 09 三大普查
+@mcp.tool()
+def stat_census_items(query: str = "", kind: str = "", limit: int = 40) -> dict:
+    """主計總處三大普查動態查詢系統的統計項清單（不連網，讀結構.json）。
+    query：關鍵字（空白分隔＝同時符合，比對統計項名稱、路徑、可搭配複分類）；
+    kind：人口／農林漁牧／工業（只看該普查）。回傳每個統計項可搭配的複分類（如 縣市別、鄉鎮別、經營種類別）與單位。
+    普查年度：人口及住宅 89/99/109、農林漁牧業 94/99/104/109、工業及服務業 95/100/105/110（5 或 10 年一次）。"""
+    st = census.load()
+    t = _terms(query)
+    hits = []
+    for it in st["items"]:
+        if kind and kind not in it["kind"]:
+            continue
+        cls = sorted({n for v in it["variants"] for n in v["分類"]})
+        if _hit(" ".join([it["name"], it["path"], it["kind"]] + cls), t):
+            hits.append({"idx": it["idx"], "統計項": it["name"], "普查": it["kind"], "路徑": it["path"],
+                         "單位": next((v["unit"] for v in it["variants"] if v["unit"]), ""), "可搭配複分類": cls})
+    return {"普查年度": [y["name"] for y in st["years"]], "總數": len(hits), "items": hits[:limit]}
+
+
+@mcp.tool()
+def stat_census_query(census_name: str, items: list[str], rows: list[str] | None = None, cols: list[str] | None = None,
+                      area: str = "", save: bool = True, limit: int = 400) -> dict:
+    """即時查詢三大普查動態查詢系統，並（預設）存入本機統計資料庫。
+
+    census_name：如 "109農林漁牧"、"104年農林漁牧業普查"、"110工業及服務"、"109人口"。
+    items：統計項名稱（≤10，用 stat_census_items 查，例 ["農牧業普查家數"]）。
+    rows／cols：表側／表頭複分類（合計 ≤3，例 rows=["鄉鎮別"]、cols=["經營種類別"]），統計項必須能搭配。
+    area：只回傳含此字串的列（如 "嘉義縣"、"臺南市"），不影響入庫內容。
+    ⚠ 普查是 5 年一次；農林漁牧業普查最新為 109 年（114 年普查結果尚未發布），工業及服務業最新 110 年。"""
+    r = census.query(census_name, items, rows or [], cols or [])
+    saved = None
+    if save and r["data"]:
+        import hashlib
+        key = hashlib.md5(json.dumps([r["census"], r["items"], r["rows"], r["cols"]], ensure_ascii=False).encode()).hexdigest()[:10]
+        tmp = store.RAW_DIR / "census" / f"{key}.json"
+        tmp.parent.mkdir(parents=True, exist_ok=True)
+        tmp.write_text(json.dumps(r, ensure_ascii=False), encoding="utf-8")
+        con = store.connect()
+        title = f"{r['census']} {'、'.join(i['name'] for i in r['items'])} × {'、'.join(r['rows'] + r['cols']) or '全國'}"
+        saved = store.save_dataset(con, f"census:{key}", "09", title, int(re.match(r'\d+', r['census']).group()),
+                                   census.MAIN, tmp, [(title[:60], census.to_grid(r))])
+        con.close()
+    data = [{k: v for k, v in d.items() if k != "area"} for d in r["data"]
+            if not area or any(area.replace("台", "臺") in str(v) for v in d.values())]
+    return {"普查": r["census"], "統計項": r["items"], "表側": r["rows"], "表頭": r["cols"], "總列數": len(r["data"]),
+            "回傳列數": min(len(data), limit), "data": data[:limit],
+            "入庫": {k: saved[k] for k in ("dataset_id", "facts")} if saved else "未入庫"}
 
 
 if __name__ == "__main__":

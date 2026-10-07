@@ -140,6 +140,14 @@ def build_items():
             if c:
                 it["c"] = c
             items.append(it)
+    # 09 三大普查動態查詢（統計項×可搭配複分類）
+    cen_p = DB / "09_主計總處_三大普查動態查詢" / "結構.json"
+    if cen_p.exists():
+        for it in load(cen_p)["items"]:
+            cls = sorted({n for v in it["variants"] for n in v["分類"]})
+            items.append({"s": "09", "p": f"{it['kind']} > {it['path']}", "n": it["name"], "c": f"census:{it['idx']}",
+                          "u": "https://dtable.dgbas.gov.tw/censuall/webMain.aspx?sys=210&x=2098&funid=advqry",
+                          "k": " ".join(cls), "meta": {"可搭配複分類": cls[:30], "取數": "stat_census_query"}})
     items.extend(MANUAL_ITEMS)
     return items
 
