@@ -1,0 +1,19 @@
+# stat-hub（統計資料機器人 MCP server）與本專案腳本所需套件
+# 安裝：python -m pip install -r requirements.txt
+# 開發環境實測版本（2026-10-07，Python 3.14）；Python 3.10 以上即可。
+
+# --- MCP server（stat_mcp/）必要 ---
+mcp>=1.27            # FastMCP stdio server
+requests>=2.32       # 向各政府平台取數
+urllib3>=2.2
+lxml>=5.0            # 解析網頁
+pandas>=2.2          # 讀試算表（server 啟動時預先載入，避免 Windows stdio 卡死）
+odfpy>=1.4           # 讀 ODS（臺南年報、普查統計表、漁業署年報）
+xlrd>=2.0            # 讀舊版 XLS（含合併格資訊）
+openpyxl>=3.1        # 讀寫 XLSX
+cryptography>=42     # 解農業部統計處查詢頁的 AES 隱藏欄位
+pymupdf>=1.24        # 抽屏東縣統計年報 PDF 文字（import fitz）
+
+# --- 選用：案件腳本（scripts/）才需要 ---
+python-docx>=1.1     # 回測／讀書件 docx
+matplotlib>=3.8      # 重製氣候圖（make_figs_*）

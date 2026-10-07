@@ -3,12 +3,14 @@
 import zipfile, shutil, os, sys
 from lxml import etree
 
+from _local_paths import case_file  # 書件路徑讀本機 local_paths.json（不進版控）
+
 W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main'
 NS = {'w': W}
 q = lambda t: '{%s}%s' % (W, t)
 
-SRC = r"<個人案件目錄>\嘉義農再\03 計畫書件\20260909_修訂嘉義縣農村再生總體計畫(法定階段)_依農業部0901架構調整.docx"
-DST = r"<個人案件目錄>\嘉義農再\03 計畫書件\20260917_修訂嘉義縣農村再生總體計畫(法定階段)_統計表更新至114年.docx"
+SRC = case_file("嘉義農再書件", "20260909_修訂嘉義縣農村再生總體計畫(法定階段)_依農業部0901架構調整.docx")
+DST = case_file("嘉義農再書件", "20260917_修訂嘉義縣農村再生總體計畫(法定階段)_統計表更新至114年.docx")
 
 
 def ptext(p):

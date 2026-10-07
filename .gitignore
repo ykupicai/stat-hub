@@ -26,3 +26,8 @@ stat_mcp/.cache/
 __pycache__/
 資料庫/stat.sqlite
 資料庫/原始檔/
+
+# 本機路徑設定（含內網 NAS、個人目錄）
+local_paths.json
+# 改寫歷史前的備份（含舊歷史與敏感資訊，勿上傳）
+.git-backup/

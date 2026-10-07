@@ -160,12 +160,15 @@
 - `core.autocrlf=false`，換行由 `.gitattributes` 統一為 LF；`core.quotepath=false` 讓中文檔名正常顯示。
 - 作者資訊設在 repo 層級（`git config --local`），未動全域設定。
 
-⚠ **推上遠端前必須先處理**：下列檔案含內網 IP（`<NAS-IP>`）、同事個人目錄
-（`D:\case\...\<同事>\`）、未定稿書件內容；審議委員姓名與發言摘要已於 2026-10-07 自現行檔案移除（鐵律 8），
-**但仍留在舊 commit 歷史中**——
-`scripts/patch_docx_嘉義農再_*.py`（4 支）、`案件/嘉義農再/取數紀錄.md`、`案件/臺南農再/取數紀錄.md`。
-若要推 GitHub，**務必用 private repo**，或先把 NAS 路徑抽成設定檔、委員姓名改代號。
-公開 repo 會讓這些資訊永久留在 commit 歷史裡，事後刪檔也救不回來。
+### 敏感資訊處理（2026-10-07 清理並重寫歷史）
+
+- **內網 NAS 路徑、同事個人目錄一律不寫進 repo**：放在根目錄 `local_paths.json`（已 gitignore），
+  格式見 `local_paths.example.json`；腳本用 `scripts/_local_paths.py` 的 `case_file("鍵", "檔名")` 讀取，
+  文件裡寫 `<嘉義農再書件>\…`、`<臺南農再期中報告書>\…` 這類代號。新接手者先複製範例檔並填本機路徑。
+- **人名不進 repo**：審議委員（鐵律 8）、同事（書件檔名的署名改寫 `-<同事>`）。
+- 2026-10-07 已用 git-filter-repo 把歷史中的內網 IP、個人目錄、委員與同事姓名全部替換為代號，
+  重寫前的完整備份在 `.git-backup/`（已 gitignore，含舊歷史，**勿上傳**）。
+- 推 GitHub 仍**務必用 private repo**；書件內容與取數紀錄屬內部資料。
 
 ## 目前狀態（2026-09-22）
 
