@@ -133,9 +133,17 @@
    "stat08": "https://taitung.dgbas.gov.tw/statweb/Page/stat08.aspx",
    "說明": "資料庫查詢平台 CateNo 1–40 皆無內容（2026-10-07 實測），只登記公務統計報表（農業處 3006）。不在官方清單",
    "no_db": true
+  },
+  "新北市": {
+   "base": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/",
+   "catenos": {},
+   "stat08": null,
+   "mode": "ntpc",
+   "no_db": true,
+   "說明": "改版介面（Page/StatFile2 + lbtGUID 回傳 + 查詢視窗），目錄與查詢由 stat_mcp/ntpc.py 處理（crawl_counties 略過）；查詢仍送 /網頁資料查詢/ShowQuery.aspx"
   }
  },
  "未納入": {
-  "臺北市、新北市、桃園市、高雄市、宜蘭縣、新竹市、連江縣": "不在 dgbas.gov.tw 同系統主機上（2026-10-07 探查常見主機名皆無），各自另有統計系統，尚未收錄"
+  "臺北市、桃園市、高雄市、宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
  }
 }

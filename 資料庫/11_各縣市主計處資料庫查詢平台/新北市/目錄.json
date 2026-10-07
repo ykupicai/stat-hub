@@ -1,0 +1,4407 @@
+[
+ {
+  "name": "新北市市政統計",
+  "children": [
+   {
+    "name": "一、土地",
+    "children": [
+     {
+      "name": "已登錄土地面積",
+      "id": "11833",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "實施三七五減租後佃農購買耕地面積與戶數",
+      "id": "11834",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "實施三七五減租後承租人承買耕地面積及人數",
+      "id": "11835",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "實施三七五減租成果_109年以前",
+      "id": "11836",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "實施三七五減租成果_110年以後",
+      "id": "11837",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "土地徵收面積",
+      "id": "11838",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "公地撥用面積",
+      "id": "11839",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     },
+     {
+      "name": "市地重劃成果",
+      "id": "11840",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12101"
+     }
+    ]
+   },
+   {
+    "name": "二、人口",
+    "children": [
+     {
+      "name": "現住戶數、人口密度及性比例",
+      "id": "11841",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "戶籍動態",
+      "id": "11842",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之年齡分配",
+      "id": "11843",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之年齡結構",
+      "id": "11844",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "十五歲以上現住人口之教育程度_按年齡別分",
+      "id": "11845",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "十五歲以上現住人口之教育程度_按區別分",
+      "id": "11846",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之婚姻狀況_按年齡別分_107年以前",
+      "id": "11847",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之婚姻狀況_按年齡別分_108年以後",
+      "id": "11848",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之婚姻狀況_按區別分_107年以前",
+      "id": "11849",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住人口之婚姻狀況_按區別分_108年以後",
+      "id": "11850",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族戶口數_100年以前",
+      "id": "11851",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族戶口數_101年以後",
+      "id": "11852",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族年齡分配",
+      "id": "11853",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "十五歲以上現住原住民族人口之教育程度_按年齡別分",
+      "id": "11854",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族婚姻狀況_107年以前",
+      "id": "11855",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族婚姻狀況_108年以後",
+      "id": "11857",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "現住原住民族種族別人口數",
+      "id": "11858",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     },
+     {
+      "name": "新住民人口",
+      "id": "11859",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12102"
+     }
+    ]
+   },
+   {
+    "name": "三、行政組織",
+    "children": [
+     {
+      "name": "各級機關學校正式預算員額",
+      "id": "11860",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校員工總人數_99年以前",
+      "id": "12083",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校員工總人數_100年至102年",
+      "id": "11862",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校員工總人數_103年以後",
+      "id": "11863",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按官等別_99年以前",
+      "id": "11864",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按官等別_100年以後",
+      "id": "11865",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按教育程度分_99年以前",
+      "id": "11866",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按教育程度分_100年以後",
+      "id": "11867",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按性別及年齡分_99年以前",
+      "id": "11868",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "各級機關學校公教人員按性別及年齡分_100年以後",
+      "id": "11869",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "立法委員區域選舉概況",
+      "id": "11871",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "臺北縣縣長選舉概況_99年12月25日改制前",
+      "id": "11872",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "新北市市長選舉概況_99年12月25日改制後",
+      "id": "11873",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "臺北縣議員選舉概況_99年12月25日改制前",
+      "id": "11874",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "新北市議員選舉概況_99年12月25日改制後",
+      "id": "11875",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     },
+     {
+      "name": "新北市議員選舉概況_110年9月通過新北市議員選舉區變更案",
+      "id": "11876",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12103"
+     }
+    ]
+   },
+   {
+    "name": "四、農、林、漁、牧",
+    "children": [
+     {
+      "name": "農耕土地面積_102年以前",
+      "id": "11877",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "農耕土地面積_103年以後",
+      "id": "11878",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "農戶人口數_98年以前",
+      "id": "11879",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "農戶人口數_99年以後",
+      "id": "11880",
+      "週期": "(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "稻米收穫面積及生產量_100年以前",
+      "id": "11881",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "稻米收穫面積及生產量_101年以後",
+      "id": "11882",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "農產品收穫面積及生產量",
+      "id": "11883",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "造林面積及數量",
+      "id": "11885",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "森林主產物採伐及生產",
+      "id": "11886",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "森林災害",
+      "id": "11887",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "漁業從業人員",
+      "id": "11889",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "漁戶人口數",
+      "id": "11890",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "現有動力漁船數",
+      "id": "11891",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "漁業生產量值",
+      "id": "11893",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "水產養殖面積_100年以前",
+      "id": "11894",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "水產養殖面積_101年以後",
+      "id": "11895",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "遭難漁船數",
+      "id": "11897",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "遭難漁民數",
+      "id": "11899",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "現有家畜數_110年以前",
+      "id": "11900",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "現有家畜數_111年以後",
+      "id": "11903",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "家畜屠宰頭數",
+      "id": "11904",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "產乳牛頭數及產乳量",
+      "id": "11905",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "現有家禽數量",
+      "id": "11906",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "水土保持處理面積",
+      "id": "11907",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "農路改善及維護工程",
+      "id": "11908",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "灌溉排水受益地面積_112年以前",
+      "id": "11909",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     },
+     {
+      "name": "灌溉服務面積_113年以後",
+      "id": "12834",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12104"
+     }
+    ]
+   },
+   {
+    "name": "五、工、商業及市區建設",
+    "children": [
+     {
+      "name": "營運中工廠家數_96至98年",
+      "id": "12517",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "營運中工廠家數_99至104年",
+      "id": "12095",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "營運中工廠家數_105至109年",
+      "id": "11912",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "營運中工廠家數_110年以後",
+      "id": "12843",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "工廠登記家數_96至98年",
+      "id": "11913",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "工廠登記家數_99至104年",
+      "id": "11914",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "工廠登記家數_105以後",
+      "id": "11915",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "商業登記現有家數與資本額",
+      "id": "11916",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "公司登記現有家數及資本額_按組織別",
+      "id": "12516",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "公司登記現有家數及資本額_按行業別",
+      "id": "11918",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫區面積及人口",
+      "id": "11919",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量",
+      "id": "12103",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫區域已開闢道路及公園綠地_87_91年",
+      "id": "12104",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫區域已開闢道路及公園綠地_92_97年",
+      "id": "12105",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫公共設施用地已闢建面積_98年以後",
+      "id": "12106",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "核發建築物使用執照總樓地板面積",
+      "id": "12091",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "都市計畫公共設施用地面積",
+      "id": "11928",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "河川防洪工程",
+      "id": "11929",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "禦潮工程實施",
+      "id": "12092",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "電力供應情形",
+      "id": "11924",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "自來水供水普及率",
+      "id": "12093",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     },
+     {
+      "name": "現有灌溉及排水面積",
+      "id": "11930",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12105"
+     }
+    ]
+   },
+   {
+    "name": "六、金融、財稅",
+    "children": [
+     {
+      "name": "金融機構分布_100年以前",
+      "id": "11931",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "金融機構分布_101年以後",
+      "id": "11932",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "主要金融機構存放款餘額_101年以前",
+      "id": "11933",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "主要金融機構存放款餘額_102年以後",
+      "id": "11934",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "歲入預算－按來源別分",
+      "id": "11935",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "歲入決算－按來源別分",
+      "id": "11936",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "歲出預算－按政事別分",
+      "id": "11937",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "歲出決算－按政事別分",
+      "id": "11938",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "歷年財政狀況",
+      "id": "11939",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "各項稅捐實徵數",
+      "id": "11940",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "各項稅捐納庫數109年以前",
+      "id": "11941",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "各項稅捐納庫數110年以後",
+      "id": "11942",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "公庫收入",
+      "id": "11943",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "公庫支出",
+      "id": "11944",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     },
+     {
+      "name": "營業基金及非營業特種基金盈虧_餘絀",
+      "id": "11946",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12106"
+     }
+    ]
+   },
+   {
+    "name": "七、交通運輸",
+    "children": [
+     {
+      "name": "車輛登記",
+      "id": "11947",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12107"
+     },
+     {
+      "name": "公有停車位概況_113年以前",
+      "id": "12984",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12107"
+     },
+     {
+      "name": "公有停車位概況_114年以後",
+      "id": "12985",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12107"
+     },
+     {
+      "name": "公路里程概況",
+      "id": "11949",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12107"
+     }
+    ]
+   },
+   {
+    "name": "八、教育文化",
+    "children": [
+     {
+      "name": "境內高等教育概況_大學",
+      "id": "11950",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內高等教育概況_專科",
+      "id": "11951",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內高級中等學校教育概況_102學年度以前",
+      "id": "11952",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內高級中等學校教育概況_103學年度以後",
+      "id": "11955",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內國民中學概況",
+      "id": "11956",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內國民小學概況",
+      "id": "11958",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內幼兒(稚)園概況_100學年度以前",
+      "id": "11960",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內幼兒(稚)園概況_101學年度以後",
+      "id": "11964",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "境內各級進修部概況",
+      "id": "11962",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "短期補習班概況_97年以前",
+      "id": "11965",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "短期補習班概況_98年以後",
+      "id": "11966",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "國民中小學中途輟學學生概況",
+      "id": "11967",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "政府教育經費概況",
+      "id": "11968",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "高級中等學校學生裸視視力檢查",
+      "id": "11969",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "國民中學學生裸視視力檢查",
+      "id": "12107",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "國民小學學生裸視視力檢查",
+      "id": "11971",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "高級中等學校及國民中小學原住民族學生數",
+      "id": "11973",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "國民中小學新住民子女學生數",
+      "id": "11972",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "新北市公立公共圖書館概況",
+      "id": "11821",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "新北市各項藝文展演活動",
+      "id": "11822",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "新北市一般式主要社會教育機構_102年前",
+      "id": "11823",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     },
+     {
+      "name": "新北市一般式主要社會教育機構_103年後",
+      "id": "11824",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12108"
+     }
+    ]
+   },
+   {
+    "name": "九、衛生",
+    "children": [
+     {
+      "name": "公私立醫療機構及其他醫事機構開執業場所醫事人員執業人數",
+      "id": "11974",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "醫療院所數及各類病床數、救護車輛數_112年以前",
+      "id": "11975",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "醫療院所數及各類病床數、救護車輛數_113年以後",
+      "id": "12841",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "預防接種工作_98年以前",
+      "id": "11976",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "預防接種工作_99至103年",
+      "id": "11977",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "預防接種工作_104年",
+      "id": "11978",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "預防接種工作_105年以後",
+      "id": "11979",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "法定傳染病例人數_95年以前",
+      "id": "11980",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "法定傳染病例人數_96至101年",
+      "id": "11981",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "法定傳染病例人數_102年以後",
+      "id": "11982",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "藥商家數",
+      "id": "11983",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "主要死亡原因",
+      "id": "11984",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "營業衛生管理稽核概況－按稽查家次分",
+      "id": "11985",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "山地衛生所(室)工作概況_113年以前",
+      "id": "11986",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     },
+     {
+      "name": "山地衛生所(室)工作概況_114年以後",
+      "id": "12990",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12109"
+     }
+    ]
+   },
+   {
+    "name": "十、環境保護",
+    "children": [
+     {
+      "name": "垃圾清運處理概況_100年以前",
+      "id": "11987",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "垃圾清運處理概況_101年以後-按處理方式分",
+      "id": "11988",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "垃圾清運處理概況_101年以後-按清運單位或回收管道分",
+      "id": "11989",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "水肥清運處理概況",
+      "id": "11990",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "環境空氣品質",
+      "id": "11991",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "公害陳情案件",
+      "id": "11992",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "一般地區環境音量監測不合格情形_90至98年",
+      "id": "11993",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "一般地區環境音量監測不合格情形_99年以後",
+      "id": "11994",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "道路交通環境音量監測不合格情形_90至98年",
+      "id": "11995",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "道路交通環境音量監測不合格情形_99年以後",
+      "id": "11996",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "機動車輛排放污染物檢查告發情形_98年以前",
+      "id": "11997",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "機動車輛排放污染物檢查告發情形_99年以後",
+      "id": "11998",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     },
+     {
+      "name": "環保稽查_查核概況",
+      "id": "11999",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12110"
+     }
+    ]
+   },
+   {
+    "name": "十一、社會福利",
+    "children": [
+     {
+      "name": "各級人民團體數及會員數",
+      "id": "12000",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "宗教教務概況_102年以前",
+      "id": "12001",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "宗教教務概況_103年以後",
+      "id": "12002",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "宗教社會服務概況",
+      "id": "12003",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "合作社概況_94年以前",
+      "id": "12004",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "合作社概況_95年以後",
+      "id": "12005",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "推行社區發展工作成果_113年以前",
+      "id": "12006",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "推行社區發展工作成果_114年以後",
+      "id": "12992",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "身心障礙人數_100年以前",
+      "id": "12007",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "身心障礙人數_101年至113年",
+      "id": "12008",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "身心障礙人數_114年以後",
+      "id": "12993",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "身心障礙福利服務概況",
+      "id": "12009",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "低收入戶人數及生活扶助",
+      "id": "12010",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "中低收入戶人數及生活扶助",
+      "id": "12011",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "中低收入老人生活津貼與老農津貼_111年以前",
+      "id": "12012",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "中低收入老人生活津貼與老農津貼_112年以後",
+      "id": "12502",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "辦理社會救助醫療補助概況",
+      "id": "12013",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "辦理急難救助概況_97年以前",
+      "id": "12014",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "辦理急難救助概況_98年以後",
+      "id": "12015",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "遭受災害救助情形_111年以前",
+      "id": "12016",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "遭受災害救助情形_112年以後",
+      "id": "12503",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "遊民人數及處理情形_107年以前",
+      "id": "12017",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "遊民人數及處理情形_101年至113年",
+      "id": "12018",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "遊民人數及處理情形_114年以後",
+      "id": "12994",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "老人福利服務概況",
+      "id": "12019",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "兒童及少年福利服務概況",
+      "id": "12020",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "托育機構概況_100年以前",
+      "id": "12021",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "托育機構概況_101年以後",
+      "id": "12022",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "婦女福利服務概況_102年以前",
+      "id": "12023",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "婦女福利服務概況_103至105年",
+      "id": "12024",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "婦女福利服務概況_106年以後",
+      "id": "12025",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "特殊境遇家庭扶助服務概況",
+      "id": "12026",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "社會福利工作人員數_110年以前",
+      "id": "12027",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "社會福利工作人員數_111年以後",
+      "id": "12500",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "性侵害通報案件",
+      "id": "12028",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "家庭暴力通報案件_107年以前",
+      "id": "12029",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "家庭暴力通報案件_108年以後",
+      "id": "12030",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     },
+     {
+      "name": "長期照顧十年計畫服務個案人數",
+      "id": "12031",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12111"
+     }
+    ]
+   },
+   {
+    "name": "十二、勞工行政",
+    "children": [
+     {
+      "name": "勞資爭議案件_96年以前",
+      "id": "12032",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞資爭議案件_97年以後",
+      "id": "12033",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞工團體概況",
+      "id": "12034",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "事業單位團體協約及勞資會議概況_99年以前",
+      "id": "12035",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "事業單位團體協約及勞資會議概況_100年以後",
+      "id": "12036",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞工服務中心服務概況",
+      "id": "12037",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞工教育及志願服務概況",
+      "id": "12038",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "職工福利概況",
+      "id": "12039",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞工保險各類投保單位數及人數",
+      "id": "12040",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "有效聘僱許可移工人數",
+      "id": "12041",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "人力資源調查重要結果指標",
+      "id": "12042",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "勞動力之年齡分配",
+      "id": "12043",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之行業_95年以前",
+      "id": "12044",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之行業_96年至105年",
+      "id": "12045",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之行業_106年至110年",
+      "id": "12046",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之行業_111年以後",
+      "id": "12047",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之職業",
+      "id": "12048",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之教育程度_100年以前",
+      "id": "12049",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之教育程度_101年以後",
+      "id": "12050",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "就業者之年齡分配",
+      "id": "12051",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "失業者之教育程度_100年以前",
+      "id": "12052",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "失業者之教育程度_101年以後",
+      "id": "12053",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "失業者之年齡分配",
+      "id": "12054",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     },
+     {
+      "name": "經指定填報職業災害統計之事業單位概況",
+      "id": "12055",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12112"
+     }
+    ]
+   },
+   {
+    "name": "十三、社會治安",
+    "children": [
+     {
+      "name": "刑事案件",
+      "id": "12056",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "刑事案件類別統計",
+      "id": "12057",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "竊盜案件",
+      "id": "12058",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "暴力案件",
+      "id": "12059",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "違反毒品危害防制條例查獲數",
+      "id": "12060",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "違反社會秩序維護法案件",
+      "id": "12061",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "經濟案件_92年以前",
+      "id": "12062",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "經濟案件_93至96年",
+      "id": "12063",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "經濟案件_97年以後",
+      "id": "12064",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "道路交通事故原因及傷亡人數",
+      "id": "12065",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "消防人力及裝備",
+      "id": "12066",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "火災起火原因及損失情形",
+      "id": "12067",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "火災出動人員、車輛及其他裝備",
+      "id": "12068",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "消防救護服務",
+      "id": "12069",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "消防安全設備查察處理",
+      "id": "12070",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     },
+     {
+      "name": "辦理調解業務概況",
+      "id": "12071",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12113"
+     }
+    ]
+   },
+   {
+    "name": "十四、家庭生活",
+    "children": [
+     {
+      "name": "平均每戶家庭全年經常性收入",
+      "id": "12072",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "平均每戶家庭全年經常性支出_97年以前",
+      "id": "12073",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "平均每戶家庭全年經常性支出_98至100年",
+      "id": "12074",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "平均每戶家庭全年經常性支出_101至111年",
+      "id": "12075",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "平均每戶家庭全年經常性支出_112年",
+      "id": "12498",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "平均每戶家庭全年經常性支出_113年以後",
+      "id": "12842",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "家庭現代化設備_87至111年",
+      "id": "12076",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "家庭現代化設備_112年以後",
+      "id": "12499",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "消費者物價指數",
+      "id": "12077",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     },
+     {
+      "name": "營造工程物價指數",
+      "id": "12078",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12114"
+     }
+    ]
+   },
+   {
+    "name": "十五、其他",
+    "children": [
+     {
+      "name": "郵政機構概況_92年以前",
+      "id": "12079",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12115"
+     },
+     {
+      "name": "郵政機構概況_93年以後",
+      "id": "12080",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12115"
+     },
+     {
+      "name": "觀光遊憩區遊客人次",
+      "id": "12081",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12115"
+     },
+     {
+      "name": "旅館業及旅行社概況",
+      "id": "12082",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=121&ParentNo=null12115"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "新北市性別統計",
+  "children": [
+   {
+    "name": "一、權力、決策與影響力",
+    "children": [
+     {
+      "name": "民意代表",
+      "id": "12116",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "民選行政首長",
+      "id": "12117",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "機關首長及正副主管",
+      "id": "12118",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "公教職員",
+      "id": "12119",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "公教職員年齡結構",
+      "id": "12120",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "公教職員教育程度結構",
+      "id": "12121",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "公教職員官職等",
+      "id": "12122",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "公司、商業及工廠登記負責人",
+      "id": "12123",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "營利事業負責人、代表人或管理人",
+      "id": "12124",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "營利事業負責人、代表人或管理人（續）",
+      "id": "12125",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "農會理事、監事及會員代表—上級農會",
+      "id": "12126",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "農會理事、監事及會員代表—基層農會",
+      "id": "12127",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "漁會理事、監事及會員代表",
+      "id": "12128",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "民間團體領導者",
+      "id": "12129",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "經濟戶長比重",
+      "id": "12130",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "家庭所得差距",
+      "id": "12131",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "家庭所得分配",
+      "id": "12132",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "房屋稅及地價稅開徵概況",
+      "id": "12133",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     },
+     {
+      "name": "不動產概況",
+      "id": "12134",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33701"
+     }
+    ]
+   },
+   {
+    "name": "二、就業、經濟與福利",
+    "children": [
+     {
+      "name": "勞動力",
+      "id": "12135",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "勞動力參與率",
+      "id": "12136",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者職業結構",
+      "id": "12137",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者行業結構—農業及工業",
+      "id": "12138",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者行業結構—服務業",
+      "id": "12139",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者從業身分結構",
+      "id": "12140",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者教育程度結構",
+      "id": "12141",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業者年齡結構",
+      "id": "12142",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "失業率—教育程度別",
+      "id": "12143",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "失業率—年齡別",
+      "id": "12144",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "失業率—婚姻狀況別",
+      "id": "12145",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "原住民族勞動力",
+      "id": "12146",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "就業輔導",
+      "id": "12147",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "職業訓練",
+      "id": "12148",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "市府員工參訓情形",
+      "id": "12149",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "市府員工請假情形—生理假",
+      "id": "12150",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "市府員工請假情形—家庭照顧假",
+      "id": "12151",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "市府員工留職停薪情形—侍親留職停薪",
+      "id": "12152",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "市府員工留職停薪情形—育嬰留職停薪",
+      "id": "12153",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "依性別工作平等法申訴案件",
+      "id": "12154",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "勞工（農民）保險及勞資爭議",
+      "id": "12155",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "各級工會會員數",
+      "id": "12156",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "外籍移工",
+      "id": "12157",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "低收入戶",
+      "id": "12158",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "住宅補貼申請",
+      "id": "12159",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "老人福利服務",
+      "id": "12160",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "婦女福利服務",
+      "id": "12161",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "原住民族福利",
+      "id": "12162",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "身心障礙福利",
+      "id": "12163",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "街友安置收容情形",
+      "id": "12164",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     },
+     {
+      "name": "社會局所轄志工",
+      "id": "12165",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33702"
+     }
+    ]
+   },
+   {
+    "name": "三、教育、媒體與文化",
+    "children": [
+     {
+      "name": "教育程度",
+      "id": "12166",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "學校教育",
+      "id": "12167",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "幼兒（稚）園教育",
+      "id": "12168",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "國小教育",
+      "id": "12169",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "國小教育（續）",
+      "id": "12170",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "國中教育",
+      "id": "12171",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "國中教育（續）",
+      "id": "12172",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "高級中等教育",
+      "id": "12173",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "高級中等教育（續）",
+      "id": "12174",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "高等教育",
+      "id": "12175",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "特殊教育—特教學校",
+      "id": "12176",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "特殊教育—身心障礙類",
+      "id": "12177",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "特殊教育—資賦優異類",
+      "id": "12178",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "補習教育",
+      "id": "12179",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "原住民族教育",
+      "id": "12180",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "社會教育",
+      "id": "12181",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "依性別平等教育法申訴案件—被行為人學校程度別",
+      "id": "12182",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "依性別平等教育法申訴案件—行為人學校程度別",
+      "id": "12183",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "婚姻狀況",
+      "id": "12184",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "婚姻狀況—未婚年齡結構",
+      "id": "12185",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "婚姻狀況—有偶年齡結構",
+      "id": "12186",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "婚姻狀況—喪偶年齡結構",
+      "id": "12187",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "婚姻狀況—離婚年齡結構",
+      "id": "12188",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "結婚情形",
+      "id": "12189",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "結婚人數—按原屬國籍別分",
+      "id": "12190",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "初婚情形",
+      "id": "12191",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "離婚情形",
+      "id": "12192",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "幼兒托育",
+      "id": "12193",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "家庭組織型態",
+      "id": "12194",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "市民文化",
+      "id": "12195",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "客家文化",
+      "id": "12196",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "街頭藝人110年前",
+      "id": "12197",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     },
+     {
+      "name": "街頭藝人110年後",
+      "id": "12805",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33703"
+     }
+    ]
+   },
+   {
+    "name": "四、人身安全與司法",
+    "children": [
+     {
+      "name": "家庭暴力通報案件",
+      "id": "12199",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "家庭暴力通報案件（續）",
+      "id": "12200",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "性侵害通報案件",
+      "id": "12201",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "性侵害通報案件（續）",
+      "id": "12202",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "警察局受理性侵害事（案）件—被害人",
+      "id": "12203",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "性騷擾案件申訴",
+      "id": "12204",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "兒童及少年性剝削",
+      "id": "12207",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件嫌疑犯",
+      "id": "12208",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件嫌疑犯—年齡別",
+      "id": "12209",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件嫌疑犯—教育程度別",
+      "id": "12210",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件嫌疑犯—職業別",
+      "id": "12211",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件嫌疑犯—犯罪場所別",
+      "id": "12212",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件犯罪人口率",
+      "id": "12213",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "候詢嫌疑犯暨被拘留人犯數",
+      "id": "12214",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件被害者",
+      "id": "12215",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件被害者—年齡別",
+      "id": "12216",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件被害者—教育程度別",
+      "id": "12217",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件被害者—職業別",
+      "id": "12218",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "刑事案件被害者—被害場所別",
+      "id": "12219",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "竊盜案件",
+      "id": "12220",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "竊盜案件（續）",
+      "id": "12221",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "暴力犯罪",
+      "id": "12222",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "暴力犯罪（續）",
+      "id": "12223",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "查獲毒品案件",
+      "id": "12224",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "青少犯罪",
+      "id": "12225",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "少年刑事案件嫌疑犯",
+      "id": "12226",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "青年刑事案件嫌疑犯",
+      "id": "12227",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "失蹤人口",
+      "id": "12228",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "道路交通安全",
+      "id": "12229",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     },
+     {
+      "name": "義消人數及火災死傷人數",
+      "id": "12230",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33704"
+     }
+    ]
+   },
+   {
+    "name": "五、健康、醫療與照顧",
+    "children": [
+     {
+      "name": "人口概況",
+      "id": "12231",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "人口年齡分配",
+      "id": "12232",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "人口消長",
+      "id": "12233",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "原住民族概況",
+      "id": "12234",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "新住民概況",
+      "id": "12235",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "生育率",
+      "id": "12236",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "年齡別生育率",
+      "id": "12237",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "嬰兒出生情形",
+      "id": "12238",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "嬰兒生母生育胎次及年齡",
+      "id": "12239",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "吸菸人口",
+      "id": "12240",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "身心障礙",
+      "id": "12241",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "法定傳染病—確定人數",
+      "id": "12242",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "法定傳染病—HIV感染者",
+      "id": "12243",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "法定傳染病—HIV死亡者",
+      "id": "12244",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡人數—主要死因",
+      "id": "12245",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡人數—各年齡別",
+      "id": "12246",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡人數—主要癌症",
+      "id": "12259",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡率—主要死因",
+      "id": "12247",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡率—各年齡別",
+      "id": "12248",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "死亡率—主要癌症",
+      "id": "12249",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "標準化死亡率—主要死因",
+      "id": "12250",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "標準化死亡率—主要癌症",
+      "id": "12251",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "自殺通報人數",
+      "id": "12252",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "緊急救護服務",
+      "id": "12253",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "緊急救護服務（續）",
+      "id": "12254",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "醫療服務",
+      "id": "12255",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "新生兒、嬰兒及孕產婦醫療概況",
+      "id": "12256",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "婦女乳房X光攝影篩檢",
+      "id": "12257",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     },
+     {
+      "name": "老人照顧機構",
+      "id": "12258",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33705"
+     }
+    ]
+   },
+   {
+    "name": "六、環境、能源與科技",
+    "children": [
+     {
+      "name": "環保人員概況",
+      "id": "12265",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33706"
+     },
+     {
+      "name": "大專環境相關科系（所）",
+      "id": "12260",
+      "週期": "學年(Y)",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33706"
+     },
+     {
+      "name": "領有駕駛執照數",
+      "id": "12261",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33706"
+     },
+     {
+      "name": "大眾交通工具駕駛人員",
+      "id": "12262",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33706"
+     },
+     {
+      "name": "觀光服務人員",
+      "id": "12263",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33706"
+     }
+    ]
+   },
+   {
+    "name": "七、各區指標",
+    "children": [
+     {
+      "name": "各區比較",
+      "id": "12267",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33707"
+     }
+    ]
+   },
+   {
+    "name": "八、縣市指標",
+    "children": [
+     {
+      "name": "縣市比較",
+      "id": "12269",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33708"
+     },
+     {
+      "name": "縣市比較(續)",
+      "id": "12270",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33708"
+     }
+    ]
+   },
+   {
+    "name": "九、綜合指數",
+    "children": [
+     {
+      "name": "性別不平等指數",
+      "id": "12806",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=337&ParentNo=null33709"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "新北市高齡統計",
+  "children": [
+   {
+    "name": "新北市高齡人口",
+    "children": [
+     {
+      "name": "人口數",
+      "id": "12277",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "人口增加率",
+      "id": "12278",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "平均餘命",
+      "id": "12279",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "扶老比",
+      "id": "12280",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "老化指數",
+      "id": "12281",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "性比例",
+      "id": "12282",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "15歲以上具小學教育程度或以下之人口比率",
+      "id": "12283",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "15歲以上人口婚姻狀況結構比",
+      "id": "12284",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     },
+     {
+      "name": "15歲以上人口教育程度",
+      "id": "12285",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33801"
+     }
+    ]
+   },
+   {
+    "name": "新北市原住民族高齡人口",
+    "children": [
+     {
+      "name": "原住民族人口數",
+      "id": "12286",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "原住民族之人口增加率",
+      "id": "12287",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "原住民族之扶老比",
+      "id": "12288",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "原住民族之老化指數",
+      "id": "12289",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "國民年金(55-64歲)",
+      "id": "12290",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "原住民族身心障礙人數",
+      "id": "12423",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "原住民族長者補助裝置假牙",
+      "id": "12553",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     },
+     {
+      "name": "長期照顧十年計畫-居家服務",
+      "id": "12293",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33802"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡勞動就業",
+    "children": [
+     {
+      "name": "15歲以上民間人口",
+      "id": "12296",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "15歲以上民間人口年齡結構",
+      "id": "12297",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "勞動力",
+      "id": "12298",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "勞動力年齡結構",
+      "id": "12299",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "勞動力參與率",
+      "id": "12300",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "就業人口",
+      "id": "12301",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "就業人口年齡結構",
+      "id": "12302",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "失業人口",
+      "id": "12303",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "失業率",
+      "id": "12304",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "求職人數(新登記)",
+      "id": "12305",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "旅遊服務中心服務人員暨遊客中心進用人數",
+      "id": "12306",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "新北市各級學校教職員人數",
+      "id": "12307",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "農牧戶人口數",
+      "id": "12308",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "戶內有農牧業為本業農牧戶",
+      "id": "12309",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "農牧業指揮者",
+      "id": "12310",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "農牧戶從事自家農牧業工作人數",
+      "id": "12311",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "65歲以上老年農民福利津貼核付總金額與人數",
+      "id": "12312",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     },
+     {
+      "name": "老年農民福利津貼核付人數性比例",
+      "id": "12313",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33803"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡經濟狀況",
+    "children": [
+     {
+      "name": "平均每位所得收入者",
+      "id": "12315",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "國民年金",
+      "id": "12316",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "低收入戶人數",
+      "id": "12317",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "低收入及中低收入戶老人生活津貼",
+      "id": "12318",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "中低收入老人生活津貼與老年農民福利津貼核付人數占老年人口比率",
+      "id": "12319",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "中低收入戶老人特別照顧津貼",
+      "id": "12320",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "中低收入老人補助裝置假牙",
+      "id": "12321",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "中低收入老人住宅修繕補助",
+      "id": "12322",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者有工作者全職或兼職情形",
+      "id": "12324",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者主要經濟來源",
+      "id": "12325",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者平均每月可使用的生活費",
+      "id": "12326",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者工作狀況",
+      "id": "12323",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者儲蓄或財產擁有情形",
+      "id": "12330",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者需要經濟支援時商量對象",
+      "id": "12328",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     },
+     {
+      "name": "65歲以上高齡者為家人生計提供經濟支援情形",
+      "id": "12329",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33804"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡照護與其社會福利",
+    "children": [
+     {
+      "name": "列冊需關懷獨居老人人數",
+      "id": "12333",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "列冊需關懷獨居老人服務成果",
+      "id": "12334",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "老人長期照顧、安養機構",
+      "id": "12335",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "高齡老人長期照顧、安養機構工作人員數",
+      "id": "12336",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "老人長期照顧、安養機構每位工作人員服務老人數",
+      "id": "12337",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "身心障礙人數",
+      "id": "12338",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "身心障礙福利機構使用者人數",
+      "id": "12339",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "長期照顧十年計畫-居家服務",
+      "id": "12340",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "長期照顧十年計畫-日間照顧服務",
+      "id": "12341",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "長期照顧十年計畫-老人營養餐飲服務",
+      "id": "12342",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     },
+     {
+      "name": "長期照顧十年計畫-老人交通接送服務",
+      "id": "12343",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33805"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡社會治安與公共安全",
+    "children": [
+     {
+      "name": "道路交通事故30日內死亡人數",
+      "id": "12346",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "家庭暴力事件通報",
+      "id": "12347",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "家庭暴力事件通報案件類型為老人虐待件數",
+      "id": "12348",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "查獲毒品嫌疑犯人數",
+      "id": "12349",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "高齡失蹤人口",
+      "id": "12351",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "依性騷擾防治法申訴之加害人人數_113年以前",
+      "id": "12352",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "依性騷擾防治法申訴之加害人人數_114年以後",
+      "id": "12987",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "依性騷擾防治法申訴之被害人人數_113年以前",
+      "id": "12353",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     },
+     {
+      "name": "依性騷擾防治法申訴之被害人人數_114年以後",
+      "id": "12988",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33806"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡身心健康與生活",
+    "children": [
+     {
+      "name": "新北市健保特約醫事服務機構成人預防保健服務申報人次",
+      "id": "12355",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "新北市市民過去3年曾接受成人預防保健服務比率_40-64歲",
+      "id": "12356",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "新北市市民過去1年曾接受成人預防保健服務比率_65歲以上",
+      "id": "12357",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "流感疫苗接種",
+      "id": "12358",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "復康巴士載客數",
+      "id": "12359",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "新北市市民吸菸率",
+      "id": "12360",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "護理之家年底留住機構照護人數",
+      "id": "12361",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "自殺通報人次",
+      "id": "12362",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "死亡人數",
+      "id": "12363",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "每十萬人口死亡率",
+      "id": "12364",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "法定傳染病確定病例",
+      "id": "12365",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者自訴患有慢性疾病",
+      "id": "12366",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者罹患疾病情形",
+      "id": "12368",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者獨自完成日常生活活動(ADL)困難情形",
+      "id": "12371",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者獨自完成工具性日常活動(IADL)困難情形",
+      "id": "12372",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者日常生活有困難者主要照顧或協助者身分",
+      "id": "12373",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者日常生活自理困難無人照顧",
+      "id": "12554",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者自覺健康狀況情形",
+      "id": "12375",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者生活滿意度情形",
+      "id": "12376",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者對未來生活的擔憂",
+      "id": "12379",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者希望從哪些管道獲得老人福利措施之資訊",
+      "id": "12380",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     },
+     {
+      "name": "65歲以上高齡者期望政府提供準備老年生活之協助",
+      "id": "12382",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33807"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡志工服務與社會參與",
+    "children": [
+     {
+      "name": "新北市義消人數",
+      "id": "12456",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "新北市政府文化類志願服務人力",
+      "id": "12457",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "新北市政府環保局環保志義工人數",
+      "id": "12458",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "佈老志工",
+      "id": "12459",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "世代志工",
+      "id": "12460",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "銀髮俱樂部",
+      "id": "12461",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "松年大學(長青學苑)",
+      "id": "12462",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "55歲以上每百人參與長青學苑人次",
+      "id": "12463",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "樂齡學習中心",
+      "id": "12464",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "高齡公共托老中心設置數",
+      "id": "12465",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "老人共餐運動辦理據點數",
+      "id": "12466",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "老人福利服務(文康中心)",
+      "id": "12467",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "高齡65歲以上高齡者過去三個月從事休閒活動情形",
+      "id": "12469",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     },
+     {
+      "name": "高齡65歲以上高齡者社會各項活動參與情形",
+      "id": "12454",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33808"
+     }
+    ]
+   },
+   {
+    "name": "新北市高齡居住狀況",
+    "children": [
+     {
+      "name": "65歲以上高齡者僅老年人口居住宅數",
+      "id": "12438",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "65歲以上高齡者居住住宅類型",
+      "id": "12439",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "65歲以上高齡者居住住宅擁有狀況",
+      "id": "12440",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "65歲以上高齡者居住住宅同住對象",
+      "id": "12442",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "65歲以上高齡者最喜歡或最希望的居住方式",
+      "id": "12443",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "65歲以上高齡者住進高齡住宅、高齡社區之意願",
+      "id": "12446",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "老人公寓、老人住宅",
+      "id": "12447",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     },
+     {
+      "name": "社區安養堂",
+      "id": "12448",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33809"
+     }
+    ]
+   },
+   {
+    "name": "新北市各區高齡指標",
+    "children": [
+     {
+      "name": "各行政區高齡指標",
+      "id": "12416",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33810"
+     },
+     {
+      "name": "各行政區65歲以上性比例",
+      "id": "12417",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33810"
+     }
+    ]
+   },
+   {
+    "name": "六都高齡指標",
+    "children": [
+     {
+      "name": "六都高齡指標",
+      "id": "12435",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33811"
+     },
+     {
+      "name": "六都高齡指標－15歲以上人口教育程度、婚姻狀況國際高齡指標",
+      "id": "12436",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33811"
+     }
+    ]
+   },
+   {
+    "name": "國際高齡指標",
+    "children": [
+     {
+      "name": "國際高齡指標",
+      "id": "12422",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=338&ParentNo=null33812"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "新北市幼齡統計",
+  "children": [
+   {
+    "name": "新北市幼齡人口",
+    "children": [
+     {
+      "name": "總人口數",
+      "id": "11250",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33901"
+     },
+     {
+      "name": "人口增加率",
+      "id": "11251",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33901"
+     },
+     {
+      "name": "性比例",
+      "id": "11252",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33901"
+     },
+     {
+      "name": "扶幼比",
+      "id": "11253",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33901"
+     }
+    ]
+   },
+   {
+    "name": "新北市原住民族幼齡人口",
+    "children": [
+     {
+      "name": "原住民族人口數",
+      "id": "11254",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33902"
+     },
+     {
+      "name": "原住民族人口增加率",
+      "id": "11255",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33902"
+     },
+     {
+      "name": "原住民族性比例",
+      "id": "11256",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33902"
+     },
+     {
+      "name": "原住民族扶幼比",
+      "id": "11257",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33902"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡出生與死亡",
+    "children": [
+     {
+      "name": "出生通報數",
+      "id": "11258",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "出生通報活產數",
+      "id": "11259",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "出生通報活產率",
+      "id": "11260",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "出生人數",
+      "id": "11261",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "出生人口性比例",
+      "id": "11262",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "粗出生率",
+      "id": "11263",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "總生育率",
+      "id": "11264",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "死亡人數",
+      "id": "11265",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "粗死亡率",
+      "id": "11266",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "新生兒死亡人數",
+      "id": "11267",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "新生兒死亡率",
+      "id": "11268",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "嬰兒死亡人數",
+      "id": "11269",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "嬰兒死亡率",
+      "id": "11270",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "孕產婦死亡人數",
+      "id": "11271",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "孕產婦死亡率",
+      "id": "11272",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "事故傷害死亡人數",
+      "id": "11273",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     },
+     {
+      "name": "事故傷害死亡率",
+      "id": "11274",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33903"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡醫療資源與服務",
+    "children": [
+     {
+      "name": "兒科診所家數",
+      "id": "11275",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "婦產科診所家數",
+      "id": "11276",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "耳鼻喉科診所家數",
+      "id": "11277",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "眼科診所家數",
+      "id": "11278",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "牙醫一般科診所家數",
+      "id": "11279",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "通過母嬰親善醫療院所認證家數",
+      "id": "11280",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "特約醫事服務機構門診醫療費用申報件數",
+      "id": "11281",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "特約醫事服務機構住院醫療費用申報件數",
+      "id": "11282",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "兒童預防保健服務數",
+      "id": "11283",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "兒童預防保健服務利用率",
+      "id": "11284",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "兒童牙齒塗氟服務數",
+      "id": "11285",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "兒童牙齒塗氟服務利用率",
+      "id": "11286",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "卡介苗接種數",
+      "id": "11287",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "白喉、破傷風、百日咳混合疫苗(至99年止)",
+      "id": "11288",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "小兒麻痺口服疫苗(至99年止)",
+      "id": "11289",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "五合一疫苗(自99年起)",
+      "id": "11290",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "六合一疫苗",
+      "id": "11291",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "破傷風減量白喉混合疫苗",
+      "id": "11294",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "減量破傷風白喉非細胞性百日咳混合疫苗(至100年止)",
+      "id": "11293",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "白喉破傷風非細胞性百日咳及不活化小兒麻痺混合疫苗(自101年起)",
+      "id": "11292",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "Ｂ型肝炎免疫球蛋白",
+      "id": "11295",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "Ｂ型肝炎疫苗",
+      "id": "11296",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "水痘疫苗",
+      "id": "11298",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "麻疹疫苗(至98年止)",
+      "id": "11297",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "麻疹、腮腺炎、德國麻疹混合疫苗",
+      "id": "11299",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "日本腦炎疫苗(鼠腦製備)(至106年止)",
+      "id": "11300",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "活性減毒日本腦炎疫苗(自106年起)",
+      "id": "11301",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "不活化日本腦炎疫苗(至110年止)",
+      "id": "11302",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "Ａ型肝炎疫苗",
+      "id": "11303",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     },
+     {
+      "name": "13價結合型肺炎鏈球菌疫苗",
+      "id": "11304",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33904"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡身心健康",
+    "children": [
+     {
+      "name": "發展遲緩兒童早期療育服務通報個案人數",
+      "id": "11336",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "原住民族發展遲緩兒童早期療育服務通報個案人數",
+      "id": "11337",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "新住民子女發展遲緩兒童早期療育服務通報個案人數",
+      "id": "11338",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育服務收托機構所數",
+      "id": "11339",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育服務收托機構年底實際收托人數",
+      "id": "11340",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育服務人次",
+      "id": "11341",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育服務年底實際療育人數",
+      "id": "11342",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育補助人次",
+      "id": "11343",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "發展遲緩兒童早期療育補助金額",
+      "id": "11344",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "身心障礙者人數",
+      "id": "11345",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "極重度身心障礙者人數",
+      "id": "11346",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "重度身心障礙者人數",
+      "id": "11347",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "中度身心障礙者人數",
+      "id": "11348",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "輕度身心障礙者人數",
+      "id": "11349",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "身心障礙福利機構服務使用者人數",
+      "id": "11350",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     },
+     {
+      "name": "自殺通報人數",
+      "id": "11351",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33905"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡收托與教育",
+    "children": [
+     {
+      "name": "托嬰中心所數",
+      "id": "11352",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心收托人數",
+      "id": "11353",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心原住民族收托人數",
+      "id": "11354",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心新住民子女收托人數",
+      "id": "11355",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心主管人員(主任)人數",
+      "id": "11356",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心托育人員人數",
+      "id": "11357",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心教保人員人數",
+      "id": "11358",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心助理教保人員人數",
+      "id": "11359",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托嬰中心護理人員人數",
+      "id": "12497",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "居家托育服務登記證書人數",
+      "id": "11360",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "居家托育服務登記證書托育人員收托幼兒數",
+      "id": "11361",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托育資源中心家數",
+      "id": "11362",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "托育資源中心服務人員數",
+      "id": "11363",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "領有合格保母人員技術士發證數",
+      "id": "11364",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "原住民族領有合格保母人員技術士發證數",
+      "id": "11365",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "就業保險被保險人領取育嬰留職停薪津貼件數",
+      "id": "11366",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "幼兒(稚)園數",
+      "id": "11367",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "幼兒(稚)園教保服務人員數(教師數)",
+      "id": "11368",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "幼兒(稚)園職員數",
+      "id": "11369",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "幼兒(稚)園幼生數",
+      "id": "11370",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "滿5足歲至入國民小學前幼兒入園率",
+      "id": "11371",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學校數",
+      "id": "11372",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學教師數",
+      "id": "11373",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學職員數",
+      "id": "11374",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學學生數",
+      "id": "11375",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學原住民族學生數",
+      "id": "11376",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學新住民子女學生數",
+      "id": "11377",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學粗在學率",
+      "id": "11378",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學學生視力不良人數",
+      "id": "11379",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學學生視力不良率",
+      "id": "11380",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學中輟生人數",
+      "id": "11381",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學輟學率",
+      "id": "11382",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學原住民族中輟生人數",
+      "id": "11383",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學原住民族輟學率",
+      "id": "11384",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學新住民子女中輟生人數",
+      "id": "11385",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "國民小學新住民子女輟學率",
+      "id": "11386",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧服務中心數",
+      "id": "11387",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧服務中心服務人員數",
+      "id": "11388",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧服務中心實際招收人數",
+      "id": "11389",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧班辦理校數",
+      "id": "11390",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧班服務人員數",
+      "id": "11391",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     },
+     {
+      "name": "兒童課後照顧班參與學生人數",
+      "id": "11392",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33906"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡安全與犯罪",
+    "children": [
+     {
+      "name": "附載幼童未依規定安置於安全椅舉發案件數",
+      "id": "11393",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "失蹤人口發生數",
+      "id": "11394",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "失蹤人口尋獲數",
+      "id": "11395",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "原住民族失蹤人口發生數",
+      "id": "11396",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "原住民族失蹤人口尋獲數",
+      "id": "11397",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "性侵害事件通報被害人人數",
+      "id": "11398",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "性侵害案件被害人人數",
+      "id": "11399",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "強制性交案件被害人人數",
+      "id": "11400",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "共同強制性交案件被害人人數",
+      "id": "11401",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "對幼性交案件被害人人數",
+      "id": "11402",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "性交猥褻案件被害人人數",
+      "id": "11403",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "妨害自由案件被害人人數",
+      "id": "11404",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "妨害風化案件被害人人數",
+      "id": "11413",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "性侵害案件被害人口率",
+      "id": "11406",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "兒童及少年性剝削通報被害人人數",
+      "id": "11407",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "兒童及少年性剝削查獲被害人人數",
+      "id": "11408",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "刑事案件嫌疑犯人數(至110年止)",
+      "id": "11409",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "刑事案件犯罪人口率(至110年止)",
+      "id": "11410",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "竊盜案件嫌疑犯人數(至110年止)",
+      "id": "11411",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     },
+     {
+      "name": "竊盜案件犯罪人口率(至110年止)",
+      "id": "11412",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33907"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡保護通報與服務",
+    "children": [
+     {
+      "name": "兒童及少年保護通報件數",
+      "id": "11414",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33908"
+     },
+     {
+      "name": "兒童及少年保護通報調查處理人數",
+      "id": "11415",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33908"
+     },
+     {
+      "name": "兒童及少年保護提供後續處遇服務人數",
+      "id": "11416",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33908"
+     },
+     {
+      "name": "兒童及少年保護受虐人數",
+      "id": "11417",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33908"
+     },
+     {
+      "name": "兒童及少年保護處理安置人次(至113年止)",
+      "id": "11418",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33908"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡福利機構與服務",
+    "children": [
+     {
+      "name": "安置及教養機構數",
+      "id": "11419",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "安置及教養機構年底現有收容人數",
+      "id": "11420",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "福利服務中心數",
+      "id": "11421",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "福利服務中心服務人次",
+      "id": "11422",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底寄養家庭戶數",
+      "id": "11423",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底儲備寄養家庭戶數",
+      "id": "11424",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底寄養兒童及少年人數",
+      "id": "11425",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "兒童及少年結束家外安置後續追蹤輔導人數",
+      "id": "11426",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底弱勢兒童及少年生活扶助人數",
+      "id": "11427",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒童及少年生活扶助人次",
+      "id": "11428",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒童及少年生活扶助金額",
+      "id": "11429",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底弱勢兒童及少年醫療補助人數",
+      "id": "11430",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒童及少年醫療補助人次",
+      "id": "11431",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒童及少年醫療補助金額",
+      "id": "11432",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底弱勢兒少緊急生活扶助人數",
+      "id": "11436",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒少緊急生活扶助人次",
+      "id": "11437",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "弱勢兒少緊急生活扶助金額",
+      "id": "11438",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "年底托育補助或津貼人數",
+      "id": "11433",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "托育補助或津貼人次",
+      "id": "11434",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     },
+     {
+      "name": "托育補助或津貼金額",
+      "id": "11435",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33909"
+     }
+    ]
+   },
+   {
+    "name": "新北市幼齡家庭經濟與生活",
+    "children": [
+     {
+      "name": "低收入戶人數",
+      "id": "11439",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "第1款低收入戶人數",
+      "id": "11440",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "第2款低收入戶人數",
+      "id": "11441",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "第3款低收入戶人數",
+      "id": "11442",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "幸福保衛站累計受惠人次",
+      "id": "11443",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "幼兒學前特別扣除額受益戶數",
+      "id": "11444",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     },
+     {
+      "name": "新北市政府社會局所轄志工",
+      "id": "11445",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33910"
+     }
+    ]
+   },
+   {
+    "name": "新北市各區幼齡指標",
+    "children": [
+     {
+      "name": "各行政區幼齡指標",
+      "id": "11446",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33911"
+     }
+    ]
+   },
+   {
+    "name": "六都幼齡指標",
+    "children": [
+     {
+      "name": "六都幼齡指標",
+      "id": "11447",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33912"
+     }
+    ]
+   },
+   {
+    "name": "國際幼齡指標",
+    "children": [
+     {
+      "name": "國際幼齡指標",
+      "id": "11448",
+      "週期": "年",
+      "page": "https://oas.bas.ntpc.gov.tw/DgbasWeb/Page/StatFile2.aspx?Mode=3&CateNo=339&ParentNo=null33913"
+     }
+    ]
+   }
+  ]
+ }
+]

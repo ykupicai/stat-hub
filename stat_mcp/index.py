@@ -178,6 +178,14 @@ def build_items():
     if cty.exists():
         for d in sorted(cty.iterdir()):
             fp = d / "目錄.json"
+            if d.is_dir() and fp.exists() and d.name == "新北市":  # 改版介面：表 ID 結構
+                for c in load(fp):
+                    for ch in c["children"]:
+                        for tb in ch["children"]:
+                            items.append({"s": "11-新北市", "p": f"新北市 > {c['name']} > {ch['name']}", "n": tb["name"],
+                                          "c": f"ntpc:{tb['id']}", "u": tb["page"],
+                                          "meta": {"週期": tb["週期"], "取數": f"stat_query_ntpc(\"{tb['id']}\", years, areas)"}})
+                continue
             if d.is_dir() and fp.exists():
                 tmp = []
                 walk_tree(load(fp), f"11-{d.name}", [d.name], tmp)

@@ -24,6 +24,7 @@ import fetchers  # noqa: E402
 import census  # noqa: E402
 import census_tables  # noqa: E402
 import pingtung_yearbook  # noqa: E402
+import ntpc  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -586,6 +587,17 @@ def stat_pingtung_yearbook(year: int | None = None, table: str = "", query: str 
     out["還有更多"] = len(rows) > limit
     out["rows"] = [dict(zip(["sheet_id", "列", "欄", "年度", "地區", "數值", "原始"], r)) for r in rows[:limit]]
     return out
+
+@mcp.tool()
+def stat_query_ntpc(table_id: str, years: list[int] | None = None, areas: list[str] | None = None, max_rows: int = 300) -> dict:
+    """即時查詢新北市政府資料庫查詢平台（11-新北市，改版介面，不能用 stat_query_dgbas）。
+    table_id：表 ID（stat_search 目錄細項代碼為 ntpc:<ID>，例 11878＝農耕土地面積_103年以後）。
+    years：民國或西元年；areas：區名片段（如 ["新北市","板橋"]），空白＝全部 29 區＋全市。"""
+    r = ntpc.query(str(table_id).replace("ntpc:", ""), years, areas)
+    total = len(r["rows"])
+    r["rows"] = r["rows"][:max_rows]
+    r["total_rows"] = total
+    return r
 
 
 if __name__ == "__main__":
