@@ -2269,5 +2269,31 @@
     }
    }
   }
+ },
+ "pingtung": {
+  "107": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=5&ItemName=107%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "108": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=21&ItemName=108%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "109": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=28&ItemName=109%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "110": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=36&ItemName=110%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "111": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=43&ItemName=111%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "112": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=47&ItemName=112%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "113": {
+   "zip": "https://pthg.dgbas.gov.tw/STATWeb/Page/HitCount.aspx?PageName=BookCatalog_Record&PageNameC=書刊完整檔下載&Mid=51&ItemName=113%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip"
+  },
+  "114": {
+   "zip": "https://pthg.dgbas.gov.tw/Download/Attachment/Download.ashx?VP_FileName=114%e5%b9%b4+%e5%b1%8f%e6%9d%b1%e7%b8%a3%e7%b5%b1%e8%a8%88%e5%b9%b4%e5%a0%b1.zip&LinkSheetName=SDB_BookCatalog&LinkUID=57"
+  }
  }
 }

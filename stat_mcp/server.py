@@ -23,6 +23,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import fetchers  # noqa: E402
 import census  # noqa: E402
 import census_tables  # noqa: E402
+import pingtung_yearbook  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -38,6 +39,7 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
 3. 拉資料：
    - 01a/06a/10a 目錄細項的 varval3 網址 → stat_query_dgbas(url, years, areas)（嘉義、臺南、屏東同一套系統）
    - 縣市公務統計報表清冊 → stat_cyhg_reports(county="嘉義縣"|"屏東縣", office, year)
+   - 屏東縣統計年報（107～114 年版）→ stat_pingtung_yearbook(year, table="4-1")
    - 鄉鎮×作物 → stat_afa_crops(類別) 取代號 → stat_query_afa(...)
    - 氣候表 → stat_climate(測站, 起年, 迄年)
    - 嘉義公務統計報表有哪些表號／期別 → stat_cyhg_reports(機關代碼, 年度)
@@ -529,6 +531,61 @@ def stat_census_tables(census_name: str, year: int, part: str = "", table: str =
     return {"本次下載": downloaded, "符合統計表": [x["table"] for x in tabs], "筆數": min(len(rows), limit),
             "還有更多": len(rows) > limit, "rows": [dict(zip(keys, r)) for r in rows[:limit]],
             "提醒": "數值以空白為千分位、「-」＝0；欄位標籤為推定，寫書件前用 stat_db_sheet 對照原始格子"}
+
+@mcp.tool()
+def stat_pingtung_yearbook(year: int | None = None, table: str = "", query: str = "", area: str = "", limit: int = 200) -> dict:
+    """屏東縣統計年報（10c，統計刊物整份 zip，107～114 年），用到才下載。
+    year：年報年度（民國，預設最新）；table：表號如 "4-1"；query：關鍵字；area：鄉鎮（如 萬丹）。
+      - 只給 year → 列出該年各表（章、表號、表名、格式）。
+      - 給 query、不給 table → 全文搜尋已下載年度的年報文字，回傳命中表與片段。
+      - 給 table → 107～113 年版為試算表（XLS／XLSX／ODS）：回傳解析後數值（可再用 query／area 過濾）；
+        114 年版只有文字型 PDF：回傳原文文字，數值請改用附上的 10a 平台同號表網址（stat_query_dgbas）。
+    ⚠ 屏東首頁的「統計年報資料庫」（winstapx PX-Web）已下線；可程式查詢的後繼為 10a 平台「統計年報查詢」，表號相同。"""
+    eds = pingtung_yearbook.editions()
+    y = int(year or max(int(k) for k in eds))
+    info = pingtung_yearbook.ensure(y)
+    con = store.connect()
+    con.execute(pingtung_yearbook.DOCS_SQL)
+    if not table and query:
+        hits = []
+        for doc_id, yy, tno, title, text in con.execute(
+                "SELECT doc_id, year, table_no, title, text FROM docs WHERE source='10c' ORDER BY year DESC, table_no"):
+            if _hit(text + " " + title, _terms(query)):
+                i = max(0, min(text.find(t) for t in _terms(query) if t in text) - 40) if any(t in text for t in _terms(query)) else 0
+                hits.append({"doc_id": doc_id, "年報": yy, "表號": tno, "表名": title, "片段": " ".join(text[i:i + 160].split())})
+        con.close()
+        return {"已下載年度": [r for r in sorted(eds)], "命中": len(hits), "results": hits[:limit]}
+    if not table:
+        rows = con.execute("SELECT chapter, table_no, title, local_path FROM docs WHERE source='10c' AND year=? ORDER BY chapter, table_no", (y,)).fetchall()
+        con.close()
+        return {"年報": y, "下載": info, "表數": len(rows),
+                "tables": [{"章": c, "表號": n, "表名": ti, "格式": p.rsplit(".", 1)[-1]} for c, n, ti, p in rows]}
+    tno = table.replace("表", "").replace(" ", "")
+    g = pingtung_yearbook.get(y, tno)
+    con.close()
+    eq = pingtung_yearbook.titles_10a().get(tno, {})
+    out = {"年報": y, "表號": tno, "表名": g["表名"], "章": g["章"], "原始檔": g["原始檔"],
+           "10a平台同號表": {"表名": eq.get("title"), "統計項目": eq.get("items", [])[:10],
+                         "說明": "數值可用 stat_query_dgbas(url, years, areas) 程式查（保留小數）"}}
+    if g["原始檔"].lower().endswith(".pdf"):
+        out["格式"] = "PDF（文字型，欄位擠在一起，不自動拆數值）"
+        out["text"] = g["text"][:6000]
+        return out
+    sql = """SELECT f.sheet_id, f.row_label, f.col_label, f.year, f.area, f.value, f.raw FROM facts f
+             WHERE f.dataset_id=?"""
+    args = [f"ptyb:{y}:{tno}"]
+    for term in _terms(query):
+        sql += " AND lower(f.row_label||' '||f.col_label) LIKE ?"
+        args.append(f"%{term}%")
+    if area:
+        sql += " AND (f.area LIKE ? OR f.row_label LIKE ?)"
+        args += [f"%{area}%"] * 2
+    rows = _ro().execute(sql + " ORDER BY f.sheet_id, f.row_no, f.col_no LIMIT ?", args + [limit + 1]).fetchall()
+    out["格式"] = "試算表（" + g["原始檔"].rsplit(".", 1)[-1].upper() + "，已解析數值）"
+    out["筆數"] = min(len(rows), limit)
+    out["還有更多"] = len(rows) > limit
+    out["rows"] = [dict(zip(["sheet_id", "列", "欄", "年度", "地區", "數值", "原始"], r)) for r in rows[:limit]]
+    return out
 
 
 if __name__ == "__main__":

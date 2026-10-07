@@ -162,6 +162,17 @@ def build_items():
         for (off, no), a in agg.items():
             items.append({"s": "10b", "p": f"{off} > 期別 {'、'.join(sorted(a['periods']))}", "n": a["name"], "c": no,
                           "u": "https://pthg.dgbas.gov.tw/statweb/Page/stat08.aspx"})
+    # 10c 屏東縣統計年報（整份 zip；表號同 10a「統計年報查詢」，表名借用 10a）
+    pt_tree = DB / "10_屏東縣主計處_資料庫查詢平台" / "目錄_統計年報查詢.json"
+    if pt_tree.exists():
+        for cat in load(pt_tree):
+            for tb in cat.get("children", []):
+                m = re.match(r"表\s*(\d+-\d+)\s*(.*)", tb["name"])
+                if m:
+                    items.append({"s": "10c", "p": f"屏東縣統計年報 > {cat['name']}", "n": f"表{m.group(1)} {m.group(2).strip()}",
+                                  "c": f"ptyb:{m.group(1)}", "u": "https://pthg.dgbas.gov.tw/STATWeb/Page/BookCatalog_Main.aspx",
+                                  "meta": {"年報年度": "107～114（107～113 為試算表可解析；114 為 PDF）",
+                                           "取數": f"stat_pingtung_yearbook(year, table=\"{m.group(1)}\")"}})
     # 09 三大普查動態查詢（統計項×可搭配複分類）
     cen_p = DB / "09_主計總處_三大普查動態查詢" / "結構.json"
     if cen_p.exists():

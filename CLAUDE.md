@@ -55,6 +55,7 @@
 | 拉 | `stat_list_local_files` / `stat_read_local` | 讀案件已歸檔的原始報表 |
 
 | 普查 | `stat_census_items` / `stat_census_query` | 主計總處三大普查動態查詢（人口／農林漁牧／工商，可到鄉鎮別），即時查並入庫（來源 09） |
+| 屏東 | `stat_pingtung_yearbook` | 屏東縣統計年報 107～114：列表／全文搜尋／取表（試算表回數值、PDF 回原文＋10a 對應網址） |
 | 普查 | `stat_census_tables` | 普查結果統計表（靜態 ODS／XLSX，按業別／按縣市別），不給 table 只列表、給 table 才下載入庫（來源 09t） |
 | 庫 | **`stat_fetch`** | **用到才下載**：資料庫已有就直接查，沒有（或年度不夠）就當場下載入庫再回傳。一般取數都用這支 |
 | 庫 | `stat_db_harvest` | 自動下載→解析→入庫：`agrstat`（qcode 全選）、`fa`（漁業署年報分包）、`tainan`（臺南年報各章 ODS） |
@@ -109,6 +110,9 @@
   `fetchers.DGBAS_HOSTS` 加入 pthg 即可用 `stat_query_dgbas`。**屏東平台保留小數**（嘉義平台會四捨五入）。
 - 10b 公務統計報表（stat08）：`fetchers.stat08_report_list(county, office, year)` 泛化嘉義擷取器，機關代碼即時讀下拉選單（屏東農業處 3005、海洋及漁業事務管理所 5007）；
   MCP `stat_cyhg_reports(county="屏東縣", …)`。清冊 `公務統計報表_農業清冊.md`（36 表號）。
+- 10c 屏東縣統計年報（統計刊物 zip，107～114）：`stat_mcp/pingtung_yearbook.py`，MCP `stat_pingtung_yearbook`。107～113 試算表解析入 facts；
+  114 只有 PDF → 全文存新表 `docs`（doc_id `ptyb:<年>:<表號>`），數值走 10a 同號表。首頁的 PX-Web「統計年報資料庫」（winstapx）已下線。
+- `store._num`／`_fmt` 把浮點誤差四捨五入到 8 位（XLS 的 32480.309999999998）；已 reparse 全庫（facts 約 120 萬筆，DB 約 240 MB）。
 - ⚠ 屏東站會對連續請求重設連線（WinError 10054）：`fetchers._retry` 退避重試，批次查詢間隔 5 秒。
 - 主題速查新增「屏東縣」欄（耕地、養殖、家畜家禽、作物、普查）；`stat_topic` 缺欄顯示「尚未整理」。
 - `stat_search` 排序：名稱／路徑／代碼／來源地區直接命中者優先，區域來源先於 09t 普查統計表，只有 PDF 的排最後。

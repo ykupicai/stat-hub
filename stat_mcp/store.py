@@ -73,7 +73,7 @@ def _clean(v):
 
 def _num(s):
     t = s.replace(",", "").replace(" ", "")
-    return float(t.replace("－", "-")) if NUM.match(t) else None
+    return round(float(t.replace("－", "-")), 8) if NUM.match(t) else None  # 去掉 XLS 浮點誤差（32480.309999999998）
 
 
 def _datalike(s):
@@ -248,7 +248,7 @@ def _trim(grid):
 
 def _fmt(v):
     if isinstance(v, float):
-        return str(int(v)) if v.is_integer() else repr(v)
+        return str(int(v)) if v.is_integer() else repr(round(v, 8))
     return "" if v is None else str(v)
 
 
