@@ -87,6 +87,23 @@
   AB01 嘉義縣 114 年 73,087.21／實際耕作 72,956.26／長期休閒 130.95、漁業署嘉義縣 114 年總計 6,407.57／休養 122.77 皆與取數紀錄相符。
 - ⚠ Windows 上 `pandas` 必須在 `mcp.run()` 前 import，否則服務中首次 import 會卡死（server.py 開頭已處理）。
 - 自我檢查：`python stat_mcp/index.py` 印出各來源項目數。
+## stat-hub 擴充 SOP（2026-10-07）
+
+依擴充類型由輕到重，**每一種做完都要：回測（拿已知數字核對）→ `python stat_mcp/index.py` 自檢 → 重開 session 驗工具 → commit**。
+
+| 情境 | 要改哪裡 | 不用改程式 |
+|---|---|---|
+| **A. 案件用了新表／新結論** | `資料庫/索引/來源與用表.json` 的「案件用表」（必要時加「主題速查」「補充地雷」） | ✔ |
+| **B. 新年度發布** | 數值：`stat_fetch(..., year_end=新年度)` 即可。年度清單：`python stat_mcp/crawl_structure.py fa`／`tainan` 會自動補新年度；agrstat 的可選年度要刪 `結構.json` 後重跑 `agrstat` | ✔ |
+| **C. 同款主計處系統的新縣市**（varval3／statfile2） | 1. `python scripts/dgbas_statfile_tree.py <base> <CateNo> <檔名>` 存目錄樹到 `資料庫/<編號>_…/`；2. `stat_mcp/fetchers.py` 的 `DGBAS_HOSTS` 加主機；3. `stat_mcp/index.py` 讀入新目錄；4. `來源與用表.json` 登記來源 | 小改 |
+| **D. 新的「下載檔案型」來源**（年報 zip／ODS／XLS） | `harvest.py` 照 `harvest_fa`／`harvest_tainan` 寫 `harvest_xxx`（找連結→`_download`→`store.read_workbook`→`store.save_dataset`）；`crawl_structure.py` 加 metadata 爬取；`server.py` 的 `stat_fetch`／`stat_db_harvest` 加 source 分支；`index.py` 納入結構；`來源與用表.json` 登記 | 中改 |
+| **E. 新的「線上查詢型」來源**（表單／API） | 先在內建瀏覽器實際操作一次，用 JS 抓送出前的表單欄位（agrstat 就是這樣破解的），再寫成 `fetchers.py`（即時查）或 `harvest.py`（入庫）；查詢結果表用 `store.html_table_grid` 轉格子 | 大改 |
+| **F. 補做不到的** | agrstat 8 張單年超限表：`harvest_agrstat` 改為依某維度分批（每批只選部分項目）再合併 | 中改 |
+
+- 來源 id 規則：沿用 `01a/01b/…/08`，新來源接 `09` 起；無公開來源的索取窗口用 `X` 開頭。
+- `stat.sqlite`、`資料庫/原始檔/` 不進版控，可由 harvest 重建；**結構類 json（目錄、結構、年報結構、來源與用表）一定要 commit**。
+- 平台改版的徵兆：`stat_fetch` 回「查無結果表」、agrstat `KeyError hidCode`、年度頁抓到 0 章。先用瀏覽器看頁面，再修抓取器。
+
 ## 新增資料庫的標準流程
 
 1. 使用者給深層網址 → 往上找平台入口（麵包屑／logo／網站導覽）。
