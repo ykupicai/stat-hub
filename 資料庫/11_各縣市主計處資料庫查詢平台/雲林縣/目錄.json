@@ -1,0 +1,2243 @@
+[
+ {
+  "name": "[壹、土地] 已登記土地面積",
+  "children": [
+   {
+    "name": "已登記土地面積-依鄉鎮(市)別、用地類別、公有私有分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f0981be-7d20-412c-b177-63c05d6721a1&uid=1&cuid=11199"
+   }
+  ]
+ },
+ {
+  "name": "[壹、土地] 實施三七五減租後承租人承買耕地情形",
+  "children": [
+   {
+    "name": "實施耕地三七五減租後佃農購買耕地面積與戶數-購買耕地面積依耕地種類分(109年以前)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d6f67e4-9486-4cf1-8b5e-e0660b94a3d7&uid=46662&cuid=21642"
+   },
+   {
+    "name": "實施耕地三七五減租後佃農購買耕地面積與戶數-購買耕地佃農戶數(109年以前)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d6f67e4-9486-4cf1-8b5e-e0660b94a3d7&uid=46739&cuid=21644"
+   },
+   {
+    "name": "實施耕地三七五減租後承租人承買耕地面積及人數-承買耕地面積(110年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d6f67e4-9486-4cf1-8b5e-e0660b94a3d7&uid=46663&cuid=21643"
+   },
+   {
+    "name": "實施耕地三七五減租後承租人承買耕地面積及人數-承買耕地承租人人數(110年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d6f67e4-9486-4cf1-8b5e-e0660b94a3d7&uid=46476&cuid=21641"
+   }
+  ]
+ },
+ {
+  "name": "[壹、土地] 實施三七五減租成果",
+  "children": [
+   {
+    "name": "實施耕地三七五減租成果-土地筆數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46637&cuid=21647"
+   },
+   {
+    "name": "實施耕地三七五減租成果-租約件數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46638&cuid=21648"
+   },
+   {
+    "name": "實施耕地三七五減租成果-佃農戶數(109年以前)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46635&cuid=21646"
+   },
+   {
+    "name": "實施耕地三七五減租成果-訂約面積依耕地種類分(109年以前)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46639&cuid=21649"
+   },
+   {
+    "name": "實施耕地三七五減租成果-租約面積(110年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46640&cuid=21650"
+   },
+   {
+    "name": "實施耕地三七五減租成果-承租人人數依自然人別分(110年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46508&cuid=21651"
+   },
+   {
+    "name": "實施耕地三七五減租成果-出租人人數依自然人別分(110年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72b5553a-460c-46d6-8b4a-7427bc0b2643&uid=46509&cuid=21652"
+   }
+  ]
+ },
+ {
+  "name": "[壹、土地] 土地徵收面積",
+  "children": [
+   {
+    "name": "土地徵收面積-徵收面積依公地用途別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=21b1b52d-59c7-40cc-8af3-aa36affdce86&uid=73&cuid=11193"
+   },
+   {
+    "name": "土地徵收面積-補償費用依費用補償項目分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=21b1b52d-59c7-40cc-8af3-aa36affdce86&uid=74&cuid=11196"
+   }
+  ]
+ },
+ {
+  "name": "[壹、土地] 公地撥用面積",
+  "children": [
+   {
+    "name": "公地撥用-面積依權屬別、公地用途別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b7a5f6a8-250a-4794-9afd-534367bcf345&uid=51452&cuid=22367"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住戶數、人口密度及性比例",
+  "children": [
+   {
+    "name": "人口數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=48938&cuid=22234"
+   },
+   {
+    "name": "面積(平方公里)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=13840&cuid=22115"
+   },
+   {
+    "name": "村里數(戶籍登記)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=46368&cuid=11206"
+   },
+   {
+    "name": "鄰數(戶籍登記)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=46367&cuid=11205"
+   },
+   {
+    "name": "戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=13778&cuid=10171"
+   },
+   {
+    "name": "戶量(人/戶)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=48873&cuid=22118"
+   },
+   {
+    "name": "人口密度(人/平方公里)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=48871&cuid=22116"
+   },
+   {
+    "name": "性比例(女=100)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b5abccb-e4f5-432f-a156-6dd37ae3b75e&uid=48872&cuid=22117"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 戶籍動態",
+  "children": [
+   {
+    "name": "遷入人數依性別、地區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=498&cuid=11213"
+   },
+   {
+    "name": "遷出人數依性別、地區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=499&cuid=11214"
+   },
+   {
+    "name": "出生人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=46867&cuid=22120"
+   },
+   {
+    "name": "死亡人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=35237&cuid=22119"
+   },
+   {
+    "name": "粗出生率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13841&cuid=21476"
+   },
+   {
+    "name": "粗死亡率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13842&cuid=21477"
+   },
+   {
+    "name": "自然增加率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13843&cuid=21478"
+   },
+   {
+    "name": "遷入率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13844&cuid=22123"
+   },
+   {
+    "name": "遷出率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13845&cuid=22124"
+   },
+   {
+    "name": "社會增加率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13846&cuid=21479"
+   },
+   {
+    "name": "結婚對數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=48874&cuid=22121"
+   },
+   {
+    "name": "離婚/終止結婚對數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=48875&cuid=22122"
+   },
+   {
+    "name": "粗結婚率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13851&cuid=21481"
+   },
+   {
+    "name": "粗離婚率(‰)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=792270ad-3636-4a64-afe7-00297d8b9abd&uid=13848&cuid=21480"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之年齡分配",
+  "children": [
+   {
+    "name": "現住人口之年齡分配",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b31609b-f06e-422c-b444-e242be335993&uid=48938&cuid=22129"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之年齡結構",
+  "children": [
+   {
+    "name": "0-14歲人口數(人)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48939&cuid=22151"
+   },
+   {
+    "name": "15-64歲人口數(人)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=13854&cuid=22150"
+   },
+   {
+    "name": "65歲以上人口數(人)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48940&cuid=22152"
+   },
+   {
+    "name": "0-14歲人口比率(%)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48941&cuid=22153"
+   },
+   {
+    "name": "15-64歲人口比率(%)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48942&cuid=22154"
+   },
+   {
+    "name": "65歲以上人口比率(%)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48943&cuid=22155"
+   },
+   {
+    "name": "扶老比",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48944&cuid=22156"
+   },
+   {
+    "name": "扶幼比",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48945&cuid=22157"
+   },
+   {
+    "name": "扶養比",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48946&cuid=22158"
+   },
+   {
+    "name": "老化指數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c538e093-9499-49ea-beb3-c2abde697fe5&uid=48947&cuid=22159"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 15歲以上現住人口之教育程度",
+  "children": [
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c9fc96a7-e925-46d6-a027-59a349e3b239&uid=586&cuid=11231"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之婚姻狀況",
+  "children": [
+   {
+    "name": "現住人口之婚姻狀況",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ec2f1e0e-ad16-44b4-b6f3-455ae1b1e9ac&uid=512&cuid=11439"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住原住民戶口數",
+  "children": [
+   {
+    "name": "原住民戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=627b3bfb-7c8a-4ab6-95d7-7aa8ae7639b6&uid=529&cuid=11441"
+   },
+   {
+    "name": "原住民人口數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=627b3bfb-7c8a-4ab6-95d7-7aa8ae7639b6&uid=528&cuid=11440"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住原住民年齡分配",
+  "children": [
+   {
+    "name": "現住原住民年齡分配",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71076cd-d4e0-46b7-9360-98e1f237d77f&uid=46803&cuid=22131"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 15歲以上現住原住民教育程度",
+  "children": [
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42bebb71-ebd6-4a4f-b47e-0eb14dcff003&uid=1451&cuid=22130"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住原住民婚姻狀況",
+  "children": [
+   {
+    "name": "現住原住民婚姻狀況",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94529cc9-7fe1-4e4d-8e71-31e4ecfc2a33&uid=532&cuid=22128"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 1.刑事案件",
+  "children": [
+   {
+    "name": "發生數依刑事案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88189239-48fb-4991-b845-02810aed5f1e&uid=13196&cuid=11304"
+   },
+   {
+    "name": "破獲數依刑事案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88189239-48fb-4991-b845-02810aed5f1e&uid=13197&cuid=11305"
+   },
+   {
+    "name": "嫌疑人犯數依刑事案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88189239-48fb-4991-b845-02810aed5f1e&uid=13198&cuid=11303"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 2.違反社會秩序維護法案件",
+  "children": [
+   {
+    "name": "處理違反社會秩序維護法案件-處罰總數-人數依違反社維法情形別、處罰態樣別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=63a9f687-b654-4396-89e4-41182f387cd1&uid=48834&cuid=22095"
+   },
+   {
+    "name": "處理違反社會秩序維護法案件-處罰總數-件數依違反社維法情形別、處罰態樣別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=63a9f687-b654-4396-89e4-41182f387cd1&uid=48832&cuid=22093"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 3.經濟案件",
+  "children": [
+   {
+    "name": "經濟案件-件數依經濟案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d518ab84-3fb3-4100-8482-04e9bbc9fd07&uid=299&cuid=11133"
+   },
+   {
+    "name": "經濟案件-人數依經濟案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d518ab84-3fb3-4100-8482-04e9bbc9fd07&uid=300&cuid=11134"
+   },
+   {
+    "name": "經濟案件-估計金額依經濟案件別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d518ab84-3fb3-4100-8482-04e9bbc9fd07&uid=301&cuid=11135"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 4.道路交通事故原因及損傷",
+  "children": [
+   {
+    "name": "肇事原因依道路交通事故原因別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ace9e124-88be-43fd-9ad9-343c559b912d&uid=13200&cuid=11306"
+   },
+   {
+    "name": "道路交通事故受傷人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ace9e124-88be-43fd-9ad9-343c559b912d&uid=49123&cuid=22225"
+   },
+   {
+    "name": "道路交通事故死亡人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ace9e124-88be-43fd-9ad9-343c559b912d&uid=49122&cuid=22224"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 5.消防人力及裝備",
+  "children": [
+   {
+    "name": "消防人員數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=1379&cuid=11299"
+   },
+   {
+    "name": "義勇消防人員人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48658&cuid=21893"
+   },
+   {
+    "name": "消防車輛裝備-消防車輛",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48669&cuid=21894"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-空氣呼吸器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48725&cuid=22099"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-救生艇",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48726&cuid=22097"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-消防衣帽鞋",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48727&cuid=22100"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-耐高溫消防衣",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48728&cuid=22101"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-破壞器材組",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48729&cuid=22102"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-空氣壓縮機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48730&cuid=22103"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-潛水用裝備",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48731&cuid=22104"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-橡皮艇",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48732&cuid=22105"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-移動式幫浦",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48733&cuid=22106"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-熱顯像儀",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48734&cuid=22107"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-個人用救命器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48735&cuid=22108"
+   },
+   {
+    "name": "消防車輛裝備-消防裝備-氣體偵測器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5d949c59-dbf6-4c94-a210-f608988b2d01&uid=48736&cuid=22109"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 6.火災起火原因及損失情形",
+  "children": [
+   {
+    "name": "火災次數按起火處所分依起火原因別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=46003&cuid=11159"
+   },
+   {
+    "name": "火災死亡人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=45995&cuid=11162"
+   },
+   {
+    "name": "火災受傷人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=45998&cuid=11163"
+   },
+   {
+    "name": "被毀損房屋數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=46749&cuid=21891"
+   },
+   {
+    "name": "被毀損車輛數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=1342&cuid=11290"
+   },
+   {
+    "name": "財物損失金額依財物損失別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=1343&cuid=11160"
+   },
+   {
+    "name": "被災戶保險戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=1344&cuid=11291"
+   },
+   {
+    "name": "被災戶保險金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06f9aa2b-b5c5-41ee-a411-746002e69337&uid=1345&cuid=11292"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 7.辦理調解業務概況",
+  "children": [
+   {
+    "name": "調解委員數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba16bd7d-3c90-4c45-b36a-66466f1f2de7&uid=677&cuid=11296"
+   },
+   {
+    "name": "結案件數-依調解業務項目別、成立與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba16bd7d-3c90-4c45-b36a-66466f1f2de7&uid=668&cuid=11293"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 1.合作社概況",
+  "children": [
+   {
+    "name": "合作社-社數依合作社類別、合作社(單位/聯合)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ccc627f-1106-46c2-858a-b5884f497741&uid=47082&cuid=21473"
+   },
+   {
+    "name": "合作社-社場員數依性別、合作社類別、合作社(單位/聯合)、社員分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ccc627f-1106-46c2-858a-b5884f497741&uid=47083&cuid=21474"
+   },
+   {
+    "name": "合作社-股金總額依合作社類別、合作社(單位/聯合)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ccc627f-1106-46c2-858a-b5884f497741&uid=47084&cuid=21475"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 2.推行社區發展工作成果",
+  "children": [
+   {
+    "name": "社區發展協會數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1929&cuid=11053"
+   },
+   {
+    "name": "社區戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1930&cuid=11054"
+   },
+   {
+    "name": "社區人口數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1931&cuid=11055"
+   },
+   {
+    "name": "理監事人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1932&cuid=11056"
+   },
+   {
+    "name": "社區發展協會會員數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1933&cuid=11057"
+   },
+   {
+    "name": "設置社區生產建設基金",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1934&cuid=11058"
+   },
+   {
+    "name": "實際使用經費依經費別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1935&cuid=11059"
+   },
+   {
+    "name": "社區活動中心",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1915&cuid=11060"
+   },
+   {
+    "name": "社區發展工作項目-辦理社區幹部訓練",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1916&cuid=11061"
+   },
+   {
+    "name": "社區發展工作項目-辦理社區觀摩",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1917&cuid=11062"
+   },
+   {
+    "name": "社區發展工作項目-社區長壽俱樂部",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1918&cuid=11063"
+   },
+   {
+    "name": "社區發展工作項目-社區成長教室",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1919&cuid=11064"
+   },
+   {
+    "name": "社區發展工作項目-社區守望相助隊",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1920&cuid=11065"
+   },
+   {
+    "name": "社區發展工作項目-社區民俗藝文康樂班隊",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1921&cuid=11066"
+   },
+   {
+    "name": "社區發展工作項目-社區志願服務-團隊",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1922&cuid=11067"
+   },
+   {
+    "name": "社區發展工作項目-社區志願服務-志工數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1923&cuid=11068"
+   },
+   {
+    "name": "社區發展工作項目-社區照顧關懷據點",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=51637&cuid=22385"
+   },
+   {
+    "name": "社區發展工作項目-社區圖書室",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1925&cuid=11070"
+   },
+   {
+    "name": "社區發展工作項目-社區刊物",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1926&cuid=11071"
+   },
+   {
+    "name": "社區發展工作項目-服務成果-福利服務或活動",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1927&cuid=11072"
+   },
+   {
+    "name": "社區發展工作項目-服務成果-其他服務",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1fec0236-5192-41f4-b84e-55957e9b31b4&uid=1928&cuid=11073"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 3.身心障礙者人口數",
+  "children": [
+   {
+    "name": "身心障礙人數-按新制及性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=197de558-a77f-47b1-8425-f5006d2698a7&uid=51400&cuid=22313"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 4.身心障礙福利服務概況",
+  "children": [
+   {
+    "name": "身心障礙福利機構概況-機構數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94aca92-b77d-40e8-9175-5c717a9374af&uid=13882&cuid=22038"
+   },
+   {
+    "name": "身心障礙福利機構概況-實際安置服務人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94aca92-b77d-40e8-9175-5c717a9374af&uid=13883&cuid=22039"
+   },
+   {
+    "name": "身心障礙者生活輔具費用補助-人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94aca92-b77d-40e8-9175-5c717a9374af&uid=48746&cuid=22034"
+   },
+   {
+    "name": "身心障礙者生活輔具費用補助-金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94aca92-b77d-40e8-9175-5c717a9374af&uid=48744&cuid=22037"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 5.低收入戶及人口數",
+  "children": [
+   {
+    "name": "低收入戶數依性別、款別、身分別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f4e576fb-4750-40bd-98d5-7adcc1c367ee&uid=13910&cuid=11098"
+   },
+   {
+    "name": "低收入戶人數依性別、款別、身分別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f4e576fb-4750-40bd-98d5-7adcc1c367ee&uid=13911&cuid=11097"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 6.中低收入老人生活津貼",
+  "children": [
+   {
+    "name": "中低收入老人生活津貼-人數依性別、身分別(中低收入老人)、中低收入老人生活津貼發給辦法分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90bf3605-2078-4bfd-a919-6deb31bb462d&uid=13888&cuid=11099"
+   },
+   {
+    "name": "中低收入老人生活津貼-金額依身分別(中低收入老人)、中低收入老人生活津貼發給辦法分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90bf3605-2078-4bfd-a919-6deb31bb462d&uid=1339&cuid=11100"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 7.辦理社會救助醫療補助概況",
+  "children": [
+   {
+    "name": "社會救助醫療補助-受益人次依社會救助醫療補助分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27977e3c-a537-474b-a99c-2ced80bb0541&uid=949&cuid=11107"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 8.辦理急難救助概況",
+  "children": [
+   {
+    "name": "辦理急難救助概況-救助人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=07224561-0ffc-4b03-b7aa-d99594072860&uid=35017&cuid=22012"
+   },
+   {
+    "name": "辦理急難救助概況-救助金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=07224561-0ffc-4b03-b7aa-d99594072860&uid=35019&cuid=22014"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 9.遭受天然災害救助情形",
+  "children": [
+   {
+    "name": "遭受災害救助情形-收容所-所數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48989&cuid=22215"
+   },
+   {
+    "name": "遭受災害救助情形-收容所-所數(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48990&cuid=22312"
+   },
+   {
+    "name": "遭受災害救助情形-收容所-臨時收容災民數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48991&cuid=22216"
+   },
+   {
+    "name": "遭受災害救助情形-收容所-臨時收容災民數(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48992&cuid=22334"
+   },
+   {
+    "name": "遭受災害救助情形-受災人數依受災情形分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48993&cuid=22217"
+   },
+   {
+    "name": "遭受災害救助情形-受災人數依受災情形分(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48994&cuid=22335"
+   },
+   {
+    "name": "遭受災害救助情形-救助金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48987&cuid=22214"
+   },
+   {
+    "name": "遭受災害救助情形-救助金額(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48988&cuid=22333"
+   },
+   {
+    "name": "遭受災害救助情形-財物受損影響生計者",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48999&cuid=22220"
+   },
+   {
+    "name": "遭受災害救助情形-財物受損影響生計者(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=49000&cuid=22338"
+   },
+   {
+    "name": "遭受災害救助情形-住屋毀損安遷救助-人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48997&cuid=22219"
+   },
+   {
+    "name": "遭受災害救助情形-住屋毀損安遷救助-人數(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48998&cuid=22337"
+   },
+   {
+    "name": "遭受災害救助情形-住屋毀損安遷救助-戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48995&cuid=22218"
+   },
+   {
+    "name": "遭受災害救助情形-住屋毀損安遷救助-戶數(自112年起)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59b5d95c-0736-4d79-8d8d-99ae12e4cafa&uid=48996&cuid=22336"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 10.遊民人數及處理情形",
+  "children": [
+   {
+    "name": "受理報案或查報遊民處理案數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5949d262-40b8-436c-ace4-5ca564e1d2a7&uid=24711&cuid=22021"
+   },
+   {
+    "name": "處理遊民情形依處理遊民情形分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5949d262-40b8-436c-ace4-5ca564e1d2a7&uid=971&cuid=22207"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 11.老人福利服務概況",
+  "children": [
+   {
+    "name": "老人長期照顧、安養機構-機構數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7070b2c0-5e76-4f33-86ba-caaae7805f17&uid=48754&cuid=22027"
+   },
+   {
+    "name": "老人長期照顧、安養機構-實際住進人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7070b2c0-5e76-4f33-86ba-caaae7805f17&uid=34833&cuid=22026"
+   },
+   {
+    "name": "長青學苑辦理成果-本期開班參加人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7070b2c0-5e76-4f33-86ba-caaae7805f17&uid=47158&cuid=22031"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 12.兒童及少年福利服務概況",
+  "children": [
+   {
+    "name": "兒童及少年福利服務概況─安置及教養機構數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51404&cuid=22325"
+   },
+   {
+    "name": "兒童及少年福利服務概況─安置及教養機構現有收容人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51405&cuid=22326"
+   },
+   {
+    "name": "兒童及少年福利服務概況─其他福利服務機構數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51408&cuid=22329"
+   },
+   {
+    "name": "兒童及少年福利服務概況─其他福利服務機構服務人次依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51409&cuid=22330"
+   },
+   {
+    "name": "兒童及少年福利服務概況─寄養家庭戶數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51407&cuid=22328"
+   },
+   {
+    "name": "兒童及少年福利服務概況─寄養兒童及少年人數依性別分依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51406&cuid=22327"
+   },
+   {
+    "name": "弱勢兒童及少年扶助概況-人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51410&cuid=22331"
+   },
+   {
+    "name": "弱勢兒童及少年扶助概況-金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04c510ac-6f38-4739-b86d-938a1da7d486&uid=51411&cuid=22332"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 13.特殊境遇家庭扶助服務概況",
+  "children": [
+   {
+    "name": "特殊境遇家庭扶助-人次依特殊境遇家庭扶助分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3d3e962-0a0e-4021-af03-49f838e501c2&uid=51401&cuid=22314"
+   },
+   {
+    "name": "特殊境遇家庭扶助-金額依特殊境遇家庭扶助分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3d3e962-0a0e-4021-af03-49f838e501c2&uid=51402&cuid=22315"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞資爭議案件",
+  "children": [
+   {
+    "name": "勞資爭議案件-爭議件數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13533&cuid=11261"
+   },
+   {
+    "name": "勞資爭議案件-爭議人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13534&cuid=11262"
+   },
+   {
+    "name": "勞資爭議案件-主要爭議類別依勞資爭議類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13535&cuid=22206"
+   },
+   {
+    "name": "處理方式-協調",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13537&cuid=11264"
+   },
+   {
+    "name": "處理方式-調解",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13538&cuid=11265"
+   },
+   {
+    "name": "處理方式-仲裁",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13539&cuid=11266"
+   },
+   {
+    "name": "處理方式-截至當年底未解決件數(109年以前)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23316865-656c-4a26-8004-2118a0d7a1fa&uid=13540&cuid=11267"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工團體概況",
+  "children": [
+   {
+    "name": "勞工團體概況-工會數依工會類型分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=686354bb-778b-4e3c-b4e5-4de101113281&uid=13543&cuid=11268"
+   },
+   {
+    "name": "勞工團體概況-團體會員數依工會類型分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=686354bb-778b-4e3c-b4e5-4de101113281&uid=13542&cuid=11269"
+   },
+   {
+    "name": "勞工團體概況-會員人數依工會類型及性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=686354bb-778b-4e3c-b4e5-4de101113281&uid=13541&cuid=11270"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 事業單位團體協約及勞資會議概況",
+  "children": [
+   {
+    "name": "事業單位團體協約及勞資會議現況-團體協約依工會類型分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88538763-10e4-483c-a687-0ea00469c27a&uid=13544&cuid=21588"
+   },
+   {
+    "name": "事業單位團體協約及勞資會議現況-勞資會議依公營/民營分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88538763-10e4-483c-a687-0ea00469c27a&uid=13545&cuid=21589"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工服務中心服務概況",
+  "children": [
+   {
+    "name": "勞工服務中心服務按服務性質分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=182f72db-6555-4819-9248-53211a1815b3&uid=46373&cuid=11271"
+   },
+   {
+    "name": "勞工服務中心服務按服務類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=182f72db-6555-4819-9248-53211a1815b3&uid=46374&cuid=11272"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工教育及志願服務概況",
+  "children": [
+   {
+    "name": "提撥勞工教育經費-提撥金額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=644&cuid=21598"
+   },
+   {
+    "name": "辦理勞工教育-班數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=646&cuid=21599"
+   },
+   {
+    "name": "勞工志願服務-志工隊數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=649&cuid=21602"
+   },
+   {
+    "name": "勞工志願服務-志工人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=46243&cuid=21600"
+   },
+   {
+    "name": "勞工志願服務-服務總時數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=652&cuid=21604"
+   },
+   {
+    "name": "勞工志願服務-服務總人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=651&cuid=21603"
+   },
+   {
+    "name": "勞工志願服務-教育訓練時數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cc967827-d1b3-4ccd-9f67-28f6579e2d43&uid=654&cuid=21605"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 職工福利概況",
+  "children": [
+   {
+    "name": "職工福利概況-已設立單位數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d104f5a5-a746-4627-9e19-4c1132bc3988&uid=46375&cuid=11273"
+   },
+   {
+    "name": "職工福利概況-新設立單位數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d104f5a5-a746-4627-9e19-4c1132bc3988&uid=46376&cuid=11274"
+   },
+   {
+    "name": "職工福利概況-新設立-職工福利金",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d104f5a5-a746-4627-9e19-4c1132bc3988&uid=46377&cuid=11275"
+   },
+   {
+    "name": "職工福利概況-新設立-受益人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d104f5a5-a746-4627-9e19-4c1132bc3988&uid=46378&cuid=11276"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工保險各類投保單位數及人數",
+  "children": [
+   {
+    "name": "勞工保險各類投保單位數依勞保投保單位別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=15bdac6a-2c6f-4dd4-a218-55c1b1679856&uid=13548&cuid=11277"
+   },
+   {
+    "name": "勞工保險各類投保人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=15bdac6a-2c6f-4dd4-a218-55c1b1679856&uid=13550&cuid=11278"
+   },
+   {
+    "name": "勞工保險各類投保人數依勞保投保單位別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=15bdac6a-2c6f-4dd4-a218-55c1b1679856&uid=13554&cuid=11279"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 有效聘僱許可移工人數",
+  "children": [
+   {
+    "name": "有效聘僱許可移工人數-依外籍勞工別、國籍別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce97cd7a-1813-4c48-8d33-0667f3f86e4a&uid=51832&cuid=22368"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 人力資源調查重要結果指標",
+  "children": [
+   {
+    "name": "人力資源調查-人力資源調查-15歲以上民間人口依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57924010-efec-4f47-a1fb-2b46402d3672&uid=13572&cuid=11254"
+   },
+   {
+    "name": "人力資源調查-勞動力依性別、就業/失業分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57924010-efec-4f47-a1fb-2b46402d3672&uid=13576&cuid=11256"
+   },
+   {
+    "name": "人力資源調查-非勞動力依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57924010-efec-4f47-a1fb-2b46402d3672&uid=13577&cuid=11257"
+   },
+   {
+    "name": "人力資源調查-勞動力參與率依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57924010-efec-4f47-a1fb-2b46402d3672&uid=13578&cuid=11258"
+   },
+   {
+    "name": "人力資源調查-失業率依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57924010-efec-4f47-a1fb-2b46402d3672&uid=13579&cuid=11259"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞動力之年齡分配",
+  "children": [
+   {
+    "name": "人力資源調查-勞動力依年齡別(15~65歲以上)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=995161b1-878d-4cef-9a27-fcbdbd5d00fa&uid=13580&cuid=11260"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之行業",
+  "children": [
+   {
+    "name": "就業者依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8f8e3948-519c-4b15-bf1d-62d1e12394be&uid=13582&cuid=11280"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之職業",
+  "children": [
+   {
+    "name": "就業者依職業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3811fd3-7bd0-4b79-8fc6-7a056c2b6e36&uid=13583&cuid=11281"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之教育程度",
+  "children": [
+   {
+    "name": "就業者依教育程度分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac54d007-2bbb-4284-be7b-324b3f7f0b27&uid=13584&cuid=11282"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之年齡分配",
+  "children": [
+   {
+    "name": "就業者依年齡別(15~65歲以上)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e96bc41-58f1-43fe-99fb-3cbe3fb19935&uid=13585&cuid=11283"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 失業者之教育程度",
+  "children": [
+   {
+    "name": "失業者依教育程度分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf269e93-ff38-4bdd-8ffa-e6b49dc91101&uid=13586&cuid=11284"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 失業者之年齡分配",
+  "children": [
+   {
+    "name": "失業者依年齡別(15~65歲以上)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bbd90cc1-379f-4d1e-b2d5-8bd3824826f4&uid=13587&cuid=11285"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 經指定填報職業災害統計之事業單位概況",
+  "children": [
+   {
+    "name": "陳報事業單位數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13588&cuid=21590"
+   },
+   {
+    "name": "工作者數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13589&cuid=21591"
+   },
+   {
+    "name": "總工作日數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13590&cuid=21592"
+   },
+   {
+    "name": "總工時",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13591&cuid=21593"
+   },
+   {
+    "name": "適用勞工安全衛生法事業單位職業災害概況-失能傷害次數依失能傷害分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13592&cuid=21594"
+   },
+   {
+    "name": "總損失工作日數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13593&cuid=21595"
+   },
+   {
+    "name": "失能傷害嚴重率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13603&cuid=21597"
+   },
+   {
+    "name": "失能傷害頻率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44a0814f-1eda-435f-964b-99729c6a7369&uid=13602&cuid=21596"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 1.農耕土地面積",
+  "children": [
+   {
+    "name": "農耕土地面積依農耕土地別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c295ad51-6c34-4764-9897-daf7ff29da92&uid=12579&cuid=11345"
+   },
+   {
+    "name": "農耕土地佔總面積",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c295ad51-6c34-4764-9897-daf7ff29da92&uid=13656&cuid=21685"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 2.農牧戶概況－按可耕作地及所有權屬分",
+  "children": [
+   {
+    "name": "農戶人口數-戶數依農戶類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6ad2685-d73e-44de-9531-c4ba5d6df4e5&uid=13729&cuid=11374"
+   },
+   {
+    "name": "農戶人口數-人口數依農戶類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6ad2685-d73e-44de-9531-c4ba5d6df4e5&uid=13730&cuid=11375"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 3.稻米收穫面積及生產量",
+  "children": [
+   {
+    "name": "稻米生產概況-收穫面積依稻米種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b5a4e2a-f8fc-45bd-9a33-38806397b2fa&uid=12617&cuid=11348"
+   },
+   {
+    "name": "稻米生產概況-產量依稻米種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b5a4e2a-f8fc-45bd-9a33-38806397b2fa&uid=12618&cuid=11349"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 4.農產品收穫面積及生產量",
+  "children": [
+   {
+    "name": "雜糧生產-收穫面積依雜糧種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13733&cuid=11384"
+   },
+   {
+    "name": "雜糧生產-產量依雜糧種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13736&cuid=11385"
+   },
+   {
+    "name": "特用作物生產-收穫面積依特用作物種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13737&cuid=11386"
+   },
+   {
+    "name": "特用作物生產-產量依特用作物種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13738&cuid=11387"
+   },
+   {
+    "name": "蔬菜生產-收穫面積依蔬菜種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13739&cuid=11388"
+   },
+   {
+    "name": "蔬菜生產-產量依蔬菜種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13740&cuid=11389"
+   },
+   {
+    "name": "果品生產-收穫面積依果品種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13741&cuid=11390"
+   },
+   {
+    "name": "果品生產-產量依果品種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e06969a-1295-4df2-a709-b3b2def6e55a&uid=13742&cuid=11391"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 5.漁業從業人員",
+  "children": [
+   {
+    "name": "漁業從業人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=712475ab-f3ae-4f58-a9b7-ffc7e979542b&uid=48523&cuid=21692"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 6.漁戶數及漁戶人口數",
+  "children": [
+   {
+    "name": "漁戶數依漁業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45e5619f-f5b2-4d2d-8ca6-7bf5aec867b0&uid=12794&cuid=11340"
+   },
+   {
+    "name": "漁戶人口數依漁業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45e5619f-f5b2-4d2d-8ca6-7bf5aec867b0&uid=12795&cuid=11341"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 7.現有動力漁船數",
+  "children": [
+   {
+    "name": "現有動力漁船數-艘數依漁船筏別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8085c1df-142d-4388-bfb3-68c9a2c4809d&uid=45850&cuid=22208"
+   },
+   {
+    "name": "現有動力漁船數-噸數依漁船筏別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8085c1df-142d-4388-bfb3-68c9a2c4809d&uid=45852&cuid=22210"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 8.現有家畜數",
+  "children": [
+   {
+    "name": "現有家畜數依家畜類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56bfc2c6-2f25-46df-809c-6658e6b3ec70&uid=13743&cuid=11376"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 9.家畜屠宰頭數",
+  "children": [
+   {
+    "name": "家畜屠宰頭數依家畜類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=670deab5-a594-4136-be21-d9e080063020&uid=13746&cuid=22212"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 10.產乳牛頭數及產乳量",
+  "children": [
+   {
+    "name": "年底飼養場數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98def40c-d7a8-4573-90cc-9c2fa6ec23ca&uid=13747&cuid=11380"
+   },
+   {
+    "name": "年底經產牛頭數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98def40c-d7a8-4573-90cc-9c2fa6ec23ca&uid=13748&cuid=11381"
+   },
+   {
+    "name": "全年產乳量",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=98def40c-d7a8-4573-90cc-9c2fa6ec23ca&uid=13749&cuid=11382"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 11.現有家禽數量",
+  "children": [
+   {
+    "name": "現有家禽數量依家禽類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38627a41-90a8-4531-b0a9-89eab93fc1ed&uid=13750&cuid=11383"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 12.灌溉服務面積",
+  "children": [
+   {
+    "name": "灌溉排水服務面積-依灌溉排水類型分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2f6702af-ce36-4844-85f3-559c7a9aaf9b&uid=13764&cuid=22222"
+   }
+  ]
+ },
+ {
+  "name": "[柒、交通運輸] 車輛登記",
+  "children": [
+   {
+    "name": "車輛登記依車輛別、用途別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=064b08e5-0f15-44c5-86c1-9abd69bf372f&uid=13191&cuid=11394"
+   }
+  ]
+ },
+ {
+  "name": "[柒、交通運輸] 公路里程概況",
+  "children": [
+   {
+    "name": "公路里程概況依公路別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2c337c6-6a81-4507-a5f9-fd10a2d473f9&uid=13192&cuid=11396"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 醫療機構及其他醫事機構開(執)業醫事人員數",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數依衛生局人員編制分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d2b7f7e3-de98-4317-b84c-7cc06ecd9843&uid=13700&cuid=11397"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 醫療院所數及各類病床數、救護車輛數",
+  "children": [
+   {
+    "name": "院所家數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13701&cuid=21696"
+   },
+   {
+    "name": "醫院家數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13702&cuid=21697"
+   },
+   {
+    "name": "診所家數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13703&cuid=21698"
+   },
+   {
+    "name": "醫療院所病床數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13704&cuid=21699"
+   },
+   {
+    "name": "醫院開放病床數依醫院病床別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13705&cuid=21700"
+   },
+   {
+    "name": "精神科日間照護人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13706&cuid=21701"
+   },
+   {
+    "name": "診所病床數依診所病床別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13707&cuid=21702"
+   },
+   {
+    "name": "醫院救護車",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b45f871-a867-46be-9be0-fa475df05b87&uid=13708&cuid=21703"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 藥商家數",
+  "children": [
+   {
+    "name": "藥商家數依藥商別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=195c1545-b5e3-4e2d-9e63-ba76dd85e8ea&uid=13712&cuid=21688"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 十大死亡原因",
+  "children": [
+   {
+    "name": "十大死亡原因-死亡人數依性別、死亡原因分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4aefd620-4d93-4fe5-842e-ac53a915fb65&uid=13713&cuid=21689"
+   },
+   {
+    "name": "十大死亡原因-每十萬人口死亡率依死亡原因分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4aefd620-4d93-4fe5-842e-ac53a915fb65&uid=13714&cuid=21690"
+   },
+   {
+    "name": "十大死亡原因-每十萬人口標準化死亡率依死亡原因分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4aefd620-4d93-4fe5-842e-ac53a915fb65&uid=13727&cuid=21691"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 營業衛生管理稽核概況—按稽查家次分",
+  "children": [
+   {
+    "name": "稽查家次依衛生管理稽查項目分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2eeba36f-7b1f-46ef-ab29-aeebbc5ce25e&uid=48544&cuid=21771"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 平均每戶家庭收支",
+  "children": [
+   {
+    "name": "所得收入依所得收入別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13594&cuid=21487"
+   },
+   {
+    "name": "消費支出依消費支出別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13595&cuid=21488"
+   },
+   {
+    "name": "非消費支出依非消費支出別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13596&cuid=21489"
+   },
+   {
+    "name": "每戶可支配所得(平均數)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13597&cuid=21490"
+   },
+   {
+    "name": "儲蓄",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13598&cuid=21491"
+   },
+   {
+    "name": "所得總額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=44b5a9d6-5a37-4329-ab99-13fdd7d1940c&uid=13599&cuid=21492"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 家庭主要設備普及率",
+  "children": [
+   {
+    "name": "彩色電視機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=50835&cuid=22309"
+   },
+   {
+    "name": "數位影音光碟機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13205&cuid=21495"
+   },
+   {
+    "name": "攝影機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13206&cuid=21496"
+   },
+   {
+    "name": "音響",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13207&cuid=21497"
+   },
+   {
+    "name": "鋼琴(含電子琴)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13208&cuid=21498"
+   },
+   {
+    "name": "數位相機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13209&cuid=21499"
+   },
+   {
+    "name": "電視遊樂器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13211&cuid=21501"
+   },
+   {
+    "name": "有線電視頻道設備(含多媒體隨選視訊)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13212&cuid=21502"
+   },
+   {
+    "name": "家用電腦",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13213&cuid=21503"
+   },
+   {
+    "name": "電話機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13214&cuid=21504"
+   },
+   {
+    "name": "行動電話",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13215&cuid=21505"
+   },
+   {
+    "name": "連網(使用電腦或其他設備)",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13216&cuid=21506"
+   },
+   {
+    "name": "汽車",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13217&cuid=21507"
+   },
+   {
+    "name": "機車",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13218&cuid=21508"
+   },
+   {
+    "name": "電磁爐",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13219&cuid=21509"
+   },
+   {
+    "name": "冷暖氣機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13220&cuid=21510"
+   },
+   {
+    "name": "除濕機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13221&cuid=21511"
+   },
+   {
+    "name": "洗衣機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13222&cuid=21512"
+   },
+   {
+    "name": "烘衣機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13223&cuid=21513"
+   },
+   {
+    "name": "空氣清淨機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13224&cuid=21514"
+   },
+   {
+    "name": "濾水器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13225&cuid=21515"
+   },
+   {
+    "name": "吸塵器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13226&cuid=21516"
+   },
+   {
+    "name": "熱水器",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13227&cuid=21517"
+   },
+   {
+    "name": "開飲機",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13228&cuid=21518"
+   },
+   {
+    "name": "微波爐",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13229&cuid=21519"
+   },
+   {
+    "name": "報紙",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13230&cuid=21520"
+   },
+   {
+    "name": "期刊雜誌",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=70d22bb8-1c7a-470b-b598-5d9498e62e97&uid=13231&cuid=21521"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 金融機構分布",
+  "children": [
+   {
+    "name": "金融機構分布依金融機構分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=485c6e50-2f2b-49d8-ac9b-0585e93266e4&uid=13547&cuid=21522"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 主要金融機構存、放款餘額",
+  "children": [
+   {
+    "name": "主要金融機構存款餘額─依金融機構分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75cc7aa1-6571-4ef4-a8fb-7debee101be2&uid=13549&cuid=21523"
+   },
+   {
+    "name": "主要金融機構放款餘額─依金融機構分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75cc7aa1-6571-4ef4-a8fb-7debee101be2&uid=13551&cuid=21524"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歲入預決算─按來源別分",
+  "children": [
+   {
+    "name": "歲入預決算-按來源別分-預算依歲入來源別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2910a7ea-d838-4caa-b158-3e0a29d7195d&uid=13552&cuid=21525"
+   },
+   {
+    "name": "歲入預決算-按來源別分-決算依歲入來源別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2910a7ea-d838-4caa-b158-3e0a29d7195d&uid=13553&cuid=21526"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歲出預決算─按政事別分",
+  "children": [
+   {
+    "name": "歲出預決算-按政事別分-預算依歲出政事別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3b4d154-1de5-4035-9c65-2f5ca5de90ee&uid=13555&cuid=21527"
+   },
+   {
+    "name": "歲出預決算-按政事別分-決算依歲出政事別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b3b4d154-1de5-4035-9c65-2f5ca5de90ee&uid=13556&cuid=21528"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歷年財政狀況",
+  "children": [
+   {
+    "name": "歷年財政狀況-融資調度需求依融資調度需求分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13557&cuid=21529"
+   },
+   {
+    "name": "歷年財政狀況-融資調度財源依融資調度財源分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13558&cuid=21530"
+   },
+   {
+    "name": "歷年財政狀況-自籌財源比率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13559&cuid=21531"
+   },
+   {
+    "name": "歷年財政狀況-賦稅依存度",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13560&cuid=21532"
+   },
+   {
+    "name": "歷年財政狀況-補助及協助依存度",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13561&cuid=21533"
+   },
+   {
+    "name": "歷年財政狀況-債務未償餘額",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13562&cuid=21534"
+   },
+   {
+    "name": "歷年財政狀況-債務未償餘額占歲出比率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4fe098ef-b3db-4c18-8bb4-a28602541d7e&uid=13563&cuid=21535"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 各項稅捐實徵數",
+  "children": [
+   {
+    "name": "各項稅捐實徵數-依各項稅捐(實徵)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a061fc41-c4fd-463a-b251-4856b037af27&uid=13564&cuid=21536"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 各項稅捐納庫數",
+  "children": [
+   {
+    "name": "各項稅捐納庫數-實徵數依各項稅捐(實徵)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b5f5b16-96f4-409f-ad3b-bdda9229d00b&uid=13565&cuid=21537"
+   },
+   {
+    "name": "各項稅捐納庫數-納庫數依稅目別、納庫別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b5f5b16-96f4-409f-ad3b-bdda9229d00b&uid=13566&cuid=21538"
+   },
+   {
+    "name": "各項稅捐納庫數-未納庫數依各項稅捐(實徵)分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b5f5b16-96f4-409f-ad3b-bdda9229d00b&uid=13567&cuid=21539"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 各鄉鎮市歲入預決算─按來源別分",
+  "children": [
+   {
+    "name": "各鄉鎮市歲入預決算-按來源別分-預算依歲入來源別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e3fb28a-98ca-4cc2-97a2-8a76ca9f1c69&uid=13568&cuid=21540"
+   },
+   {
+    "name": "各鄉鎮市歲入預決算-按來源別分-決算依歲入來源別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e3fb28a-98ca-4cc2-97a2-8a76ca9f1c69&uid=13569&cuid=21541"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 各鄉鎮市歲出預決算─按政事別分",
+  "children": [
+   {
+    "name": "各鄉鎮市歲出預決算-按政事別分-預算依歲出政事別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4784ad14-c9a5-4eeb-88ac-111aeb5cbd34&uid=13571&cuid=21542"
+   },
+   {
+    "name": "各鄉鎮市歲出預決算-按政事別分-決算依歲出政事別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4784ad14-c9a5-4eeb-88ac-111aeb5cbd34&uid=13573&cuid=21543"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 營業基金及非營業特種基金盈虧(餘絀)",
+  "children": [
+   {
+    "name": "營業基金及非營業特種基金盈虧(餘絀)-預算數依基金類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe09ae74-4cfc-42b9-89f2-c35b402145d8&uid=13574&cuid=21544"
+   },
+   {
+    "name": "營業基金及非營業特種基金盈虧(餘絀)-決算數依基金類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe09ae74-4cfc-42b9-89f2-c35b402145d8&uid=13575&cuid=21545"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內高級中等學校概況",
+  "children": [
+   {
+    "name": "境內高級中等學校概況-校數依學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13293&cuid=21607"
+   },
+   {
+    "name": "境內高級中等學校概況-教師數依性別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13294&cuid=21608"
+   },
+   {
+    "name": "境內高級中等學校概況-職員數依性別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13295&cuid=21609"
+   },
+   {
+    "name": "境內高級中等學校概況-班級數依學校類別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13296&cuid=21610"
+   },
+   {
+    "name": "境內高級中等學校概況-學生數依性別、學校類別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13297&cuid=21611"
+   },
+   {
+    "name": "境內高級中等學校概況-上學年度畢業生數依性別、學校類別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6f8d60e3-ddd3-4175-9df3-8f6cf643dee8&uid=13298&cuid=21612"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內國民中學概況",
+  "children": [
+   {
+    "name": "境內國民中學概況-校數依學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13310&cuid=21554"
+   },
+   {
+    "name": "境內國民中學概況-教師數依性別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13311&cuid=21555"
+   },
+   {
+    "name": "境內國民中學概況-職員數依性別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13312&cuid=21556"
+   },
+   {
+    "name": "境內國民中學概況-班級數依年級別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13313&cuid=21557"
+   },
+   {
+    "name": "境內國民中學概況-學生數依性別、年級別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13314&cuid=21558"
+   },
+   {
+    "name": "境內國民中學概況-上學年度畢業生數依性別、學校別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a4a38cc-e290-4984-ba7f-d1d608e0dac1&uid=13315&cuid=21559"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內國民小學概況",
+  "children": [
+   {
+    "name": "境內國民小學概況-校數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13316&cuid=21560"
+   },
+   {
+    "name": "境內國民小學概況-教師數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13317&cuid=21561"
+   },
+   {
+    "name": "境內國民小學概況-職員數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13318&cuid=21562"
+   },
+   {
+    "name": "境內國民小學概況-班級數依年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13319&cuid=21563"
+   },
+   {
+    "name": "境內國民小學概況-學生數依性別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13320&cuid=21564"
+   },
+   {
+    "name": "境內國民小學概況-上學年度畢業生數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3544cb19-ad51-4844-8c3d-2a61126a2463&uid=13321&cuid=21565"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內幼兒園概況",
+  "children": [
+   {
+    "name": "幼兒園園數依設立別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb46860a-a97f-4cb4-90cd-e14ae77e17b0&uid=831&cuid=21626"
+   },
+   {
+    "name": "幼兒園教保服務人員數依性別、設立別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb46860a-a97f-4cb4-90cd-e14ae77e17b0&uid=832&cuid=21627"
+   },
+   {
+    "name": "幼兒園職員數依性別、設立別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb46860a-a97f-4cb4-90cd-e14ae77e17b0&uid=833&cuid=21628"
+   },
+   {
+    "name": "幼兒園學生數依性別、設立別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb46860a-a97f-4cb4-90cd-e14ae77e17b0&uid=834&cuid=21629"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內各級補校概況",
+  "children": [
+   {
+    "name": "國中小補校校數依學校類別、設立別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=342acf72-e1d1-43dd-a17d-5c0cbf619a47&uid=844&cuid=21634"
+   },
+   {
+    "name": "國中小補校班級數依學校類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=342acf72-e1d1-43dd-a17d-5c0cbf619a47&uid=847&cuid=21718"
+   },
+   {
+    "name": "國中小補校學生數依學校類別、性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=342acf72-e1d1-43dd-a17d-5c0cbf619a47&uid=48529&cuid=21719"
+   },
+   {
+    "name": "國中小補校畢業生數依學校類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=342acf72-e1d1-43dd-a17d-5c0cbf619a47&uid=851&cuid=21720"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 短期補習班概況",
+  "children": [
+   {
+    "name": "短期補習班概況依補習類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=db733598-b38b-4a62-9332-d2be2afaf657&uid=13329&cuid=21576"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 國民中學學生祼視視力檢查",
+  "children": [
+   {
+    "name": "國民中學學生裸眼視力檢查人數依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eace5529-5e76-4e93-ac0f-3e2d699b9ef3&uid=898&cuid=21619"
+   },
+   {
+    "name": "國民中學學生裸眼視力不良人數依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eace5529-5e76-4e93-ac0f-3e2d699b9ef3&uid=900&cuid=21620"
+   },
+   {
+    "name": "國民中學學生裸眼視力不良率依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eace5529-5e76-4e93-ac0f-3e2d699b9ef3&uid=902&cuid=21621"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 國民小學學生裸視視力檢查",
+  "children": [
+   {
+    "name": "國民小學學生裸眼視力檢查人數依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b6104d1-fb4e-49ab-bb36-dd358aa779ed&uid=904&cuid=21622"
+   },
+   {
+    "name": "國民小學學生裸眼視力不良人數依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b6104d1-fb4e-49ab-bb36-dd358aa779ed&uid=906&cuid=21623"
+   },
+   {
+    "name": "國民小學學生裸眼視力不良率依性別、設立別、年級別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8b6104d1-fb4e-49ab-bb36-dd358aa779ed&uid=908&cuid=21624"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 公立公共圖書館概況",
+  "children": [
+   {
+    "name": "公立公共圖書館概況-圖書資料收藏數-圖書依語言種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3ffdbfd-0a62-4025-aa18-28e8dc5cf61a&uid=13356&cuid=21581"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資料收藏數-期刊依語言種類分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3ffdbfd-0a62-4025-aa18-28e8dc5cf61a&uid=13600&cuid=21585"
+   },
+   {
+    "name": "公立公共圖書館概況-電子書收藏數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3ffdbfd-0a62-4025-aa18-28e8dc5cf61a&uid=13357&cuid=21582"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資訊借閱人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3ffdbfd-0a62-4025-aa18-28e8dc5cf61a&uid=13358&cuid=21583"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資訊借閱冊數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3ffdbfd-0a62-4025-aa18-28e8dc5cf61a&uid=13359&cuid=21584"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 各項藝文展演活動",
+  "children": [
+   {
+    "name": "各項藝文展演活動-場次依藝文展演活動別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d476e638-ca16-4273-9801-ab02c715615b&uid=13360&cuid=21586"
+   },
+   {
+    "name": "各項藝文展演活動-出席人次",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d476e638-ca16-4273-9801-ab02c715615b&uid=13361&cuid=21587"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各機關(構)學校正式預算員額",
+  "children": [
+   {
+    "name": "各機關(構)學校正式職(教)員預算員額及各類員工實有員額-正式職(教)員預算員額依機關別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96f952d9-a573-4d23-86a3-0cd5e83b1e5d&uid=522&cuid=21731"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各機關(構)學校員工總人數",
+  "children": [
+   {
+    "name": "員工實有員額依性別、實有員額別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8947b49d-128b-46d6-82e4-940b0fa8149d&uid=523&cuid=21732"
+   },
+   {
+    "name": "員工實有員額依機關別、實有員額別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8947b49d-128b-46d6-82e4-940b0fa8149d&uid=524&cuid=21733"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各機關(構)學校公教人員按官等別分",
+  "children": [
+   {
+    "name": "各機關(構)學校公教人員概況依性別、官等別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2963475a-beb5-47b2-866b-2bf3c4b42440&uid=497&cuid=21734"
+   },
+   {
+    "name": "各機關(構)學校公教人員概況依機關別、官等別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2963475a-beb5-47b2-866b-2bf3c4b42440&uid=501&cuid=21736"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各機關(構)學校公教人員按教育程度分",
+  "children": [
+   {
+    "name": "各機關(構)學校公教人員概況依性別、教育程度別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90ff75fa-bc80-4852-98df-920f81ee4e0b&uid=502&cuid=21737"
+   },
+   {
+    "name": "各機關(構)學校公教人員概況依機關別、教育程度別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90ff75fa-bc80-4852-98df-920f81ee4e0b&uid=504&cuid=21738"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各機關(構)學校公教人員按年齡分",
+  "children": [
+   {
+    "name": "平均年齡依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5956c172-c04a-4029-b64b-3e972e638a6b&uid=513&cuid=21809"
+   },
+   {
+    "name": "平均年齡依機關別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5956c172-c04a-4029-b64b-3e972e638a6b&uid=514&cuid=21810"
+   },
+   {
+    "name": "各機關(構)學校公教人員概況依性別、年齡別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5956c172-c04a-4029-b64b-3e972e638a6b&uid=505&cuid=21739"
+   },
+   {
+    "name": "各機關(構)學校公教人員概況依機關別、年齡別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5956c172-c04a-4029-b64b-3e972e638a6b&uid=506&cuid=21740"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 區域立法委員選舉概況",
+  "children": [
+   {
+    "name": "(立法委員)選舉人數依選舉區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0ec5fdc-3094-4651-a6c5-17756fccd1a8&uid=13168&cuid=21805"
+   },
+   {
+    "name": "(立法委員)候選人數依選舉區別、性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0ec5fdc-3094-4651-a6c5-17756fccd1a8&uid=13169&cuid=21806"
+   },
+   {
+    "name": "(立法委員)投票數依選舉區別、有效與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0ec5fdc-3094-4651-a6c5-17756fccd1a8&uid=13170&cuid=21807"
+   },
+   {
+    "name": "(立法委員)當選人數依選舉區別、性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0ec5fdc-3094-4651-a6c5-17756fccd1a8&uid=13172&cuid=21808"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 縣長選舉概況",
+  "children": [
+   {
+    "name": "(縣長)選舉人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd518e41-7c29-4601-95f8-2148482200ee&uid=13173&cuid=21742"
+   },
+   {
+    "name": "(縣長)候選人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd518e41-7c29-4601-95f8-2148482200ee&uid=13174&cuid=21743"
+   },
+   {
+    "name": "(縣長)投票數依有效與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd518e41-7c29-4601-95f8-2148482200ee&uid=13175&cuid=21744"
+   },
+   {
+    "name": "(縣長)已領未投票",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd518e41-7c29-4601-95f8-2148482200ee&uid=13176&cuid=21745"
+   },
+   {
+    "name": "(縣長)投票數對選舉人數比率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd518e41-7c29-4601-95f8-2148482200ee&uid=48530&cuid=21746"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 縣議員選舉概況",
+  "children": [
+   {
+    "name": "(縣議員)選舉人數依選舉區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ed2b46e-f3dd-429e-8720-a086cd68692c&uid=13177&cuid=21801"
+   },
+   {
+    "name": "(縣議員)候選人數依選舉區別、性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ed2b46e-f3dd-429e-8720-a086cd68692c&uid=13178&cuid=21802"
+   },
+   {
+    "name": "(縣議員)投票數依選舉區別、有效與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ed2b46e-f3dd-429e-8720-a086cd68692c&uid=13179&cuid=21803"
+   },
+   {
+    "name": "(縣議員)當選人數依選舉區別、性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ed2b46e-f3dd-429e-8720-a086cd68692c&uid=13181&cuid=21804"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 鄉鎮市民代表選舉概況",
+  "children": [
+   {
+    "name": "(鄉鎮市民代表)選舉人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef4274f8-53eb-4b7d-9ac4-2cba72a935a5&uid=13182&cuid=21793"
+   },
+   {
+    "name": "(鄉鎮市民代表)候選人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef4274f8-53eb-4b7d-9ac4-2cba72a935a5&uid=13183&cuid=21794"
+   },
+   {
+    "name": "(鄉鎮市民代表)投票數依有效與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef4274f8-53eb-4b7d-9ac4-2cba72a935a5&uid=13184&cuid=21795"
+   },
+   {
+    "name": "(鄉鎮市民代表)當選人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef4274f8-53eb-4b7d-9ac4-2cba72a935a5&uid=13186&cuid=21796"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 鄉鎮市長選舉概況",
+  "children": [
+   {
+    "name": "(鄉鎮市長)選舉人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19fe318f-ef7b-4824-b585-1edab18a26fc&uid=13187&cuid=21797"
+   },
+   {
+    "name": "(鄉鎮市長)候選人數依性別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19fe318f-ef7b-4824-b585-1edab18a26fc&uid=13188&cuid=21798"
+   },
+   {
+    "name": "(鄉鎮市長)投票數依有效與否分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19fe318f-ef7b-4824-b585-1edab18a26fc&uid=13189&cuid=21799"
+   },
+   {
+    "name": "(鄉鎮市長)當選人數對候選人數比率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19fe318f-ef7b-4824-b585-1edab18a26fc&uid=13811&cuid=21800"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 營運中工廠家數",
+  "children": [
+   {
+    "name": "營運中工廠家數依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f249c1e8-fb76-45e4-aed7-20bf3afc78b8&uid=13604&cuid=21757"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 商業登記現有家數及資本額",
+  "children": [
+   {
+    "name": "商業登記現有家數依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6b901c1-879a-4a4e-9c3a-29e14998fedd&uid=48547&cuid=21779"
+   },
+   {
+    "name": "商業登記現有資本額依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6b901c1-879a-4a4e-9c3a-29e14998fedd&uid=48546&cuid=21778"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 公司登記現有家數及資本額─按組織別分",
+  "children": [
+   {
+    "name": "公司登記現有家數依組織別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92ba135b-7ae9-43f0-a21c-036f75b148b6&uid=13611&cuid=21758"
+   },
+   {
+    "name": "公司登記現有資本額依組織別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92ba135b-7ae9-43f0-a21c-036f75b148b6&uid=13612&cuid=21759"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 公司登記現有家數及資本額─按行業別分",
+  "children": [
+   {
+    "name": "公司登記現有家數依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2545008b-aa8a-4f81-a3f0-7b1db1ccb8d5&uid=13615&cuid=21760"
+   },
+   {
+    "name": "公司登記現有資本額依行業別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2545008b-aa8a-4f81-a3f0-7b1db1ccb8d5&uid=13616&cuid=21761"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 核發建築物使用執照總樓地板面積",
+  "children": [
+   {
+    "name": "核發建築物使用執照統計-總樓地板面積依土地使用分區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dcbb5c43-e763-4ad0-addf-6372405aadff&uid=48542&cuid=21769"
+   },
+   {
+    "name": "核發建築物使用執照統計-總樓地板面積依構造別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dcbb5c43-e763-4ad0-addf-6372405aadff&uid=48543&cuid=21770"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 自來水供水普及率",
+  "children": [
+   {
+    "name": "行政區域人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a41fa2b7-1cc3-498f-80af-d28d4c3714dd&uid=13619&cuid=21764"
+   },
+   {
+    "name": "供水區域人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a41fa2b7-1cc3-498f-80af-d28d4c3714dd&uid=13618&cuid=21763"
+   },
+   {
+    "name": "實際供水人數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a41fa2b7-1cc3-498f-80af-d28d4c3714dd&uid=13617&cuid=21762"
+   },
+   {
+    "name": "自來水供水普及率",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a41fa2b7-1cc3-498f-80af-d28d4c3714dd&uid=24604&cuid=21765"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業及縣建設] 電力供應情形",
+  "children": [
+   {
+    "name": "電力供應情形-年底戶數依電力供應分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ae07017-a4a4-4554-8b92-88fe5c41a0fb&uid=13620&cuid=21766"
+   },
+   {
+    "name": "電力供應情形-售電量依電力供應分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ae07017-a4a4-4554-8b92-88fe5c41a0fb&uid=13621&cuid=21767"
+   },
+   {
+    "name": "電力供應情形-每用戶全年平均用電量依電力供應分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ae07017-a4a4-4554-8b92-88fe5c41a0fb&uid=13622&cuid=21768"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 環境空氣品質",
+  "children": [
+   {
+    "name": "年底監測站數依空氣品質監測站別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=13717&cuid=21704"
+   },
+   {
+    "name": "人工測站-總懸浮微粒",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48531&cuid=21747"
+   },
+   {
+    "name": "人工測站-鉛",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48532&cuid=21748"
+   },
+   {
+    "name": "人工測站-落塵量",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48533&cuid=21749"
+   },
+   {
+    "name": "自動測站-粒徑10微米以下之懸浮微粒",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48534&cuid=21750"
+   },
+   {
+    "name": "自動測站-二氧化硫",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48535&cuid=21751"
+   },
+   {
+    "name": "自動測站-一氧化碳",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48536&cuid=21752"
+   },
+   {
+    "name": "自動測站-二氧化氮",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48537&cuid=21753"
+   },
+   {
+    "name": "自動測站-非甲烷碳氫化合物",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48538&cuid=21754"
+   },
+   {
+    "name": "自動測站-臭氧",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e88c3101-d1a5-4ff8-96ef-ee180b853321&uid=48539&cuid=21755"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 一般地區環境音量監測不合格情形",
+  "children": [
+   {
+    "name": "(一般地區環境)年底監測站數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d345803e-ffcc-4402-bcd6-375df288890d&uid=13954&cuid=21785"
+   },
+   {
+    "name": "(一般地區環境)不合格站數依時段別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d345803e-ffcc-4402-bcd6-375df288890d&uid=48551&cuid=21786"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 道路交通音量監測不合格情形",
+  "children": [
+   {
+    "name": "(道路交通)年底監測站數",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3b7b2559-451c-46f8-800b-ea896d514ea7&uid=13955&cuid=21787"
+   },
+   {
+    "name": "(道路交通)不合格站數依時段別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3b7b2559-451c-46f8-800b-ea896d514ea7&uid=48552&cuid=21788"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 公害陳情受理案件",
+  "children": [
+   {
+    "name": "公害陳情受理案件依公害別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6183c2ad-3ae7-47fc-ba4f-4e4834e969c3&uid=13956&cuid=21714"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 環保稽查(查核)概況",
+  "children": [
+   {
+    "name": "環保稽查(查核)概況-稽查次數依污染類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26fb0e84-6a9e-4e79-b5d0-ab45e00b5b5b&uid=48548&cuid=21782"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰次數依污染類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26fb0e84-6a9e-4e79-b5d0-ab45e00b5b5b&uid=13958&cuid=21780"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰金額依污染類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26fb0e84-6a9e-4e79-b5d0-ab45e00b5b5b&uid=48549&cuid=21783"
+   },
+   {
+    "name": "環保稽查(查核)概況-實收罰鍰依污染類別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26fb0e84-6a9e-4e79-b5d0-ab45e00b5b5b&uid=48550&cuid=21784"
+   },
+   {
+    "name": "環保稽查(查核)概況-年底稽查(查核)人力-環保局人力",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26fb0e84-6a9e-4e79-b5d0-ab45e00b5b5b&uid=13959&cuid=21781"
+   }
+  ]
+ },
+ {
+  "name": "[拾伍、其他] 郵政機構概況",
+  "children": [
+   {
+    "name": "郵政機構概況依郵政機構別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64d3c3-37ff-454f-a313-d8fcb88b7b08&uid=13237&cuid=21686"
+   }
+  ]
+ },
+ {
+  "name": "[拾伍、其他] 主要觀光遊憩區遊客人次",
+  "children": [
+   {
+    "name": "主要觀光遊憩區遊客人數依觀光遊憩區別分",
+    "url": "https://yunlin.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5f560893-8344-43b3-ab8c-a9152d25a2c8&uid=48527&cuid=21716"
+   }
+  ]
+ }
+]

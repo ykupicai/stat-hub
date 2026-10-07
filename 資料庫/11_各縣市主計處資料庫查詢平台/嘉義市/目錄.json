@@ -1,0 +1,1924 @@
+[
+ {
+  "name": "土地人口",
+  "children": [
+   {
+    "name": "現住戶數、人口密度及性比例",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=13840&cuid=1175"
+     },
+     {
+      "name": "現住戶數、人口密度及性比例-村里數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=57859&cuid=1308"
+     },
+     {
+      "name": "現住戶數、人口密度及性比例-鄰數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=57860&cuid=1309"
+     },
+     {
+      "name": "現住戶數、人口密度及性比例-戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=57861&cuid=1310"
+     },
+     {
+      "name": "現住戶數、人口密度及性比例-人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=57862&cuid=1311"
+     },
+     {
+      "name": "現住戶數、人口密度及性比例-戶量",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=57863&cuid=1312"
+     },
+     {
+      "name": "人口密度",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=14029&cuid=1182"
+     },
+     {
+      "name": "性比例",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22a82c8a-a42e-455f-98ab-b1b74ad7a214&uid=14027&cuid=1181"
+     }
+    ]
+   },
+   {
+    "name": "戶籍動態",
+    "children": [
+     {
+      "name": "遷入人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14064&cuid=1187"
+     },
+     {
+      "name": "遷出人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14069&cuid=1189"
+     },
+     {
+      "name": "出生人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14062&cuid=1185"
+     },
+     {
+      "name": "死亡人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14063&cuid=1186"
+     },
+     {
+      "name": "粗出生率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=13868&cuid=1184"
+     },
+     {
+      "name": "粗死亡率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=13857&cuid=1183"
+     },
+     {
+      "name": "結婚對數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14065&cuid=1188"
+     },
+     {
+      "name": "鄉鎮市粗結婚率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=13859&cuid=1190"
+     },
+     {
+      "name": "離婚/終止結婚對數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=14066&cuid=1192"
+     },
+     {
+      "name": "粗離婚率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e537bcce-3b8a-4783-8048-f36ab136aa07&uid=13860&cuid=1191"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡結構",
+    "children": [
+     {
+      "name": "0-14歲人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14057&cuid=1196"
+     },
+     {
+      "name": "幼年人口比率(0-14歲)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14035&cuid=1193"
+     },
+     {
+      "name": "15-64歲人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14058&cuid=1197"
+     },
+     {
+      "name": "青壯年人口比率(15-64歲)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14059&cuid=1198"
+     },
+     {
+      "name": "65歲以上人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14067&cuid=1201"
+     },
+     {
+      "name": "老年人口比率(65歲以上)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14036&cuid=1194"
+     },
+     {
+      "name": "扶老比",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14061&cuid=1200"
+     },
+     {
+      "name": "扶幼比",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14060&cuid=1199"
+     },
+     {
+      "name": "扶養比",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14068&cuid=1202"
+     },
+     {
+      "name": "老化指數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=958ad16f-c74c-49d0-8cd5-4ea761861199&uid=14050&cuid=1195"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住人口之教育程度-按年齡別分",
+    "children": [
+     {
+      "name": "十五歲以上現住人口數依性別、年齡別、教育程度別、結業別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7f4fd2c-6497-4ac8-82c0-381361264202&uid=586&cuid=1451"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "children": [
+     {
+      "name": "15歲以上現住人口之教育程度",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3d8612de-d96b-47f5-8f87-5d0930e7b57b&uid=57691&cuid=1204"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之婚姻狀況",
+    "children": [
+     {
+      "name": "現住人口之婚姻狀況",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f569b6db-c25e-425d-bf69-0a6ed014a8d4&uid=57722&cuid=1205"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民戶口數",
+    "children": [
+     {
+      "name": "現住原住民戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=25b952ac-442f-4a16-a47b-13835ed45c1a&uid=57723&cuid=1206"
+     },
+     {
+      "name": "現住原住民人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=25b952ac-442f-4a16-a47b-13835ed45c1a&uid=57724&cuid=1207"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民年齡分配",
+    "children": [
+     {
+      "name": "現住原住民年齡分配",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e57b659-cfb4-4ac2-b776-75f3ec1934ef&uid=57725&cuid=1208"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "children": [
+     {
+      "name": "十五歲以上現住原住民人口數依性別、教育程度別_詳細、結業別、原住民身份別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02e2ca5f-39ee-479a-8673-baa814bd2c90&uid=1451&cuid=1461"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民婚姻狀況",
+    "children": [
+     {
+      "name": "現住原住民婚姻狀況",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=838aa1e7-1e6a-4d71-9bd5-1994cbcaab80&uid=57727&cuid=1210"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "農、林、漁、牧",
+  "children": [
+   {
+    "name": "現有家畜數依家畜類別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a022a53-809c-4a23-b76f-42fa157a56d5&uid=13743&cuid=885"
+   },
+   {
+    "name": "家畜屠宰頭數依家畜類別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a022a53-809c-4a23-b76f-42fa157a56d5&uid=13746&cuid=1010"
+   },
+   {
+    "name": "現有家禽數量依家禽類別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a022a53-809c-4a23-b76f-42fa157a56d5&uid=13750&cuid=1011"
+   },
+   {
+    "name": "農田水利會灌溉排水受益地面積依灌溉排水類型分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a022a53-809c-4a23-b76f-42fa157a56d5&uid=13764&cuid=1012"
+   }
+  ]
+ },
+ {
+  "name": "工商業及市區建設",
+  "children": [
+   {
+    "name": "營運中工廠家數依行業別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4bf05eb6-0b59-4630-b4f5-9c274c39a84d&uid=13604&cuid=927"
+   },
+   {
+    "name": "公共設施用地計畫面積依公共設施分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4bf05eb6-0b59-4630-b4f5-9c274c39a84d&uid=57667&cuid=1123"
+   },
+   {
+    "name": "公共設施用地已闢建面積依公共設施分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4bf05eb6-0b59-4630-b4f5-9c274c39a84d&uid=57669&cuid=1124"
+   }
+  ]
+ },
+ {
+  "name": "金融、財稅",
+  "children": [
+   {
+    "name": "金融機構分布依金融機構分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59bc5070-b8d6-42a2-a20b-a84b77c486a6&uid=13547&cuid=926"
+   },
+   {
+    "name": "地方總預算歲入來源別-原預算依歲入來源別、經資門別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59bc5070-b8d6-42a2-a20b-a84b77c486a6&uid=56780&cuid=936"
+   },
+   {
+    "name": "地方總預算歲出政事別-原預算依歲出政事別、經資門別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59bc5070-b8d6-42a2-a20b-a84b77c486a6&uid=56783&cuid=939"
+   },
+   {
+    "name": "地方總決算歲出政事別-原列決算數依歲出政事別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59bc5070-b8d6-42a2-a20b-a84b77c486a6&uid=57087&cuid=940"
+   },
+   {
+    "name": "各項稅捐實徵數依各項稅捐(實徵)分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59bc5070-b8d6-42a2-a20b-a84b77c486a6&uid=13564&cuid=1161"
+   }
+  ]
+ },
+ {
+  "name": "交通運輸",
+  "children": [
+   {
+    "name": "車輛登記依車輛別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=289ed364-31f1-4ccb-b63b-4b83d051b1e1&uid=13191&cuid=866"
+   },
+   {
+    "name": "公路里程概況依公路別",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=289ed364-31f1-4ccb-b63b-4b83d051b1e1&uid=13192&cuid=867"
+   }
+  ]
+ },
+ {
+  "name": "教育文化",
+  "children": [
+   {
+    "name": "境內高等教育概況",
+    "children": [
+     {
+      "name": "境內高等教育概況-大學-系所數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13285&cuid=1211"
+     },
+     {
+      "name": "境內高等教育概況-大學-教職員數依性別、教職員分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13286&cuid=1212"
+     },
+     {
+      "name": "境內高等教育概況-大學-學生數依性別、年級別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13287&cuid=1213"
+     },
+     {
+      "name": "境內高等教育概況-大學-上學年度畢業生數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13288&cuid=1214"
+     },
+     {
+      "name": "境內高等教育概況-專科-校數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13289&cuid=1215"
+     },
+     {
+      "name": "境內高等教育概況-專科-教職員數依性別、教職員分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13290&cuid=1216"
+     },
+     {
+      "name": "境內高等教育概況-專科-學生數依性別、年級別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13291&cuid=1217"
+     },
+     {
+      "name": "境內高等教育概況-專科-上學年度畢業生數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ab7aee6a-6825-4cdf-aa63-a692f10d7abe&uid=13292&cuid=1218"
+     }
+    ]
+   },
+   {
+    "name": "境內高級中等學校概況",
+    "children": [
+     {
+      "name": "境內高級中等學校概況-校數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13293&cuid=1219"
+     },
+     {
+      "name": "境內高級中等學校概況-教師數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13294&cuid=1220"
+     },
+     {
+      "name": "境內高級中等學校概況-職員數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13295&cuid=1221"
+     },
+     {
+      "name": "境內高級中等學校概況-班級數依學校類別、年級別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13296&cuid=1222"
+     },
+     {
+      "name": "境內高級中等學校概況-學生數依性別、學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13297&cuid=1223"
+     },
+     {
+      "name": "境內高級中等學校概況-上學年度畢業生數依性別、學校類別、年級別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5adf1714-28ba-42ae-961e-5535c8cf2253&uid=13298&cuid=1224"
+     }
+    ]
+   },
+   {
+    "name": "境內國民中學概況",
+    "children": [
+     {
+      "name": "境內國民中學概況-校數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7d1b5cd-4669-474a-83f0-7f2c46f11d1b&uid=13310&cuid=1282"
+     },
+     {
+      "name": "境內國民中學概況-教師數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7d1b5cd-4669-474a-83f0-7f2c46f11d1b&uid=13311&cuid=1283"
+     },
+     {
+      "name": "境內國民中學概況-學生數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d7d1b5cd-4669-474a-83f0-7f2c46f11d1b&uid=13314&cuid=1284"
+     }
+    ]
+   },
+   {
+    "name": "境內國民小學概況",
+    "children": [
+     {
+      "name": "境內國民小學概況-校數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38a8e0b7-f74c-4072-84af-ba65de3b177c&uid=13316&cuid=1273"
+     },
+     {
+      "name": "境內國民小學概況-教師數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38a8e0b7-f74c-4072-84af-ba65de3b177c&uid=13317&cuid=1274"
+     },
+     {
+      "name": "境內國民小學概況-學生數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38a8e0b7-f74c-4072-84af-ba65de3b177c&uid=13320&cuid=1275"
+     }
+    ]
+   },
+   {
+    "name": "境內幼兒園概況",
+    "children": [
+     {
+      "name": "境內幼兒園概況-園數依設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75677c51-480b-4521-8c26-1c5a516d8744&uid=13322&cuid=972"
+     },
+     {
+      "name": "境內幼兒園概況-教保服務人數依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75677c51-480b-4521-8c26-1c5a516d8744&uid=13323&cuid=973"
+     },
+     {
+      "name": "境內幼兒園概況-職員數依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75677c51-480b-4521-8c26-1c5a516d8744&uid=57892&cuid=1341"
+     },
+     {
+      "name": "境內幼兒園概況-學生數依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75677c51-480b-4521-8c26-1c5a516d8744&uid=13324&cuid=974"
+     }
+    ]
+   },
+   {
+    "name": "境內各級補校概況",
+    "children": [
+     {
+      "name": "境內各級補校概況-校數依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=982904d7-8929-48c1-983b-239bee062ed4&uid=13325&cuid=943"
+     },
+     {
+      "name": "境內各級補校概況-班級數依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=982904d7-8929-48c1-983b-239bee062ed4&uid=13326&cuid=944"
+     },
+     {
+      "name": "境內各級補校概況-學生數依性別、學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=982904d7-8929-48c1-983b-239bee062ed4&uid=13327&cuid=945"
+     },
+     {
+      "name": "境內各級補校概況-上學年度畢業生依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=982904d7-8929-48c1-983b-239bee062ed4&uid=13328&cuid=946"
+     }
+    ]
+   },
+   {
+    "name": "短期補習班概況",
+    "children": [
+     {
+      "name": "短期補習班概況依補習類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faee2962-d450-4aad-be31-dfdcd7bba671&uid=57629&cuid=948"
+     }
+    ]
+   },
+   {
+    "name": "國中小學中途輟學學生概況",
+    "children": [
+     {
+      "name": "國中小學中途輟學學生概況-輟學人數依性別、學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13330&cuid=877"
+     },
+     {
+      "name": "國中小學中途輟學學生概況-輟學率依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13336&cuid=878"
+     },
+     {
+      "name": "國中小學中途輟學學生概況-復學率依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13344&cuid=879"
+     },
+     {
+      "name": "國中小學中途輟學學生概況-原住民輟學人數依性別、學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13348&cuid=880"
+     },
+     {
+      "name": "國中小學中途輟學學生概況-原住民輟學率依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13350&cuid=881"
+     },
+     {
+      "name": "國中小學中途輟學學生概況-原住民復學率依學校類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b79c92f-2fee-4a12-a38a-bb1457388842&uid=13351&cuid=882"
+     }
+    ]
+   },
+   {
+    "name": "國民中學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "國民中學學生裸視視力檢查-檢查人數依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d4afc43-9466-482b-a2de-7d7bf85cb5ec&uid=13352&cuid=949"
+     },
+     {
+      "name": "國民中學學生裸視視力檢查-視力不良人數依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d4afc43-9466-482b-a2de-7d7bf85cb5ec&uid=13353&cuid=950"
+     },
+     {
+      "name": "國民中學學生裸視視力檢查-視力不良率依性別、設立別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d4afc43-9466-482b-a2de-7d7bf85cb5ec&uid=57738&cuid=1226"
+     }
+    ]
+   },
+   {
+    "name": "國民小學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "國民小學學生裸視視力檢查-檢查人數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32c572a0-18dc-4794-bb75-a3424174c060&uid=13354&cuid=959"
+     },
+     {
+      "name": "國民小學學生裸視視力檢查-視力不良人數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32c572a0-18dc-4794-bb75-a3424174c060&uid=13355&cuid=960"
+     },
+     {
+      "name": "國民小學學生裸視視力檢查-視力不良率依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32c572a0-18dc-4794-bb75-a3424174c060&uid=57737&cuid=1225"
+     }
+    ]
+   },
+   {
+    "name": "公立公共圖書館概況",
+    "children": [
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-圖書依語言種類分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea251ce2-5846-4491-8aa7-05ffbe98892a&uid=13356&cuid=975"
+     },
+     {
+      "name": "公立公共圖書館概況-電子書收藏數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea251ce2-5846-4491-8aa7-05ffbe98892a&uid=13357&cuid=976"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea251ce2-5846-4491-8aa7-05ffbe98892a&uid=13358&cuid=977"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱冊數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea251ce2-5846-4491-8aa7-05ffbe98892a&uid=13359&cuid=978"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-期刊依語言種類分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea251ce2-5846-4491-8aa7-05ffbe98892a&uid=13600&cuid=979"
+     }
+    ]
+   },
+   {
+    "name": "各項藝文展演活動",
+    "children": [
+     {
+      "name": "各項藝文展演活動-場次依藝文展演活動別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e070014-6ee7-4722-a1ae-4571b498007f&uid=13360&cuid=1027"
+     },
+     {
+      "name": "各項藝文展演活動-出席人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e070014-6ee7-4722-a1ae-4571b498007f&uid=13361&cuid=1028"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "衛生",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數依衛生局人員編制分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b841cbd-7723-4ea9-af6b-0c0cd2ebead7&uid=13700&cuid=745"
+   },
+   {
+    "name": "預防接種工作",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b841cbd-7723-4ea9-af6b-0c0cd2ebead7&uid=13709&cuid=947"
+   },
+   {
+    "name": "藥商家數",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b841cbd-7723-4ea9-af6b-0c0cd2ebead7&uid=13712&cuid=951"
+   },
+   {
+    "name": "營業衛生管理稽核概況-按稽查家次分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b841cbd-7723-4ea9-af6b-0c0cd2ebead7&uid=57647&cuid=980"
+   }
+  ]
+ },
+ {
+  "name": "環境保護",
+  "children": [
+   {
+    "name": "公害陳情受理案件依公害別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2fe04bd-6177-4231-832e-8f3127467a8c&uid=13956&cuid=734"
+   },
+   {
+    "name": "環保稽查(查核)概況-稽查次數",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2fe04bd-6177-4231-832e-8f3127467a8c&uid=13958&cuid=1166"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰次數",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2fe04bd-6177-4231-832e-8f3127467a8c&uid=57687&cuid=1167"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰金額",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2fe04bd-6177-4231-832e-8f3127467a8c&uid=57688&cuid=1168"
+   },
+   {
+    "name": "環保稽查(查核)概況-實收罰鍰",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2fe04bd-6177-4231-832e-8f3127467a8c&uid=57689&cuid=1169"
+   }
+  ]
+ },
+ {
+  "name": "社會福利",
+  "children": [
+   {
+    "name": "各級人民團體數",
+    "children": [
+     {
+      "name": "各級人民團體數-職業團體依人民團體分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2addf14-6045-4d2b-a088-26b407a69592&uid=13627&cuid=981"
+     },
+     {
+      "name": "各級人民團體數-社會團體依人民團體分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2addf14-6045-4d2b-a088-26b407a69592&uid=13628&cuid=982"
+     }
+    ]
+   },
+   {
+    "name": "合作社概況",
+    "children": [
+     {
+      "name": "社數依合作社(單位/聯合)分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c886fb99-921a-4b24-881e-63dbc4758579&uid=57650&cuid=986"
+     },
+     {
+      "name": "社場員數依合作社(單位/聯合)分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c886fb99-921a-4b24-881e-63dbc4758579&uid=57651&cuid=987"
+     },
+     {
+      "name": "股金總額依合作社(單位/聯合)分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c886fb99-921a-4b24-881e-63dbc4758579&uid=57652&cuid=988"
+     }
+    ]
+   },
+   {
+    "name": "推行社區發展工作成果",
+    "children": [
+     {
+      "name": "社區發展協會數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1929&cuid=1003"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1930&cuid=1004"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1931&cuid=1005"
+     },
+     {
+      "name": "理監事人數依性別、理監事分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1932&cuid=1006"
+     },
+     {
+      "name": "社區發展協會會員數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1933&cuid=1007"
+     },
+     {
+      "name": "設置社區生產建設基金",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1934&cuid=1008"
+     },
+     {
+      "name": "實際使用經費依經費別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1935&cuid=1009"
+     },
+     {
+      "name": "社區活動中心依社區活動中心分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1915&cuid=989"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區幹部訓練",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1916&cuid=990"
+     },
+     {
+      "name": "社區發展工作項目-教育訓練-辦理社區觀摩",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1917&cuid=991"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區長壽俱樂部",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1918&cuid=992"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區成長(媽媽)教室",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1919&cuid=993"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區守望相助隊",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1920&cuid=994"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區民俗藝文康樂班隊",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1921&cuid=995"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-團隊",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1922&cuid=996"
+     },
+     {
+      "name": "社區發展工作項目-社區內部組織-社區志願服務-志工數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1923&cuid=997"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區照顧關懷據點",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1924&cuid=998"
+     },
+     {
+      "name": "社區發展工作項目-社區圖書室",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1925&cuid=999"
+     },
+     {
+      "name": "社區發展工作項目-社區刊物",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1926&cuid=1000"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-福利服務或活動",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1927&cuid=1001"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-其他服務",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97472c2c-8e2b-484d-ae2f-3f9e6fdc093c&uid=1928&cuid=1002"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙福利服務概況",
+    "children": [
+     {
+      "name": "身心障礙福利服務機構數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57671&cuid=1125"
+     },
+     {
+      "name": "生活補助-金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57674&cuid=1128"
+     },
+     {
+      "name": "輔助器具補助-人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57677&cuid=1131"
+     },
+     {
+      "name": "輔助器具補助-金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57678&cuid=1132"
+     },
+     {
+      "name": "日間照顧及住宿式照顧補助-人數(年底)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57676&cuid=1130"
+     },
+     {
+      "name": "日間照顧及住宿式照顧補助-金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0ccf573a-118e-4519-9090-0811cb77d4cf&uid=57675&cuid=1129"
+     }
+    ]
+   },
+   {
+    "name": "低收入戶人數",
+    "children": [
+     {
+      "name": "低收入戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66acde1a-65d4-4b5c-bc09-a65acc966ed5&uid=13910&cuid=1133"
+     },
+     {
+      "name": "低收入戶數人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66acde1a-65d4-4b5c-bc09-a65acc966ed5&uid=13911&cuid=1134"
+     }
+    ]
+   },
+   {
+    "name": "中低收入老人生活津貼與老農津貼",
+    "children": [
+     {
+      "name": "中低收入老人生活津貼-核付人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d89fcfb6-357c-4d92-aa94-cbf51d22a4be&uid=57694&cuid=1171"
+     },
+     {
+      "name": "中低收入老人生活津貼-核付金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d89fcfb6-357c-4d92-aa94-cbf51d22a4be&uid=57695&cuid=1172"
+     },
+     {
+      "name": "老農津貼-核付人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d89fcfb6-357c-4d92-aa94-cbf51d22a4be&uid=57696&cuid=1173"
+     },
+     {
+      "name": "老農津貼-核付金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d89fcfb6-357c-4d92-aa94-cbf51d22a4be&uid=57697&cuid=1174"
+     },
+     {
+      "name": "中低收入老人生活津貼與老農津貼受益人數占65歲以上人口比例(％)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d89fcfb6-357c-4d92-aa94-cbf51d22a4be&uid=13659&cuid=1170"
+     }
+    ]
+   },
+   {
+    "name": "辦理社會救助醫療補助概況",
+    "children": [
+     {
+      "name": "住院人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57739&cuid=1227"
+     },
+     {
+      "name": "住院人次-低收入戶",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57893&cuid=1346"
+     },
+     {
+      "name": "住院總日數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57741&cuid=1229"
+     },
+     {
+      "name": "住院總日數-低收入戶",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57894&cuid=1347"
+     },
+     {
+      "name": "門診人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57743&cuid=1231"
+     },
+     {
+      "name": "住院醫療補助",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57896&cuid=1349"
+     },
+     {
+      "name": "住院醫療補助-低收入戶",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57895&cuid=1348"
+     },
+     {
+      "name": "門診醫療補助",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0812dfab-ddc3-4a3d-a02c-e8b38eed0cc3&uid=57746&cuid=1234"
+     }
+    ]
+   },
+   {
+    "name": "辦理急難救助概況",
+    "children": [
+     {
+      "name": "救助人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57747&cuid=1469"
+     },
+     {
+      "name": "救助金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57754&cuid=1470"
+     },
+     {
+      "name": "救助人次-負家庭主要生計責任且無法工作致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57898&cuid=1351"
+     },
+     {
+      "name": "救助人次-財產或存款未能及時運用致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57899&cuid=1352"
+     },
+     {
+      "name": "救助人次-川資突然發生困難者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57900&cuid=1353"
+     },
+     {
+      "name": "救助人次-遭受意外傷害或罹患重病致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57901&cuid=1354"
+     },
+     {
+      "name": "救助人次-死亡無力殮葬者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57902&cuid=1355"
+     },
+     {
+      "name": "救助人次-其他遭遇重大變故者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57903&cuid=1356"
+     },
+     {
+      "name": "救助金額-遭受意外傷害或罹患重病致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57904&cuid=1357"
+     },
+     {
+      "name": "救助金額-財產或存款未能及時運用致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57905&cuid=1358"
+     },
+     {
+      "name": "救助金額-負家庭主要生責任且無法工作致生活陷於困境者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57906&cuid=1359"
+     },
+     {
+      "name": "救助金額-無遺囑與遺產葬埋者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57907&cuid=1360"
+     },
+     {
+      "name": "救助金額-死亡無力殮葬者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57908&cuid=1361"
+     },
+     {
+      "name": "救助金額-其他遭遇重大變故者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57911&cuid=1362"
+     },
+     {
+      "name": "救助金額-川資突然發生困難者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=57912&cuid=1363"
+     },
+     {
+      "name": "救助人次-無遺囑與遺產葬埋者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71903ea-c18d-45bf-82d0-7343e2a0a3e3&uid=58032&cuid=1472"
+     }
+    ]
+   },
+   {
+    "name": "遭受災害救助情形",
+    "children": [
+     {
+      "name": "遭受災害救助情形-災害次數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=13660&cuid=1249"
+     },
+     {
+      "name": "遭受災害救助情形-受災人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57913&cuid=1364"
+     },
+     {
+      "name": "受災人數(死亡)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57917&cuid=1368"
+     },
+     {
+      "name": "受災人數(失蹤)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57916&cuid=1367"
+     },
+     {
+      "name": "受災人數(重傷)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57915&cuid=1366"
+     },
+     {
+      "name": "受災人數(其他)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57914&cuid=1365"
+     },
+     {
+      "name": "安遷救助-戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57765&cuid=1254"
+     },
+     {
+      "name": "安遷救助-人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57766&cuid=1255"
+     },
+     {
+      "name": "財物受損影響生計者(戶)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57767&cuid=1256"
+     },
+     {
+      "name": "救助金額(新臺幣千元)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd7b2003-2ad0-4aad-867d-8800bc5c7d7b&uid=57768&cuid=1257"
+     }
+    ]
+   },
+   {
+    "name": "遊民人數及處理情形",
+    "children": [
+     {
+      "name": "受理報案或查報遊民處理人數 (人、件)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57775&cuid=1264"
+     },
+     {
+      "name": "處理遊民情形(人次)-協助返家",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57918&cuid=1369"
+     },
+     {
+      "name": "處理遊民情形(人次)-關懷服務",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57919&cuid=1370"
+     },
+     {
+      "name": "處理遊民情形(人次)-年節活動",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57920&cuid=1371"
+     },
+     {
+      "name": "處理遊民情形(人次)-轉介福利服務",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57921&cuid=1372"
+     },
+     {
+      "name": "處理遊民情形(人次)-結合資源輔導租屋",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57922&cuid=1373"
+     },
+     {
+      "name": "處理遊民情形(人次)-轉介就業服務或職業訓練",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57923&cuid=1374"
+     },
+     {
+      "name": "收容情形-其他有關機關",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57781&cuid=1270"
+     },
+     {
+      "name": "收容情形-精神療養院",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57927&cuid=1376"
+     },
+     {
+      "name": "收容情形-老人安養機構",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57930&cuid=1377"
+     },
+     {
+      "name": "收容情形-老人養護機構",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57931&cuid=1378"
+     },
+     {
+      "name": "收容情形-身心障礙福利機構",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57932&cuid=1379"
+     },
+     {
+      "name": "收容情形-遊民收容所",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57933&cuid=1380"
+     },
+     {
+      "name": "收容情形-其他有關機關",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57934&cuid=1381"
+     },
+     {
+      "name": "因故死亡",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57782&cuid=1271"
+     },
+     {
+      "name": "處理遊民情形-其他",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=56351b65-6d9d-454a-a684-f81dc0b34437&uid=57924&cuid=1375"
+     }
+    ]
+   },
+   {
+    "name": "老人福利服務概況",
+    "children": [
+     {
+      "name": "長期照護(型)機構數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57935&cuid=1382"
+     },
+     {
+      "name": "長期照護(型)機構實際進住人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57937&cuid=1384"
+     },
+     {
+      "name": "養護(型)機構",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57936&cuid=1383"
+     },
+     {
+      "name": "養護(型)機構實際進住人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57938&cuid=1385"
+     },
+     {
+      "name": "老人公寓機構數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57946&cuid=1393"
+     },
+     {
+      "name": "老人公寓實際進住人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57939&cuid=1386"
+     },
+     {
+      "name": "長青學苑辦理成果-班數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57942&cuid=1389"
+     },
+     {
+      "name": "長青學苑辦理成果-開班參加人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57943&cuid=1390"
+     },
+     {
+      "name": "居家服務人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57940&cuid=1387"
+     },
+     {
+      "name": "居家服務人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57941&cuid=1388"
+     },
+     {
+      "name": "老人營養餐飲服務-人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57944&cuid=1391"
+     },
+     {
+      "name": "老人營養餐飲服務-人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b06898d-d07e-4777-8b57-4f65586cc7ef&uid=57945&cuid=1392"
+     }
+    ]
+   },
+   {
+    "name": "兒童及少年福利服務概況",
+    "children": [
+     {
+      "name": "安置及教養機構數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57790&cuid=1285"
+     },
+     {
+      "name": "安置及教養機構現有收容人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57791&cuid=1286"
+     },
+     {
+      "name": "其他福利服務機構數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57792&cuid=1287"
+     },
+     {
+      "name": "其他福利服務機構服務人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57793&cuid=1288"
+     },
+     {
+      "name": "寄養家庭戶數(戶)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57794&cuid=1289"
+     },
+     {
+      "name": "寄養兒童及少年人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57795&cuid=1290"
+     },
+     {
+      "name": "生活扶助金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57799&cuid=1294"
+     },
+     {
+      "name": "弱勢兒童及少年-醫療補助人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57948&cuid=1395"
+     },
+     {
+      "name": "弱勢兒童及少年-醫療補助金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57950&cuid=1397"
+     },
+     {
+      "name": "弱勢兒童及少年-托育補助(津貼)人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57949&cuid=1396"
+     },
+     {
+      "name": "弱勢兒童及少年-托育補助(津貼)金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57951&cuid=1398"
+     },
+     {
+      "name": "辦理育樂活動參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1ce8350-0b25-4ff2-87ad-cae6b9e015a8&uid=57802&cuid=1297"
+     }
+    ]
+   },
+   {
+    "name": "托育機構概況",
+    "children": [
+     {
+      "name": "私立托嬰中心所數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57803&cuid=1298"
+     },
+     {
+      "name": "私立托嬰中心-收托人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57804&cuid=1299"
+     },
+     {
+      "name": "私立托嬰中心-專業人員數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57805&cuid=1300"
+     },
+     {
+      "name": "私立托嬰中心-保母、教保(含助理)員數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57806&cuid=1301"
+     },
+     {
+      "name": "課後照顧服務中心-收托人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57807&cuid=1302"
+     },
+     {
+      "name": "課後照顧服務中心所數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57808&cuid=1303"
+     },
+     {
+      "name": "課後照顧服務中心-專業人員數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=908d23d1-d97c-4e26-90f9-187ea669b4ab&uid=57809&cuid=1304"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙人口數(107年前)",
+    "children": [
+     {
+      "name": "身心障礙人數總計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=58044&cuid=1501"
+     },
+     {
+      "name": "殘障人口占全市總人口比率(%)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57864&cuid=1473"
+     },
+     {
+      "name": "領有舊制身心障礙手冊者總計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57865&cuid=1474"
+     },
+     {
+      "name": "視覺障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57866&cuid=1475"
+     },
+     {
+      "name": "聽覺機能障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57867&cuid=1476"
+     },
+     {
+      "name": "平衡機能障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57868&cuid=1477"
+     },
+     {
+      "name": "聲音機能或語言機能障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57869&cuid=1478"
+     },
+     {
+      "name": "肢體障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57870&cuid=1479"
+     },
+     {
+      "name": "智能障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57871&cuid=1480"
+     },
+     {
+      "name": "重要器官失去功能者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57872&cuid=1481"
+     },
+     {
+      "name": "顏面損傷者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57873&cuid=1482"
+     },
+     {
+      "name": "植物人",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57874&cuid=1483"
+     },
+     {
+      "name": "失智症者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57875&cuid=1484"
+     },
+     {
+      "name": "自閉症者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57876&cuid=1485"
+     },
+     {
+      "name": "慢性精神病患者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57877&cuid=1486"
+     },
+     {
+      "name": "多重障礙者",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57878&cuid=1487"
+     },
+     {
+      "name": "其他",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=57879&cuid=1488"
+     },
+     {
+      "name": "頑性(難治型)癲癇症者依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=58045&cuid=1502"
+     },
+     {
+      "name": "因罕見疾病而致身心功能障礙者依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2b7f78da-1521-4ee5-9040-2187b41d784c&uid=58046&cuid=1503"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙人口數(108年~)",
+    "children": [
+     {
+      "name": "身心障礙人數總計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58044&cuid=1504"
+     },
+     {
+      "name": "殘障人口占全市總人口比率(%)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=57864&cuid=1489"
+     },
+     {
+      "name": "領有新制身心障礙手冊者總計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58043&cuid=1500"
+     },
+     {
+      "name": "神經系統構造 及精神、心智功能",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58033&cuid=1490"
+     },
+     {
+      "name": "眼、耳及相關構造 與感官功能及疼痛依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58034&cuid=1491"
+     },
+     {
+      "name": "涉及聲音與言語構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58035&cuid=1492"
+     },
+     {
+      "name": "循環、造血、免疫與呼吸系統構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58036&cuid=1493"
+     },
+     {
+      "name": "消化、新陳代謝與內分泌系統相關構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58037&cuid=1494"
+     },
+     {
+      "name": "泌尿與生殖系統相關構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58038&cuid=1495"
+     },
+     {
+      "name": "神經、肌肉、骨骼之移動相關構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58039&cuid=1496"
+     },
+     {
+      "name": "皮膚與相關構造及其功能依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58040&cuid=1497"
+     },
+     {
+      "name": "跨兩類別以上者依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58041&cuid=1498"
+     },
+     {
+      "name": "舊制轉換新制暫無法歸類者依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b43317e4-1350-442d-8ccb-2c6882d08a6c&uid=58042&cuid=1499"
+     }
+    ]
+   },
+   {
+    "name": "婦女福利服務概況",
+    "children": [
+     {
+      "name": "婦女中途之家、庇護中心機構數(年底)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57952&cuid=1409"
+     },
+     {
+      "name": "婦女中途之家、庇護中心收容個案數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57953&cuid=1410"
+     },
+     {
+      "name": "新住民家庭服務中心機構數(年底)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57954&cuid=1411"
+     },
+     {
+      "name": "婦女團體組織能力培訓辦理次數(次)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57955&cuid=1412"
+     },
+     {
+      "name": "婦女團體組織能力培訓參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57956&cuid=1413"
+     },
+     {
+      "name": "婦女團體領導人培訓辦理次數(次)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57957&cuid=1414"
+     },
+     {
+      "name": "婦女團體領導人培訓參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57958&cuid=1415"
+     },
+     {
+      "name": "婦女福利與婦女權益活動辦理次數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57959&cuid=1416"
+     },
+     {
+      "name": "婦女福利與婦女權益活動參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57960&cuid=1417"
+     },
+     {
+      "name": "性別師資培訓課程辦理次數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57961&cuid=1418"
+     },
+     {
+      "name": "性別師資培訓課程參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57962&cuid=1419"
+     },
+     {
+      "name": "婦女相關議題之溝通平台或公共論壇辦理次數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57963&cuid=1420"
+     },
+     {
+      "name": "婦女相關議題之溝通平台或公共論壇參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57964&cuid=1421"
+     },
+     {
+      "name": "性別意識培力活動辦理次數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57965&cuid=1422"
+     },
+     {
+      "name": "性別意識培力活動參加人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57966&cuid=1423"
+     },
+     {
+      "name": "外籍配偶家庭福利服務-電話訪問(人次)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57967&cuid=1424"
+     },
+     {
+      "name": "外籍配偶家庭福利服務-家庭訪視(人次)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57968&cuid=1425"
+     },
+     {
+      "name": "外籍配偶家庭福利服務-個案管理輔導服務人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5d6117f-8d25-4fb6-92b4-1a900fc22c50&uid=57969&cuid=1426"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "勞工行政",
+  "children": [
+   {
+    "name": "勞資爭議案件",
+    "children": [
+     {
+      "name": "勞資爭議案件-爭議人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd772742-9df2-4825-8bc9-c0a2c9219301&uid=13534&cuid=1042"
+     },
+     {
+      "name": "勞資爭議案件-爭議件數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd772742-9df2-4825-8bc9-c0a2c9219301&uid=13533&cuid=1041"
+     },
+     {
+      "name": "勞資爭議案件-主要爭議類別依勞資爭議類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd772742-9df2-4825-8bc9-c0a2c9219301&uid=13535&cuid=1043"
+     },
+     {
+      "name": "處理方式-截至當年底未解決件數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd772742-9df2-4825-8bc9-c0a2c9219301&uid=13540&cuid=1044"
+     }
+    ]
+   },
+   {
+    "name": "勞工團體概況",
+    "children": [
+     {
+      "name": "勞工團體概況-工會數依工會類型分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=932248b0-1583-4e51-af57-a831f4cf8e42&uid=13543&cuid=1047"
+     },
+     {
+      "name": "勞工團體概況-團體會員數依工會類型分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=932248b0-1583-4e51-af57-a831f4cf8e42&uid=13542&cuid=1046"
+     },
+     {
+      "name": "勞工團體概況-會員人數依工會類型分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=932248b0-1583-4e51-af57-a831f4cf8e42&uid=13541&cuid=1045"
+     }
+    ]
+   },
+   {
+    "name": "勞工服務中心服務概況",
+    "children": [
+     {
+      "name": "勞工服務中心服務概況-按服務性質分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3ccba23-441f-4ff0-8f5d-32d5afc5576b&uid=57653&cuid=1048"
+     },
+     {
+      "name": "勞工服務中心服務概況-按服務類別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3ccba23-441f-4ff0-8f5d-32d5afc5576b&uid=57654&cuid=1049"
+     }
+    ]
+   },
+   {
+    "name": "勞工教育及志願服務概況",
+    "children": [
+     {
+      "name": "提撥勞工教育經費",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=57925&cuid=1342"
+     },
+     {
+      "name": "辦理勞工教育-班數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=646&cuid=1052"
+     },
+     {
+      "name": "勞工志願服務-志工隊數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=649&cuid=1053"
+     },
+     {
+      "name": "志願服務性團體-人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=57926&cuid=1343"
+     },
+     {
+      "name": "志願服務性團體-服務總時數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=57928&cuid=1344"
+     },
+     {
+      "name": "勞工志願服務-服務總人次",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=651&cuid=1054"
+     },
+     {
+      "name": "志願服務性團體-訓練總時數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27b2376b-86fa-42f5-8877-02aadd58af4b&uid=57929&cuid=1345"
+     }
+    ]
+   },
+   {
+    "name": "職工福利概況",
+    "children": [
+     {
+      "name": "已設立單位數(年底)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ed293f6d-685e-4a1e-b876-9fc7218fbbf5&uid=57656&cuid=1094"
+     },
+     {
+      "name": "新設立單位數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ed293f6d-685e-4a1e-b876-9fc7218fbbf5&uid=57657&cuid=1095"
+     },
+     {
+      "name": "職工福利金提撥金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ed293f6d-685e-4a1e-b876-9fc7218fbbf5&uid=57658&cuid=1096"
+     },
+     {
+      "name": "職工福利金受益人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ed293f6d-685e-4a1e-b876-9fc7218fbbf5&uid=57659&cuid=1097"
+     }
+    ]
+   },
+   {
+    "name": "勞工保險各類投保單位數及人數",
+    "children": [
+     {
+      "name": "勞工保險各類投保單位數依勞保投保單位別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba5be7c-cb03-4b05-acd5-803301b569bd&uid=13548&cuid=1086"
+     },
+     {
+      "name": "勞工保險各類投保人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba5be7c-cb03-4b05-acd5-803301b569bd&uid=13550&cuid=1087"
+     },
+     {
+      "name": "勞工保險各類投保人數依勞保投保單位別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba5be7c-cb03-4b05-acd5-803301b569bd&uid=13554&cuid=1088"
+     }
+    ]
+   },
+   {
+    "name": "移工概況",
+    "children": [
+     {
+      "name": "移工概況-人數依移工別、國籍別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b36f8bbb-a8bf-4aff-b848-71c81307327b&uid=13546&cuid=1098"
+     }
+    ]
+   },
+   {
+    "name": "人力資源調查重要結果指標",
+    "children": [
+     {
+      "name": "總人口",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13570&cuid=1100"
+     },
+     {
+      "name": "人力資源調查-人力資源調查-十五歲以上民間人口依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13572&cuid=1101"
+     },
+     {
+      "name": "人力資源調查-勞動力依性別、就業/失業分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13576&cuid=1102"
+     },
+     {
+      "name": "人力資源調查-非勞動力依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13577&cuid=1103"
+     },
+     {
+      "name": "人力資源調查-勞動力參與率依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13578&cuid=1104"
+     },
+     {
+      "name": "人力資源調查-失業率依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a13dfff-a961-45f5-96c4-d65e330426bd&uid=13579&cuid=1105"
+     }
+    ]
+   },
+   {
+    "name": "勞動力之年齡分配",
+    "children": [
+     {
+      "name": "勞動力之年齡分配",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c0adc6b-e0ed-4037-a4e3-e62bd5e2c1e6&uid=57661&cuid=1099"
+     }
+    ]
+   },
+   {
+    "name": "就業者",
+    "children": [
+     {
+      "name": "就業者依年齡別(15~65歲以上)分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96715e32-f4f1-4ec6-8365-77c75beda4a1&uid=13585&cuid=1115"
+     },
+     {
+      "name": "就業者依教育程度分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96715e32-f4f1-4ec6-8365-77c75beda4a1&uid=13584&cuid=1117"
+     },
+     {
+      "name": "就業者依職業別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96715e32-f4f1-4ec6-8365-77c75beda4a1&uid=13583&cuid=1118"
+     },
+     {
+      "name": "就業者依行業別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96715e32-f4f1-4ec6-8365-77c75beda4a1&uid=13582&cuid=1120"
+     }
+    ]
+   },
+   {
+    "name": "失業者",
+    "children": [
+     {
+      "name": "失業者依教育程度分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0528cd0d-3cdf-4599-ba70-faba820793f0&uid=13586&cuid=1121"
+     },
+     {
+      "name": "失業者依年齡別(15~65歲以上)分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0528cd0d-3cdf-4599-ba70-faba820793f0&uid=13587&cuid=1122"
+     }
+    ]
+   },
+   {
+    "name": "經指定填報職業災害統計之事業單位概況",
+    "children": [
+     {
+      "name": "陳報事業單位數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13588&cuid=1135"
+     },
+     {
+      "name": "僱用勞工數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13589&cuid=1136"
+     },
+     {
+      "name": "總工作日數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13590&cuid=1137"
+     },
+     {
+      "name": "總經歷工時",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13591&cuid=1138"
+     },
+     {
+      "name": "適用勞工安全衛生法事業單位職業災害概況-失能傷害次數依失能傷害分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13592&cuid=1139"
+     },
+     {
+      "name": "總損失工作日數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13593&cuid=1140"
+     },
+     {
+      "name": "失能傷害頻率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13602&cuid=1141"
+     },
+     {
+      "name": "失能傷害嚴重率",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e39a9d9-03e1-4f15-9f06-e7f8ab101d6c&uid=13603&cuid=1142"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "社會治安",
+  "children": [
+   {
+    "name": "刑事案件",
+    "children": [
+     {
+      "name": "發生數依刑事案件別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86e4fc77-edc5-41e4-9aea-1bc832b8aafb&uid=13196&cuid=838"
+     },
+     {
+      "name": "破獲數依刑事案件別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86e4fc77-edc5-41e4-9aea-1bc832b8aafb&uid=13197&cuid=839"
+     },
+     {
+      "name": "嫌疑人犯數依刑事案件別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86e4fc77-edc5-41e4-9aea-1bc832b8aafb&uid=13198&cuid=840"
+     }
+    ]
+   },
+   {
+    "name": "違反社會秩序維護法案件",
+    "children": [
+     {
+      "name": "件數-妨害安寧秩序",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58004&cuid=1443"
+     },
+     {
+      "name": "人數-妨害安寧秩序",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58005&cuid=1444"
+     },
+     {
+      "name": "件數-妨害善良風俗",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58006&cuid=1445"
+     },
+     {
+      "name": "人數-妨害善良風俗",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58007&cuid=1446"
+     },
+     {
+      "name": "件數-妨害他人身體財產",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58008&cuid=1447"
+     },
+     {
+      "name": "人數-妨害他人身體財產",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58009&cuid=1448"
+     },
+     {
+      "name": "件數-妨礙公務",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58010&cuid=1449"
+     },
+     {
+      "name": "人數-妨礙公務",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7c02807-31f8-4a69-a501-74348223612d&uid=58011&cuid=1450"
+     }
+    ]
+   },
+   {
+    "name": "道路交通事故原因及損傷",
+    "children": [
+     {
+      "name": "肇事原因-合計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58030&cuid=1459"
+     },
+     {
+      "name": "肇事原因-汽(機、慢)車駕駛人過失",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58016&cuid=1452"
+     },
+     {
+      "name": "肇事原因-機件故障",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58017&cuid=1453"
+     },
+     {
+      "name": "肇事原因-行人(或乘客)過失",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58018&cuid=1454"
+     },
+     {
+      "name": "肇事原因-交通管制(設施)缺陷",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58019&cuid=1455"
+     },
+     {
+      "name": "肇事原因-其他",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58020&cuid=1456"
+     },
+     {
+      "name": "道路交通事故-死傷人數合計",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58031&cuid=1460"
+     },
+     {
+      "name": "道路交通事故-死亡",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58021&cuid=1457"
+     },
+     {
+      "name": "道路交通事故-受傷",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d420d9a-3030-4e3d-a3d1-1b89b572ee14&uid=58022&cuid=1458"
+     }
+    ]
+   },
+   {
+    "name": "消防人力及裝備",
+    "children": [
+     {
+      "name": "義消人數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58023&cuid=1462"
+     },
+     {
+      "name": "消防人力",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58024&cuid=1463"
+     },
+     {
+      "name": "消防車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58025&cuid=1464"
+     },
+     {
+      "name": "救災車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58026&cuid=1465"
+     },
+     {
+      "name": "消防勤務車-汽車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58027&cuid=1466"
+     },
+     {
+      "name": "救護車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58028&cuid=1467"
+     },
+     {
+      "name": "消防勤務車-機車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ede4705f-073d-4a58-9893-b51326bf337e&uid=58029&cuid=1468"
+     }
+    ]
+   },
+   {
+    "name": "火災起火原因及損失情形",
+    "children": [
+     {
+      "name": "火災次數按起火處所分依起火原因別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=36030&cuid=923"
+     },
+     {
+      "name": "(火災)死亡人數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=36022&cuid=909"
+     },
+     {
+      "name": "(火災)受傷人數依性別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=36025&cuid=910"
+     },
+     {
+      "name": "被毀損房屋數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=46704&cuid=911"
+     },
+     {
+      "name": "被毀損車輛數依被毀損車輛別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=1342&cuid=905"
+     },
+     {
+      "name": "財物損失情形依財物損失別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=1343&cuid=906"
+     },
+     {
+      "name": "被災戶保險情形-保險戶數",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=1344&cuid=907"
+     },
+     {
+      "name": "被災戶保險情形-保險金額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c20008f-328a-4d8a-9ed9-f6d591e7c7f5&uid=1345&cuid=908"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "家庭收支",
+  "children": [
+   {
+    "name": "平均每戶家庭收支",
+    "children": [
+     {
+      "name": "所得收入依所得收入別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13594&cuid=1035"
+     },
+     {
+      "name": "消費支出依消費支出別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13595&cuid=1036"
+     },
+     {
+      "name": "非消費支出依非消費支出別分",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13596&cuid=1037"
+     },
+     {
+      "name": "可支配所得",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13597&cuid=1038"
+     },
+     {
+      "name": "儲蓄",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13598&cuid=1039"
+     },
+     {
+      "name": "所得總額",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78d429cd-4672-4a0a-b1d3-1a8a2a702b03&uid=13599&cuid=1040"
+     }
+    ]
+   },
+   {
+    "name": "家庭主要設備普及率",
+    "children": [
+     {
+      "name": "一般彩色電視機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13203&cuid=1057"
+     },
+     {
+      "name": "液晶、電漿電視",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13204&cuid=1058"
+     },
+     {
+      "name": "數位影音光碟機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13205&cuid=1059"
+     },
+     {
+      "name": "攝影機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13206&cuid=1060"
+     },
+     {
+      "name": "音響",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13207&cuid=1061"
+     },
+     {
+      "name": "鋼琴(含電子琴)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13208&cuid=1062"
+     },
+     {
+      "name": "數位相機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13209&cuid=1063"
+     },
+     {
+      "name": "電視遊樂器",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13211&cuid=1064"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13212&cuid=1065"
+     },
+     {
+      "name": "家用電腦",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13213&cuid=1066"
+     },
+     {
+      "name": "電話機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13214&cuid=1067"
+     },
+     {
+      "name": "行動電話",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13215&cuid=1068"
+     },
+     {
+      "name": "連網(使用電腦或其他設備)",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13216&cuid=1069"
+     },
+     {
+      "name": "汽車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13217&cuid=1070"
+     },
+     {
+      "name": "機車",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13218&cuid=1071"
+     },
+     {
+      "name": "電磁爐",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13219&cuid=1072"
+     },
+     {
+      "name": "冷暖氣機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13220&cuid=1073"
+     },
+     {
+      "name": "除濕機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13221&cuid=1074"
+     },
+     {
+      "name": "洗衣機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13222&cuid=1075"
+     },
+     {
+      "name": "烘衣機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13223&cuid=1076"
+     },
+     {
+      "name": "空氣清淨機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13224&cuid=1077"
+     },
+     {
+      "name": "濾水器",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13225&cuid=1078"
+     },
+     {
+      "name": "吸塵器",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13226&cuid=1079"
+     },
+     {
+      "name": "熱水器",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13227&cuid=1080"
+     },
+     {
+      "name": "開飲機",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13228&cuid=1081"
+     },
+     {
+      "name": "微波爐",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13229&cuid=1082"
+     },
+     {
+      "name": "報紙",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13230&cuid=1083"
+     },
+     {
+      "name": "期刊雜誌",
+      "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af578d3a-6f55-4d73-b541-c4b976252a7e&uid=13231&cuid=1084"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "其他",
+  "children": [
+   {
+    "name": "主要觀光遊憩區遊客人數",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb8a8975-8fef-425d-bc31-308fdaa21de3&uid=57820&cuid=1306"
+   },
+   {
+    "name": "郵政機構概況依郵政機構別分",
+    "url": "https://chiayi.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb8a8975-8fef-425d-bc31-308fdaa21de3&uid=13237&cuid=1085"
+   }
+  ]
+ }
+]

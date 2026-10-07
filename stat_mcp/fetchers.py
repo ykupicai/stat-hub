@@ -45,6 +45,10 @@ def _year_match(label, years):
 
 # ---------------------------------------------------------------- 01a / 06a 主計處資料庫查詢平台
 DGBAS_HOSTS = {"cyhg.dgbas.gov.tw": "嘉義縣", "tainan.dgbas.gov.tw": "臺南市", "pthg.dgbas.gov.tw": "屏東縣"}
+_COUNTY_CONF = ROOT / "資料庫" / "索引" / "縣市平台.json"
+if _COUNTY_CONF.exists():  # 11 各縣市主計處平台（同一套系統）
+    for _c, _v in json.loads(_COUNTY_CONF.read_text(encoding="utf-8"))["縣市"].items():
+        DGBAS_HOSTS[urlparse(_v["base"]).netloc.lower()] = _c
 
 
 def dgbas_query(varval_url, years=None, areas=None):
@@ -58,7 +62,8 @@ def dgbas_query(varval_url, years=None, areas=None):
     d = LH.fromstring(s.get(varval_url, timeout=60).text)
     h = {i.get("name"): (i.get("value") or "") for i in d.xpath('//input[@type="hidden"]') if i.get("name")}
     dopts = [(o.get("value"), o.text_content().strip()) for o in d.xpath('//select[@id="LBDate"]/option')]
-    alist = [(a.get("target"), (a.get("aria-label") or "").strip("'")) for a in d.xpath('//div[@id="TMenu"]//a[@target]')]
+    alist = [(a.get("target"), ((a.get("aria-label") or a.get("title") or a.text_content().strip() or a.tail or "").strip().strip("'")))  # 臺中無 aria-label，名稱在 </a> 後的文字
+             for a in d.xpath('//div[@id="TMenu"]//a[@target]')]
     years_avail = [lbl for _, lbl in dopts]
     areas_avail = [n for _, n in alist]
     dates = [v for v, lbl in dopts if not years or _year_match(lbl, years)]
@@ -220,17 +225,21 @@ def climate_stats(station_id, start_year, end_year, refresh=False):
 # ---------------------------------------------------------------- 01b 嘉義縣公務統計報表清冊
 STAT08 = {"嘉義縣": "https://cyhg.dgbas.gov.tw/statweb/Page/stat08.aspx",
           "屏東縣": "https://pthg.dgbas.gov.tw/statweb/Page/stat08.aspx"}
+if _COUNTY_CONF.exists():
+    for _c, _v in json.loads(_COUNTY_CONF.read_text(encoding="utf-8"))["縣市"].items():
+        if _v.get("stat08"):
+            STAT08[_c] = _v["stat08"]
 
 
 _OFFICES = {}
 
 
 def _retry(fn, tries=5):
-    """屏東站對連續請求會重設連線（WinError 10054），退避重試。"""
+    """縣市站對連續請求會重設連線（WinError 10054），退避重試。"""
     for k in range(tries):
         try:
             return fn()
-        except requests.ConnectionError:
+        except requests.RequestException:  # 含 ConnectionError、ChunkedEncodingError（回傳途中被斷）、Timeout
             if k == tries - 1:
                 raise
             time.sleep(5 * (k + 1))

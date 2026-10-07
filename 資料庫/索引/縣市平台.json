@@ -1,0 +1,141 @@
+{
+ "_說明": "各縣市主計處資料庫查詢平台（與嘉義01／臺南06／屏東10 同一套系統）。來源清單：地方統計行政資訊網 winsta.dgbas.gov.tw › 地方政府統計資料查詢平臺（2026-10-07）。crawl_counties.py 依此抓目錄樹；fetchers 依此認得主機與 stat08。",
+ "縣市": {
+  "臺中市": {
+   "base": "https://govstat.taichung.gov.tw/DgbasWeb/",
+   "catenos": {},
+   "stat08": null,
+   "mode": "org",
+   "說明": "依機關別／區公所分，各機關分類 cateno 為三位數，統計表樹在 div#RTMenu；另有官方「統計報表資料庫API」/SDBTools/StatDBAPIQuery（未接）"
+  },
+  "新竹縣": {
+   "base": "https://hsinchu.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "統計年報"
+   },
+   "stat08": "https://hsinchu.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "苗栗縣": {
+   "base": "https://miaoli.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "04": "統計年報"
+   },
+   "stat08": "https://miaoli.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "彰化縣": {
+   "base": "https://chcg.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "17": "壹、土地",
+    "18": "貳、人口",
+    "19": "參、行政組織",
+    "20": "肆、農林漁牧",
+    "21": "伍、工商業概況",
+    "22": "陸、金融財稅",
+    "23": "柒、交通運輸",
+    "24": "捌、教育文化",
+    "25": "玖、衛生",
+    "26": "拾、環境保護",
+    "27": "拾壹、社會福利",
+    "28": "拾貳、勞工行政",
+    "29": "拾參、社會治安",
+    "30": "拾肆、家庭收支",
+    "31": "拾伍、其他"
+   },
+   "stat08": "https://chcg.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "南投縣": {
+   "base": "https://nantou.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "20": "所屬機關統計",
+    "50": "統計年報"
+   },
+   "stat08": "https://nantou.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "雲林縣": {
+   "base": "https://yunlin.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "壹、土地",
+    "02": "貳、人口",
+    "03": "拾參、社會治安",
+    "04": "拾壹、社會福利",
+    "06": "拾貳、勞工行政",
+    "07": "肆、農林漁牧",
+    "08": "柒、交通運輸",
+    "09": "玖、衛生",
+    "10": "拾肆、家庭收支",
+    "11": "陸、金融財稅",
+    "12": "捌、教育文化",
+    "13": "參、行政組織",
+    "14": "伍、工商業及縣建設",
+    "15": "拾、環境保護",
+    "16": "拾伍、其他"
+   },
+   "stat08": "https://yunlin.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "花蓮縣": {
+   "base": "https://hl.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "壹、土地",
+    "02": "貳、人口",
+    "03": "參、行政組織",
+    "04": "肆、農林漁牧",
+    "05": "伍、工商業及公共建設",
+    "06": "陸、金融財稅",
+    "07": "柒、交通運輸",
+    "08": "捌、教育文化",
+    "09": "玖、衛生",
+    "10": "拾、環境保護",
+    "11": "拾壹、社會福利",
+    "12": "拾貳、勞工行政",
+    "13": "拾參、社會治安",
+    "14": "拾肆、家庭收支",
+    "15": "拾伍、其他",
+    "16": "原住民統計",
+    "17": "行政區資料",
+    "18": "新住民統計"
+   },
+   "stat08": "https://hl.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "澎湖縣": {
+   "base": "https://penghu.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "統計年報"
+   },
+   "stat08": "https://penghu.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "金門縣": {
+   "base": "https://kinmen.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "統計年報",
+    "03": "金門縣人力資源報告重要指標"
+   },
+   "stat08": "https://kinmen.dgbas.gov.tw/statweb/Page/stat08.aspx"
+  },
+  "基隆市": {
+   "base": "https://klcg.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "統計年報"
+   },
+   "stat08": "https://klcg.dgbas.gov.tw/statweb/Page/stat08.aspx",
+   "說明": "不在地方統計行政資訊網清單，探查同系統主機發現（2026-10-07）"
+  },
+  "嘉義市": {
+   "base": "https://chiayi.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {
+    "01": "統計年報查詢"
+   },
+   "stat08": "https://chiayi.dgbas.gov.tw/statweb/Page/stat08.aspx",
+   "說明": "首頁只有 statfile Mode=2 樹狀查詢連結；statfile2 Mode=3 CateNo=01 有 445 項（逐號試出）。不在官方清單"
+  },
+  "臺東縣": {
+   "base": "https://taitung.dgbas.gov.tw/DgbasWeb/",
+   "catenos": {},
+   "stat08": "https://taitung.dgbas.gov.tw/statweb/Page/stat08.aspx",
+   "說明": "資料庫查詢平台 CateNo 1–40 皆無內容（2026-10-07 實測），只登記公務統計報表（農業處 3006）。不在官方清單",
+   "no_db": true
+  }
+ },
+ "未納入": {
+  "臺北市、新北市、桃園市、高雄市、宜蘭縣、新竹市、連江縣": "不在 dgbas.gov.tw 同系統主機上（2026-10-07 探查常見主機名皆無），各自另有統計系統，尚未收錄"
+ }
+}

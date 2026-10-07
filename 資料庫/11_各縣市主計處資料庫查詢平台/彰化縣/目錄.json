@@ -1,0 +1,2176 @@
+[
+ {
+  "name": "[壹、土地] 已登記土地面積",
+  "children": [
+   {
+    "name": "已登錄土地面積依用地類別、公有私有分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3af35e-c19f-4e97-b7a8-4aeee4e15367&uid=6386&cuid=875"
+   }
+  ]
+ },
+ {
+  "name": "[壹、土地] 土地徵收面積",
+  "children": [
+   {
+    "name": "土地徵收面積--徵收面積依公地用途別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=51c90c4d-57b0-4d47-aa12-9e8470e5f661&uid=6393&cuid=876"
+   },
+   {
+    "name": "土地徵收面積--補償費用依費用補償項目分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=51c90c4d-57b0-4d47-aa12-9e8470e5f661&uid=6394&cuid=877"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住戶數、人口密度及性比例",
+  "children": [
+   {
+    "name": "人口數(依性別分)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6307&cuid=781"
+   },
+   {
+    "name": "面積(平方公里)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6301&cuid=777"
+   },
+   {
+    "name": "村里數(戶籍登記)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6303&cuid=778"
+   },
+   {
+    "name": "鄰數(戶籍登記)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6305&cuid=779"
+   },
+   {
+    "name": "戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6306&cuid=780"
+   },
+   {
+    "name": "戶量(人/戶)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6308&cuid=782"
+   },
+   {
+    "name": "人口密度(人/平方公里)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6309&cuid=783"
+   },
+   {
+    "name": "性比例(女=100)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ad97e39-33ab-43af-8568-c410f6cce1c2&uid=6310&cuid=784"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 戶籍動態",
+  "children": [
+   {
+    "name": "遷入人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6312&cuid=785"
+   },
+   {
+    "name": "遷入人數依地區別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6315&cuid=786"
+   },
+   {
+    "name": "遷出人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6316&cuid=787"
+   },
+   {
+    "name": "遷出人數依地區別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6317&cuid=788"
+   },
+   {
+    "name": "出生人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6318&cuid=789"
+   },
+   {
+    "name": "死亡人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6319&cuid=790"
+   },
+   {
+    "name": "粗出生率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6320&cuid=791"
+   },
+   {
+    "name": "粗死亡率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6321&cuid=792"
+   },
+   {
+    "name": "自然增加率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6322&cuid=793"
+   },
+   {
+    "name": "遷入率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6323&cuid=794"
+   },
+   {
+    "name": "遷出率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6324&cuid=795"
+   },
+   {
+    "name": "社會增加率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6328&cuid=799"
+   },
+   {
+    "name": "結婚對數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6325&cuid=796"
+   },
+   {
+    "name": "離婚對數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6326&cuid=797"
+   },
+   {
+    "name": "粗結婚率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6329&cuid=800"
+   },
+   {
+    "name": "粗離婚率(‰)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b054d35-3bdd-4c66-917b-7001e36053c5&uid=6327&cuid=798"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之年齡分配",
+  "children": [
+   {
+    "name": "現住人口之年齡分配",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=28fb01d8-8f0c-42ae-9558-f7b658de9d46&uid=6338&cuid=801"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之年齡結構",
+  "children": [
+   {
+    "name": "0-14歲人口數(人)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6340&cuid=803"
+   },
+   {
+    "name": "15-64歲人口數(人)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6342&cuid=805"
+   },
+   {
+    "name": "65歲以上人口數(人)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6344&cuid=807"
+   },
+   {
+    "name": "0-14歲人口比率(%)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6341&cuid=804"
+   },
+   {
+    "name": "15-64歲人口比率(%)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6343&cuid=806"
+   },
+   {
+    "name": "65歲以上人口比率(%)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6351&cuid=811"
+   },
+   {
+    "name": "扶幼比",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6347&cuid=808"
+   },
+   {
+    "name": "扶老比",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6352&cuid=812"
+   },
+   {
+    "name": "扶養比",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6348&cuid=809"
+   },
+   {
+    "name": "老化指數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=42990ba4-829b-4940-ac81-2789463e1253&uid=6349&cuid=810"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 15歲以上現住人口之教育程度",
+  "children": [
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=968897e4-3906-4196-9c4f-e95ec0e69918&uid=6350&cuid=802"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住人口之婚姻狀況",
+  "children": [
+   {
+    "name": "現住人口之婚姻狀況",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c8b53fa-3b00-465d-a0da-1422d1282cf2&uid=6354&cuid=813"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住原住民戶口數",
+  "children": [
+   {
+    "name": "原住民戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7739daa5-25b8-45b1-b222-54d61751df96&uid=6355&cuid=814"
+   },
+   {
+    "name": "原住民人口數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7739daa5-25b8-45b1-b222-54d61751df96&uid=6356&cuid=815"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 15歲以上現住原住民教育程度",
+  "children": [
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe750269-8726-47b9-8463-16b1a66b4b07&uid=6358&cuid=816"
+   }
+  ]
+ },
+ {
+  "name": "[貳、人口] 現住原住民婚姻狀況",
+  "children": [
+   {
+    "name": "現住原住民婚姻狀況",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54553205-4f21-4ab4-b9b1-aed851097de9&uid=6359&cuid=818"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各級機關學校正式預算員額",
+  "children": [
+   {
+    "name": "各級機關學校正式預算員額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e2b6063f-f442-4589-b9d3-214a513ab103&uid=6311&cuid=980"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各級機關學校員工總人數",
+  "children": [
+   {
+    "name": "各級機關學校員工總人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e239077-abb2-4d59-907c-1fc32aea60d6&uid=6360&cuid=981"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各級機關學校公教人員—按官等別分",
+  "children": [
+   {
+    "name": "各級機關學校公教人員依官等別",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d9df6375-4331-4872-a71e-00b1a734fd44&uid=6314&cuid=982"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各級機關學校公教人員—按教育程度分",
+  "children": [
+   {
+    "name": "各級機關學校公教人員按教育程度分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32fa5123-7320-48ed-a001-5aeebdab9683&uid=6362&cuid=1042"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 本縣各級機關學校公教人員—按年齡分",
+  "children": [
+   {
+    "name": "各級機關學校公教人員按年齡分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38fc180d-e776-41e5-9f82-fb8de21c0fac&uid=6363&cuid=1062"
+   },
+   {
+    "name": "各級機關學校公教人員按平均年齡",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38fc180d-e776-41e5-9f82-fb8de21c0fac&uid=6365&cuid=1063"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 區域立法委員選舉概況",
+  "children": [
+   {
+    "name": "立法委員區域選舉概況--選舉人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3f17058-5023-46c7-8dec-1f4e3f6811f9&uid=6367&cuid=1064"
+   },
+   {
+    "name": "立法委員區域選舉概況--候選人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3f17058-5023-46c7-8dec-1f4e3f6811f9&uid=6368&cuid=1065"
+   },
+   {
+    "name": "立法委員區域選舉概況--投票數依有效與否分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3f17058-5023-46c7-8dec-1f4e3f6811f9&uid=6369&cuid=1066"
+   },
+   {
+    "name": "立法委員區域選舉概況--當選人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3f17058-5023-46c7-8dec-1f4e3f6811f9&uid=6370&cuid=1067"
+   },
+   {
+    "name": "立法委員區域選舉概況--投票率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3f17058-5023-46c7-8dec-1f4e3f6811f9&uid=6371&cuid=1068"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 縣長選舉概況",
+  "children": [
+   {
+    "name": "縣長選舉概況--選舉人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73568b7f-8052-4331-91a2-64bdc8053ecc&uid=6372&cuid=1069"
+   },
+   {
+    "name": "縣長選舉概況--候選人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73568b7f-8052-4331-91a2-64bdc8053ecc&uid=6373&cuid=1070"
+   },
+   {
+    "name": "縣長選舉概況--投票數依有效與否分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73568b7f-8052-4331-91a2-64bdc8053ecc&uid=6374&cuid=1071"
+   },
+   {
+    "name": "縣長選舉概況--投票率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73568b7f-8052-4331-91a2-64bdc8053ecc&uid=6375&cuid=1072"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 縣議員選舉概況",
+  "children": [
+   {
+    "name": "縣議員選舉概況--選舉人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=daad4bb6-6bb5-40db-8203-2477f852993f&uid=6376&cuid=1073"
+   },
+   {
+    "name": "縣議員選舉概況--候選人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=daad4bb6-6bb5-40db-8203-2477f852993f&uid=6377&cuid=1074"
+   },
+   {
+    "name": "縣議員選舉概況--投票數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=daad4bb6-6bb5-40db-8203-2477f852993f&uid=6378&cuid=1075"
+   },
+   {
+    "name": "縣議員選舉概況--當選人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=daad4bb6-6bb5-40db-8203-2477f852993f&uid=6379&cuid=1076"
+   },
+   {
+    "name": "縣議員選舉概況--投票率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=daad4bb6-6bb5-40db-8203-2477f852993f&uid=6380&cuid=1077"
+   }
+  ]
+ },
+ {
+  "name": "[參、行政組織] 鄉鎮市民代表選舉概況",
+  "children": [
+   {
+    "name": "鄉鎮市民代表選舉概況--選舉人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3f0bde4-1414-441e-9594-d88e2ca5f5ed&uid=6381&cuid=1078"
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況--候選人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3f0bde4-1414-441e-9594-d88e2ca5f5ed&uid=6382&cuid=1079"
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況--投票數依有效與否分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3f0bde4-1414-441e-9594-d88e2ca5f5ed&uid=6383&cuid=1080"
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況--當選人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3f0bde4-1414-441e-9594-d88e2ca5f5ed&uid=6384&cuid=1081"
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況--投票率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3f0bde4-1414-441e-9594-d88e2ca5f5ed&uid=6385&cuid=1082"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 農耕土地面積",
+  "children": [
+   {
+    "name": "農耕土地面積依農耕土地別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14011dc6-fce6-46b1-8f40-4ec9ffe1bf88&uid=6396&cuid=891"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 農牧戶概況－按可耕作地及所有權屬分",
+  "children": [
+   {
+    "name": "農戶人口數-戶數依農戶類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36d23bb7-a81e-45f3-991b-f4e645d87644&uid=6397&cuid=892"
+   },
+   {
+    "name": "農戶人口數-人口數依農戶類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=36d23bb7-a81e-45f3-991b-f4e645d87644&uid=6398&cuid=893"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 稻米收穫面積及生產量",
+  "children": [
+   {
+    "name": "稻米生產概況-收穫面積依稻米種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0561e63-da2c-4ccb-86ad-761708d0cb29&uid=6399&cuid=897"
+   },
+   {
+    "name": "稻米收穫面積及生產量--產量依稻米種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0561e63-da2c-4ccb-86ad-761708d0cb29&uid=6400&cuid=898"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 農產品收穫面積及生產量",
+  "children": [
+   {
+    "name": "雜糧生產-收穫面積依雜糧種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3104&cuid=906"
+   },
+   {
+    "name": "雜糧生產-產量依雜糧種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3105&cuid=907"
+   },
+   {
+    "name": "特用作物生產-收穫面積依特用作物種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3106&cuid=908"
+   },
+   {
+    "name": "特用作物生產-產量依特用作物種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3107&cuid=909"
+   },
+   {
+    "name": "蔬菜生產-收穫面積依蔬菜種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3108&cuid=910"
+   },
+   {
+    "name": "蔬菜生產-產量依蔬菜種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3109&cuid=911"
+   },
+   {
+    "name": "果品生產-收穫面積依果品種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3110&cuid=912"
+   },
+   {
+    "name": "果品生產-產量依果品種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=987e12f1-9810-4ba3-a552-5fedfea2e8d5&uid=3111&cuid=913"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 漁業從業人數",
+  "children": [
+   {
+    "name": "漁業從業人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b30e5b8f-eb20-4fc1-883e-94df861ec756&uid=6403&cuid=939"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 漁戶數及漁戶人口數",
+  "children": [
+   {
+    "name": "漁戶數依漁業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54eca6c0-6e71-44c2-bf8a-1d82a1da872d&uid=6404&cuid=943"
+   },
+   {
+    "name": "漁戶人口數依漁業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54eca6c0-6e71-44c2-bf8a-1d82a1da872d&uid=6405&cuid=944"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 現有動力漁船數",
+  "children": [
+   {
+    "name": "現有動力漁船數-噸數依漁船筏別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=43087000-a6cf-4ad0-8c5b-b0276f3692d1&uid=9909&cuid=945"
+   },
+   {
+    "name": "現有動力漁船數-噸數依漁船筏別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=43087000-a6cf-4ad0-8c5b-b0276f3692d1&uid=9910&cuid=946"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 漁業生產量",
+  "children": [
+   {
+    "name": "產量依漁業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=82c4a1d4-58d4-49fa-ac87-611bfa3aaa01&uid=6406&cuid=964"
+   },
+   {
+    "name": "價值依漁業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=82c4a1d4-58d4-49fa-ac87-611bfa3aaa01&uid=6407&cuid=965"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 水產養殖面積",
+  "children": [
+   {
+    "name": "水產養殖面積",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c4d4a888-0abc-4a95-b8f2-379984c39e71&uid=6408&cuid=966"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 現有家畜數",
+  "children": [
+   {
+    "name": "現有家畜數依家畜類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a535c6cb-6f68-4379-89fe-89636fd19a59&uid=6409&cuid=958"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 家畜屠宰頭數",
+  "children": [
+   {
+    "name": "家畜屠宰頭數依家畜類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2bb407e0-fc22-47bf-af87-f74c86a2d50a&uid=6410&cuid=959"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 產乳牛頭數及產乳量",
+  "children": [
+   {
+    "name": "年底飼養場數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6725fc06-ea76-406c-b98b-461d1094f56f&uid=6411&cuid=960"
+   },
+   {
+    "name": "年底經產牛頭數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6725fc06-ea76-406c-b98b-461d1094f56f&uid=6412&cuid=961"
+   },
+   {
+    "name": "全年產乳量",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6725fc06-ea76-406c-b98b-461d1094f56f&uid=6413&cuid=962"
+   }
+  ]
+ },
+ {
+  "name": "[肆、農林漁牧] 現有家禽數量",
+  "children": [
+   {
+    "name": "現有家禽數量依家禽類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46805a98-c05a-444b-9921-cd4539b43131&uid=6414&cuid=963"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 營運中工廠家數",
+  "children": [
+   {
+    "name": "營運中工廠家數依行業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b645d61-14c1-4f6a-86cc-1d70be40f7fb&uid=2984&cuid=1151"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 商業登記現有家數及資本額",
+  "children": [
+   {
+    "name": "家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=71c34e7d-836b-49e6-bf52-bb57b1f14eb5&uid=6429&cuid=1152"
+   },
+   {
+    "name": "資本額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=71c34e7d-836b-49e6-bf52-bb57b1f14eb5&uid=6430&cuid=1153"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 公司登記現有家數及資本額-按組織別分",
+  "children": [
+   {
+    "name": "家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3c64ba9-f18a-415a-b3b8-b529c54da603&uid=2990&cuid=1157"
+   },
+   {
+    "name": "資本額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3c64ba9-f18a-415a-b3b8-b529c54da603&uid=2991&cuid=1158"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 公司登記現有家數與資本額-按行業別分",
+  "children": [
+   {
+    "name": "家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=194b3023-a13b-495b-81a4-c0bd6cbd08a2&uid=2994&cuid=1159"
+   },
+   {
+    "name": "資本額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=194b3023-a13b-495b-81a4-c0bd6cbd08a2&uid=2995&cuid=1160"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 都市計畫區面積及人口",
+  "children": [
+   {
+    "name": "都市計畫區面積",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5eab7f-481d-4ebf-826f-516881f12db3&uid=6449&cuid=1161"
+   },
+   {
+    "name": "計畫人口數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5eab7f-481d-4ebf-826f-516881f12db3&uid=6450&cuid=1162"
+   },
+   {
+    "name": "現況人口數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5eab7f-481d-4ebf-826f-516881f12db3&uid=6451&cuid=1163"
+   },
+   {
+    "name": "計畫人口密度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5eab7f-481d-4ebf-826f-516881f12db3&uid=6452&cuid=1164"
+   },
+   {
+    "name": "現況人口密度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5eab7f-481d-4ebf-826f-516881f12db3&uid=6453&cuid=1165"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 核發建築物使用執照總樓地板面積",
+  "children": [
+   {
+    "name": "依土地使用分區別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=863683ac-745f-4727-917a-0e4070fbf2df&uid=6457&cuid=1166"
+   },
+   {
+    "name": "依構造別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=863683ac-745f-4727-917a-0e4070fbf2df&uid=6458&cuid=1167"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 自來水供水普及率",
+  "children": [
+   {
+    "name": "行政區域人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374c1c73-83b8-4040-ab97-5c8a2f09c8c3&uid=2998&cuid=1168"
+   },
+   {
+    "name": "供水區域人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374c1c73-83b8-4040-ab97-5c8a2f09c8c3&uid=2997&cuid=1169"
+   },
+   {
+    "name": "實際供水人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374c1c73-83b8-4040-ab97-5c8a2f09c8c3&uid=2996&cuid=1170"
+   },
+   {
+    "name": "供水普及率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=374c1c73-83b8-4040-ab97-5c8a2f09c8c3&uid=6459&cuid=1171"
+   }
+  ]
+ },
+ {
+  "name": "[伍、工商業概況] 電力供應情形",
+  "children": [
+   {
+    "name": "年底戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45a22677-b904-4ad4-8591-3304545286f2&uid=2999&cuid=1172"
+   },
+   {
+    "name": "售電量",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45a22677-b904-4ad4-8591-3304545286f2&uid=3000&cuid=1173"
+   },
+   {
+    "name": "每用戶全年平均用電量",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=45a22677-b904-4ad4-8591-3304545286f2&uid=3001&cuid=1174"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 金融機構分布",
+  "children": [
+   {
+    "name": "金融機構分布",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b23136cc-7704-4197-ad7c-14ad63b3a48b&uid=2928&cuid=1175"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 主要金融機構存放款餘額",
+  "children": [
+   {
+    "name": "存款餘額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6516cf5-f94f-421f-916c-148f7e215bf4&uid=2930&cuid=1176"
+   },
+   {
+    "name": "放款餘額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a6516cf5-f94f-421f-916c-148f7e215bf4&uid=2932&cuid=1196"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歲入預決算─按來源別分",
+  "children": [
+   {
+    "name": "預算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=60aad4d8-cca8-4dc9-a6e8-c566f7fbc43c&uid=2933&cuid=1178"
+   },
+   {
+    "name": "決算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=60aad4d8-cca8-4dc9-a6e8-c566f7fbc43c&uid=2934&cuid=1179"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歲出預決算─按政事別分",
+  "children": [
+   {
+    "name": "預算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1aacb84e-c73a-4c8d-9089-40a8a3bc6323&uid=2936&cuid=1180"
+   },
+   {
+    "name": "決算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1aacb84e-c73a-4c8d-9089-40a8a3bc6323&uid=2937&cuid=1181"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 歷年財政狀況",
+  "children": [
+   {
+    "name": "融資調度需求",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2938&cuid=1182"
+   },
+   {
+    "name": "融資調度財源",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2939&cuid=1183"
+   },
+   {
+    "name": "自有財源比率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2940&cuid=1184"
+   },
+   {
+    "name": "賦稅依存度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2941&cuid=1185"
+   },
+   {
+    "name": "補助及協助依存度",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2942&cuid=1186"
+   },
+   {
+    "name": "債務未償餘額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2943&cuid=1187"
+   },
+   {
+    "name": "債務未償餘額占歲出比率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27dcb52e-efdf-4fa1-adea-302c6c147228&uid=2944&cuid=1188"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 各類稅捐實徵數",
+  "children": [
+   {
+    "name": "各項稅捐實徵數依各項稅捐(實徵)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=337956ea-d4fd-4786-832e-b10742faa814&uid=2945&cuid=1189"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 鄉鎮市歲入預決算-按來源別分",
+  "children": [
+   {
+    "name": "預算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=11a13f05-659e-49cf-99cf-0d9fcc9c3b53&uid=2949&cuid=1190"
+   },
+   {
+    "name": "決算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=11a13f05-659e-49cf-99cf-0d9fcc9c3b53&uid=2950&cuid=1191"
+   }
+  ]
+ },
+ {
+  "name": "[陸、金融財稅] 鄉鎮市歲出預決算-按政事別分",
+  "children": [
+   {
+    "name": "預算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6fcc25d-32e9-4f85-a940-5cadb651b8f5&uid=2952&cuid=1192"
+   },
+   {
+    "name": "決算數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6fcc25d-32e9-4f85-a940-5cadb651b8f5&uid=2954&cuid=1193"
+   }
+  ]
+ },
+ {
+  "name": "[柒、交通運輸] 車輛登記",
+  "children": [
+   {
+    "name": "車輛登記依車輛別、用途別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b19fd6b5-3a9d-40eb-9bb5-564b71419b92&uid=2591&cuid=819"
+   }
+  ]
+ },
+ {
+  "name": "[柒、交通運輸] 公路里程概況",
+  "children": [
+   {
+    "name": "公路里程概況依公路別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=21222bb8-97b7-4318-94e5-3c5a031087fb&uid=2592&cuid=820"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內高級中等學校概況",
+  "children": [
+   {
+    "name": "大學-系所數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2673&cuid=821"
+   },
+   {
+    "name": "大學-教職員數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2674&cuid=822"
+   },
+   {
+    "name": "大學-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2675&cuid=823"
+   },
+   {
+    "name": "大學-上學年度畢業生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2676&cuid=824"
+   },
+   {
+    "name": "專科-校數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2677&cuid=825"
+   },
+   {
+    "name": "專科-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2679&cuid=826"
+   },
+   {
+    "name": "專科-上學年度畢業生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2680&cuid=827"
+   },
+   {
+    "name": "高級中等學校-校數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2681&cuid=828"
+   },
+   {
+    "name": "高級中等學校-教師數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2682&cuid=829"
+   },
+   {
+    "name": "高級中等學校-職員數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2683&cuid=830"
+   },
+   {
+    "name": "高級中等學校-班級數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2684&cuid=831"
+   },
+   {
+    "name": "高級中等學校-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2685&cuid=832"
+   },
+   {
+    "name": "高級中等學校-上學年度畢業生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=06ba3c6e-cbef-4d7e-9a59-ebe8bcb43664&uid=2686&cuid=833"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內國民中學概況",
+  "children": [
+   {
+    "name": "境內國民中學概況-校數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2698&cuid=834"
+   },
+   {
+    "name": "境內國民中學概況-教師數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2699&cuid=835"
+   },
+   {
+    "name": "境內國民中學概況-職員數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2700&cuid=836"
+   },
+   {
+    "name": "境內國民中學概況-班級數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2701&cuid=837"
+   },
+   {
+    "name": "境內國民中學概況-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2702&cuid=838"
+   },
+   {
+    "name": "境內國民中學概況-上學年度畢業生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6d64db64-d77e-4587-844d-7454e702ad36&uid=2703&cuid=839"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內國民小學概況",
+  "children": [
+   {
+    "name": "境內國民小學概況-校數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2704&cuid=840"
+   },
+   {
+    "name": "境內國民小學概況-教師數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2705&cuid=841"
+   },
+   {
+    "name": "境內國民小學概況-職員數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2706&cuid=842"
+   },
+   {
+    "name": "境內國民小學概況-班級數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2707&cuid=843"
+   },
+   {
+    "name": "境內國民小學概況-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2708&cuid=844"
+   },
+   {
+    "name": "境內國民小學概況-上學年度畢業生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c94c4ed6-a6fe-4f38-b0b8-91589b19d006&uid=2709&cuid=845"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內幼兒園概況",
+  "children": [
+   {
+    "name": "境內幼兒園概況-園數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=95b3de3e-3571-4c8f-a594-49a799deb5d4&uid=2710&cuid=846"
+   },
+   {
+    "name": "境內幼兒園概況-教職員工人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=95b3de3e-3571-4c8f-a594-49a799deb5d4&uid=2711&cuid=847"
+   },
+   {
+    "name": "境內幼兒園概況-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=95b3de3e-3571-4c8f-a594-49a799deb5d4&uid=2712&cuid=848"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 境內各級補校(進修)概況",
+  "children": [
+   {
+    "name": "境內各級補校概況-校數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6031840-389f-448e-9174-8bd949b3a377&uid=2713&cuid=849"
+   },
+   {
+    "name": "境內各級補校概況-班級數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6031840-389f-448e-9174-8bd949b3a377&uid=2714&cuid=850"
+   },
+   {
+    "name": "境內各級補校概況-學生數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6031840-389f-448e-9174-8bd949b3a377&uid=2715&cuid=851"
+   },
+   {
+    "name": "境內各級補校概況-上學年度畢業生",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6031840-389f-448e-9174-8bd949b3a377&uid=2716&cuid=852"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 短期補習班概況",
+  "children": [
+   {
+    "name": "短期補習班概況",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ac8f554e-12b8-4516-995e-95dcf6dbbd49&uid=2717&cuid=853"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 國民中學學生祼視視力檢查",
+  "children": [
+   {
+    "name": "國民中學學生裸視視力檢查-檢查人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=977f1746-19ce-4504-9e56-962e46938694&uid=2740&cuid=854"
+   },
+   {
+    "name": "國民中學學生裸視視力檢查-視力不良人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=977f1746-19ce-4504-9e56-962e46938694&uid=2741&cuid=855"
+   },
+   {
+    "name": "國民中學學生裸視視力檢查-視力不良率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=977f1746-19ce-4504-9e56-962e46938694&uid=6491&cuid=856"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 國民小學學生裸視視力檢查",
+  "children": [
+   {
+    "name": "國民小學學生裸視視力檢查-檢查人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8314f729-6604-4b72-abb4-b3a97165ab5c&uid=2742&cuid=857"
+   },
+   {
+    "name": "國民小學學生裸視視力檢查-視力不良人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8314f729-6604-4b72-abb4-b3a97165ab5c&uid=2743&cuid=858"
+   },
+   {
+    "name": "國民小學學生裸視視力檢查-視力不良率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8314f729-6604-4b72-abb4-b3a97165ab5c&uid=6510&cuid=859"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 公立公共圖書館概況",
+  "children": [
+   {
+    "name": "公立公共圖書館概況-圖書資料收藏數-圖書依語言種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd97633d-ba9d-452d-8611-36ed9f0f36d3&uid=2744&cuid=860"
+   },
+   {
+    "name": "公立公共圖書館概況-電子書收藏數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd97633d-ba9d-452d-8611-36ed9f0f36d3&uid=2745&cuid=861"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資訊借閱人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd97633d-ba9d-452d-8611-36ed9f0f36d3&uid=2746&cuid=862"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資訊借閱冊數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd97633d-ba9d-452d-8611-36ed9f0f36d3&uid=2747&cuid=863"
+   },
+   {
+    "name": "公立公共圖書館概況-圖書資料收藏數-期刊依語言種類分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd97633d-ba9d-452d-8611-36ed9f0f36d3&uid=2981&cuid=864"
+   }
+  ]
+ },
+ {
+  "name": "[捌、教育文化] 各項藝文展演活動",
+  "children": [
+   {
+    "name": "各項藝文展演活動-場次依藝文展演活動別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d4cd770b-922c-4c52-bd02-32ea3e7934ad&uid=2748&cuid=865"
+   },
+   {
+    "name": "各項藝文展演活動-出席人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d4cd770b-922c-4c52-bd02-32ea3e7934ad&uid=2749&cuid=866"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 醫療機構及其他醫事機構開(執)業醫事人員數",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數依衛生局人員編制分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e60437de-e0c2-4c7d-a1a0-5ba817370250&uid=3071&cuid=867"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 營業衛生管理稽核概況—按稽查家次分",
+  "children": [
+   {
+    "name": "院所家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3072&cuid=868"
+   },
+   {
+    "name": "醫院家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3073&cuid=869"
+   },
+   {
+    "name": "診所家數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3074&cuid=870"
+   },
+   {
+    "name": "醫療院所病床數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3075&cuid=871"
+   },
+   {
+    "name": "醫院開放病床數依醫院病床別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3076&cuid=872"
+   },
+   {
+    "name": "精神科日間照護人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3077&cuid=873"
+   },
+   {
+    "name": "診所病床數依診所病床別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3ba7e9c7-257c-4484-b68a-1144acc6a2c0&uid=3078&cuid=874"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 藥商家數",
+  "children": [
+   {
+    "name": "藥商家數依藥商別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9a7c66a-bc2c-4ef7-9976-d6452d956f97&uid=3083&cuid=978"
+   }
+  ]
+ },
+ {
+  "name": "[玖、衛生] 營業衛生管理稽核概況—按稽查家次分",
+  "children": [
+   {
+    "name": "營業衛生管理稽核概況-按稽查家次分依衛生管理稽查項目分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=35103b01-b0a0-41a8-87e9-a2c3ed50eb07&uid=6515&cuid=979"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 環境空氣品質",
+  "children": [
+   {
+    "name": "年底監測站數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3088&cuid=878"
+   },
+   {
+    "name": "人工測站-總懸浮微粒",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3089&cuid=879"
+   },
+   {
+    "name": "人工測站-鉛",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3090&cuid=880"
+   },
+   {
+    "name": "人工測站-落塵量",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3091&cuid=881"
+   },
+   {
+    "name": "自動測站-粒徑10微米以下之懸浮微粒",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3092&cuid=882"
+   },
+   {
+    "name": "自動測站-二氧化硫",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3093&cuid=883"
+   },
+   {
+    "name": "自動測站-一氧化碳",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3094&cuid=884"
+   },
+   {
+    "name": "自動測站-二氧化氮",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3095&cuid=885"
+   },
+   {
+    "name": "自動測站-非甲烷碳氫化合物",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3096&cuid=886"
+   },
+   {
+    "name": "自動測站-臭氧",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d3672465-e3bb-4d62-b059-c77a2b966d1b&uid=3097&cuid=887"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 一般地區環境音量監測不合格情形",
+  "children": [
+   {
+    "name": "(一般地區環境)年底監測站數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6938e7e2-36ee-4daa-9974-c3a8e464e6de&uid=6516&cuid=888"
+   },
+   {
+    "name": "(一般地區環境)不合格站數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6938e7e2-36ee-4daa-9974-c3a8e464e6de&uid=6517&cuid=889"
+   },
+   {
+    "name": "(一般地區環境)不合格率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6938e7e2-36ee-4daa-9974-c3a8e464e6de&uid=6518&cuid=890"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 道路交通音量監測不合格情形",
+  "children": [
+   {
+    "name": "(道路交通)年底監測站數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7970ec87-e63c-49cd-9a4f-bd9d00360baa&uid=6519&cuid=894"
+   },
+   {
+    "name": "(道路交通)音不合格站數依時段別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7970ec87-e63c-49cd-9a4f-bd9d00360baa&uid=6520&cuid=895"
+   },
+   {
+    "name": "(道路交通)不合格率依時段別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7970ec87-e63c-49cd-9a4f-bd9d00360baa&uid=6521&cuid=896"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 公害陳情受理案件",
+  "children": [
+   {
+    "name": "公害陳情受理案件依公害別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dbb5eee6-576e-40a1-b4c5-a0cb36c0fc2e&uid=3280&cuid=899"
+   }
+  ]
+ },
+ {
+  "name": "[拾、環境保護] 環保稽查(查核)概況",
+  "children": [
+   {
+    "name": "環保稽查(查核)概況-稽查次數依污染類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6522&cuid=900"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰次數依污染類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6523&cuid=901"
+   },
+   {
+    "name": "環保稽查(查核)概況-罰鍰金額依污染類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6524&cuid=902"
+   },
+   {
+    "name": "環保稽查(查核)概況-實收罰鍰依污染類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6525&cuid=903"
+   },
+   {
+    "name": "環保稽查(查核)概況-年底稽查(查核)人力(環保局)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6526&cuid=904"
+   },
+   {
+    "name": "環保稽查(查核)概況-年底稽查(查核)人力(委外協辦)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c56d57f2-790c-49a6-b7ac-35c2a2c3bd4f&uid=6527&cuid=905"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 各級人民團體數",
+  "children": [
+   {
+    "name": "各級人民團體數-職業團體依人民團體分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f4c93f0-356f-4357-afc3-1b8dd8669caf&uid=3005&cuid=983"
+   },
+   {
+    "name": "各級人民團體數-社會團體依人民團體分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f4c93f0-356f-4357-afc3-1b8dd8669caf&uid=3006&cuid=984"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 宗教教務概況",
+  "children": [
+   {
+    "name": "寺廟教堂數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f272ee12-3200-4193-9b28-1c54c2a8cfe1&uid=3013&cuid=985"
+   },
+   {
+    "name": "信徒人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f272ee12-3200-4193-9b28-1c54c2a8cfe1&uid=3014&cuid=986"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 宗教社會服務概況",
+  "children": [
+   {
+    "name": "醫療機構依醫療機構分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bb4c063-caa2-4998-b281-59e406d97e66&uid=6528&cuid=987"
+   },
+   {
+    "name": "文教機構依文教機構別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bb4c063-caa2-4998-b281-59e406d97e66&uid=6529&cuid=988"
+   },
+   {
+    "name": "公益慈善事業依公益慈善事業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1bb4c063-caa2-4998-b281-59e406d97e66&uid=6530&cuid=989"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 合作社概況",
+  "children": [
+   {
+    "name": "社數依合作社(單位/聯合)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff4ea75e-ae1f-4113-8484-046584a93b1a&uid=6531&cuid=990"
+   },
+   {
+    "name": "社員依合作社(單位/聯合)、社員分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff4ea75e-ae1f-4113-8484-046584a93b1a&uid=6532&cuid=991"
+   },
+   {
+    "name": "股金總額依合作社(單位/聯合)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff4ea75e-ae1f-4113-8484-046584a93b1a&uid=6533&cuid=992"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 身心障礙者人數",
+  "children": [
+   {
+    "name": "身心障礙人數-按舊制及性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4c292ec5-ab47-43b1-80c4-826c66ee3990&uid=6555&cuid=993"
+   },
+   {
+    "name": "身心障礙人數-按新制及性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4c292ec5-ab47-43b1-80c4-826c66ee3990&uid=6556&cuid=994"
+   },
+   {
+    "name": "身心障礙人數-身心障礙人數占總人口比率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4c292ec5-ab47-43b1-80c4-826c66ee3990&uid=6557&cuid=995"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 身心障礙福利服務概況",
+  "children": [
+   {
+    "name": "身心障礙福利服務機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6558&cuid=996"
+   },
+   {
+    "name": "身心障礙福利服務機構實際安置人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6559&cuid=997"
+   },
+   {
+    "name": "生活補助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6560&cuid=998"
+   },
+   {
+    "name": "生活補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6561&cuid=999"
+   },
+   {
+    "name": "生活輔助器具補助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6562&cuid=1000"
+   },
+   {
+    "name": "生活輔助器具補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6563&cuid=1001"
+   },
+   {
+    "name": "日間照顧及住宿式照顧補助人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6564&cuid=1002"
+   },
+   {
+    "name": "日間照顧及住宿式照顧補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64b1c22c-d25d-4b87-a6b3-45cc7e4ad646&uid=6565&cuid=1003"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 低收入戶人數及生活扶助",
+  "children": [
+   {
+    "name": "低收入戶數占全縣總戶數比率(％)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3069&cuid=1004"
+   },
+   {
+    "name": "低收入戶人數占全縣總人數比率(％)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3070&cuid=1005"
+   },
+   {
+    "name": "低收入戶戶數依款別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6566&cuid=1015"
+   },
+   {
+    "name": "低收入戶人數依款別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6567&cuid=1016"
+   },
+   {
+    "name": "低收入戶家庭生活扶助戶次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3258&cuid=1007"
+   },
+   {
+    "name": "低收入戶家庭生活扶助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3257&cuid=1006"
+   },
+   {
+    "name": "低收入戶家庭生活扶助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3259&cuid=1008"
+   },
+   {
+    "name": "低收入戶就學生活補助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6568&cuid=1017"
+   },
+   {
+    "name": "低收入戶就學生活補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6569&cuid=1018"
+   },
+   {
+    "name": "低收入戶就業服務人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3262&cuid=1011"
+   },
+   {
+    "name": "低收入戶職業訓練人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3263&cuid=1012"
+   },
+   {
+    "name": "低收入戶輔導就業服務以工代賑人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3264&cuid=1013"
+   },
+   {
+    "name": "低收入戶輔導就業服務以工代賑金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3265&cuid=1014"
+   },
+   {
+    "name": "低收入戶教育補助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6570&cuid=1019"
+   },
+   {
+    "name": "低收入戶教育補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6571&cuid=1020"
+   },
+   {
+    "name": "低收入戶喪葬補助人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6572&cuid=1021"
+   },
+   {
+    "name": "低收入戶喪葬補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6573&cuid=1022"
+   },
+   {
+    "name": "低收入戶節日慰問戶次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6574&cuid=1023"
+   },
+   {
+    "name": "低收入戶節日慰問金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=6575&cuid=1024"
+   },
+   {
+    "name": "低收入戶其他補助人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3260&cuid=1009"
+   },
+   {
+    "name": "低收入戶其他補助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcda6480-27e6-4205-994b-bd6125f21442&uid=3261&cuid=1010"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 中低收入戶人數及生活扶助",
+  "children": [
+   {
+    "name": "中低收入戶戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6576&cuid=1025"
+   },
+   {
+    "name": "中低收入戶戶數占全縣總戶數比率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6577&cuid=1026"
+   },
+   {
+    "name": "中低收入戶人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6578&cuid=1027"
+   },
+   {
+    "name": "中低收入戶人數占全縣總人口比率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6579&cuid=1028"
+   },
+   {
+    "name": "中低收入戶生活扶助項目人次依特殊項目救助及服務分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6580&cuid=1029"
+   },
+   {
+    "name": "中低收入戶生活扶助項目金額依特殊項目救助及服務分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6581&cuid=1030"
+   },
+   {
+    "name": "中低收入戶輔導就業服務就業服務人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6582&cuid=1031"
+   },
+   {
+    "name": "中低收入戶輔導就業服務職業訓練人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6583&cuid=1032"
+   },
+   {
+    "name": "中低收入戶輔導就業服務以工代賑人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6584&cuid=1033"
+   },
+   {
+    "name": "中低收入戶輔導就業服務以工代賑金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=360c82d6-e86a-420d-b717-ba6d305acde5&uid=6585&cuid=1034"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 中低收入老人生活津貼與老農津貼",
+  "children": [
+   {
+    "name": "中低收入老人生活津貼核付人數依款項、性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=692281bb-939e-4a08-ba20-29eab853ffab&uid=3035&cuid=1035"
+   },
+   {
+    "name": "中低收入老人生活津貼核付金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=692281bb-939e-4a08-ba20-29eab853ffab&uid=3036&cuid=1036"
+   },
+   {
+    "name": "老農津貼核付人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=692281bb-939e-4a08-ba20-29eab853ffab&uid=6586&cuid=1038"
+   },
+   {
+    "name": "老農津貼核付金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=692281bb-939e-4a08-ba20-29eab853ffab&uid=6587&cuid=1039"
+   },
+   {
+    "name": "老農津貼受益人數占65歲以上人口比例(％)",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=692281bb-939e-4a08-ba20-29eab853ffab&uid=3037&cuid=1037"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 辦理急難救助概況",
+  "children": [
+   {
+    "name": "辦理急難救助概況-救助人次依急難救助身分分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d66fe7a-f21a-47d8-8c2e-7ee5316399b4&uid=6588&cuid=1040"
+   },
+   {
+    "name": "辦理急難救助概況-救助金額依急難救助身分分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d66fe7a-f21a-47d8-8c2e-7ee5316399b4&uid=6589&cuid=1041"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 遭受災害救助情形",
+  "children": [
+   {
+    "name": "災害次數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=3038&cuid=1043"
+   },
+   {
+    "name": "收容所所數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6590&cuid=1044"
+   },
+   {
+    "name": "收容所臨時收容災民數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6591&cuid=1045"
+   },
+   {
+    "name": "受災人數依受災情形分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6592&cuid=1046"
+   },
+   {
+    "name": "安遷救助戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6593&cuid=1047"
+   },
+   {
+    "name": "安遷救助人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6594&cuid=1048"
+   },
+   {
+    "name": "財物受損影響生計者",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6595&cuid=1049"
+   },
+   {
+    "name": "遭受災害救助金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=46788810-8970-450c-bc11-22e6afa266b4&uid=6596&cuid=1050"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 老人福利服務概況",
+  "children": [
+   {
+    "name": "老人長期照顧及安養機構數依老人福利機構類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=3040&cuid=1051"
+   },
+   {
+    "name": "社區安養堂機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=3041&cuid=1052"
+   },
+   {
+    "name": "老人公寓機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=3042&cuid=1053"
+   },
+   {
+    "name": "老人長期照顧及安養機實際進住人數依機構類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6599&cuid=1054"
+   },
+   {
+    "name": "社區安養堂依實際進住人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6600&cuid=1055"
+   },
+   {
+    "name": "老人公寓實際進住人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6601&cuid=1056"
+   },
+   {
+    "name": "老人福利服務(文康)中心數依老人福利服務 ( 文康 ) 活動中心分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6602&cuid=1057"
+   },
+   {
+    "name": "長青學苑辦理成果所數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6603&cuid=1058"
+   },
+   {
+    "name": "長青學苑辦理成果班數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6604&cuid=1059"
+   },
+   {
+    "name": "長青學苑辦理成果開班參加人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d90727c-2a61-4b3d-add0-e5d84d33903d&uid=6605&cuid=1060"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 兒童及少年福利服務概況",
+  "children": [
+   {
+    "name": "安置及教養機構-機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6606&cuid=1087"
+   },
+   {
+    "name": "安置及教養機構-現有收容人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6607&cuid=1088"
+   },
+   {
+    "name": "心理輔導或家庭諮詢-機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6608&cuid=1089"
+   },
+   {
+    "name": "心理輔導或家庭諮詢機構-服務人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6609&cuid=1090"
+   },
+   {
+    "name": "福利服務中心-機構數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6610&cuid=1091"
+   },
+   {
+    "name": "福利服務中心-服務人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6611&cuid=1092"
+   },
+   {
+    "name": "寄養家庭-戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6612&cuid=1093"
+   },
+   {
+    "name": "寄養兒童及少年-人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6613&cuid=1094"
+   },
+   {
+    "name": "弱勢兒童及少年-人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f23ea2e9-df38-4c00-aeea-a790e44d2c94&uid=6614&cuid=1095"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 特殊境遇家庭扶助服務概況",
+  "children": [
+   {
+    "name": "特殊境遇家庭扶助服務概況-人次依特殊境遇家庭扶助分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a94c4709-3bd8-42af-8469-1ce7ffbf5516&uid=6623&cuid=1096"
+   },
+   {
+    "name": "特殊境遇家庭扶助服務概況-金額依特殊境遇家庭扶助分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a94c4709-3bd8-42af-8469-1ce7ffbf5516&uid=6624&cuid=1097"
+   }
+  ]
+ },
+ {
+  "name": "[拾壹、社會福利] 性侵害通報案件",
+  "children": [
+   {
+    "name": "性侵害通報案件-通報件數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96c0e1c1-1993-42d7-9580-65af390c16bd&uid=3007&cuid=1098"
+   },
+   {
+    "name": "性侵害通報案件-被害人依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96c0e1c1-1993-42d7-9580-65af390c16bd&uid=3008&cuid=1099"
+   },
+   {
+    "name": "性侵害通報案件-被害人依年齡分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=96c0e1c1-1993-42d7-9580-65af390c16bd&uid=3009&cuid=1100"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞資爭議案件",
+  "children": [
+   {
+    "name": "勞資爭議案件-爭議件數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=923406d7-dfd9-440f-bf36-d8f4e0205b01&uid=2914&cuid=914"
+   },
+   {
+    "name": "勞資爭議案件-爭議人數依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=923406d7-dfd9-440f-bf36-d8f4e0205b01&uid=2915&cuid=915"
+   },
+   {
+    "name": "勞資爭議案件-主要爭議類別依勞資爭議類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=923406d7-dfd9-440f-bf36-d8f4e0205b01&uid=2916&cuid=916"
+   },
+   {
+    "name": "勞資爭議案件-爭議終結案件依勞資爭議解決方式分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=923406d7-dfd9-440f-bf36-d8f4e0205b01&uid=6626&cuid=917"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工團體概況",
+  "children": [
+   {
+    "name": "勞工團體概況-會員人數依工會類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=739e17bb-2eec-4e24-b790-672a37ffa839&uid=2922&cuid=918"
+   },
+   {
+    "name": "勞工團體概況-團體會員數依工會類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=739e17bb-2eec-4e24-b790-672a37ffa839&uid=2923&cuid=919"
+   },
+   {
+    "name": "勞工團體概況-工會數依工會類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=739e17bb-2eec-4e24-b790-672a37ffa839&uid=2924&cuid=920"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 事業單位團體協約及勞資會議概況",
+  "children": [
+   {
+    "name": "事業單位團體協約及勞資會議現況-團體協約依工會類型分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c3e679b-b725-457d-b912-f914f0b3b66c&uid=2925&cuid=923"
+   },
+   {
+    "name": "事業單位團體協約及勞資會議現況-勞資會議依公營/民營分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c3e679b-b725-457d-b912-f914f0b3b66c&uid=2926&cuid=924"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工服務中心服務概況",
+  "children": [
+   {
+    "name": "勞工服務中心服務按服務性質分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=200705e2-1b2f-44f5-8174-9e1d492f90d0&uid=6627&cuid=925"
+   },
+   {
+    "name": "勞工服務中心服務按服務類別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=200705e2-1b2f-44f5-8174-9e1d492f90d0&uid=6628&cuid=926"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工教育及志願服務概況",
+  "children": [
+   {
+    "name": "提撥勞工教育經費-提撥金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6629&cuid=927"
+   },
+   {
+    "name": "辦理勞工教育-班數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6630&cuid=928"
+   },
+   {
+    "name": "勞工刊物",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6631&cuid=929"
+   },
+   {
+    "name": "志願服務隊數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6632&cuid=930"
+   },
+   {
+    "name": "志願服務人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6633&cuid=931"
+   },
+   {
+    "name": "志願服務總時數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6634&cuid=932"
+   },
+   {
+    "name": "志願服務總人次",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6635&cuid=933"
+   },
+   {
+    "name": "志願服務訓練總時數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b00cb47e-b150-4e91-b979-30958aac5d6a&uid=6636&cuid=934"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 職工福利概況",
+  "children": [
+   {
+    "name": "職工福利概況-已設立單位數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd46abd2-5027-488f-ac4f-25570444925b&uid=6637&cuid=935"
+   },
+   {
+    "name": "職工福利概況-新設立單位數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd46abd2-5027-488f-ac4f-25570444925b&uid=6638&cuid=936"
+   },
+   {
+    "name": "職工福利概況-新設立職工福利金",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd46abd2-5027-488f-ac4f-25570444925b&uid=6639&cuid=937"
+   },
+   {
+    "name": "職工福利概況-新設立職工福利金受益人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fd46abd2-5027-488f-ac4f-25570444925b&uid=6640&cuid=938"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞工保險各類投保單位數及人數",
+  "children": [
+   {
+    "name": "勞工保險各類投保人數依勞保投保單位別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd6d2454-428f-4b22-a6fe-22702d1d0cb8&uid=2935&cuid=941"
+   },
+   {
+    "name": "勞工保險各類投保單位數依勞保投保單位別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd6d2454-428f-4b22-a6fe-22702d1d0cb8&uid=2929&cuid=942"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 有效聘僱許可移工人數",
+  "children": [
+   {
+    "name": "移工人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d2ea215e-44f1-4715-858e-738ba30b019d&uid=2927&cuid=947"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 人力資源調查重要結果指標",
+  "children": [
+   {
+    "name": "總人口",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2951&cuid=948"
+   },
+   {
+    "name": "人力資源調查-人力資源調查-十五歲以上民間人口依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2953&cuid=949"
+   },
+   {
+    "name": "人力資源調查-勞動力依性別、就業/失業分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2957&cuid=950"
+   },
+   {
+    "name": "人力資源調查-非勞動力依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2958&cuid=951"
+   },
+   {
+    "name": "人力資源調查-勞動力參與率依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2959&cuid=952"
+   },
+   {
+    "name": "人力資源調查-失業率依性別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=821a0a41-d2b9-489a-bfa4-af5dd589e41d&uid=2960&cuid=953"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 勞動力之年齡分配",
+  "children": [
+   {
+    "name": "人力資源調查-勞動力依年齡別(15~65歲以上)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ea06ef5d-d3ee-42fd-b32f-e37b77693201&uid=2961&cuid=954"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之行業",
+  "children": [
+   {
+    "name": "就業者依行業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=349f4bf7-7a91-4361-b673-bf4cf8b52563&uid=2963&cuid=955"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之職業",
+  "children": [
+   {
+    "name": "就業者依職業別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=99e63e47-f8de-4847-8e97-74dc69ca9e7e&uid=2964&cuid=956"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之教育程度",
+  "children": [
+   {
+    "name": "就業者依教育程度分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8ee7aa55-996c-4624-af59-94e6517f33d7&uid=2965&cuid=957"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 就業者之年齡分配",
+  "children": [
+   {
+    "name": "就業者依年齡別(15~65歲以上)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e6ea14f9-0a76-4789-9826-6ab4dd0c0919&uid=2966&cuid=967"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 失業者之教育程度",
+  "children": [
+   {
+    "name": "失業者依教育程度分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=afba01bb-5302-4d0a-ba6c-785745a747a5&uid=2967&cuid=968"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 失業者之年齡分配",
+  "children": [
+   {
+    "name": "失業者依年齡別(15~65歲以上)分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9eeaa978-6081-4ed8-add6-1238f5c1295e&uid=2968&cuid=969"
+   }
+  ]
+ },
+ {
+  "name": "[拾貳、勞工行政] 經指定填報職業災害統計之事業單位概況",
+  "children": [
+   {
+    "name": "陳報事業單位數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2969&cuid=970"
+   },
+   {
+    "name": "工作者數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2970&cuid=971"
+   },
+   {
+    "name": "總工作日數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2971&cuid=972"
+   },
+   {
+    "name": "總工時",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2972&cuid=973"
+   },
+   {
+    "name": "適用勞工安全衛生法事業單位職業災害概況-失能傷害次數依失能傷害分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2973&cuid=974"
+   },
+   {
+    "name": "失能傷害頻率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2982&cuid=976"
+   },
+   {
+    "name": "總損失工作日數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2974&cuid=975"
+   },
+   {
+    "name": "失能傷害嚴重率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b7b5848-b14a-48c6-a3e6-9832428581c2&uid=2983&cuid=977"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 違反社會秩序維護法案件",
+  "children": [
+   {
+    "name": "件數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccae41a7-dfd5-46c1-84f2-0371eb82b367&uid=6641&cuid=1197"
+   },
+   {
+    "name": "人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccae41a7-dfd5-46c1-84f2-0371eb82b367&uid=6642&cuid=1198"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 經濟案件",
+  "children": [
+   {
+    "name": "件數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4337620a-a32b-43ce-b7ab-9379359179f4&uid=6643&cuid=1199"
+   },
+   {
+    "name": "人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4337620a-a32b-43ce-b7ab-9379359179f4&uid=6644&cuid=1200"
+   },
+   {
+    "name": "估計金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4337620a-a32b-43ce-b7ab-9379359179f4&uid=6645&cuid=1201"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 道路交通事故原因及傷亡人數",
+  "children": [
+   {
+    "name": "肇事原因",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6771b377-df10-4c42-8c36-27763fcce8df&uid=2600&cuid=1202"
+   },
+   {
+    "name": "死傷人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6771b377-df10-4c42-8c36-27763fcce8df&uid=2601&cuid=1203"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 消防人力及裝備",
+  "children": [
+   {
+    "name": "消防人力",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6646&cuid=1204"
+   },
+   {
+    "name": "義消人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6647&cuid=1205"
+   },
+   {
+    "name": "消防車",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6648&cuid=1206"
+   },
+   {
+    "name": "救災車",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6649&cuid=1207"
+   },
+   {
+    "name": "消防勤務車",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6650&cuid=1208"
+   },
+   {
+    "name": "救護車",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=2349&cuid=1209"
+   },
+   {
+    "name": "空氣呼吸器",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6652&cuid=1210"
+   },
+   {
+    "name": "救生艇",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6659&cuid=1211"
+   },
+   {
+    "name": "消防衣",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6651&cuid=1212"
+   },
+   {
+    "name": "破壞器材組",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6656&cuid=1213"
+   },
+   {
+    "name": "空氣壓縮機",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6657&cuid=1214"
+   },
+   {
+    "name": "潛水用裝備",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6661&cuid=1215"
+   },
+   {
+    "name": "橡皮艇",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=6660&cuid=1216"
+   },
+   {
+    "name": "小型幫浦",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c722d3d4-213c-4122-97c9-19e21053d484&uid=9972&cuid=1217"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 火災起火原因及損失情形",
+  "children": [
+   {
+    "name": "起火原因",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6662&cuid=1218"
+   },
+   {
+    "name": "損失情形-死傷人數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6663&cuid=1219"
+   },
+   {
+    "name": "被毀損房屋數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6664&cuid=1220"
+   },
+   {
+    "name": "被毀損車輛數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6665&cuid=1221"
+   },
+   {
+    "name": "財物損失情形",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6666&cuid=1222"
+   },
+   {
+    "name": "被災戶保險戶數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6667&cuid=1223"
+   },
+   {
+    "name": "被災戶保險金額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3961e4e3-2b8c-4fee-be0f-1b8baced3244&uid=6668&cuid=1224"
+   }
+  ]
+ },
+ {
+  "name": "[拾參、社會治安] 辦理調解業務概況",
+  "children": [
+   {
+    "name": "調解委員數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c44587ba-1cdb-4bc3-8e46-89517593f419&uid=6669&cuid=1225"
+   },
+   {
+    "name": "結案件數",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c44587ba-1cdb-4bc3-8e46-89517593f419&uid=6670&cuid=1226"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 平均每戶家庭收支(至112年)",
+  "children": [
+   {
+    "name": "所得收入依所得收入別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2975&cuid=1101"
+   },
+   {
+    "name": "消費支出依消費支出別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2976&cuid=1155"
+   },
+   {
+    "name": "非消費支出依非消費支出別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2977&cuid=1103"
+   },
+   {
+    "name": "可支配所得",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2978&cuid=1104"
+   },
+   {
+    "name": "儲蓄",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2979&cuid=1105"
+   },
+   {
+    "name": "所得總額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6e445b38-32dd-48b6-bf49-28750f575476&uid=2980&cuid=1106"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 平均每戶家庭收支(113年起)",
+  "children": [
+   {
+    "name": "所得收入依所得收入別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2975&cuid=1107"
+   },
+   {
+    "name": "消費支出依消費支出別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2976&cuid=1156"
+   },
+   {
+    "name": "非消費支出依非消費支出別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2977&cuid=1109"
+   },
+   {
+    "name": "可支配所得",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2978&cuid=1110"
+   },
+   {
+    "name": "儲蓄",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2979&cuid=1111"
+   },
+   {
+    "name": "所得總額",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=32446642-0756-431c-ad81-a06b724b0c5c&uid=2980&cuid=1112"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 家庭主要設備普及率(至111年)",
+  "children": [
+   {
+    "name": "家庭主要設備普及率",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c7b622f-f44f-4976-9463-74634c49e4d9&uid=2603&cuid=1146"
+   }
+  ]
+ },
+ {
+  "name": "[拾肆、家庭收支] 家庭主要設備普及率(112年起)",
+  "children": [
+   {
+    "name": "主要設備",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff7c77f8-2857-4b4b-b946-d0e02f24a247&uid=2603&cuid=1149"
+   }
+  ]
+ },
+ {
+  "name": "[拾伍、其他] 郵政機構概況",
+  "children": [
+   {
+    "name": "郵政機構概況依郵政機構別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7e505e79-de8e-4348-9c54-d9c28e76afb6&uid=2636&cuid=1148"
+   }
+  ]
+ },
+ {
+  "name": "[拾伍、其他] 主要觀光遊憩區遊客人次",
+  "children": [
+   {
+    "name": "主要觀光遊憩區遊客人數依觀光遊憩區別分",
+    "url": "https://chcg.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce45f5f9-be91-404c-85ef-7e36f9831322&uid=2635&cuid=1150"
+   }
+  ]
+ }
+]

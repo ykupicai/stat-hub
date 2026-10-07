@@ -1,0 +1,3076 @@
+[
+ {
+  "name": "[所屬機關統計] 稅務局",
+  "children": [
+   {
+    "name": "土地增值稅稅源",
+    "children": [
+     {
+      "name": "按稅率別分",
+      "children": [
+       {
+        "name": "筆數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1233&cuid=1029"
+       },
+       {
+        "name": "面積",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1236&cuid=1030"
+       },
+       {
+        "name": "移轉現值總額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1237&cuid=1031"
+       },
+       {
+        "name": "按物價指數調整後原地價總額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1238&cuid=1032"
+       },
+       {
+        "name": "改良土地費用",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1239&cuid=1033"
+       },
+       {
+        "name": "土地漲價總數額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1240&cuid=1034"
+       },
+       {
+        "name": "查定稅額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1241&cuid=1035"
+       },
+       {
+        "name": "長期持有減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1246&cuid=1036"
+       },
+       {
+        "name": "應納稅額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=1247&cuid=1037"
+       },
+       {
+        "name": "減徵或抵繳-其他減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=5731&cuid=1038"
+       },
+       {
+        "name": "減徵或抵繳-增繳地價稅",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=5734&cuid=1039"
+       },
+       {
+        "name": "減徵或抵繳-重劃減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=5735&cuid=1040"
+       },
+       {
+        "name": "減徵或抵繳-都更減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1db753ed-e3b6-4ff8-b73b-396093c58cf3&uid=5738&cuid=1041"
+       }
+      ]
+     },
+     {
+      "name": "按移轉原因別分",
+      "children": [
+       {
+        "name": "筆數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1248&cuid=1042"
+       },
+       {
+        "name": "面積",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1249&cuid=1043"
+       },
+       {
+        "name": "移轉現值總額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1250&cuid=1044"
+       },
+       {
+        "name": "按物價指數調整後原地價總額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1251&cuid=1045"
+       },
+       {
+        "name": "改良土地費用",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1252&cuid=1046"
+       },
+       {
+        "name": "土地漲價總數額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1253&cuid=1047"
+       },
+       {
+        "name": "查定稅額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1254&cuid=1048"
+       },
+       {
+        "name": "長期持有減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1259&cuid=1049"
+       },
+       {
+        "name": "應納稅額",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=1260&cuid=1050"
+       },
+       {
+        "name": "減徵或抵繳-其他減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=5732&cuid=1051"
+       },
+       {
+        "name": "減徵或抵繳-增繳地價稅",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=5733&cuid=1052"
+       },
+       {
+        "name": "減徵或抵繳-重劃減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=5736&cuid=1053"
+       },
+       {
+        "name": "減徵或抵繳-都更減徵",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c775f35-33f5-46b6-9365-57ebc58afc47&uid=5737&cuid=1054"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "未徵數情形",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22832959-ea5e-42df-99ef-f99d027caa09&uid=1345&cuid=1056"
+     },
+     {
+      "name": "金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=22832959-ea5e-42df-99ef-f99d027caa09&uid=1346&cuid=1057"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 警察局",
+  "children": [
+   {
+    "name": "防空疏散避難設施",
+    "children": [
+     {
+      "name": "數量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7898278a-5634-46b5-8146-1824b543aed8&uid=4022&cuid=1067"
+     },
+     {
+      "name": "容量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7898278a-5634-46b5-8146-1824b543aed8&uid=4020&cuid=1066"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 消防局",
+  "children": [
+   {
+    "name": "消防人力",
+    "children": [
+     {
+      "name": "編制員額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f59ecd48-4602-4537-be65-9ccc2c0c9570&uid=5070&cuid=1068"
+     },
+     {
+      "name": "預算員額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f59ecd48-4602-4537-be65-9ccc2c0c9570&uid=5072&cuid=1069"
+     }
+    ]
+   },
+   {
+    "name": "消防員工傷亡慰問情形",
+    "children": [
+     {
+      "name": "傷亡慰問依分隊別、傷亡別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=764d99f7-d067-4705-a619-7a3db4d4fc21&uid=1230&cuid=1079"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 衛生局",
+  "children": [
+   {
+    "name": "救護車設置現況",
+    "children": [
+     {
+      "name": "救護車設置現況依救護車類型、救護車設置單位分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73f0fa06-2c99-4ad3-8080-164169e311ca&uid=2349&cuid=1080"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 環境保護局",
+  "children": [
+   {
+    "name": "污水下水道系統污染源管理情形",
+    "children": [
+     {
+      "name": "列管系統數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffeaa650-10a6-4be5-8e16-c47233cb984a&uid=3693&cuid=1082"
+     },
+     {
+      "name": "應申請系統數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffeaa650-10a6-4be5-8e16-c47233cb984a&uid=3694&cuid=1083"
+     },
+     {
+      "name": "已核發系統數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffeaa650-10a6-4be5-8e16-c47233cb984a&uid=3695&cuid=1084"
+     },
+     {
+      "name": "應設置系統數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffeaa650-10a6-4be5-8e16-c47233cb984a&uid=3696&cuid=1085"
+     },
+     {
+      "name": "已設置系統數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ffeaa650-10a6-4be5-8e16-c47233cb984a&uid=3697&cuid=1086"
+     }
+    ]
+   },
+   {
+    "name": "事業廢水污染源管理情形",
+    "children": [
+     {
+      "name": "列管家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b63dbd3-6c5b-4843-9cc7-cad4724443ab&uid=3688&cuid=1087"
+     },
+     {
+      "name": "應申請家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b63dbd3-6c5b-4843-9cc7-cad4724443ab&uid=3689&cuid=1088"
+     },
+     {
+      "name": "已核發家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b63dbd3-6c5b-4843-9cc7-cad4724443ab&uid=3690&cuid=1089"
+     },
+     {
+      "name": "應設置家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b63dbd3-6c5b-4843-9cc7-cad4724443ab&uid=3691&cuid=1090"
+     },
+     {
+      "name": "已設置家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b63dbd3-6c5b-4843-9cc7-cad4724443ab&uid=3692&cuid=1091"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 社會及勞動局",
+  "children": [
+   {
+    "name": "合作事業現有工作人員",
+    "children": [
+     {
+      "name": "工作人員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7924f98c-3fbb-469d-8394-25c5b78254ee&uid=1567&cuid=1095"
+     },
+     {
+      "name": "專營合作社-社數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7924f98c-3fbb-469d-8394-25c5b78254ee&uid=1572&cuid=1096"
+     },
+     {
+      "name": "兼營合作社-場數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7924f98c-3fbb-469d-8394-25c5b78254ee&uid=5361&cuid=1097"
+     },
+     {
+      "name": "儲蓄互助社-場數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7924f98c-3fbb-469d-8394-25c5b78254ee&uid=5362&cuid=1098"
+     }
+    ]
+   },
+   {
+    "name": "多重障礙者人數",
+    "children": [
+     {
+      "name": "尚無詳細類別之多障者",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1af6166-af0e-426b-b437-21e27818d321&uid=5681&cuid=1099"
+     },
+     {
+      "name": "多重障礙者人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1af6166-af0e-426b-b437-21e27818d321&uid=5686&cuid=1100"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[所屬機關統計] 文化局",
+  "children": [
+   {
+    "name": "古蹟概況",
+    "children": [
+     {
+      "name": "依古蹟指定別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d96b75b2-a425-41fe-8d0b-28b95f62d435&uid=1875&cuid=1092"
+     },
+     {
+      "name": "依古蹟種類別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d96b75b2-a425-41fe-8d0b-28b95f62d435&uid=1876&cuid=1093"
+     }
+    ]
+   },
+   {
+    "name": "文化局經費概況",
+    "children": [
+     {
+      "name": "經費概況",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=229520a0-c3f0-413c-aff4-76d777b799ab&uid=1990&cuid=1094"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 壹、土地",
+  "children": [
+   {
+    "name": "已登錄土地面積",
+    "children": [
+     {
+      "name": "依用地類別、公有私有分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bcb53ac9-7e96-4835-aeb9-afc6714e2c1e&uid=6386&cuid=1102"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租後承租人承買耕地面積與人數",
+    "children": [
+     {
+      "name": "面積(~109年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=446b358b-5a50-40db-9120-f78221360dfa&uid=8699&cuid=1105"
+     },
+     {
+      "name": "面積(110年~)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=446b358b-5a50-40db-9120-f78221360dfa&uid=6387&cuid=1103"
+     },
+     {
+      "name": "戶數(~109年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=446b358b-5a50-40db-9120-f78221360dfa&uid=8700&cuid=1106"
+     },
+     {
+      "name": "人數(110年~)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=446b358b-5a50-40db-9120-f78221360dfa&uid=6388&cuid=1104"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租成果",
+    "children": [
+     {
+      "name": "佃農戶數(~109年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=8704&cuid=1111"
+     },
+     {
+      "name": "承租人人數(110年~)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=6389&cuid=1107"
+     },
+     {
+      "name": "土地筆數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=6390&cuid=1108"
+     },
+     {
+      "name": "租約件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=6391&cuid=1109"
+     },
+     {
+      "name": "訂約面積(~109年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=8705&cuid=1112"
+     },
+     {
+      "name": "租約面積(110年~)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7c8f6b34-f7f6-410c-970e-96254e373861&uid=6392&cuid=1110"
+     }
+    ]
+   },
+   {
+    "name": "土地徵收面積",
+    "children": [
+     {
+      "name": "補償費用",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64f906ae-f326-495e-b7df-7ab80cc0fa10&uid=6394&cuid=1114"
+     },
+     {
+      "name": "徵收面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=64f906ae-f326-495e-b7df-7ab80cc0fa10&uid=6393&cuid=1113"
+     }
+    ]
+   },
+   {
+    "name": "公地撥用面積",
+    "children": [
+     {
+      "name": "依公地用途別、權屬別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7b619cff-be00-4025-8327-3e00edf67515&uid=6395&cuid=1115"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 貳、人口",
+  "children": [
+   {
+    "name": "現住戶數、人口密度及性比例",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6301&cuid=1116"
+     },
+     {
+      "name": "村里數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6303&cuid=1117"
+     },
+     {
+      "name": "鄰數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6305&cuid=1118"
+     },
+     {
+      "name": "戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6306&cuid=1119"
+     },
+     {
+      "name": "人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6307&cuid=1120"
+     },
+     {
+      "name": "戶量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6308&cuid=1121"
+     },
+     {
+      "name": "人口密度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6309&cuid=1122"
+     },
+     {
+      "name": "性比例",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c37fd74-14bf-428e-84ee-0d2bc412fd28&uid=6310&cuid=1123"
+     }
+    ]
+   },
+   {
+    "name": "戶籍動態",
+    "children": [
+     {
+      "name": "遷入人數依性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6312&cuid=1124"
+     },
+     {
+      "name": "遷入人數依地區別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6315&cuid=1125"
+     },
+     {
+      "name": "遷出人數依性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6316&cuid=1126"
+     },
+     {
+      "name": "遷出人數依地區別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6317&cuid=1127"
+     },
+     {
+      "name": "出生人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6318&cuid=1128"
+     },
+     {
+      "name": "死亡人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6319&cuid=1129"
+     },
+     {
+      "name": "粗出生率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6320&cuid=1130"
+     },
+     {
+      "name": "粗死亡率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6321&cuid=1131"
+     },
+     {
+      "name": "自然增加率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6322&cuid=1132"
+     },
+     {
+      "name": "遷入率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6323&cuid=1133"
+     },
+     {
+      "name": "遷出率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6324&cuid=1134"
+     },
+     {
+      "name": "社會增加率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6328&cuid=1138"
+     },
+     {
+      "name": "結婚對數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6325&cuid=1135"
+     },
+     {
+      "name": "粗結婚率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6329&cuid=1139"
+     },
+     {
+      "name": "離婚對數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6326&cuid=1136"
+     },
+     {
+      "name": "粗離婚率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d0b5eba-6b1d-4717-9fcb-82e472eedba8&uid=6327&cuid=1137"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡分配",
+    "children": [
+     {
+      "name": "依年齡、性別分(每5歲1組)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d4fa3d19-ab85-4dfb-a593-0414c507a95f&uid=6338&cuid=1140"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡結構",
+    "children": [
+     {
+      "name": "幼年人口(未滿15歲)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6340&cuid=1141"
+     },
+     {
+      "name": "幼年人口比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6341&cuid=1142"
+     },
+     {
+      "name": "青壯年人口(15~64歲)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6342&cuid=1143"
+     },
+     {
+      "name": "青壯年人口比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6343&cuid=1144"
+     },
+     {
+      "name": "老年人口(65歲以上)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6344&cuid=1145"
+     },
+     {
+      "name": "老年人口比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6351&cuid=1149"
+     },
+     {
+      "name": "扶老比",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6352&cuid=1150"
+     },
+     {
+      "name": "扶幼比",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6347&cuid=1146"
+     },
+     {
+      "name": "扶養比",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6348&cuid=1147"
+     },
+     {
+      "name": "老化指數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a81a3b6-33b0-4d80-a200-c6f8a913fe79&uid=6349&cuid=1148"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "children": [
+     {
+      "name": "按年齡別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d9f19c7-135c-4f8e-88f8-4546df8a0961&uid=6350&cuid=1630"
+     },
+     {
+      "name": "按鄉鎮市分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d9f19c7-135c-4f8e-88f8-4546df8a0961&uid=6353&cuid=1151"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之婚姻狀況",
+    "children": [
+     {
+      "name": "按鄉鎮市別",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5876182-a89a-49f1-bf5e-13936d894030&uid=6304&cuid=1153"
+     },
+     {
+      "name": "按年齡別",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5876182-a89a-49f1-bf5e-13936d894030&uid=6354&cuid=1154"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民戶口數",
+    "children": [
+     {
+      "name": "戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c283434e-21ff-4da8-a62a-d44a92204570&uid=6355&cuid=1155"
+     },
+     {
+      "name": "人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c283434e-21ff-4da8-a62a-d44a92204570&uid=6356&cuid=1156"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民年齡分配",
+    "children": [
+     {
+      "name": "現住原住民年齡分配",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=480136ff-a8c7-4aec-9ebd-793e358fe65b&uid=6357&cuid=1157"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "children": [
+     {
+      "name": "15歲以上現住原住民教育程度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6150ba44-4991-4e2d-9358-e66d34a45d67&uid=6358&cuid=1158"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民婚姻狀況",
+    "children": [
+     {
+      "name": "現住原住民婚姻狀況",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3cb77e3-fb10-46ea-91c7-2b0e545e2c6a&uid=6359&cuid=1159"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 參、行政組織",
+  "children": [
+   {
+    "name": "各級機關學校正式預算員額",
+    "children": [
+     {
+      "name": "各級機關學校正式預算員額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5169e51a-eb38-4ea6-99b3-6d3701ecbca7&uid=6311&cuid=1160"
+     }
+    ]
+   },
+   {
+    "name": "各級機關學校公教人員",
+    "children": [
+     {
+      "name": "依官等別、性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=60ca8ca5-7fa1-4a47-a00e-c7d6e3e6573b&uid=6313&cuid=1161"
+     },
+     {
+      "name": "依官等別、機關別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=60ca8ca5-7fa1-4a47-a00e-c7d6e3e6573b&uid=6314&cuid=1162"
+     }
+    ]
+   },
+   {
+    "name": "各級機關學校員工總人數",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=532a01f2-7b4a-411a-9041-0ef35e3cfef1&uid=6360&cuid=1163"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=532a01f2-7b4a-411a-9041-0ef35e3cfef1&uid=6361&cuid=1164"
+     }
+    ]
+   },
+   {
+    "name": "各級機關學校公教人員按教育程度分",
+    "children": [
+     {
+      "name": "按教育程度別、機關別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0d6f41c9-f155-4956-a055-e2913e43e11a&uid=6362&cuid=1165"
+     }
+    ]
+   },
+   {
+    "name": "各級機關學校公教人員按年齡分",
+    "children": [
+     {
+      "name": "按年齡、性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59c7b394-f818-4df1-a7d9-1e304946b9d1&uid=6363&cuid=1166"
+     },
+     {
+      "name": "按年齡、機關別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59c7b394-f818-4df1-a7d9-1e304946b9d1&uid=6364&cuid=1167"
+     },
+     {
+      "name": "平均年齡依性別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59c7b394-f818-4df1-a7d9-1e304946b9d1&uid=6365&cuid=1168"
+     },
+     {
+      "name": "平均年齡依機關別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59c7b394-f818-4df1-a7d9-1e304946b9d1&uid=6366&cuid=1169"
+     }
+    ]
+   },
+   {
+    "name": "立法委員區域選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2680d9fd-c38d-4448-bdb0-cfdd033ef4d6&uid=6367&cuid=1170"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2680d9fd-c38d-4448-bdb0-cfdd033ef4d6&uid=6368&cuid=1171"
+     },
+     {
+      "name": "投票數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2680d9fd-c38d-4448-bdb0-cfdd033ef4d6&uid=6369&cuid=1172"
+     },
+     {
+      "name": "當選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2680d9fd-c38d-4448-bdb0-cfdd033ef4d6&uid=6370&cuid=1173"
+     },
+     {
+      "name": "投票率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2680d9fd-c38d-4448-bdb0-cfdd033ef4d6&uid=6371&cuid=1174"
+     }
+    ]
+   },
+   {
+    "name": "縣長選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=003806a3-dcf2-40b5-90c7-046057c5157d&uid=6372&cuid=1175"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=003806a3-dcf2-40b5-90c7-046057c5157d&uid=6373&cuid=1176"
+     },
+     {
+      "name": "投票數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=003806a3-dcf2-40b5-90c7-046057c5157d&uid=6374&cuid=1177"
+     },
+     {
+      "name": "投票率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=003806a3-dcf2-40b5-90c7-046057c5157d&uid=6375&cuid=1178"
+     }
+    ]
+   },
+   {
+    "name": "縣議員選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f91c0db4-d3f2-4b20-9657-a25503427f02&uid=6376&cuid=1179"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f91c0db4-d3f2-4b20-9657-a25503427f02&uid=6377&cuid=1180"
+     },
+     {
+      "name": "投票數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f91c0db4-d3f2-4b20-9657-a25503427f02&uid=6378&cuid=1181"
+     },
+     {
+      "name": "當選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f91c0db4-d3f2-4b20-9657-a25503427f02&uid=6379&cuid=1182"
+     },
+     {
+      "name": "投票率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f91c0db4-d3f2-4b20-9657-a25503427f02&uid=6380&cuid=1183"
+     }
+    ]
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況",
+    "children": [
+     {
+      "name": "選舉人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a1a6c90f-de00-4f34-806e-cceb61109f0f&uid=6381&cuid=1184"
+     },
+     {
+      "name": "候選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a1a6c90f-de00-4f34-806e-cceb61109f0f&uid=6382&cuid=1185"
+     },
+     {
+      "name": "投票數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a1a6c90f-de00-4f34-806e-cceb61109f0f&uid=6383&cuid=1186"
+     },
+     {
+      "name": "當選人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a1a6c90f-de00-4f34-806e-cceb61109f0f&uid=6384&cuid=1187"
+     },
+     {
+      "name": "投票率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a1a6c90f-de00-4f34-806e-cceb61109f0f&uid=6385&cuid=1188"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 肆、農林漁牧",
+  "children": [
+   {
+    "name": "耕地面積",
+    "children": [
+     {
+      "name": "耕地面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8553abe2-9c5c-4c0f-bd46-00844bb05ad1&uid=6396&cuid=1189"
+     }
+    ]
+   },
+   {
+    "name": "農戶人口數",
+    "children": [
+     {
+      "name": "人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7083659f-8113-40bc-a527-f7b577aeaadb&uid=6398&cuid=1191"
+     },
+     {
+      "name": "戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7083659f-8113-40bc-a527-f7b577aeaadb&uid=6397&cuid=1190"
+     }
+    ]
+   },
+   {
+    "name": "稻米收穫面積及生產量",
+    "children": [
+     {
+      "name": "收穫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=862d2442-d691-414c-90ea-a6c0539d6067&uid=6399&cuid=1192"
+     },
+     {
+      "name": "產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=862d2442-d691-414c-90ea-a6c0539d6067&uid=6400&cuid=1193"
+     }
+    ]
+   },
+   {
+    "name": "農產品收穫面積及生產量",
+    "children": [
+     {
+      "name": "雜糧生產-收穫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3104&cuid=1194"
+     },
+     {
+      "name": "雜糧生產-產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3105&cuid=1195"
+     },
+     {
+      "name": "特用作物生產-收穫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3106&cuid=1196"
+     },
+     {
+      "name": "特用作物生產-產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3107&cuid=1197"
+     },
+     {
+      "name": "蔬菜生產-收穫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3108&cuid=1198"
+     },
+     {
+      "name": "蔬菜生產-產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3109&cuid=1199"
+     },
+     {
+      "name": "果品生產-收穫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3110&cuid=1200"
+     },
+     {
+      "name": "果品生產-產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=59d0abda-96dc-4d58-aa6f-09d881ee8a82&uid=3111&cuid=1201"
+     }
+    ]
+   },
+   {
+    "name": "造林面積及數量",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d6ba943b-6a4b-45d1-9bbb-8ee67c5d7444&uid=6401&cuid=1202"
+     },
+     {
+      "name": "數量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d6ba943b-6a4b-45d1-9bbb-8ee67c5d7444&uid=6402&cuid=1203"
+     }
+    ]
+   },
+   {
+    "name": "森林主產物砍伐生產面積及數量",
+    "children": [
+     {
+      "name": "砍伐數量-林木-面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66f5c604-2e96-4f31-a59d-5a6971b44390&uid=3153&cuid=1204"
+     },
+     {
+      "name": "砍伐數量-林木-立木材積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66f5c604-2e96-4f31-a59d-5a6971b44390&uid=3154&cuid=1205"
+     },
+     {
+      "name": "砍伐數量-竹-數量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66f5c604-2e96-4f31-a59d-5a6971b44390&uid=3156&cuid=1206"
+     },
+     {
+      "name": "生產數量-木材",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66f5c604-2e96-4f31-a59d-5a6971b44390&uid=3157&cuid=1207"
+     },
+     {
+      "name": "生產數量-竹",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=66f5c604-2e96-4f31-a59d-5a6971b44390&uid=3158&cuid=1208"
+     }
+    ]
+   },
+   {
+    "name": "漁業從業人員",
+    "children": [
+     {
+      "name": "漁業從業人員",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1dd2cdbe-fc72-4d1c-935d-9c3cff761e83&uid=6403&cuid=1209"
+     }
+    ]
+   },
+   {
+    "name": "漁戶數及漁戶人口數",
+    "children": [
+     {
+      "name": "漁戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d87ab2d-8faa-42f8-8fe4-e15247812efa&uid=6404&cuid=1210"
+     },
+     {
+      "name": "漁戶人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d87ab2d-8faa-42f8-8fe4-e15247812efa&uid=6405&cuid=1211"
+     }
+    ]
+   },
+   {
+    "name": "漁業生產量",
+    "children": [
+     {
+      "name": "產量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f70428db-545d-4c81-b9b4-cfc5601d5b30&uid=6406&cuid=1212"
+     },
+     {
+      "name": "價值",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f70428db-545d-4c81-b9b4-cfc5601d5b30&uid=6407&cuid=1213"
+     }
+    ]
+   },
+   {
+    "name": "水產養殖面積",
+    "children": [
+     {
+      "name": "水產養殖面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7fff79ca-1d59-47e9-aa62-b5dba066f348&uid=6408&cuid=1214"
+     }
+    ]
+   },
+   {
+    "name": "現有家畜數",
+    "children": [
+     {
+      "name": "現有家畜數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=12fdc742-9043-4dad-abc4-d680cb797f77&uid=6409&cuid=1215"
+     }
+    ]
+   },
+   {
+    "name": "家畜屠宰頭數",
+    "children": [
+     {
+      "name": "家畜屠宰頭數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e2af2076-5bc2-4bf3-8c9a-148bc549ea90&uid=6410&cuid=1216"
+     }
+    ]
+   },
+   {
+    "name": "產乳牛頭數及產乳量",
+    "children": [
+     {
+      "name": "全年產乳量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a756862-ddc1-4246-bf1d-96e50eae766d&uid=6413&cuid=1219"
+     },
+     {
+      "name": "年底飼養場數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a756862-ddc1-4246-bf1d-96e50eae766d&uid=6411&cuid=1217"
+     },
+     {
+      "name": "年底經產牛頭數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4a756862-ddc1-4246-bf1d-96e50eae766d&uid=6412&cuid=1218"
+     }
+    ]
+   },
+   {
+    "name": "現有家禽數量",
+    "children": [
+     {
+      "name": "現有家禽數量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dfc544e3-f8fb-4c24-abbc-2a8e4eba6999&uid=6414&cuid=1220"
+     }
+    ]
+   },
+   {
+    "name": "水土保持處理面積",
+    "children": [
+     {
+      "name": "農地水土保持",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6415&cuid=1221"
+     },
+     {
+      "name": "蝕溝控制",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6416&cuid=1222"
+     },
+     {
+      "name": "邊坡穩定",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6417&cuid=1223"
+     },
+     {
+      "name": "排水溝系統(安全排水)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6418&cuid=1224"
+     },
+     {
+      "name": "排水溝系統(其他)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6419&cuid=1225"
+     },
+     {
+      "name": "植生處理(全園植草)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6420&cuid=1226"
+     },
+     {
+      "name": "植生處理(草花種植)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6421&cuid=1227"
+     },
+     {
+      "name": "植生處理(喬、灌木及藤類種植)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6422&cuid=1228"
+     },
+     {
+      "name": "植生處理(其他)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a1a3f58-7a8a-4fb5-a68a-744693a78130&uid=6423&cuid=1229"
+     }
+    ]
+   },
+   {
+    "name": "農路改善及維護工程",
+    "children": [
+     {
+      "name": "工程件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c0d39d5-9b27-4d02-a2e7-5234b2b7f8e9&uid=6424&cuid=1230"
+     },
+     {
+      "name": "道路總長度(改善)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c0d39d5-9b27-4d02-a2e7-5234b2b7f8e9&uid=6425&cuid=1231"
+     },
+     {
+      "name": "道路總長度(維護)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c0d39d5-9b27-4d02-a2e7-5234b2b7f8e9&uid=6426&cuid=1232"
+     },
+     {
+      "name": "總工程費依經費來源別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9c0d39d5-9b27-4d02-a2e7-5234b2b7f8e9&uid=6427&cuid=1233"
+     }
+    ]
+   },
+   {
+    "name": "灌溉排水受益地面積",
+    "children": [
+     {
+      "name": "灌溉排水受益地面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f05e8e43-5812-4337-aa93-f80083b54c2c&uid=6428&cuid=1234"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 伍、工商業及縣建設",
+  "children": [
+   {
+    "name": "營運中工廠家數",
+    "children": [
+     {
+      "name": "營運中工廠家數依行業別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=beaffda2-0eef-42eb-b242-26c17980b587&uid=2984&cuid=1235"
+     }
+    ]
+   },
+   {
+    "name": "商業登記現有家數與資本額",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c5283d45-83f5-4f4e-ad78-c2eb2e4d8fae&uid=6429&cuid=1236"
+     },
+     {
+      "name": "資本額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c5283d45-83f5-4f4e-ad78-c2eb2e4d8fae&uid=6430&cuid=1237"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額--按組織別分",
+    "children": [
+     {
+      "name": "公司登記現有家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47e35091-9f49-4d30-b493-33de66e98628&uid=2990&cuid=1238"
+     },
+     {
+      "name": "公司登記現有資本額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47e35091-9f49-4d30-b493-33de66e98628&uid=2991&cuid=1239"
+     },
+     {
+      "name": "外國公司代表人辦事處",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47e35091-9f49-4d30-b493-33de66e98628&uid=2992&cuid=1240"
+     },
+     {
+      "name": "大陸地區在臺許可辦事處",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47e35091-9f49-4d30-b493-33de66e98628&uid=2993&cuid=1241"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額--按行業別分",
+    "children": [
+     {
+      "name": "家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37c27b30-faec-4f31-9d0e-c03314f9f932&uid=2994&cuid=1242"
+     },
+     {
+      "name": "資本額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37c27b30-faec-4f31-9d0e-c03314f9f932&uid=2995&cuid=1243"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區面積及人口",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48e5e44c-6df2-441c-9c19-c19be1b4eeb5&uid=6449&cuid=1244"
+     },
+     {
+      "name": "計畫人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48e5e44c-6df2-441c-9c19-c19be1b4eeb5&uid=6450&cuid=1245"
+     },
+     {
+      "name": "現況人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48e5e44c-6df2-441c-9c19-c19be1b4eeb5&uid=6451&cuid=1246"
+     },
+     {
+      "name": "計畫人口密度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48e5e44c-6df2-441c-9c19-c19be1b4eeb5&uid=6452&cuid=1247"
+     },
+     {
+      "name": "現況人口密度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48e5e44c-6df2-441c-9c19-c19be1b4eeb5&uid=6453&cuid=1248"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區域內公共工程實施數量",
+    "children": [
+     {
+      "name": "道路",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=674545d8-14d5-410a-82de-2956d351c4c3&uid=6454&cuid=1249"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地計畫面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地計畫面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8797ad75-87aa-4bab-a96d-1b15276fbcba&uid=6455&cuid=1250"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地已闢建面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地已闢建面積",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=50123df8-4f00-458a-b24e-f0fe7499cc12&uid=6456&cuid=1251"
+     }
+    ]
+   },
+   {
+    "name": "核發建築物使用執照總樓地板面積",
+    "children": [
+     {
+      "name": "依土地使用分區別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=62ee7bd2-e3b8-4492-95cd-9c23f0792495&uid=6457&cuid=1252"
+     },
+     {
+      "name": "依構造別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=62ee7bd2-e3b8-4492-95cd-9c23f0792495&uid=6458&cuid=1253"
+     }
+    ]
+   },
+   {
+    "name": "自來水供水普及率",
+    "children": [
+     {
+      "name": "行政區域人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d12c273b-cf72-4d8e-b8db-66a512cde516&uid=2998&cuid=1256"
+     },
+     {
+      "name": "供水區域人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d12c273b-cf72-4d8e-b8db-66a512cde516&uid=2997&cuid=1255"
+     },
+     {
+      "name": "實際供水人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d12c273b-cf72-4d8e-b8db-66a512cde516&uid=2996&cuid=1254"
+     },
+     {
+      "name": "供水普及率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d12c273b-cf72-4d8e-b8db-66a512cde516&uid=6459&cuid=1257"
+     }
+    ]
+   },
+   {
+    "name": "電力供應情形",
+    "children": [
+     {
+      "name": "年底戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d75122bf-2b45-41e3-8ebe-c6a615639236&uid=2999&cuid=1258"
+     },
+     {
+      "name": "售電量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d75122bf-2b45-41e3-8ebe-c6a615639236&uid=3000&cuid=1259"
+     },
+     {
+      "name": "每用戶全年平均用電量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d75122bf-2b45-41e3-8ebe-c6a615639236&uid=3001&cuid=1260"
+     }
+    ]
+   },
+   {
+    "name": "現有河川防洪設施及各項工程實施",
+    "children": [
+     {
+      "name": "現有河川防洪工程設施(堤防)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6481&cuid=1261"
+     },
+     {
+      "name": "現有河川防洪工程設施(護岸)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6482&cuid=1262"
+     },
+     {
+      "name": "環境改善工程(堤防)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6483&cuid=1263"
+     },
+     {
+      "name": "環境改善工程(護岸)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6484&cuid=1264"
+     },
+     {
+      "name": "歲修工程(堤防)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6485&cuid=1265"
+     },
+     {
+      "name": "歲修工程(護岸)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6486&cuid=1266"
+     },
+     {
+      "name": "防災減災工程(堤防)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6487&cuid=1267"
+     },
+     {
+      "name": "防災減災工程(護岸)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6488&cuid=1268"
+     },
+     {
+      "name": "災修及搶修工程(堤防)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6489&cuid=1269"
+     },
+     {
+      "name": "災修及搶修工程(護岸)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=caad45a6-81ec-4d98-8c02-688acfdeca86&uid=6490&cuid=1270"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 陸、金融財稅",
+  "children": [
+   {
+    "name": "金融機構分布",
+    "children": [
+     {
+      "name": "金融機構分布",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2cfdc4d-1423-488d-946c-aa94c85ebb8e&uid=2928&cuid=1271"
+     }
+    ]
+   },
+   {
+    "name": "主要金融機構存放款餘額",
+    "children": [
+     {
+      "name": "存款餘額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dff0976a-cf96-4d9b-9304-c4d6bd498d84&uid=2930&cuid=1272"
+     },
+     {
+      "name": "放款餘額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dff0976a-cf96-4d9b-9304-c4d6bd498d84&uid=2932&cuid=1273"
+     }
+    ]
+   },
+   {
+    "name": "歲入預決算--按來源別分",
+    "children": [
+     {
+      "name": "預算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5dd252d6-6a13-46ee-8929-2c848d6b688c&uid=2933&cuid=1276"
+     },
+     {
+      "name": "決算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5dd252d6-6a13-46ee-8929-2c848d6b688c&uid=2934&cuid=1277"
+     }
+    ]
+   },
+   {
+    "name": "歲出預決算--按政事別分",
+    "children": [
+     {
+      "name": "預算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f16eccd-3cdd-4bb7-9ba6-d125bcd87145&uid=2936&cuid=1278"
+     },
+     {
+      "name": "決算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f16eccd-3cdd-4bb7-9ba6-d125bcd87145&uid=2937&cuid=1773"
+     }
+    ]
+   },
+   {
+    "name": "歷年財政狀況",
+    "children": [
+     {
+      "name": "融資調度需求",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2938&cuid=1280"
+     },
+     {
+      "name": "融資調度財源",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2939&cuid=1281"
+     },
+     {
+      "name": "自有財源比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2940&cuid=1282"
+     },
+     {
+      "name": "賦稅依存度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2941&cuid=1283"
+     },
+     {
+      "name": "補助及協助依存度",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2942&cuid=1284"
+     },
+     {
+      "name": "債務未償餘額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2943&cuid=1285"
+     },
+     {
+      "name": "債務未償餘額占歲出比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38822b74-5ca9-435d-a772-2563f3385f0d&uid=2944&cuid=1286"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐實徵數",
+    "children": [
+     {
+      "name": "各項稅捐實徵數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e4edaa1b-5838-4792-a565-09cf5240922e&uid=2945&cuid=1287"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐納庫數",
+    "children": [
+     {
+      "name": "實徵數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49205fb8-0b0c-4b9f-8119-5076d43ca32e&uid=2946&cuid=1288"
+     },
+     {
+      "name": "納庫數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49205fb8-0b0c-4b9f-8119-5076d43ca32e&uid=2947&cuid=1289"
+     },
+     {
+      "name": "未納庫數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49205fb8-0b0c-4b9f-8119-5076d43ca32e&uid=2948&cuid=1290"
+     }
+    ]
+   },
+   {
+    "name": "各鄉鎮市歲入預決算--按來源別分",
+    "children": [
+     {
+      "name": "預算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=12e2cc01-6a5b-4427-9ff3-a86fb0b4324b&uid=2949&cuid=1291"
+     },
+     {
+      "name": "決算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=12e2cc01-6a5b-4427-9ff3-a86fb0b4324b&uid=2950&cuid=1292"
+     }
+    ]
+   },
+   {
+    "name": "各鄉鎮市歲出預決算--按政事別分",
+    "children": [
+     {
+      "name": "預算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c0659a75-ce1d-40a7-a6d2-00d93fe03c27&uid=2952&cuid=1293"
+     },
+     {
+      "name": "決算",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c0659a75-ce1d-40a7-a6d2-00d93fe03c27&uid=2954&cuid=1294"
+     }
+    ]
+   },
+   {
+    "name": "營業基金及非營業特種基金盈虧(餘絀)",
+    "children": [
+     {
+      "name": "預算數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54c951f7-d604-4f0a-ac81-3cf50ac6a00f&uid=2955&cuid=1295"
+     },
+     {
+      "name": "決算數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54c951f7-d604-4f0a-ac81-3cf50ac6a00f&uid=2956&cuid=1296"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 柒、交通運輸",
+  "children": [
+   {
+    "name": "車輛登記",
+    "children": [
+     {
+      "name": "車輛登記",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3986c7de-f95c-482b-9d0f-28ebbe747040&uid=2591&cuid=1297"
+     }
+    ]
+   },
+   {
+    "name": "公路里程概況",
+    "children": [
+     {
+      "name": "公路里程概況",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=483d5013-3560-4e8c-82ce-b1dec9dbd20f&uid=2592&cuid=1298"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 捌、教育文化",
+  "children": [
+   {
+    "name": "境內高等教育概況",
+    "children": [
+     {
+      "name": "大學",
+      "children": [
+       {
+        "name": "系所數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6a6c75b-58e6-43d1-a861-36c4b69b86e1&uid=2673&cuid=1299"
+       },
+       {
+        "name": "教職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6a6c75b-58e6-43d1-a861-36c4b69b86e1&uid=2674&cuid=1300"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6a6c75b-58e6-43d1-a861-36c4b69b86e1&uid=2675&cuid=1631"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6a6c75b-58e6-43d1-a861-36c4b69b86e1&uid=2676&cuid=1302"
+       }
+      ]
+     },
+     {
+      "name": "專科",
+      "children": [
+       {
+        "name": "校數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e01c2e6a-40b6-4ff0-b743-2c66223d10f4&uid=2677&cuid=1303"
+       },
+       {
+        "name": "教職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e01c2e6a-40b6-4ff0-b743-2c66223d10f4&uid=2678&cuid=1304"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e01c2e6a-40b6-4ff0-b743-2c66223d10f4&uid=2679&cuid=1305"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e01c2e6a-40b6-4ff0-b743-2c66223d10f4&uid=2680&cuid=1306"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "境內高級中等學校概況",
+    "children": [
+     {
+      "name": "校數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2681&cuid=1307"
+     },
+     {
+      "name": "教師數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2682&cuid=1308"
+     },
+     {
+      "name": "職員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2683&cuid=1309"
+     },
+     {
+      "name": "班級數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2684&cuid=1310"
+     },
+     {
+      "name": "學生數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2685&cuid=1311"
+     },
+     {
+      "name": "上學年度畢業生數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eca0328d-c1c5-484f-ad4d-8b1e9f6a949d&uid=2686&cuid=1312"
+     }
+    ]
+   },
+   {
+    "name": "境內國民中學概況",
+    "children": [
+     {
+      "name": "按鄉鎮市分",
+      "children": [
+       {
+        "name": "校數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2698&cuid=1746"
+       },
+       {
+        "name": "教師數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2699&cuid=1747"
+       },
+       {
+        "name": "職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2700&cuid=1748"
+       },
+       {
+        "name": "班級數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2701&cuid=1749"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2702&cuid=1750"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1234f2a6-ce68-4cd1-a952-d9ac1e53a620&uid=2703&cuid=1751"
+       }
+      ]
+     },
+     {
+      "name": "按設立別分",
+      "children": [
+       {
+        "name": "校數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2698&cuid=1752"
+       },
+       {
+        "name": "教師數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2699&cuid=1753"
+       },
+       {
+        "name": "職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2700&cuid=1754"
+       },
+       {
+        "name": "班級數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2701&cuid=1755"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2702&cuid=1756"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e42ea76-363a-4b28-9207-a6403f7da704&uid=2703&cuid=1757"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "境內國民小學概況",
+    "children": [
+     {
+      "name": "按鄉鎮市分",
+      "children": [
+       {
+        "name": "校數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2704&cuid=1758"
+       },
+       {
+        "name": "教師數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2705&cuid=1759"
+       },
+       {
+        "name": "職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2706&cuid=1760"
+       },
+       {
+        "name": "班級數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2707&cuid=1761"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2708&cuid=1762"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e03efeaf-664e-4da0-bb71-9c269ac5ac50&uid=2709&cuid=1763"
+       }
+      ]
+     },
+     {
+      "name": "按設立別分",
+      "children": [
+       {
+        "name": "校數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2704&cuid=1764"
+       },
+       {
+        "name": "教師數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2705&cuid=1765"
+       },
+       {
+        "name": "職員數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2706&cuid=1766"
+       },
+       {
+        "name": "班級數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2707&cuid=1767"
+       },
+       {
+        "name": "學生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2708&cuid=1768"
+       },
+       {
+        "name": "上學年度畢業生數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ef02b53-a5dd-48c0-a250-30c6ae9390ed&uid=2709&cuid=1769"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "境內幼兒園概況",
+    "children": [
+     {
+      "name": "園數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2300ac5-ff60-4c63-be62-f6bda9477505&uid=2710&cuid=1325"
+     },
+     {
+      "name": "教職員工人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2300ac5-ff60-4c63-be62-f6bda9477505&uid=2711&cuid=1326"
+     },
+     {
+      "name": "學生數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2300ac5-ff60-4c63-be62-f6bda9477505&uid=2712&cuid=1327"
+     }
+    ]
+   },
+   {
+    "name": "境內各級補校概況",
+    "children": [
+     {
+      "name": "校數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e41c4bb1-52a6-400a-9a33-29e04b0d4278&uid=2713&cuid=1328"
+     },
+     {
+      "name": "班級數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e41c4bb1-52a6-400a-9a33-29e04b0d4278&uid=2714&cuid=1329"
+     },
+     {
+      "name": "學生數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e41c4bb1-52a6-400a-9a33-29e04b0d4278&uid=2715&cuid=1330"
+     },
+     {
+      "name": "上學年度畢業生",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e41c4bb1-52a6-400a-9a33-29e04b0d4278&uid=2716&cuid=1331"
+     }
+    ]
+   },
+   {
+    "name": "短期補習班概況",
+    "children": [
+     {
+      "name": "依補習類別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1cbee67-5c0a-4a41-b952-553c2bf7f1c2&uid=2717&cuid=1332"
+     }
+    ]
+   },
+   {
+    "name": "國中小學中途輟學學生概況",
+    "children": [
+     {
+      "name": "輟學人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2718&cuid=1333"
+     },
+     {
+      "name": "輟學率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2724&cuid=1334"
+     },
+     {
+      "name": "復學率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2732&cuid=1335"
+     },
+     {
+      "name": "原住民輟學人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2736&cuid=1336"
+     },
+     {
+      "name": "原住民輟學率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2738&cuid=1337"
+     },
+     {
+      "name": "原住民復學率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f2854939-a3b7-412c-b56e-e1b020f0afc3&uid=2739&cuid=1338"
+     }
+    ]
+   },
+   {
+    "name": "國民中學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "檢查人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=121631fd-8f47-400e-acf3-c26b8b627a8c&uid=2740&cuid=1339"
+     },
+     {
+      "name": "視力不良人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=121631fd-8f47-400e-acf3-c26b8b627a8c&uid=2741&cuid=1340"
+     },
+     {
+      "name": "視力不良率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=121631fd-8f47-400e-acf3-c26b8b627a8c&uid=6491&cuid=1341"
+     }
+    ]
+   },
+   {
+    "name": "國民小學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "檢查人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bff22846-10b3-4c54-b46e-033a4375629d&uid=2742&cuid=1342"
+     },
+     {
+      "name": "視力不良人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bff22846-10b3-4c54-b46e-033a4375629d&uid=2743&cuid=1343"
+     },
+     {
+      "name": "視力不良率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bff22846-10b3-4c54-b46e-033a4375629d&uid=6510&cuid=1344"
+     }
+    ]
+   },
+   {
+    "name": "公立公共圖書館概況",
+    "children": [
+     {
+      "name": "圖書資料收藏數-圖書",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d979a5f2-7e54-47f1-974d-fb7d3b6b46e0&uid=2744&cuid=1345"
+     },
+     {
+      "name": "圖書資料收藏數-期刊",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d979a5f2-7e54-47f1-974d-fb7d3b6b46e0&uid=2981&cuid=1349"
+     },
+     {
+      "name": "電子書收藏數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d979a5f2-7e54-47f1-974d-fb7d3b6b46e0&uid=2745&cuid=1346"
+     },
+     {
+      "name": "圖書資訊借閱人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d979a5f2-7e54-47f1-974d-fb7d3b6b46e0&uid=2746&cuid=1347"
+     },
+     {
+      "name": "圖書資訊借閱冊數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d979a5f2-7e54-47f1-974d-fb7d3b6b46e0&uid=2747&cuid=1348"
+     }
+    ]
+   },
+   {
+    "name": "各項藝文展演活動",
+    "children": [
+     {
+      "name": "場次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b9488ac-45bf-4198-b412-b37cb2651b5f&uid=2748&cuid=1350"
+     },
+     {
+      "name": "出席人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b9488ac-45bf-4198-b412-b37cb2651b5f&uid=2749&cuid=1351"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 玖、衛生",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業醫事人員數",
+    "children": [
+     {
+      "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5175096e-632e-435a-a7a1-f736f6b97558&uid=3071&cuid=1352"
+     }
+    ]
+   },
+   {
+    "name": "醫療院所數及各類病床數、救護車輛數",
+    "children": [
+     {
+      "name": "院所家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3072&cuid=1353"
+     },
+     {
+      "name": "醫院家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3073&cuid=1354"
+     },
+     {
+      "name": "診所家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3074&cuid=1355"
+     },
+     {
+      "name": "醫療院所病床數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3075&cuid=1356"
+     },
+     {
+      "name": "醫院開放病床數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3076&cuid=1357"
+     },
+     {
+      "name": "精神科日間照護人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3077&cuid=1358"
+     },
+     {
+      "name": "診所病床數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=84e19160-dbcf-4329-a4c0-5c4f2613b6a1&uid=3078&cuid=1359"
+     }
+    ]
+   },
+   {
+    "name": "預防接種工作",
+    "children": [
+     {
+      "name": "預防接種工作人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67d74fb0-f71d-4b90-9c9d-5dc9592bf3fa&uid=3080&cuid=1361"
+     }
+    ]
+   },
+   {
+    "name": "法定傳染病病例人數",
+    "children": [
+     {
+      "name": "確定病例",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9fccafe4-b132-4e3b-95e2-0b6aef65167c&uid=3081&cuid=1362"
+     },
+     {
+      "name": "報告病例",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9fccafe4-b132-4e3b-95e2-0b6aef65167c&uid=3082&cuid=1363"
+     }
+    ]
+   },
+   {
+    "name": "藥商家數",
+    "children": [
+     {
+      "name": "藥商家數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=efe1a345-00be-4c6f-a49f-d8e6e19f708a&uid=3083&cuid=1364"
+     }
+    ]
+   },
+   {
+    "name": "營業衛生管理稽核概況-按稽查家次分",
+    "children": [
+     {
+      "name": "營業衛生管理稽核概況",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=28874c85-0930-4827-b24c-837dfda18f72&uid=6515&cuid=1365"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾、環境保護",
+  "children": [
+   {
+    "name": "環境空氣品質",
+    "children": [
+     {
+      "name": "年底監測站數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3088&cuid=1366"
+     },
+     {
+      "name": "人工測站-總懸浮微粒",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3089&cuid=1367"
+     },
+     {
+      "name": "人工測站-鉛",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3090&cuid=1368"
+     },
+     {
+      "name": "人工測站-落塵量",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3091&cuid=1369"
+     },
+     {
+      "name": "自動測站-粒徑10微米以下之懸浮微粒",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3092&cuid=1370"
+     },
+     {
+      "name": "自動測站-二氧化硫",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3093&cuid=1371"
+     },
+     {
+      "name": "自動測站-一氧化碳",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3094&cuid=1372"
+     },
+     {
+      "name": "自動測站-二氧化氮",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3095&cuid=1373"
+     },
+     {
+      "name": "自動測站-非甲烷碳氫化合物",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3096&cuid=1374"
+     },
+     {
+      "name": "自動測站-臭氧",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2e6982ac-0eb9-4da9-b006-da4486b14fbb&uid=3097&cuid=1375"
+     }
+    ]
+   },
+   {
+    "name": "一般地區環境音量監測不合格情形",
+    "children": [
+     {
+      "name": "年底監測站數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588f33a6-aee3-466c-9469-d6985af1dc2c&uid=6516&cuid=1376"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588f33a6-aee3-466c-9469-d6985af1dc2c&uid=6517&cuid=1377"
+     },
+     {
+      "name": "不合格率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588f33a6-aee3-466c-9469-d6985af1dc2c&uid=6518&cuid=1378"
+     }
+    ]
+   },
+   {
+    "name": "道路交通音量監測不合格情形",
+    "children": [
+     {
+      "name": "年底監測站數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc803dd6-8253-4f3f-baf0-843707d8c811&uid=6519&cuid=1379"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc803dd6-8253-4f3f-baf0-843707d8c811&uid=6520&cuid=1380"
+     },
+     {
+      "name": "不合格率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc803dd6-8253-4f3f-baf0-843707d8c811&uid=6521&cuid=1381"
+     }
+    ]
+   },
+   {
+    "name": "公害陳情受理案件",
+    "children": [
+     {
+      "name": "公害陳情受理案件",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1a6b3e69-fc70-47fb-ab51-d0ee12a8e490&uid=3280&cuid=1382"
+     }
+    ]
+   },
+   {
+    "name": "環保稽查(查核)概況",
+    "children": [
+     {
+      "name": "稽查次數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6522&cuid=1383"
+     },
+     {
+      "name": "罰鍰次數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6523&cuid=1384"
+     },
+     {
+      "name": "罰鍰金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6524&cuid=1385"
+     },
+     {
+      "name": "實收罰鍰",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6525&cuid=1386"
+     },
+     {
+      "name": "年底稽查(查核)人力-環保局",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6526&cuid=1387"
+     },
+     {
+      "name": "年底稽查(查核)人力-委外協辦",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cae38f9-8c4b-4ff8-8613-3e21034bc996&uid=6527&cuid=1388"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾壹、社會福利",
+  "children": [
+   {
+    "name": "各級人民團體數",
+    "children": [
+     {
+      "name": "職業團體",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00da6f9b-7be2-4382-a63a-69409ae65c02&uid=3005&cuid=1389"
+     },
+     {
+      "name": "社會團體",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00da6f9b-7be2-4382-a63a-69409ae65c02&uid=3006&cuid=1390"
+     }
+    ]
+   },
+   {
+    "name": "宗教教務概況",
+    "children": [
+     {
+      "name": "寺廟教堂數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a10d52f8-edc9-4e09-9991-e1ab0664f742&uid=3013&cuid=1391"
+     },
+     {
+      "name": "信徒人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a10d52f8-edc9-4e09-9991-e1ab0664f742&uid=3014&cuid=1392"
+     }
+    ]
+   },
+   {
+    "name": "宗教社會服務概況",
+    "children": [
+     {
+      "name": "醫療構構",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ee693d-1e9b-44f6-b4ad-f50ffa03ed37&uid=6528&cuid=1393"
+     },
+     {
+      "name": "文教機構",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ee693d-1e9b-44f6-b4ad-f50ffa03ed37&uid=6529&cuid=1394"
+     },
+     {
+      "name": "公益慈善事業",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ee693d-1e9b-44f6-b4ad-f50ffa03ed37&uid=6530&cuid=1395"
+     }
+    ]
+   },
+   {
+    "name": "合作社概況",
+    "children": [
+     {
+      "name": "社數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=553d139e-7698-4bb5-8972-17f8c5292d85&uid=6531&cuid=1396"
+     },
+     {
+      "name": "社員",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=553d139e-7698-4bb5-8972-17f8c5292d85&uid=6532&cuid=1397"
+     },
+     {
+      "name": "股金總額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=553d139e-7698-4bb5-8972-17f8c5292d85&uid=6533&cuid=1398"
+     }
+    ]
+   },
+   {
+    "name": "推行社區發展工作成果",
+    "children": [
+     {
+      "name": "社區發展協會數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6534&cuid=1399"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6535&cuid=1400"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6536&cuid=1401"
+     },
+     {
+      "name": "理監事人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6537&cuid=1402"
+     },
+     {
+      "name": "社區發展協會會員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6538&cuid=1403"
+     },
+     {
+      "name": "設置社區生產建設基金",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6539&cuid=1404"
+     },
+     {
+      "name": "實際使用經費依經費別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6540&cuid=1405"
+     },
+     {
+      "name": "社區活動中心",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c70eb463-23f7-446c-9f1e-8f959d26e5d9&uid=6541&cuid=1406"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙人數",
+    "children": [
+     {
+      "name": "領有舊制身心障礙手冊",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=123a65ec-1a12-4090-a1c3-2d9e9a4f78db&uid=6555&cuid=1420"
+     },
+     {
+      "name": "領有新制身心障礙手冊",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=123a65ec-1a12-4090-a1c3-2d9e9a4f78db&uid=6556&cuid=1421"
+     },
+     {
+      "name": "身心障礙人數占總人口比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=123a65ec-1a12-4090-a1c3-2d9e9a4f78db&uid=6557&cuid=1422"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙福利服務概況",
+    "children": [
+     {
+      "name": "身心障礙福利服務機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6558&cuid=1423"
+     },
+     {
+      "name": "身心障礙福利服務機構實際安置人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6559&cuid=1424"
+     },
+     {
+      "name": "生活補助人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6560&cuid=1425"
+     },
+     {
+      "name": "生活補助金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6561&cuid=1426"
+     },
+     {
+      "name": "生活輔助器具補助人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6562&cuid=1427"
+     },
+     {
+      "name": "生活輔助器具補助金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6563&cuid=1428"
+     },
+     {
+      "name": "日間照顧及住宿式照顧補助人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6564&cuid=1429"
+     },
+     {
+      "name": "日間照顧及住宿式照顧補助金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09ec2d5d-069a-4fea-8a10-1c6d69ce1437&uid=6565&cuid=1430"
+     }
+    ]
+   },
+   {
+    "name": "低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6566&cuid=1442"
+     },
+     {
+      "name": "戶數-占全縣總戶數比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3069&cuid=1431"
+     },
+     {
+      "name": "人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6567&cuid=1443"
+     },
+     {
+      "name": "人數-占全縣總人口數比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3070&cuid=1432"
+     },
+     {
+      "name": "家庭生活扶助-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3257&cuid=1433"
+     },
+     {
+      "name": "家庭生活扶助-戶次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3258&cuid=1434"
+     },
+     {
+      "name": "家庭生活扶助-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3259&cuid=1435"
+     },
+     {
+      "name": "就學生活補助-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6568&cuid=1444"
+     },
+     {
+      "name": "就學生活補助-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6569&cuid=1445"
+     },
+     {
+      "name": "輔導就業服務-就業服務-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3262&cuid=1438"
+     },
+     {
+      "name": "輔導就業服務-職業訓練-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3263&cuid=1439"
+     },
+     {
+      "name": "輔導就業服務-以工代賑-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3264&cuid=1440"
+     },
+     {
+      "name": "輔導就業服務-以工代賑-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3265&cuid=1441"
+     },
+     {
+      "name": "教育補助-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6570&cuid=1446"
+     },
+     {
+      "name": "教育補助-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6571&cuid=1447"
+     },
+     {
+      "name": "喪葬補助-人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6572&cuid=1448"
+     },
+     {
+      "name": "喪葬補助-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6573&cuid=1449"
+     },
+     {
+      "name": "節日慰問-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6574&cuid=1450"
+     },
+     {
+      "name": "節日慰問-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=6575&cuid=1451"
+     },
+     {
+      "name": "其他補助-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3260&cuid=1436"
+     },
+     {
+      "name": "其他補助-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a3515335-8bc2-446b-b4e3-ba4d426cb438&uid=3261&cuid=1437"
+     }
+    ]
+   },
+   {
+    "name": "中低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6576&cuid=1452"
+     },
+     {
+      "name": "戶數占全縣總戶數比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6577&cuid=1453"
+     },
+     {
+      "name": "人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6578&cuid=1454"
+     },
+     {
+      "name": "人數占全縣總人口比率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6579&cuid=1455"
+     },
+     {
+      "name": "生活扶助項目-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6580&cuid=1456"
+     },
+     {
+      "name": "生活扶助項目-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6581&cuid=1457"
+     },
+     {
+      "name": "輔導就業服務-就業服務人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6582&cuid=1458"
+     },
+     {
+      "name": "輔導就業服務-職業訓練人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6583&cuid=1459"
+     },
+     {
+      "name": "輔導就業服務-以工代賑人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6584&cuid=1460"
+     },
+     {
+      "name": "輔導就業服務-以工代賑金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0de07a5f-6bd6-408c-86c7-886c0eabae82&uid=6585&cuid=1461"
+     }
+    ]
+   },
+   {
+    "name": "中低收入老人生活津貼與老農津貼",
+    "children": [
+     {
+      "name": "中低收入老人生活津貼-人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588598b3-9006-4682-a480-a2e610171d06&uid=3035&cuid=1462"
+     },
+     {
+      "name": "中低收入老人生活津貼-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588598b3-9006-4682-a480-a2e610171d06&uid=3036&cuid=1463"
+     },
+     {
+      "name": "老農津貼-人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588598b3-9006-4682-a480-a2e610171d06&uid=6586&cuid=1465"
+     },
+     {
+      "name": "老農津貼-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588598b3-9006-4682-a480-a2e610171d06&uid=6587&cuid=1466"
+     },
+     {
+      "name": "中低收入老人生活津貼與老農津貼受益人數占65歲以上人口比例",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=588598b3-9006-4682-a480-a2e610171d06&uid=3037&cuid=1464"
+     }
+    ]
+   },
+   {
+    "name": "辦理急難救助概況",
+    "children": [
+     {
+      "name": "救助人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf32a46c-1113-4956-9028-ba88bd44c551&uid=6588&cuid=1467"
+     },
+     {
+      "name": "救助金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cf32a46c-1113-4956-9028-ba88bd44c551&uid=6589&cuid=1468"
+     }
+    ]
+   },
+   {
+    "name": "遭受災害救助情形",
+    "children": [
+     {
+      "name": "災害次數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=3038&cuid=1469"
+     },
+     {
+      "name": "收容所-所數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6590&cuid=1470"
+     },
+     {
+      "name": "收容所-臨時收容災民數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6591&cuid=1471"
+     },
+     {
+      "name": "受災人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6592&cuid=1472"
+     },
+     {
+      "name": "安遷救助-戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6593&cuid=1473"
+     },
+     {
+      "name": "安遷救助-人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6594&cuid=1474"
+     },
+     {
+      "name": "財物受損影響生計者",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6595&cuid=1475"
+     },
+     {
+      "name": "救助金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=91fd8769-4351-45ff-ba8c-c125c4929cdc&uid=6596&cuid=1476"
+     }
+    ]
+   },
+   {
+    "name": "遊民人數及處理情形",
+    "children": [
+     {
+      "name": "受理或查報遊民人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53d57d19-dfdd-4c24-9d83-941477c17f60&uid=6597&cuid=1477"
+     },
+     {
+      "name": "處理遊民情形",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53d57d19-dfdd-4c24-9d83-941477c17f60&uid=6598&cuid=1478"
+     }
+    ]
+   },
+   {
+    "name": "老人福利服務概況",
+    "children": [
+     {
+      "name": "老人福利服務(文康)中心",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c3363503-faec-4596-baa2-958a3dff4725&uid=6602&cuid=1479"
+     }
+    ]
+   },
+   {
+    "name": "兒童及少年福利服務概況",
+    "children": [
+     {
+      "name": "安置及教養機構-機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6606&cuid=1487"
+     },
+     {
+      "name": "安置及教養機構-現有收容人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6607&cuid=1488"
+     },
+     {
+      "name": "心理輔導或家庭諮詢-機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6608&cuid=1489"
+     },
+     {
+      "name": "心理輔導或家庭諮詢機構-服務人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6609&cuid=1490"
+     },
+     {
+      "name": "福利服務中心-機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6610&cuid=1491"
+     },
+     {
+      "name": "福利服務中心-服務人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6611&cuid=1492"
+     },
+     {
+      "name": "寄養家庭-戶數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6612&cuid=1493"
+     },
+     {
+      "name": "寄養兒童及少年-人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6613&cuid=1494"
+     },
+     {
+      "name": "弱勢兒童及少年-人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6614&cuid=1495"
+     },
+     {
+      "name": "弱勢兒童及少年-金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cdb9cb15-f1f6-4bea-b716-b5414164a3ae&uid=6615&cuid=1496"
+     }
+    ]
+   },
+   {
+    "name": "婦女福利服務概況",
+    "children": [
+     {
+      "name": "婦女福利服務中心機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6616&cuid=1497"
+     },
+     {
+      "name": "婦女中途之家、庇護中心機構數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6617&cuid=1498"
+     },
+     {
+      "name": "婦女中途之家、庇護中心收容個案數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6618&cuid=1499"
+     },
+     {
+      "name": "諮詢服務",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6619&cuid=1500"
+     },
+     {
+      "name": "個案管理服務",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6620&cuid=1501"
+     },
+     {
+      "name": "辦理次數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6621&cuid=1502"
+     },
+     {
+      "name": "參加人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d2e26b-f4d3-4859-be50-5e03ecc6e07c&uid=6622&cuid=1503"
+     }
+    ]
+   },
+   {
+    "name": "特殊境遇家庭扶助服務概況",
+    "children": [
+     {
+      "name": "人次",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b29713fe-d6d6-4fe8-9415-5aae51b8c7ee&uid=6623&cuid=1504"
+     },
+     {
+      "name": "金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b29713fe-d6d6-4fe8-9415-5aae51b8c7ee&uid=6624&cuid=1505"
+     }
+    ]
+   },
+   {
+    "name": "性侵害通報案件",
+    "children": [
+     {
+      "name": "通報件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e0337d94-700a-457b-b9b7-c6bbf65264d4&uid=3007&cuid=1507"
+     },
+     {
+      "name": "被害人",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e0337d94-700a-457b-b9b7-c6bbf65264d4&uid=3008&cuid=1508"
+     },
+     {
+      "name": "被害人",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e0337d94-700a-457b-b9b7-c6bbf65264d4&uid=3009&cuid=1509"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾貳、勞工行政",
+  "children": [
+   {
+    "name": "勞資爭議案件",
+    "children": [
+     {
+      "name": "爭議件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=83bdb1f3-220f-46f7-84d2-6153a41d7e87&uid=2914&cuid=1510"
+     },
+     {
+      "name": "爭議人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=83bdb1f3-220f-46f7-84d2-6153a41d7e87&uid=2915&cuid=1511"
+     },
+     {
+      "name": "主要爭議類別",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=83bdb1f3-220f-46f7-84d2-6153a41d7e87&uid=2916&cuid=1512"
+     },
+     {
+      "name": "爭議終結案件",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=83bdb1f3-220f-46f7-84d2-6153a41d7e87&uid=6626&cuid=1513"
+     }
+    ]
+   },
+   {
+    "name": "勞工團體概況",
+    "children": [
+     {
+      "name": "工會數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5873734-17be-4564-a79e-f55368ae18e8&uid=2924&cuid=1516"
+     },
+     {
+      "name": "團體會員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5873734-17be-4564-a79e-f55368ae18e8&uid=2923&cuid=1515"
+     },
+     {
+      "name": "會員人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d5873734-17be-4564-a79e-f55368ae18e8&uid=2922&cuid=1514"
+     }
+    ]
+   },
+   {
+    "name": "事業單位團體協約及勞資會議概況",
+    "children": [
+     {
+      "name": "團體協約",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5ffc5ecb-e247-4357-9923-63c397c13f30&uid=2925&cuid=1517"
+     },
+     {
+      "name": "勞資會議",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5ffc5ecb-e247-4357-9923-63c397c13f30&uid=2926&cuid=1518"
+     }
+    ]
+   },
+   {
+    "name": "勞工服務中心服務概況",
+    "children": [
+     {
+      "name": "按服務性質分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=859b4331-ce8b-49fc-a17e-82621bab862d&uid=6627&cuid=1519"
+     },
+     {
+      "name": "按服務類別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=859b4331-ce8b-49fc-a17e-82621bab862d&uid=6628&cuid=1520"
+     }
+    ]
+   },
+   {
+    "name": "勞工教育及志願服務概況",
+    "children": [
+     {
+      "name": "勞工教育",
+      "children": [
+       {
+        "name": "提撥勞工教育經費",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=03a6a40d-661d-43d0-9c4f-b9122cea193b&uid=6629&cuid=1521"
+       },
+       {
+        "name": "勞工教育班數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=03a6a40d-661d-43d0-9c4f-b9122cea193b&uid=6630&cuid=1522"
+       },
+       {
+        "name": "勞工刊物",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=03a6a40d-661d-43d0-9c4f-b9122cea193b&uid=6631&cuid=1523"
+       }
+      ]
+     },
+     {
+      "name": "志願服務性團體",
+      "children": [
+       {
+        "name": "志願服務隊數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37da3f2b-c933-42e1-ae07-374f1ef50255&uid=6632&cuid=1524"
+       },
+       {
+        "name": "志願服務人數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37da3f2b-c933-42e1-ae07-374f1ef50255&uid=6633&cuid=1525"
+       },
+       {
+        "name": "志願服務總時數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37da3f2b-c933-42e1-ae07-374f1ef50255&uid=6634&cuid=1526"
+       },
+       {
+        "name": "志願服務總人次",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37da3f2b-c933-42e1-ae07-374f1ef50255&uid=6635&cuid=1527"
+       },
+       {
+        "name": "志願服務訓練總時數",
+        "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37da3f2b-c933-42e1-ae07-374f1ef50255&uid=6636&cuid=1528"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "職工福利概況",
+    "children": [
+     {
+      "name": "已設立單位數(年底)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a448dd-704a-4757-ae9b-882d7430170e&uid=6637&cuid=1529"
+     },
+     {
+      "name": "新設立單位數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a448dd-704a-4757-ae9b-882d7430170e&uid=6638&cuid=1530"
+     },
+     {
+      "name": "新設立職工福利金提撥金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a448dd-704a-4757-ae9b-882d7430170e&uid=6639&cuid=1531"
+     },
+     {
+      "name": "新設立職工福利金受益人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47a448dd-704a-4757-ae9b-882d7430170e&uid=6640&cuid=1532"
+     }
+    ]
+   },
+   {
+    "name": "勞工保險各類投保單位數及人數",
+    "children": [
+     {
+      "name": "投保單位數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=07868c67-4080-4ac5-be07-a5d8ea1fe5a9&uid=2929&cuid=1533"
+     },
+     {
+      "name": "各類投保人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=07868c67-4080-4ac5-be07-a5d8ea1fe5a9&uid=2935&cuid=1534"
+     }
+    ]
+   },
+   {
+    "name": "有效聘僱許可移工人數",
+    "children": [
+     {
+      "name": "有效聘僱許可移工人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f5603fac-a973-408e-a377-1089891bb407&uid=8870&cuid=1775"
+     }
+    ]
+   },
+   {
+    "name": "人力資源調查結果重要指標",
+    "children": [
+     {
+      "name": "總人口",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2951&cuid=1536"
+     },
+     {
+      "name": "15歲以上民間人口",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2953&cuid=1537"
+     },
+     {
+      "name": "勞動力",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2957&cuid=1538"
+     },
+     {
+      "name": "非勞動力",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2958&cuid=1539"
+     },
+     {
+      "name": "勞動力參與率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2959&cuid=1540"
+     },
+     {
+      "name": "失業率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=147d1620-4cdd-48bf-8722-a3bd9a349f99&uid=2960&cuid=1541"
+     }
+    ]
+   },
+   {
+    "name": "勞動力之年齡分配",
+    "children": [
+     {
+      "name": "勞動力依年齡別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=47c92468-b382-41e1-8fc0-0952ff092b7b&uid=2961&cuid=1542"
+     }
+    ]
+   },
+   {
+    "name": "就業者",
+    "children": [
+     {
+      "name": "依行業別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b0c2b90d-3e8c-48ca-b80e-f48c0d581fa7&uid=2963&cuid=1543"
+     },
+     {
+      "name": "依職業別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b0c2b90d-3e8c-48ca-b80e-f48c0d581fa7&uid=2964&cuid=1544"
+     },
+     {
+      "name": "依教育程度分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b0c2b90d-3e8c-48ca-b80e-f48c0d581fa7&uid=2965&cuid=1545"
+     },
+     {
+      "name": "依年齡別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b0c2b90d-3e8c-48ca-b80e-f48c0d581fa7&uid=2966&cuid=1546"
+     }
+    ]
+   },
+   {
+    "name": "失業者",
+    "children": [
+     {
+      "name": "依教育程度分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71e608a-6f8b-4965-b9bf-8887ddd0cad4&uid=2967&cuid=1547"
+     },
+     {
+      "name": "依年齡別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c71e608a-6f8b-4965-b9bf-8887ddd0cad4&uid=2968&cuid=1548"
+     }
+    ]
+   },
+   {
+    "name": "經指定填報職業災害統計之事業單位概況",
+    "children": [
+     {
+      "name": "陳報事業單位數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2969&cuid=1549"
+     },
+     {
+      "name": "工作者數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2970&cuid=1550"
+     },
+     {
+      "name": "總工作日數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2971&cuid=1551"
+     },
+     {
+      "name": "總經歷工時",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2972&cuid=1552"
+     },
+     {
+      "name": "失能傷害次數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2973&cuid=1553"
+     },
+     {
+      "name": "失能傷害頻率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2982&cuid=1555"
+     },
+     {
+      "name": "總損失工作日數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2974&cuid=1554"
+     },
+     {
+      "name": "失能傷害嚴重率",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1abd873e-dec7-429f-ac3c-25b690282e6b&uid=2983&cuid=1556"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾參、社會治安",
+  "children": [
+   {
+    "name": "刑事案件",
+    "children": [
+     {
+      "name": "發生數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3773cdb-3bdf-4841-ab73-cca3b0656084&uid=2596&cuid=1557"
+     },
+     {
+      "name": "破獲數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3773cdb-3bdf-4841-ab73-cca3b0656084&uid=2597&cuid=1558"
+     },
+     {
+      "name": "嫌疑犯",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e3773cdb-3bdf-4841-ab73-cca3b0656084&uid=2598&cuid=1559"
+     }
+    ]
+   },
+   {
+    "name": "違反社會秩序維護法案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97d4b8dc-34dc-47a4-bcff-2c09f36392ac&uid=6641&cuid=1560"
+     },
+     {
+      "name": "人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=97d4b8dc-34dc-47a4-bcff-2c09f36392ac&uid=6642&cuid=1561"
+     }
+    ]
+   },
+   {
+    "name": "經濟案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fb86487c-b712-4526-9798-53a811fdc389&uid=6643&cuid=1562"
+     },
+     {
+      "name": "人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fb86487c-b712-4526-9798-53a811fdc389&uid=6644&cuid=1563"
+     },
+     {
+      "name": "估計金額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fb86487c-b712-4526-9798-53a811fdc389&uid=6645&cuid=1564"
+     }
+    ]
+   },
+   {
+    "name": "道路交通事故原因及傷亡人數",
+    "children": [
+     {
+      "name": "肇事原因",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e706119e-6e19-456c-a66b-9102c19fcbd7&uid=2600&cuid=1565"
+     },
+     {
+      "name": "死傷人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e706119e-6e19-456c-a66b-9102c19fcbd7&uid=2601&cuid=1566"
+     }
+    ]
+   },
+   {
+    "name": "消防人力及裝備",
+    "children": [
+     {
+      "name": "消防人力",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10eda63f-86af-481a-9a07-227d83999d3f&uid=6646&cuid=1567"
+     },
+     {
+      "name": "義消人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10eda63f-86af-481a-9a07-227d83999d3f&uid=6647&cuid=1568"
+     },
+     {
+      "name": "消防車",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10eda63f-86af-481a-9a07-227d83999d3f&uid=6648&cuid=1569"
+     },
+     {
+      "name": "救災車",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10eda63f-86af-481a-9a07-227d83999d3f&uid=6649&cuid=1570"
+     },
+     {
+      "name": "消防勤務車",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10eda63f-86af-481a-9a07-227d83999d3f&uid=6650&cuid=1571"
+     }
+    ]
+   },
+   {
+    "name": "火災起火原因及損失情形",
+    "children": [
+     {
+      "name": "起火原因",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=15f93f31-c5f1-42f7-8793-c44b51ba8f38&uid=6662&cuid=1583"
+     }
+    ]
+   },
+   {
+    "name": "辦理調解業務概況",
+    "children": [
+     {
+      "name": "調解委員數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c28cde7d-24df-42fd-8384-1b4394cae684&uid=6669&cuid=1590"
+     },
+     {
+      "name": "結案件數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c28cde7d-24df-42fd-8384-1b4394cae684&uid=6670&cuid=1591"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾肆、家庭收支",
+  "children": [
+   {
+    "name": "平均每戶家庭收支",
+    "children": [
+     {
+      "name": "所得收入",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2975&cuid=1592"
+     },
+     {
+      "name": "消費支出依消費支出別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2976&cuid=1593"
+     },
+     {
+      "name": "非消費支出依非消費支出別分",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2977&cuid=1594"
+     },
+     {
+      "name": "可支配所得",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2978&cuid=1595"
+     },
+     {
+      "name": "儲蓄",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2979&cuid=1596"
+     },
+     {
+      "name": "所得總額",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3991653c-e951-4565-a1a7-c9869fbe7de8&uid=2980&cuid=1597"
+     }
+    ]
+   },
+   {
+    "name": "家庭主要設備普及率",
+    "children": [
+     {
+      "name": "彩色電視機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=8585&cuid=1774"
+     },
+     {
+      "name": "一般彩色電視機(~111年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2603&cuid=1598"
+     },
+     {
+      "name": "液晶、電漿電視(~111年)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2604&cuid=1599"
+     },
+     {
+      "name": "數位影音光碟機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2605&cuid=1600"
+     },
+     {
+      "name": "攝影機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2606&cuid=1601"
+     },
+     {
+      "name": "音響",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2607&cuid=1602"
+     },
+     {
+      "name": "鋼琴(含電子琴)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2608&cuid=1603"
+     },
+     {
+      "name": "數位相機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2609&cuid=1604"
+     },
+     {
+      "name": "電視遊樂器",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2611&cuid=1606"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2612&cuid=1607"
+     },
+     {
+      "name": "家用電腦",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2613&cuid=1608"
+     },
+     {
+      "name": "電話機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2614&cuid=1609"
+     },
+     {
+      "name": "行動電話",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2615&cuid=1610"
+     },
+     {
+      "name": "連網(使用電腦或其他設備)",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2616&cuid=1611"
+     },
+     {
+      "name": "汽車",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2617&cuid=1612"
+     },
+     {
+      "name": "機車",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2618&cuid=1613"
+     },
+     {
+      "name": "電磁爐",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2619&cuid=1614"
+     },
+     {
+      "name": "冷暖氣機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2620&cuid=1615"
+     },
+     {
+      "name": "除濕機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2621&cuid=1616"
+     },
+     {
+      "name": "洗衣機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2622&cuid=1617"
+     },
+     {
+      "name": "烘衣機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2623&cuid=1618"
+     },
+     {
+      "name": "空氣清淨機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2624&cuid=1619"
+     },
+     {
+      "name": "濾水器",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2625&cuid=1620"
+     },
+     {
+      "name": "吸塵器",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2626&cuid=1621"
+     },
+     {
+      "name": "熱水器",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2627&cuid=1622"
+     },
+     {
+      "name": "開飲機",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2628&cuid=1623"
+     },
+     {
+      "name": "微波爐",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2629&cuid=1624"
+     },
+     {
+      "name": "報紙",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2630&cuid=1625"
+     },
+     {
+      "name": "期刊雜誌",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fdb9837-e0a4-4ea1-88c1-64c784985056&uid=2631&cuid=1626"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾伍、其他",
+  "children": [
+   {
+    "name": "郵政機構概況",
+    "children": [
+     {
+      "name": "郵政機構概況",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c57a532-084f-45b8-a27b-b4f5dc2b2955&uid=2636&cuid=1629"
+     }
+    ]
+   },
+   {
+    "name": "主要觀光遊憩區遊客人數",
+    "children": [
+     {
+      "name": "主要觀光遊憩區遊客人數",
+      "url": "https://nantou.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6adde096-b92e-44d7-8c61-691b5e76e5cc&uid=2635&cuid=1628"
+     }
+    ]
+   }
+  ]
+ }
+]

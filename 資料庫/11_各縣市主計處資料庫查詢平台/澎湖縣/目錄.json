@@ -1,0 +1,2832 @@
+[
+ {
+  "name": "壹、土地",
+  "children": [
+   {
+    "name": "已登記土地面積",
+    "children": [
+     {
+      "name": "已登記土地面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc79893c-ee8d-4acb-a817-ee2ccfe9807b&uid=1&cuid=1103"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租後承租人承買耕地情形",
+    "children": [
+     {
+      "name": "承租人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a4e6e22d-188e-41fe-bfa6-594f07d76629&uid=46476&cuid=1861"
+     },
+     {
+      "name": "面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a4e6e22d-188e-41fe-bfa6-594f07d76629&uid=46663&cuid=1862"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租成果",
+    "children": [
+     {
+      "name": "承租人人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e3ad04c-c81d-4244-a4c9-1fa47bc1bc10&uid=46508&cuid=1099"
+     },
+     {
+      "name": "土地筆數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e3ad04c-c81d-4244-a4c9-1fa47bc1bc10&uid=46637&cuid=1096"
+     },
+     {
+      "name": "出租人人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e3ad04c-c81d-4244-a4c9-1fa47bc1bc10&uid=46509&cuid=1830"
+     },
+     {
+      "name": "租約件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e3ad04c-c81d-4244-a4c9-1fa47bc1bc10&uid=46638&cuid=1097"
+     },
+     {
+      "name": "租約(訂約)面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0e3ad04c-c81d-4244-a4c9-1fa47bc1bc10&uid=46640&cuid=1098"
+     }
+    ]
+   },
+   {
+    "name": "土地徵收面積",
+    "children": [
+     {
+      "name": "辦理土地徵收情形-徵收面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16e6a466-e8eb-4d72-95d3-6fcf2df9f68d&uid=73&cuid=1106"
+     },
+     {
+      "name": "辦理土地徵收情形-補償費用",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16e6a466-e8eb-4d72-95d3-6fcf2df9f68d&uid=74&cuid=1107"
+     }
+    ]
+   },
+   {
+    "name": "公地撥用面積",
+    "children": [
+     {
+      "name": "公地撥用-面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9e5a84d-c94d-4c31-becc-9775fbfc2c3d&uid=24654&cuid=1109"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "貳、人口",
+  "children": [
+   {
+    "name": "現住戶數、人口密度及性比例",
+    "children": [
+     {
+      "name": "所轄面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=51624&cuid=1748"
+     },
+     {
+      "name": "村里數(戶籍登記)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=46368&cuid=1749"
+     },
+     {
+      "name": "鄰數(戶籍登記)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=46367&cuid=1750"
+     },
+     {
+      "name": "現住戶口-戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=509&cuid=1863"
+     },
+     {
+      "name": "現住戶口-人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=510&cuid=1761"
+     },
+     {
+      "name": "戶量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=52002&cuid=1833"
+     },
+     {
+      "name": "人口密度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=52003&cuid=1834"
+     },
+     {
+      "name": "性比例",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4b3df353-a7e7-4183-a5ae-9752d67a3382&uid=52004&cuid=1835"
+     }
+    ]
+   },
+   {
+    "name": "戶籍動態",
+    "children": [
+     {
+      "name": "遷入人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=498&cuid=1760"
+     },
+     {
+      "name": "遷出人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=499&cuid=1148"
+     },
+     {
+      "name": "鄉鎮市區內住址變更人數(遷入)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=459&cuid=1150"
+     },
+     {
+      "name": "鄉鎮市區內住址變更人數(遷出)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=460&cuid=1151"
+     },
+     {
+      "name": "出生人數(按發生日期)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=534&cuid=1160"
+     },
+     {
+      "name": "死亡人數(按登記日期)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=35237&cuid=1158"
+     },
+     {
+      "name": "粗出生率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47930&cuid=1836"
+     },
+     {
+      "name": "粗死亡率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47931&cuid=1837"
+     },
+     {
+      "name": "自然增加率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47932&cuid=1838"
+     },
+     {
+      "name": "遷入率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47933&cuid=1811"
+     },
+     {
+      "name": "遷出率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47934&cuid=1812"
+     },
+     {
+      "name": "社會增加率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47935&cuid=1839"
+     },
+     {
+      "name": "結婚對數(按登記日期)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=45780&cuid=1156"
+     },
+     {
+      "name": "粗結婚率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47937&cuid=1841"
+     },
+     {
+      "name": "離婚/終止結婚對數(按登記日期)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=45784&cuid=1155"
+     },
+     {
+      "name": "粗離婚率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a7ea02-bc7e-40e5-9897-ce46462756f3&uid=47936&cuid=1840"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡分配",
+    "children": [
+     {
+      "name": "人口數依性別、年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=25b0978e-da98-47bd-8164-7503b10721f8&uid=52025&cuid=1868"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡結構",
+    "children": [
+     {
+      "name": "幼年人口數(0-14歲)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=51596&cuid=1842"
+     },
+     {
+      "name": "幼年人口比率(0-14歲)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52006&cuid=1845"
+     },
+     {
+      "name": "青壯年人口數(15-64歲)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=51597&cuid=1843"
+     },
+     {
+      "name": "青壯年人口比率(15-64歲)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52007&cuid=1846"
+     },
+     {
+      "name": "老年人口數(65歲以上)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52005&cuid=1844"
+     },
+     {
+      "name": "老年人口比率(65歲以上)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52008&cuid=1847"
+     },
+     {
+      "name": "扶老比",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52009&cuid=1848"
+     },
+     {
+      "name": "扶幼比",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52010&cuid=1850"
+     },
+     {
+      "name": "扶養比",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52011&cuid=1851"
+     },
+     {
+      "name": "老化指數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=643493f8-9120-49e2-b9c9-52b8228f1844&uid=52012&cuid=1849"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "children": [
+     {
+      "name": "十五歲以上現住人口之教育程度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb61413e-5719-4bac-90a2-39c3b54ac6eb&uid=586&cuid=1175"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之婚姻狀況",
+    "children": [
+     {
+      "name": "現住人口之婚姻狀況",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bee40510-a2c4-4d12-825b-fd7c4cae96f4&uid=512&cuid=1176"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民戶口數",
+    "children": [
+     {
+      "name": "原住民戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=550c1f1f-b9ea-4274-b2ee-17d317bc9c51&uid=529&cuid=1178"
+     },
+     {
+      "name": "原住民人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=550c1f1f-b9ea-4274-b2ee-17d317bc9c51&uid=528&cuid=1177"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民年齡分配",
+    "children": [
+     {
+      "name": "現住原住民年齡分配",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e0737d76-6b1b-4f5e-8c97-c9c69ca94ba5&uid=46803&cuid=1179"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "children": [
+     {
+      "name": "15歲以上現住原住民教育程度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2185e3f-2865-4a44-bd43-2f7a8771aa46&uid=52013&cuid=1852"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民婚姻狀況",
+    "children": [
+     {
+      "name": "現住原住民婚姻狀況",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0cb0860d-7319-4790-912c-8dc5e1f0a11b&uid=52014&cuid=1853"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "參、行政組織",
+  "children": [
+   {
+    "name": "本縣各級機關學校正式編制員額",
+    "children": [
+     {
+      "name": "本縣各級機關學校正式預算員額依機關別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=787ffe0b-f589-40a3-b194-dc5c37b55723&uid=522&cuid=1120"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校員工總人數",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8092f8c7-65cc-4c4c-bbc6-0249c014e7c7&uid=523&cuid=1124"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8092f8c7-65cc-4c4c-bbc6-0249c014e7c7&uid=524&cuid=1125"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按官等別分",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9e6624aa-2c79-4adc-abdc-278afadf69d7&uid=497&cuid=1127"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9e6624aa-2c79-4adc-abdc-278afadf69d7&uid=501&cuid=1128"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按教育程度分",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78be0e8c-a3e6-4da7-93e6-a4cf417738a3&uid=502&cuid=1130"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=78be0e8c-a3e6-4da7-93e6-a4cf417738a3&uid=504&cuid=1132"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按年齡分",
+    "children": [
+     {
+      "name": "平均年齡依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bfb51dcf-34f6-4f83-8fa7-2617e965660d&uid=513&cuid=1855"
+     },
+     {
+      "name": "平均年齡依機關別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bfb51dcf-34f6-4f83-8fa7-2617e965660d&uid=514&cuid=1856"
+     },
+     {
+      "name": "各級機關學校公教人員概況依性別、年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bfb51dcf-34f6-4f83-8fa7-2617e965660d&uid=505&cuid=1134"
+     },
+     {
+      "name": "各級機關學校公教人員概況依機關別、年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bfb51dcf-34f6-4f83-8fa7-2617e965660d&uid=506&cuid=1135"
+     }
+    ]
+   },
+   {
+    "name": "立法委員區域選舉概況－按屆別",
+    "children": [
+     {
+      "name": "(立法委員)選舉人數依選舉區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b66aadb0-5199-4e65-b9d3-ddbf8711c47f&uid=47629&cuid=1136"
+     },
+     {
+      "name": "(立法委員)候選人數依選舉區別、性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b66aadb0-5199-4e65-b9d3-ddbf8711c47f&uid=47630&cuid=1137"
+     },
+     {
+      "name": "(立法委員)投票數依選舉區別、有效與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b66aadb0-5199-4e65-b9d3-ddbf8711c47f&uid=47631&cuid=1138"
+     },
+     {
+      "name": "(立法委員)當選人數依選舉區別、性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b66aadb0-5199-4e65-b9d3-ddbf8711c47f&uid=47633&cuid=1139"
+     },
+     {
+      "name": "(立法委員)投票數對當選人數比率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b66aadb0-5199-4e65-b9d3-ddbf8711c47f&uid=52026&cuid=1869"
+     }
+    ]
+   },
+   {
+    "name": "縣長選舉概況－按屆別",
+    "children": [
+     {
+      "name": "(縣長)選舉人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c8a0bf-8000-496e-aaef-75d1300d2c8e&uid=47634&cuid=1932"
+     },
+     {
+      "name": "(縣長)候選人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c8a0bf-8000-496e-aaef-75d1300d2c8e&uid=47635&cuid=1933"
+     },
+     {
+      "name": "(縣長)投票數依有效與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c8a0bf-8000-496e-aaef-75d1300d2c8e&uid=47636&cuid=1934"
+     },
+     {
+      "name": "(縣長)當選人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c8a0bf-8000-496e-aaef-75d1300d2c8e&uid=52035&cuid=1935"
+     },
+     {
+      "name": "(縣長)投票數對選舉人數比率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c8a0bf-8000-496e-aaef-75d1300d2c8e&uid=52036&cuid=1936"
+     }
+    ]
+   },
+   {
+    "name": "縣議員選舉概況－按屆別",
+    "children": [
+     {
+      "name": "(縣議員)選舉人數依選舉區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=08028781-0e28-4cb2-8197-8b0eaa6d612f&uid=47638&cuid=1937"
+     },
+     {
+      "name": "(縣議員)候選人數依選舉區別、性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=08028781-0e28-4cb2-8197-8b0eaa6d612f&uid=47639&cuid=1938"
+     },
+     {
+      "name": "(縣議員)投票數依選舉區別、有效與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=08028781-0e28-4cb2-8197-8b0eaa6d612f&uid=47640&cuid=1939"
+     },
+     {
+      "name": "(縣議員)當選人數依選舉區別、性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=08028781-0e28-4cb2-8197-8b0eaa6d612f&uid=47642&cuid=1940"
+     },
+     {
+      "name": "(縣議員)投票數對當選人數比率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=08028781-0e28-4cb2-8197-8b0eaa6d612f&uid=52032&cuid=1941"
+     }
+    ]
+   },
+   {
+    "name": "鄉市民代表選舉概況－按屆別",
+    "children": [
+     {
+      "name": "(鄉鎮市民代表)選舉人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d80c6ce3-d99d-4e84-94e2-625a48aa98d4&uid=47643&cuid=1944"
+     },
+     {
+      "name": "(鄉鎮市民代表)候選人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d80c6ce3-d99d-4e84-94e2-625a48aa98d4&uid=47644&cuid=1945"
+     },
+     {
+      "name": "(鄉鎮市民代表)投票數依有效與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d80c6ce3-d99d-4e84-94e2-625a48aa98d4&uid=47645&cuid=1946"
+     },
+     {
+      "name": "(鄉鎮市民代表)當選人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d80c6ce3-d99d-4e84-94e2-625a48aa98d4&uid=47647&cuid=1947"
+     },
+     {
+      "name": "(鄉鎮市民代表)投票數對當選人數比率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d80c6ce3-d99d-4e84-94e2-625a48aa98d4&uid=52033&cuid=1948"
+     }
+    ]
+   },
+   {
+    "name": "鄉市長選舉概況－按屆別",
+    "children": [
+     {
+      "name": "(鄉鎮市長)選舉人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dba56186-b4ec-4909-baa4-85d70e1a923c&uid=47648&cuid=1949"
+     },
+     {
+      "name": "(鄉鎮市長)候選人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dba56186-b4ec-4909-baa4-85d70e1a923c&uid=47649&cuid=1950"
+     },
+     {
+      "name": "(鄉鎮市長)投票數依有效與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dba56186-b4ec-4909-baa4-85d70e1a923c&uid=47650&cuid=1951"
+     },
+     {
+      "name": "(鄉鎮市長)當選人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dba56186-b4ec-4909-baa4-85d70e1a923c&uid=47906&cuid=1952"
+     },
+     {
+      "name": "(鄉鎮市民代表)投票數對當選人數比率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dba56186-b4ec-4909-baa4-85d70e1a923c&uid=52034&cuid=1953"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "肆、農林漁牧",
+  "children": [
+   {
+    "name": "耕地面積",
+    "children": [
+     {
+      "name": "耕地面積(102年前使用)依農耕土地別(102年前使用)分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b061e7a2-2726-4667-89d5-ddd5e66df0d5&uid=47905&cuid=1870"
+     }
+    ]
+   },
+   {
+    "name": "農牧戶概況–按可耕作地所有權屬分",
+    "children": [
+     {
+      "name": "農戶人口數-戶數依農戶類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af2fdfe8-4d0a-402f-be89-95e09f7fc07e&uid=47870&cuid=1764"
+     },
+     {
+      "name": "農戶人口數-人口數依農戶類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=af2fdfe8-4d0a-402f-be89-95e09f7fc07e&uid=47871&cuid=1765"
+     }
+    ]
+   },
+   {
+    "name": "農產品收穫面積及生產量",
+    "children": [
+     {
+      "name": "雜糧生產-收穫面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47874&cuid=1767"
+     },
+     {
+      "name": "雜糧生產-產量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47875&cuid=1771"
+     },
+     {
+      "name": "特用作物生產-收穫面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47876&cuid=1768"
+     },
+     {
+      "name": "特用作物生產-產量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47877&cuid=1772"
+     },
+     {
+      "name": "蔬菜生產-收穫面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47878&cuid=1769"
+     },
+     {
+      "name": "蔬菜生產-產量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47879&cuid=1773"
+     },
+     {
+      "name": "果品生產-收穫面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47880&cuid=1770"
+     },
+     {
+      "name": "果品生產-產量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da29d17c-d731-4474-bfe7-98218b3251ba&uid=47881&cuid=1774"
+     }
+    ]
+   },
+   {
+    "name": "造林面積及數量",
+    "children": [
+     {
+      "name": "造林面積-依林種別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a8bf2b85-ac29-4e0d-88cf-68536b39f480&uid=51991&cuid=1776"
+     },
+     {
+      "name": "造林數量-依林種別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a8bf2b85-ac29-4e0d-88cf-68536b39f480&uid=51992&cuid=1777"
+     }
+    ]
+   },
+   {
+    "name": "漁業從業人員",
+    "children": [
+     {
+      "name": "漁業從業人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4f4a3ede-6820-4e8f-b965-c6ab069ce766&uid=12792&cuid=1873"
+     }
+    ]
+   },
+   {
+    "name": "漁戶數及漁戶人口數",
+    "children": [
+     {
+      "name": "漁戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2f39f937-9410-45b3-8c60-539a17ae30f2&uid=12794&cuid=1780"
+     },
+     {
+      "name": "漁戶人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2f39f937-9410-45b3-8c60-539a17ae30f2&uid=12795&cuid=1781"
+     }
+    ]
+   },
+   {
+    "name": "現有動力漁船數",
+    "children": [
+     {
+      "name": "現有動力漁船數-艘數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e69364f0-c0df-48a8-b4ef-01a445904a58&uid=51995&cuid=1796"
+     },
+     {
+      "name": "現有動力漁船數-噸數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e69364f0-c0df-48a8-b4ef-01a445904a58&uid=51996&cuid=1797"
+     }
+    ]
+   },
+   {
+    "name": "漁業生產量值",
+    "children": [
+     {
+      "name": "漁業生產量值-產量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4d41e290-56c8-4261-89b4-bb9414de2062&uid=47904&cuid=1800"
+     }
+    ]
+   },
+   {
+    "name": "水產養殖面積",
+    "children": [
+     {
+      "name": "水產養殖面積-海面及內陸養殖",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=639f3e08-6a2c-4f59-82b7-be0619cdf293&uid=51998&cuid=1804"
+     },
+     {
+      "name": "水產養殖面積-箱網養殖",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=639f3e08-6a2c-4f59-82b7-be0619cdf293&uid=52027&cuid=1879"
+     }
+    ]
+   },
+   {
+    "name": "遭難漁船數",
+    "children": [
+     {
+      "name": "遭難漁船數-艘數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c63ac801-af15-4bc3-808b-d8c623865c2c&uid=12870&cuid=1875"
+     },
+     {
+      "name": "遭難漁船數-噸數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c63ac801-af15-4bc3-808b-d8c623865c2c&uid=12871&cuid=1876"
+     }
+    ]
+   },
+   {
+    "name": "遭難漁民數",
+    "children": [
+     {
+      "name": "遭難漁民數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd31ff6c-28d9-4149-9974-9cf3b93981ad&uid=52001&cuid=1813"
+     }
+    ]
+   },
+   {
+    "name": "現有家畜數",
+    "children": [
+     {
+      "name": "現有家畜數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1086187f-4ca0-4880-9c49-def84a225b79&uid=47882&cuid=1814"
+     }
+    ]
+   },
+   {
+    "name": "家畜屠宰頭數",
+    "children": [
+     {
+      "name": "家畜屠宰頭數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eaa92417-97c9-4d9c-9685-733087733d07&uid=47885&cuid=1815"
+     }
+    ]
+   },
+   {
+    "name": "現有家禽數量",
+    "children": [
+     {
+      "name": "現有家禽數量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e2a68e8-702e-4a31-a620-674299dd53a6&uid=47889&cuid=1816"
+     }
+    ]
+   },
+   {
+    "name": "水土保持處理面積",
+    "children": [
+     {
+      "name": "水土保持處理面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d6e35ffd-56e4-4f00-b451-db720ad36fdb&uid=52029&cuid=1881"
+     }
+    ]
+   },
+   {
+    "name": "農路改善及維護工程",
+    "children": [
+     {
+      "name": "農路改善及維護工程-工程件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67074536-ab78-4cb2-aba5-b50f3c50bbf1&uid=47899&cuid=1826"
+     },
+     {
+      "name": "農路改善及維護工程-道路總長度-改善",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67074536-ab78-4cb2-aba5-b50f3c50bbf1&uid=47900&cuid=1827"
+     },
+     {
+      "name": "農路改善及維護工程-道路總長度-維護",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67074536-ab78-4cb2-aba5-b50f3c50bbf1&uid=47901&cuid=1828"
+     },
+     {
+      "name": "農路改善及維護工程-總工程費依經費來源分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=67074536-ab78-4cb2-aba5-b50f3c50bbf1&uid=47902&cuid=1829"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "伍、工商業及縣建設",
+  "children": [
+   {
+    "name": "營業中工廠家數",
+    "children": [
+     {
+      "name": "營運中工廠家數依行業別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=724e832c-c8c5-42bd-8a21-730d058f6582&uid=47809&cuid=1882"
+     }
+    ]
+   },
+   {
+    "name": "商業登記現有家數與資本額",
+    "children": [
+     {
+      "name": "商業登記現有家數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=74138fc0-6f2e-4ab8-8e90-20f0b0a48fa2&uid=51620&cuid=1883"
+     },
+     {
+      "name": "商業登記資本總額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=74138fc0-6f2e-4ab8-8e90-20f0b0a48fa2&uid=51621&cuid=1884"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額-按組織別分",
+    "children": [
+     {
+      "name": "公司登記現有家數依組織別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ff9c174-549e-49d7-8f32-90d4ee41e16d&uid=47810&cuid=1885"
+     },
+     {
+      "name": "公司登記現有資本額依組織別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ff9c174-549e-49d7-8f32-90d4ee41e16d&uid=47811&cuid=1886"
+     },
+     {
+      "name": "外國公司代表人辦事處",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ff9c174-549e-49d7-8f32-90d4ee41e16d&uid=47812&cuid=1887"
+     },
+     {
+      "name": "大陸地區在臺許可辦事處",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ff9c174-549e-49d7-8f32-90d4ee41e16d&uid=47813&cuid=1888"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額-按行業別分",
+    "children": [
+     {
+      "name": "公司登記現有家數依行業別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ecdf456-f404-4c9f-bd7d-997a836d4605&uid=47814&cuid=1889"
+     },
+     {
+      "name": "公司登記現有資本額依行業別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1ecdf456-f404-4c9f-bd7d-997a836d4605&uid=47815&cuid=1890"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區面積及人口",
+    "children": [
+     {
+      "name": "都市計畫地區面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a17fa62-1c6a-457d-a6f0-132e5cbded70&uid=12467&cuid=1891"
+     },
+     {
+      "name": "都市計畫地區-計畫人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a17fa62-1c6a-457d-a6f0-132e5cbded70&uid=12468&cuid=1892"
+     },
+     {
+      "name": "都市計畫地區-現況人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a17fa62-1c6a-457d-a6f0-132e5cbded70&uid=12469&cuid=1893"
+     },
+     {
+      "name": "都市計畫地區-計畫人口密度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a17fa62-1c6a-457d-a6f0-132e5cbded70&uid=12470&cuid=1894"
+     },
+     {
+      "name": "都市計畫地區-現況人口密度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9a17fa62-1c6a-457d-a6f0-132e5cbded70&uid=12471&cuid=1895"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區域內公共工程實施數量",
+    "children": [
+     {
+      "name": "道路(包括廣場)面積依都市計畫區別、路面別、施工別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12387&cuid=1896"
+     },
+     {
+      "name": "橋梁-鋼筋混凝土橋-座依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12388&cuid=1897"
+     },
+     {
+      "name": "橋梁-鋼筋混凝土橋-面積依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12389&cuid=1898"
+     },
+     {
+      "name": "橋梁-其他-座依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12390&cuid=1899"
+     },
+     {
+      "name": "橋梁-其他-面積依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12391&cuid=1900"
+     },
+     {
+      "name": "下水道-雨水下水道-抽水站-座依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12392&cuid=1901"
+     },
+     {
+      "name": "下水道-雨水下水道-抽水站-抽水量依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12393&cuid=1902"
+     },
+     {
+      "name": "下水道-雨水下水道-排水幹支線依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12394&cuid=1903"
+     },
+     {
+      "name": "下水道-污水下水道-污水處理廠-座依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12395&cuid=1904"
+     },
+     {
+      "name": "下水道-污水下水道-污水處理廠-抽水量依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12396&cuid=1905"
+     },
+     {
+      "name": "下水道-污水下水道-污水幹支線依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12397&cuid=1906"
+     },
+     {
+      "name": "公園-處依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12398&cuid=1907"
+     },
+     {
+      "name": "公園-面積依都市計畫區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=00c7d9d8-b91b-41a9-af9c-5f1c47b43090&uid=12399&cuid=1908"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地計畫面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地計畫面積依都市計畫區別、公共設施分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=467045b3-f2a1-4658-8624-cef54bed1390&uid=12472&cuid=1909"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地已闢建面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地已闢建計畫面積",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e80ca34c-0fe1-4370-b865-27c2b86c97db&uid=12501&cuid=1910"
+     }
+    ]
+   },
+   {
+    "name": "核發建築物使用執照總樓地板面積",
+    "children": [
+     {
+      "name": "核發建築物使用執照統計-總樓地板面積依土地使用分區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ee25f888-072d-40c7-a69b-603b53dad74a&uid=13007&cuid=1925"
+     },
+     {
+      "name": "核發建築物使用執照統計-總樓地板面積依構造別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ee25f888-072d-40c7-a69b-603b53dad74a&uid=13004&cuid=1924"
+     }
+    ]
+   },
+   {
+    "name": "自來水供水普及率",
+    "children": [
+     {
+      "name": "自來水-行政區域人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b17ee743-2861-4d38-936f-80c319bae3b1&uid=47818&cuid=1913"
+     },
+     {
+      "name": "自來水-供水區域人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b17ee743-2861-4d38-936f-80c319bae3b1&uid=47817&cuid=1915"
+     },
+     {
+      "name": "自來水-實際供水人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b17ee743-2861-4d38-936f-80c319bae3b1&uid=47816&cuid=1914"
+     },
+     {
+      "name": "自來水供水普及率(％)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b17ee743-2861-4d38-936f-80c319bae3b1&uid=48157&cuid=1917"
+     }
+    ]
+   },
+   {
+    "name": "電力供應情形",
+    "children": [
+     {
+      "name": "電力供應-年底戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=28a526f0-cd23-462c-9a41-7052258f0b12&uid=47819&cuid=1918"
+     },
+     {
+      "name": "電力供應-售電量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=28a526f0-cd23-462c-9a41-7052258f0b12&uid=47820&cuid=1919"
+     },
+     {
+      "name": "電力供應-每用戶全年平均用電量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=28a526f0-cd23-462c-9a41-7052258f0b12&uid=47821&cuid=1920"
+     }
+    ]
+   },
+   {
+    "name": "禦潮(海堤)工程實施",
+    "children": [
+     {
+      "name": "禦潮(海堤)工程實施-海岸環境改善工程",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e36311a8-d62f-4698-9de5-bcd3d74e83f7&uid=52039&cuid=1975"
+     },
+     {
+      "name": "禦潮(海堤)工程實施-養護工程",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e36311a8-d62f-4698-9de5-bcd3d74e83f7&uid=52040&cuid=1976"
+     },
+     {
+      "name": "禦潮(海堤)工程實施-整建工程",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e36311a8-d62f-4698-9de5-bcd3d74e83f7&uid=52041&cuid=1977"
+     },
+     {
+      "name": "禦潮(海堤)工程實施-災修及搶修工程",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e36311a8-d62f-4698-9de5-bcd3d74e83f7&uid=52042&cuid=1978"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "陸、金融財稅",
+  "children": [
+   {
+    "name": "金融機構分布",
+    "children": [
+     {
+      "name": "金融機構分布依金融機構分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=beb9b643-9a45-49a9-a8cc-20c28bed23a3&uid=47753&cuid=1921"
+     }
+    ]
+   },
+   {
+    "name": "主要金融機構存、放款餘額",
+    "children": [
+     {
+      "name": "主要金融機構存款餘額依金融機構分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dbdcdf51-3d30-4c76-aa67-67037cddfe7d&uid=47755&cuid=1922"
+     },
+     {
+      "name": "主要金融機構放款餘額依金融機構分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dbdcdf51-3d30-4c76-aa67-67037cddfe7d&uid=47757&cuid=1923"
+     }
+    ]
+   },
+   {
+    "name": "歲入預決算-按來源別",
+    "children": [
+     {
+      "name": "歲入預決算-按來源別分-預算依歲入來源別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=894c6788-abbf-456b-b4a4-f65ccb0a0954&uid=47758&cuid=1954"
+     },
+     {
+      "name": "歲入預決算-按來源別分-決算依歲入來源別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=894c6788-abbf-456b-b4a4-f65ccb0a0954&uid=47759&cuid=1955"
+     }
+    ]
+   },
+   {
+    "name": "歲出預決算-按政事別分",
+    "children": [
+     {
+      "name": "歲出預決算-按政事別分-預算依歲出政事別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=aa2e0b46-9890-4760-a34d-0a6f199f846d&uid=47761&cuid=1956"
+     },
+     {
+      "name": "歲出預決算-按政事別分-決算依歲出政事別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=aa2e0b46-9890-4760-a34d-0a6f199f846d&uid=47762&cuid=1957"
+     }
+    ]
+   },
+   {
+    "name": "歷年財政狀況",
+    "children": [
+     {
+      "name": "融資調度需求依融資調度需求分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47763&cuid=1958"
+     },
+     {
+      "name": "融資調度財源依融資調度財源分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47764&cuid=1959"
+     },
+     {
+      "name": "自有財源比率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47765&cuid=1960"
+     },
+     {
+      "name": "賦稅依存度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47766&cuid=1961"
+     },
+     {
+      "name": "補助及協助依存度",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47767&cuid=1962"
+     },
+     {
+      "name": "債務未償餘額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47768&cuid=1963"
+     },
+     {
+      "name": "歷年財政狀況-債務未償餘額占歲出比率占歲出比率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5e4111f-f5fc-42d8-b0f4-fa2b98356341&uid=47769&cuid=1964"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐實徵數",
+    "children": [
+     {
+      "name": "各項稅捐實徵數依各項稅捐(實徵)分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=736575ea-1756-453d-984c-ee3e43a8fb63&uid=47770&cuid=1926"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐納庫數",
+    "children": [
+     {
+      "name": "實徵數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=076793d5-dd46-497e-89c6-294a864c53ca&uid=47771&cuid=1965"
+     },
+     {
+      "name": "納庫數依各項稅捐(實徵)、各項稅捐(納庫)分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=076793d5-dd46-497e-89c6-294a864c53ca&uid=47772&cuid=1966"
+     },
+     {
+      "name": "未納庫數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=076793d5-dd46-497e-89c6-294a864c53ca&uid=47773&cuid=1967"
+     }
+    ]
+   },
+   {
+    "name": "縣公庫收支",
+    "children": [
+     {
+      "name": "縣公庫收支-收入",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72e66054-51ec-44f9-917c-e1874b9a66b6&uid=47980&cuid=1968"
+     },
+     {
+      "name": "縣公庫收支-支出",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72e66054-51ec-44f9-917c-e1874b9a66b6&uid=52372&cuid=2412"
+     },
+     {
+      "name": "縣公庫收支-公庫結存",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72e66054-51ec-44f9-917c-e1874b9a66b6&uid=52378&cuid=2416"
+     }
+    ]
+   },
+   {
+    "name": "鄉市公庫收支",
+    "children": [
+     {
+      "name": "鄉市公庫收支-收入",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e8ebdf6-fa4b-4f6e-b96c-de3cac35cefe&uid=52373&cuid=2413"
+     },
+     {
+      "name": "鄉市公庫收支-支出",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e8ebdf6-fa4b-4f6e-b96c-de3cac35cefe&uid=52374&cuid=2414"
+     },
+     {
+      "name": "鄉市公庫收支-公庫結存",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4e8ebdf6-fa4b-4f6e-b96c-de3cac35cefe&uid=52377&cuid=2415"
+     }
+    ]
+   },
+   {
+    "name": "各鄉市歲入預決算-按來源別分",
+    "children": [
+     {
+      "name": "各鄉鎮市歲入預決算-按來源別分-預算依歲入來源別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=996d783a-eaf7-4fbe-911f-b5b880a1601f&uid=47774&cuid=1969"
+     },
+     {
+      "name": "各鄉鎮市歲入預決算-按來源別分-決算依歲入來源別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=996d783a-eaf7-4fbe-911f-b5b880a1601f&uid=47775&cuid=1970"
+     }
+    ]
+   },
+   {
+    "name": "各鄉市歲出預決算-按政事別分",
+    "children": [
+     {
+      "name": "各鄉鎮市歲出預決算-按政事別分-預算依歲出政事別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04e29e6d-a3e4-4e41-99b8-a71780e267b8&uid=47777&cuid=1971"
+     },
+     {
+      "name": "各鄉鎮市歲出預決算-按政事別分-決算依歲出政事別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04e29e6d-a3e4-4e41-99b8-a71780e267b8&uid=47779&cuid=1972"
+     }
+    ]
+   },
+   {
+    "name": "營業基金及非營業特種基金盈虧(餘絀)",
+    "children": [
+     {
+      "name": "營業基金及非營業特種基金盈虧(餘絀)-預算數依基金類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=55de2030-d484-4b34-b04f-a82677d51ed9&uid=47780&cuid=2409"
+     },
+     {
+      "name": "營業基金及非營業特種基金盈虧(餘絀)-決算數依基金類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=55de2030-d484-4b34-b04f-a82677d51ed9&uid=47781&cuid=2410"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "柒、交通運輸",
+  "children": [
+   {
+    "name": "車輛登記",
+    "children": [
+     {
+      "name": "車輛登記依車輛別、用途別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9cb54c3a-e21e-4029-b76f-0b5c05b93e89&uid=47652&cuid=1973"
+     }
+    ]
+   },
+   {
+    "name": "公路里程概況",
+    "children": [
+     {
+      "name": "公路里程概況依公路別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=acce3a81-ef0f-4468-a7ee-0045e0767439&uid=47653&cuid=1974"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "捌、教育文化",
+  "children": [
+   {
+    "name": "境內高等教育概況",
+    "children": [
+     {
+      "name": "大學-系所數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47690&cuid=1996"
+     },
+     {
+      "name": "大學-教職員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47691&cuid=1997"
+     },
+     {
+      "name": "大學-學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47692&cuid=1998"
+     },
+     {
+      "name": "大學-上學年度畢業生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47693&cuid=1999"
+     },
+     {
+      "name": "專科-校數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47694&cuid=2000"
+     },
+     {
+      "name": "專科-教職員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47695&cuid=2001"
+     },
+     {
+      "name": "專科-學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47696&cuid=2002"
+     },
+     {
+      "name": "專科-上學年度畢業生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cfae67cc-ad53-44e3-9af8-b4402bd36f87&uid=47697&cuid=2003"
+     }
+    ]
+   },
+   {
+    "name": "境內高級中等學校概況",
+    "children": [
+     {
+      "name": "境內高級中等學校-校數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47698&cuid=2004"
+     },
+     {
+      "name": "境內高級中等學校-教師數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47699&cuid=2005"
+     },
+     {
+      "name": "境內高級中等學校-職員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47700&cuid=2006"
+     },
+     {
+      "name": "境內高級中等學校-班級數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47701&cuid=2007"
+     },
+     {
+      "name": "境內高級中等學校-學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47702&cuid=2008"
+     },
+     {
+      "name": "境內高級中等學校-上學年度畢業生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ce09f422-2a71-4c50-b044-db87aa83b848&uid=47703&cuid=2009"
+     }
+    ]
+   },
+   {
+    "name": "境內國民中學概況",
+    "children": [
+     {
+      "name": "國民中學校數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=790&cuid=1990"
+     },
+     {
+      "name": "國民中學教師數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=792&cuid=1991"
+     },
+     {
+      "name": "國民中學職員數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=794&cuid=1992"
+     },
+     {
+      "name": "國民中學班級數依年級別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=796&cuid=1993"
+     },
+     {
+      "name": "國民中學學生數依性別、年級別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=798&cuid=1994"
+     },
+     {
+      "name": "國民中學畢業生數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef35f865-88a4-47ec-b0d3-cf976d6c75af&uid=800&cuid=1995"
+     }
+    ]
+   },
+   {
+    "name": "境內國民小學概況",
+    "children": [
+     {
+      "name": "國民小學-校數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=807&cuid=1984"
+     },
+     {
+      "name": "國民小學-教師數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=809&cuid=1985"
+     },
+     {
+      "name": "國民小學-職員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=812&cuid=1986"
+     },
+     {
+      "name": "國民小學-班級數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=814&cuid=1987"
+     },
+     {
+      "name": "國民小學-學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=818&cuid=1988"
+     },
+     {
+      "name": "國民小學-畢業生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=088ac10f-8cd6-4466-8534-9d72ab86ee32&uid=822&cuid=1989"
+     }
+    ]
+   },
+   {
+    "name": "境內幼兒園概況",
+    "children": [
+     {
+      "name": "幼兒園園數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c103f6ff-43b3-4592-83e9-18cdce47c43f&uid=831&cuid=1979"
+     },
+     {
+      "name": "幼兒園教保服務人員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c103f6ff-43b3-4592-83e9-18cdce47c43f&uid=832&cuid=1980"
+     },
+     {
+      "name": "幼兒園職員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c103f6ff-43b3-4592-83e9-18cdce47c43f&uid=833&cuid=1981"
+     },
+     {
+      "name": "幼兒園學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c103f6ff-43b3-4592-83e9-18cdce47c43f&uid=834&cuid=1982"
+     }
+    ]
+   },
+   {
+    "name": "境內各級補校概況",
+    "children": [
+     {
+      "name": "國中小補校-校數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f2095-0c82-447e-9248-7e714703ff3a&uid=845&cuid=2010"
+     },
+     {
+      "name": "國中小補校-班級數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f2095-0c82-447e-9248-7e714703ff3a&uid=847&cuid=2011"
+     },
+     {
+      "name": "國中小補校-學生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f2095-0c82-447e-9248-7e714703ff3a&uid=849&cuid=2012"
+     },
+     {
+      "name": "國中小補校-畢業生數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f2095-0c82-447e-9248-7e714703ff3a&uid=851&cuid=2013"
+     }
+    ]
+   },
+   {
+    "name": "短期補習班概況",
+    "children": [
+     {
+      "name": "家數依補習類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e8478cc5-94f2-4a6d-adc9-32ef1d7205db&uid=909&cuid=2014"
+     }
+    ]
+   },
+   {
+    "name": "國中小學中途輟學學生概況",
+    "children": [
+     {
+      "name": "輟學人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54b1b102-d395-432d-b884-105160f8817d&uid=874&cuid=2015"
+     },
+     {
+      "name": "復學率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54b1b102-d395-432d-b884-105160f8817d&uid=887&cuid=2017"
+     },
+     {
+      "name": "輟學率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=54b1b102-d395-432d-b884-105160f8817d&uid=882&cuid=2016"
+     }
+    ]
+   },
+   {
+    "name": "國民中學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸眼視力檢查人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94674170-0fa2-4490-82a6-d0029fe0d876&uid=898&cuid=2018"
+     },
+     {
+      "name": "裸眼視力不良人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94674170-0fa2-4490-82a6-d0029fe0d876&uid=900&cuid=2019"
+     },
+     {
+      "name": "裸眼視力不良率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=94674170-0fa2-4490-82a6-d0029fe0d876&uid=902&cuid=2020"
+     }
+    ]
+   },
+   {
+    "name": "國民小學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸眼視力檢查人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff95e0ea-2e91-4f2c-a5b0-b71c1fc20d5d&uid=904&cuid=2021"
+     },
+     {
+      "name": "裸眼視力不良人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff95e0ea-2e91-4f2c-a5b0-b71c1fc20d5d&uid=906&cuid=2022"
+     },
+     {
+      "name": "裸眼視力不良率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff95e0ea-2e91-4f2c-a5b0-b71c1fc20d5d&uid=908&cuid=2023"
+     }
+    ]
+   },
+   {
+    "name": "公立公共圖書館概況",
+    "children": [
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-圖書(冊)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85cd760b-e750-4ce8-8b4a-3b50ef822aaa&uid=47734&cuid=2026"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-期刊",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85cd760b-e750-4ce8-8b4a-3b50ef822aaa&uid=47806&cuid=2030"
+     },
+     {
+      "name": "公立公共圖書館概況-電子書收藏數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85cd760b-e750-4ce8-8b4a-3b50ef822aaa&uid=47735&cuid=2027"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85cd760b-e750-4ce8-8b4a-3b50ef822aaa&uid=47736&cuid=2028"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱冊數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85cd760b-e750-4ce8-8b4a-3b50ef822aaa&uid=47737&cuid=2029"
+     }
+    ]
+   },
+   {
+    "name": "各項藝文展演活動",
+    "children": [
+     {
+      "name": "藝文展演活動統計-出席人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=471435e5-4b52-4502-8456-e0e5599063ac&uid=12372&cuid=2024"
+     },
+     {
+      "name": "藝文展演活動統計-活動個數依藝文展演活動別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=471435e5-4b52-4502-8456-e0e5599063ac&uid=12371&cuid=2025"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "玖、衛生",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業醫事人員數",
+    "children": [
+     {
+      "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數依衛生局人員編制分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4105e9a8-d349-422c-8c99-bffabb2ef2f0&uid=47843&cuid=2031"
+     }
+    ]
+   },
+   {
+    "name": "醫療院所數及各類病床數",
+    "children": [
+     {
+      "name": "院所家數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47844&cuid=2032"
+     },
+     {
+      "name": "醫院家數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47845&cuid=2033"
+     },
+     {
+      "name": "診所家數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47846&cuid=2034"
+     },
+     {
+      "name": "醫療院所病床數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47847&cuid=2035"
+     },
+     {
+      "name": "醫院開放病床數依醫院病床別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47848&cuid=2036"
+     },
+     {
+      "name": "精神科日間照護人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47849&cuid=2037"
+     },
+     {
+      "name": "診所病床數依診所病床別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47850&cuid=2038"
+     },
+     {
+      "name": "醫院救護車",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3406a4-79d4-40df-8631-b1770ec79182&uid=47851&cuid=2039"
+     }
+    ]
+   },
+   {
+    "name": "預防接種工作",
+    "children": [
+     {
+      "name": "各項預防接種工作人次依疫苗種類分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8aff1f37-ca21-472f-9ca3-123dfe266a27&uid=12959&cuid=2040"
+     }
+    ]
+   },
+   {
+    "name": "法定傳染病病例人數",
+    "children": [
+     {
+      "name": "確定病例依法定傳染病別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=81b7d236-a7cf-4afb-a60e-ce95bfda4864&uid=47853&cuid=2042"
+     },
+     {
+      "name": "報告病例依法定傳染病別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=81b7d236-a7cf-4afb-a60e-ce95bfda4864&uid=47854&cuid=2043"
+     }
+    ]
+   },
+   {
+    "name": "藥商家數",
+    "children": [
+     {
+      "name": "藥商家數-依藥商別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d20dce34-ba47-4035-bca8-b0acb9db360f&uid=47855&cuid=2041"
+     }
+    ]
+   },
+   {
+    "name": "主要死亡原因",
+    "children": [
+     {
+      "name": "十大死亡原因-前10大順位",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb58bb4-c797-4dab-b3bf-ecee2ea73971&uid=52371&cuid=2411"
+     },
+     {
+      "name": "十大死亡原因-死亡人數依性別、死亡原因分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb58bb4-c797-4dab-b3bf-ecee2ea73971&uid=47856&cuid=2056"
+     },
+     {
+      "name": "十大死亡原因-死亡百分比依死亡原因分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb58bb4-c797-4dab-b3bf-ecee2ea73971&uid=47858&cuid=2057"
+     },
+     {
+      "name": "十大死亡原因-每十萬人口標準化死亡率依死亡原因分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb58bb4-c797-4dab-b3bf-ecee2ea73971&uid=47869&cuid=2058"
+     }
+    ]
+   },
+   {
+    "name": "營業衛生管理稽核概況-按稽查家次分",
+    "children": [
+     {
+      "name": "現有家數依衛生管理稽查項目分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0f729c8-d950-4079-84f0-a132f5fcbcc2&uid=52044&cuid=2050"
+     },
+     {
+      "name": "稽查家次依衛生管理稽查項目分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0f729c8-d950-4079-84f0-a132f5fcbcc2&uid=52047&cuid=2053"
+     },
+     {
+      "name": "輔導改善次數依衛生管理稽查項目分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0f729c8-d950-4079-84f0-a132f5fcbcc2&uid=52048&cuid=2054"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾、環境保護",
+  "children": [
+   {
+    "name": "垃圾清運處理概況",
+    "children": [
+     {
+      "name": "執行機關垃圾產生量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=47957&cuid=2060"
+     },
+     {
+      "name": "垃圾清運",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=48434&cuid=2100"
+     },
+     {
+      "name": "巨大垃圾焚化",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=47953&cuid=2061"
+     },
+     {
+      "name": "巨大垃圾衛生掩埋",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=47954&cuid=2062"
+     },
+     {
+      "name": "巨大垃圾回收再利用",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=51630&cuid=2066"
+     },
+     {
+      "name": "廚餘回收-按清運方式分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=48430&cuid=2102"
+     },
+     {
+      "name": "一般垃圾-按清運單位或回收管道分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=48432&cuid=2099"
+     },
+     {
+      "name": "巨大垃圾-按清運單位或回收管道分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=51629&cuid=2065"
+     },
+     {
+      "name": "廚餘回收-按清運單位或回收管道分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=48429&cuid=2103"
+     },
+     {
+      "name": "資源回收-按清運單位或回收管道分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=14336&cuid=2101"
+     },
+     {
+      "name": "平均每日一般垃圾產生量(公斤)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=47955&cuid=2063"
+     },
+     {
+      "name": "平均每人每日一般垃圾產生量(公斤)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=47956&cuid=2064"
+     },
+     {
+      "name": "垃圾清運處理概況-垃圾妥善處理率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=52055&cuid=2075"
+     },
+     {
+      "name": "垃圾清運處理概況-垃圾回收率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=72937d41-cd13-4d7f-8a25-bf0c144d41c6&uid=52056&cuid=2076"
+     }
+    ]
+   },
+   {
+    "name": "環境空氣品質",
+    "children": [
+     {
+      "name": "年底監測站數依空氣品質監測站別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47859&cuid=2077"
+     },
+     {
+      "name": "人工測站-總懸浮微粒",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47967&cuid=2078"
+     },
+     {
+      "name": "人工測站-鉛",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47968&cuid=2079"
+     },
+     {
+      "name": "人工測站-落塵量",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47969&cuid=2080"
+     },
+     {
+      "name": "自動測站-粒徑10微米以下之懸浮微粒",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47970&cuid=2081"
+     },
+     {
+      "name": "自動測站-二氧化硫",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47971&cuid=2082"
+     },
+     {
+      "name": "自動測站-一氧化碳",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47972&cuid=2083"
+     },
+     {
+      "name": "自動測站-二氧化氮",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47973&cuid=2084"
+     },
+     {
+      "name": "自動測站-非甲烷碳氫化合物",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47974&cuid=2085"
+     },
+     {
+      "name": "自動測站-臭氧",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5af93b13-3b5c-42f7-b8e1-6be5bc3e8e1b&uid=47975&cuid=2086"
+     }
+    ]
+   },
+   {
+    "name": "一般地區環境音量監測不合格情形",
+    "children": [
+     {
+      "name": "監測站數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=89c50edc-3315-4c08-8fac-6c86aa4503c3&uid=13954&cuid=2095"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=89c50edc-3315-4c08-8fac-6c86aa4503c3&uid=12548&cuid=2096"
+     }
+    ]
+   },
+   {
+    "name": "道路交通音量監測不合格情形",
+    "children": [
+     {
+      "name": "監測站數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5debdf53-c530-484c-a512-b9a5a9bca423&uid=13955&cuid=2106"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5debdf53-c530-484c-a512-b9a5a9bca423&uid=12550&cuid=2105"
+     }
+    ]
+   },
+   {
+    "name": "公害陳情受理案件",
+    "children": [
+     {
+      "name": "公害污染陳情案件依公害別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b848e005-b5b3-451f-8e29-9b85ab03d575&uid=48393&cuid=2107"
+     }
+    ]
+   },
+   {
+    "name": "環保稽查(查核)概況",
+    "children": [
+     {
+      "name": "稽查次數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90b18921-afc4-45ac-b3a0-6a8658339016&uid=12723&cuid=2108"
+     },
+     {
+      "name": "罰鍰次數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90b18921-afc4-45ac-b3a0-6a8658339016&uid=12726&cuid=2109"
+     },
+     {
+      "name": "罰鍰金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90b18921-afc4-45ac-b3a0-6a8658339016&uid=48373&cuid=2110"
+     },
+     {
+      "name": "實收罰鍰",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=90b18921-afc4-45ac-b3a0-6a8658339016&uid=48376&cuid=2111"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾壹、社會福利",
+  "children": [
+   {
+    "name": "各級人民團體數",
+    "children": [
+     {
+      "name": "各級人民團體數-職業團體",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=186df4c8-2f78-440e-8855-f41a26c63aec&uid=47822&cuid=2112"
+     },
+     {
+      "name": "各級人民團體數-社會團體",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=186df4c8-2f78-440e-8855-f41a26c63aec&uid=47823&cuid=2113"
+     }
+    ]
+   },
+   {
+    "name": "宗教社會服務概況",
+    "children": [
+     {
+      "name": "宗教社會服務概況-醫療機構",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dc16da60-142d-4b07-bfa0-34052c9352e1&uid=741&cuid=2116"
+     },
+     {
+      "name": "宗教社會服務概況-文教機構",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dc16da60-142d-4b07-bfa0-34052c9352e1&uid=742&cuid=2117"
+     },
+     {
+      "name": "宗教社會服務概況-公益慈善事業",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dc16da60-142d-4b07-bfa0-34052c9352e1&uid=743&cuid=2118"
+     }
+    ]
+   },
+   {
+    "name": "合作社概況",
+    "children": [
+     {
+      "name": "合作社-社數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabbb2ae-5314-41b8-b1bc-e6ddc2b8cae5&uid=52059&cuid=2122"
+     },
+     {
+      "name": "合作社-社場員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabbb2ae-5314-41b8-b1bc-e6ddc2b8cae5&uid=52060&cuid=2123"
+     },
+     {
+      "name": "合作社-股金總額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eabbb2ae-5314-41b8-b1bc-e6ddc2b8cae5&uid=52061&cuid=2124"
+     }
+    ]
+   },
+   {
+    "name": "推行社區發展工作成果",
+    "children": [
+     {
+      "name": "社區發展協會數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1929&cuid=2125"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1930&cuid=2126"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1931&cuid=2127"
+     },
+     {
+      "name": "理監事人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1932&cuid=2128"
+     },
+     {
+      "name": "社區發展協會會員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1933&cuid=2130"
+     },
+     {
+      "name": "設置社區生產建設基金(個)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1934&cuid=2131"
+     },
+     {
+      "name": "實際使用經費",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1935&cuid=2132"
+     },
+     {
+      "name": "社區活動中心(幢)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1915&cuid=2129"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區幹部訓練",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1916&cuid=2133"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區觀摩",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1917&cuid=2134"
+     },
+     {
+      "name": "社區發展工作項目-社區長壽俱樂部",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1918&cuid=2135"
+     },
+     {
+      "name": "社區發展工作項目-社區成長(媽媽)教室",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1919&cuid=2136"
+     },
+     {
+      "name": "社區發展工作項目-社區守望相助隊",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1920&cuid=2137"
+     },
+     {
+      "name": "社區發展工作項目-社區民俗藝文康樂班隊",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1921&cuid=2138"
+     },
+     {
+      "name": "社區發展工作項目-社區志願服務-團隊",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1922&cuid=2139"
+     },
+     {
+      "name": "社區發展工作項目-社區志願服務-志工數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1923&cuid=2140"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區照顧關懷據點",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1924&cuid=2141"
+     },
+     {
+      "name": "社區發展工作項目-社區圖書室",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1925&cuid=2142"
+     },
+     {
+      "name": "社區發展工作項目-社區刊物",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1926&cuid=2143"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-福利服務或活動",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1927&cuid=2144"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-其他服務",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6b5e5950-26f5-46b5-bfa9-8e669fa064e1&uid=1928&cuid=2145"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙人數",
+    "children": [
+     {
+      "name": "領有舊制身心障礙手冊者",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c5ea4a9-33e0-406c-8dae-98f4e6cb5588&uid=52062&cuid=2149"
+     },
+     {
+      "name": "領有新制身心障礙證明者",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5c5ea4a9-33e0-406c-8dae-98f4e6cb5588&uid=47497&cuid=2150"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙福利服務概況",
+    "children": [
+     {
+      "name": "身心障礙福利機構-機構數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=13882&cuid=2152"
+     },
+     {
+      "name": "身心障礙福利機構概況-實際安置服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=13883&cuid=2164"
+     },
+     {
+      "name": "身心障礙者生活補助-人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=51792&cuid=2154"
+     },
+     {
+      "name": "身心障礙者生活補助-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=51788&cuid=2155"
+     },
+     {
+      "name": "身心障礙者生活輔助器具補助-人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=47542&cuid=2156"
+     },
+     {
+      "name": "身心障礙者生活輔助器具補助-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=47540&cuid=2157"
+     },
+     {
+      "name": "身心障礙者日間照顧及住宿式照顧補助-人數(年底)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=52379&cuid=2417"
+     },
+     {
+      "name": "身心障礙者托育養護補助-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6c74ac6c-08d4-42ef-a4e3-0263d01f8b00&uid=34868&cuid=2165"
+     }
+    ]
+   },
+   {
+    "name": "低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "低收入戶戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=13910&cuid=2174"
+     },
+     {
+      "name": "低收入戶人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=52067&cuid=2175"
+     },
+     {
+      "name": "低收入戶生活扶助-人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=775&cuid=2176"
+     },
+     {
+      "name": "低收入戶生活扶助-戶次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=777&cuid=2178"
+     },
+     {
+      "name": "低收入戶生活扶助-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=773&cuid=2177"
+     },
+     {
+      "name": "輔導就業服務-就業服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=51500&cuid=2179"
+     },
+     {
+      "name": "輔導就業服務-職業訓練人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=51501&cuid=2180"
+     },
+     {
+      "name": "輔導就業服務-以工代賑人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=51497&cuid=2181"
+     },
+     {
+      "name": "輔導就業服務-以工代賑金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=51499&cuid=2182"
+     },
+     {
+      "name": "低收入戶補助金額人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=778&cuid=2183"
+     },
+     {
+      "name": "低收入戶補助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=779&cuid=2184"
+     },
+     {
+      "name": "低收入戶節日慰問戶次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=836&cuid=2185"
+     },
+     {
+      "name": "低收入戶節日慰問金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1d70aee-bf90-44df-9d28-484d798822fe&uid=835&cuid=2186"
+     }
+    ]
+   },
+   {
+    "name": "中低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "中低收入戶戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=13871&cuid=2187"
+     },
+     {
+      "name": "中低收入戶人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=13873&cuid=2188"
+     },
+     {
+      "name": "中低收入戶救助及服務-人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=856&cuid=2191"
+     },
+     {
+      "name": "中低收入戶救助及服務-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=858&cuid=2192"
+     },
+     {
+      "name": "輔導就業服務-就業服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=51507&cuid=2194"
+     },
+     {
+      "name": "輔導就業服務-職業訓練人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=51510&cuid=2195"
+     },
+     {
+      "name": "中低收入戶輔導就業服務-以工代賑人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=51502&cuid=2196"
+     },
+     {
+      "name": "中低收入戶輔導就業服務-以工代賑金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b1ad2d8-03b4-4713-aaf5-b587997191d6&uid=51505&cuid=2197"
+     }
+    ]
+   },
+   {
+    "name": "中低收入老人生活津貼與老農津貼",
+    "children": [
+     {
+      "name": "中低收入老人生活津貼-人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6545385-225a-427b-83e1-9fbce28f103a&uid=13888&cuid=2201"
+     },
+     {
+      "name": "中低收入老人生活津貼-金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c6545385-225a-427b-83e1-9fbce28f103a&uid=1339&cuid=2199"
+     }
+    ]
+   },
+   {
+    "name": "辦理社會救助醫療補助概況",
+    "children": [
+     {
+      "name": "社會救助醫療補助人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a5300548-de37-443c-be74-6292b4a292ca&uid=949&cuid=2204"
+     },
+     {
+      "name": "社會救助醫療補助住院日數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a5300548-de37-443c-be74-6292b4a292ca&uid=51513&cuid=2202"
+     },
+     {
+      "name": "社會救助醫療補助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a5300548-de37-443c-be74-6292b4a292ca&uid=51515&cuid=2203"
+     }
+    ]
+   },
+   {
+    "name": "辦理急難救助概況",
+    "children": [
+     {
+      "name": "辦理急難救助-救助人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5907c8a1-890c-4412-a0ca-efdf61961cfa&uid=35017&cuid=2170"
+     },
+     {
+      "name": "辦理急難救助-救助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5907c8a1-890c-4412-a0ca-efdf61961cfa&uid=35019&cuid=2171"
+     },
+     {
+      "name": "辦理急難救助-救助人次(民眾、榮民具原住民身分)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5907c8a1-890c-4412-a0ca-efdf61961cfa&uid=35022&cuid=2173"
+     },
+     {
+      "name": "辦理急難救助-救助金額(民眾、榮民具原住民身分)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5907c8a1-890c-4412-a0ca-efdf61961cfa&uid=35016&cuid=2172"
+     }
+    ]
+   },
+   {
+    "name": "遭受災害救助情形",
+    "children": [
+     {
+      "name": "遭受災害救助情形-災害次數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=47837&cuid=2205"
+     },
+     {
+      "name": "遭受災害救助情形-收容所數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48295&cuid=2206"
+     },
+     {
+      "name": "遭受災害救助-臨時收容災民數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48297&cuid=2207"
+     },
+     {
+      "name": "遭受災害救助-受災人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48299&cuid=2208"
+     },
+     {
+      "name": "遭受災害救助-安遷救助戶數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48301&cuid=2209"
+     },
+     {
+      "name": "遭受災害救助-安遷救助人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48303&cuid=2210"
+     },
+     {
+      "name": "遭受災害救助-財物受損影響生計者",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48305&cuid=2211"
+     },
+     {
+      "name": "遭受災害救助-救助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=faa03912-6d20-41ed-95ec-3865adb48f9d&uid=48293&cuid=2212"
+     }
+    ]
+   },
+   {
+    "name": "遊民人數及處理情形",
+    "children": [
+     {
+      "name": "受理報案或查報遊民處理人數(人、件)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8666a0e9-db60-4b48-8e77-249839d7e45b&uid=24711&cuid=2213"
+     },
+     {
+      "name": "處理遊民情形",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8666a0e9-db60-4b48-8e77-249839d7e45b&uid=971&cuid=2214"
+     }
+    ]
+   },
+   {
+    "name": "老人福利服務概況",
+    "children": [
+     {
+      "name": "老人福利服務概況-機構數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=52068&cuid=2217"
+     },
+     {
+      "name": "老人長期照顧、安養機構-實際進住人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=34833&cuid=2229"
+     },
+     {
+      "name": "社區安養堂-實際進住人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=34841&cuid=2218"
+     },
+     {
+      "name": "老人公寓-實際進住人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=34849&cuid=2219"
+     },
+     {
+      "name": "老人福利服務(文康)中心(個)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=48461&cuid=2221"
+     },
+     {
+      "name": "長青學苑辦理成果-所數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=48468&cuid=2223"
+     },
+     {
+      "name": "長青學苑辦理成果-班數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=48466&cuid=2222"
+     },
+     {
+      "name": "長青學苑辦理成果-開班參加人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=47167&cuid=2220"
+     },
+     {
+      "name": "居家服務-服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=45766&cuid=2230"
+     },
+     {
+      "name": "居家服務-服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=34785&cuid=2226"
+     },
+     {
+      "name": "老人營養餐飲服務-服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=35276&cuid=2227"
+     },
+     {
+      "name": "老人營養餐飲服務-服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ae8fcb0b-7d84-4554-b539-985f2372a554&uid=35273&cuid=2228"
+     }
+    ]
+   },
+   {
+    "name": "兒童及少年福利服務概況",
+    "children": [
+     {
+      "name": "兒童及少年福利機構-安置及教養機構數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=13899&cuid=2252"
+     },
+     {
+      "name": "兒童及少年福利機構-安置及教養機構現有收容人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=13900&cuid=2239"
+     },
+     {
+      "name": "兒童及少年福利機構-心理輔導或家庭諮詢機構數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=13901&cuid=2240"
+     },
+     {
+      "name": "兒童及少年福利機構-心理輔導或家庭諮詢機構服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=996&cuid=2243"
+     },
+     {
+      "name": "兒童及少年福利機構-其他福利服務機構數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=13903&cuid=2244"
+     },
+     {
+      "name": "兒童及少年福利機構-其他福利服務機構服務人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=998&cuid=2245"
+     },
+     {
+      "name": "家庭寄養-寄養家庭戶數(年底)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=52069&cuid=2248"
+     },
+     {
+      "name": "家庭寄養-寄養兒童及少年人數(年底)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=13906&cuid=2249"
+     },
+     {
+      "name": "弱勢兒童及少年扶助-扶助人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=47176&cuid=2251"
+     },
+     {
+      "name": "弱勢兒童及少年扶助-扶助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ef7b3fbe-c00e-46a1-a0a1-07ad8ea06ad1&uid=47171&cuid=2250"
+     }
+    ]
+   },
+   {
+    "name": "托育機構概況",
+    "children": [
+     {
+      "name": "托嬰中心-所數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=71f49083-a802-410d-8526-856ad5ebd364&uid=52070&cuid=2261"
+     },
+     {
+      "name": "托嬰中心-收托人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=71f49083-a802-410d-8526-856ad5ebd364&uid=52072&cuid=2262"
+     },
+     {
+      "name": "托嬰中心-專業人員",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=71f49083-a802-410d-8526-856ad5ebd364&uid=52073&cuid=2263"
+     }
+    ]
+   },
+   {
+    "name": "婦女福利服務概況",
+    "children": [
+     {
+      "name": "婦女福利服務-辦理次數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=12a2455b-16b0-4f4b-8b1c-58924ad4999c&uid=45731&cuid=2231"
+     },
+     {
+      "name": "婦女福利服務-參加人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=12a2455b-16b0-4f4b-8b1c-58924ad4999c&uid=45730&cuid=2232"
+     }
+    ]
+   },
+   {
+    "name": "特殊境遇家庭扶助服務概況",
+    "children": [
+     {
+      "name": "特殊境遇家庭扶助-扶助人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5abe7f9d-9525-4a93-9848-61461e9c2dd9&uid=1609&cuid=2234"
+     },
+     {
+      "name": "特殊境遇家庭扶助-扶助金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5abe7f9d-9525-4a93-9848-61461e9c2dd9&uid=1610&cuid=2235"
+     }
+    ]
+   },
+   {
+    "name": "性侵害通報案件",
+    "children": [
+     {
+      "name": "性侵害通報-通報件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=618668fd-ca6d-4f8f-892a-5e336c3e4899&uid=47824&cuid=2236"
+     },
+     {
+      "name": "性侵害通報案件-被害人依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=618668fd-ca6d-4f8f-892a-5e336c3e4899&uid=47825&cuid=2237"
+     },
+     {
+      "name": "性侵害通報案件-被害人依年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=618668fd-ca6d-4f8f-892a-5e336c3e4899&uid=47826&cuid=2238"
+     }
+    ]
+   },
+   {
+    "name": "家庭暴力通報案件",
+    "children": [
+     {
+      "name": "家庭暴力通報案件-通報件數依案件類型分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ea5c18-2b75-4add-8c71-a65bb4242a72&uid=47827&cuid=2401"
+     },
+     {
+      "name": "家庭暴力通報案件-通報件數依被害及加害者兩造關係別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ea5c18-2b75-4add-8c71-a65bb4242a72&uid=47828&cuid=2402"
+     },
+     {
+      "name": "家庭暴力通報案件-被害人依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=53ea5c18-2b75-4add-8c71-a65bb4242a72&uid=47829&cuid=2403"
+     }
+    ]
+   },
+   {
+    "name": "長期照顧十年計劃服務個案人數",
+    "children": [
+     {
+      "name": "長期照顧十年計畫-居家服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f1cf51ad-1fd4-4a66-9a79-c4653a989eb2&uid=45766&cuid=2256"
+     },
+     {
+      "name": "長期照顧十年計畫-日間照顧人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f1cf51ad-1fd4-4a66-9a79-c4653a989eb2&uid=46251&cuid=2257"
+     },
+     {
+      "name": "長期照顧十年計畫-家庭托顧人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f1cf51ad-1fd4-4a66-9a79-c4653a989eb2&uid=46254&cuid=2258"
+     },
+     {
+      "name": "長期照顧十年計畫-營養餐飲服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f1cf51ad-1fd4-4a66-9a79-c4653a989eb2&uid=35276&cuid=2259"
+     },
+     {
+      "name": "長期照顧十年計畫-交通接送服務人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f1cf51ad-1fd4-4a66-9a79-c4653a989eb2&uid=46256&cuid=2260"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾貳、勞工行政",
+  "children": [
+   {
+    "name": "勞資爭議案件",
+    "children": [
+     {
+      "name": "勞資爭議-爭議件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f206654-09b3-4bc7-acd2-8e97e255bed4&uid=47486&cuid=2284"
+     },
+     {
+      "name": "勞資爭議案件-爭議人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f206654-09b3-4bc7-acd2-8e97e255bed4&uid=47487&cuid=2285"
+     },
+     {
+      "name": "勞資爭議案件-爭議終結案件件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1f206654-09b3-4bc7-acd2-8e97e255bed4&uid=47388&cuid=2286"
+     }
+    ]
+   },
+   {
+    "name": "勞工團體概況",
+    "children": [
+     {
+      "name": "勞工團體概況-工會數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c201fdc5-5c15-46f8-9426-98476e95f6c9&uid=47749&cuid=2406"
+     },
+     {
+      "name": "勞工團體概況-團體會員數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c201fdc5-5c15-46f8-9426-98476e95f6c9&uid=47748&cuid=2405"
+     },
+     {
+      "name": "勞工團體概況-會員人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c201fdc5-5c15-46f8-9426-98476e95f6c9&uid=47747&cuid=2404"
+     }
+    ]
+   },
+   {
+    "name": "事業單位團體協約及勞資會議概況",
+    "children": [
+     {
+      "name": "團體協約依工會類型分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e06a1127-f7e5-47b0-bb9c-a316dcad3596&uid=47481&cuid=2290"
+     },
+     {
+      "name": "勞資會議依公營/民營分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e06a1127-f7e5-47b0-bb9c-a316dcad3596&uid=47479&cuid=2289"
+     }
+    ]
+   },
+   {
+    "name": "勞工服務中心服務概況",
+    "children": [
+     {
+      "name": "服務件數-按服務性質分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6066982-50f4-4fe5-b34d-c1a41375b9f5&uid=47370&cuid=2299"
+     },
+     {
+      "name": "服務件數-按服務類別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6066982-50f4-4fe5-b34d-c1a41375b9f5&uid=47371&cuid=2300"
+     }
+    ]
+   },
+   {
+    "name": "勞工教育及志願服務概況",
+    "children": [
+     {
+      "name": "提撥勞工教育經費-提撥金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=644&cuid=2296"
+     },
+     {
+      "name": "辦理勞工教育-班數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=646&cuid=2297"
+     },
+     {
+      "name": "勞工刊物依刊物類型分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=648&cuid=2298"
+     },
+     {
+      "name": "勞工志願服務-志工隊數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=649&cuid=2292"
+     },
+     {
+      "name": "志工人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=46244&cuid=2291"
+     },
+     {
+      "name": "訓練總時數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=654&cuid=2295"
+     },
+     {
+      "name": "服務總人次",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=651&cuid=2293"
+     },
+     {
+      "name": "服務總時數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c113dec-6ec5-437d-a2a1-677be3fb3e78&uid=652&cuid=2294"
+     }
+    ]
+   },
+   {
+    "name": "職工福利概況",
+    "children": [
+     {
+      "name": "職工福利機構-已設立單位數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7cd11de-7d14-4e39-b937-f5169cf39cb2&uid=52077&cuid=2303"
+     },
+     {
+      "name": "職工福利機構-新設立單位數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7cd11de-7d14-4e39-b937-f5169cf39cb2&uid=610&cuid=2302"
+     },
+     {
+      "name": "職工福利金提撥金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7cd11de-7d14-4e39-b937-f5169cf39cb2&uid=619&cuid=2304"
+     },
+     {
+      "name": "職工福利金受益人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7cd11de-7d14-4e39-b937-f5169cf39cb2&uid=620&cuid=2305"
+     }
+    ]
+   },
+   {
+    "name": "勞工保險各類投保單位數及人數",
+    "children": [
+     {
+      "name": "投保人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a01965-3682-4647-aa66-e888e3275867&uid=47756&cuid=2264"
+     },
+     {
+      "name": "投保人數依勞保投保單位別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a01965-3682-4647-aa66-e888e3275867&uid=47760&cuid=2266"
+     },
+     {
+      "name": "投保單位數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=57a01965-3682-4647-aa66-e888e3275867&uid=47754&cuid=2265"
+     }
+    ]
+   },
+   {
+    "name": "移工概況",
+    "children": [
+     {
+      "name": "移工人數依外籍勞工別、國籍別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3cec4a2c-f551-49d0-82af-ce3fa38abdf9&uid=52074&cuid=2267"
+     },
+     {
+      "name": "移工人數-按勞工別及性別",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3cec4a2c-f551-49d0-82af-ce3fa38abdf9&uid=52075&cuid=2268"
+     }
+    ]
+   },
+   {
+    "name": "人力資源調查重要結果指標",
+    "children": [
+     {
+      "name": "總人口",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47776&cuid=2271"
+     },
+     {
+      "name": "十五歲以上民間人口依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47778&cuid=2272"
+     },
+     {
+      "name": "勞動力依性別、就業/失業分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47782&cuid=2273"
+     },
+     {
+      "name": "非勞動力依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47783&cuid=2274"
+     },
+     {
+      "name": "勞動力參與率依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47784&cuid=2275"
+     },
+     {
+      "name": "失業率依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=da776364-b6d0-4ec1-9431-16d0f6085151&uid=47785&cuid=2276"
+     }
+    ]
+   },
+   {
+    "name": "勞動力之年齡分配",
+    "children": [
+     {
+      "name": "人力資源調查-勞動力依年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=290da8d4-b8be-4882-a329-ca5cce509092&uid=47786&cuid=2277"
+     }
+    ]
+   },
+   {
+    "name": "就業者之行業",
+    "children": [
+     {
+      "name": "就業者依行業別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8472722e-c6e5-4573-9dd7-e77b272afbc6&uid=47788&cuid=2278"
+     }
+    ]
+   },
+   {
+    "name": "就業者之職業",
+    "children": [
+     {
+      "name": "就業者依職業別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2c6fc572-1066-4423-b155-de2783f5cd24&uid=47789&cuid=2279"
+     }
+    ]
+   },
+   {
+    "name": "就業者之教育程度",
+    "children": [
+     {
+      "name": "就業者依教育程度分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4c8c84d5-473e-46ae-b1e1-98c4df86adb9&uid=47790&cuid=2280"
+     }
+    ]
+   },
+   {
+    "name": "就業者之年齡分配",
+    "children": [
+     {
+      "name": "就業者依年齡別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d11f7fb-df61-46bc-aa37-659cbd9b9aaa&uid=47791&cuid=2281"
+     }
+    ]
+   },
+   {
+    "name": "失業者之教育程度",
+    "children": [
+     {
+      "name": "失業者依教育程度分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b2580c98-ef84-42c9-8f8b-b3e52ce05510&uid=47792&cuid=2282"
+     }
+    ]
+   },
+   {
+    "name": "失業者之年齡分配",
+    "children": [
+     {
+      "name": "失業者依年齡別(15~65歲以上)分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d27b26a-2c4d-44b2-b6ec-aa8769692583&uid=47793&cuid=2526"
+     }
+    ]
+   },
+   {
+    "name": "經指定填報職業災害統計之事業單位概況",
+    "children": [
+     {
+      "name": "陳報事業單位數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47794&cuid=2390"
+     },
+     {
+      "name": "工作者數(僱用勞工數)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47795&cuid=2391"
+     },
+     {
+      "name": "總工作日數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47796&cuid=2392"
+     },
+     {
+      "name": "總(經歷)工時",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47797&cuid=2393"
+     },
+     {
+      "name": "失能傷害次數依失能傷害分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47798&cuid=2394"
+     },
+     {
+      "name": "失能傷害頻率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47807&cuid=2396"
+     },
+     {
+      "name": "總損失工作日數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47799&cuid=2395"
+     },
+     {
+      "name": "失能傷害嚴重率",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2d555bca-a7c4-426b-94e0-3d3d3f4d16af&uid=47808&cuid=2397"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾參、社會治安",
+  "children": [
+   {
+    "name": "刑事案件",
+    "children": [
+     {
+      "name": "發生數依刑事案件別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8382ebcb-4c0d-49b7-b052-cb1b99dd36f4&uid=47654&cuid=2312"
+     },
+     {
+      "name": "破獲數依刑事案件別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8382ebcb-4c0d-49b7-b052-cb1b99dd36f4&uid=47655&cuid=2313"
+     },
+     {
+      "name": "嫌疑人犯數依刑事案件別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8382ebcb-4c0d-49b7-b052-cb1b99dd36f4&uid=47656&cuid=2314"
+     }
+    ]
+   },
+   {
+    "name": "違反社會秩序維護法案件",
+    "children": [
+     {
+      "name": "處罰件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2917f38-c262-4d7e-965e-ce7ea5120887&uid=47611&cuid=2310"
+     },
+     {
+      "name": "處罰人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2917f38-c262-4d7e-965e-ce7ea5120887&uid=47613&cuid=2311"
+     }
+    ]
+   },
+   {
+    "name": "經濟案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9f743d7d-9406-402e-84e5-9583a827b67c&uid=299&cuid=2353"
+     },
+     {
+      "name": "人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9f743d7d-9406-402e-84e5-9583a827b67c&uid=300&cuid=2354"
+     },
+     {
+      "name": "估計金額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9f743d7d-9406-402e-84e5-9583a827b67c&uid=301&cuid=2355"
+     }
+    ]
+   },
+   {
+    "name": "道路交通事故原因及傷亡人數",
+    "children": [
+     {
+      "name": "肇事原因",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1af21cb6-7843-48fc-bfa3-3d09ae3d472e&uid=45875&cuid=2321"
+     },
+     {
+      "name": "道路交通事故傷亡人數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1af21cb6-7843-48fc-bfa3-3d09ae3d472e&uid=47658&cuid=2320"
+     }
+    ]
+   },
+   {
+    "name": "辦理調解業務概況",
+    "children": [
+     {
+      "name": "結案件數依調解業務項目別、成立與否分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=962a6cc1-310f-4a97-8262-83c67dbec71f&uid=668&cuid=2348"
+     },
+     {
+      "name": "委員總人數依性別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=962a6cc1-310f-4a97-8262-83c67dbec71f&uid=677&cuid=2349"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾肆、家庭收支",
+  "children": [
+   {
+    "name": "平均每戶家庭收支",
+    "children": [
+     {
+      "name": "所得收入依所得收入別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47800&cuid=2356"
+     },
+     {
+      "name": "消費支出依消費支出別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47801&cuid=2357"
+     },
+     {
+      "name": "非消費支出依非消費支出別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47802&cuid=2358"
+     },
+     {
+      "name": "可支配所得",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47803&cuid=2359"
+     },
+     {
+      "name": "儲蓄",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47804&cuid=2360"
+     },
+     {
+      "name": "所得總額",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bd68b021-8299-4f56-9a20-4dc0fe6c986d&uid=47805&cuid=2361"
+     }
+    ]
+   },
+   {
+    "name": "家庭主要設備普及率",
+    "children": [
+     {
+      "name": "彩色電視機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47659&cuid=2362"
+     },
+     {
+      "name": "數位影音光碟機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47661&cuid=2363"
+     },
+     {
+      "name": "攝影機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47662&cuid=2364"
+     },
+     {
+      "name": "音響",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47663&cuid=2365"
+     },
+     {
+      "name": "鋼琴(含電子琴)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47664&cuid=2366"
+     },
+     {
+      "name": "數位相機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47665&cuid=2367"
+     },
+     {
+      "name": "電視遊樂器",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47667&cuid=2368"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47668&cuid=2369"
+     },
+     {
+      "name": "家用電腦",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47669&cuid=2370"
+     },
+     {
+      "name": "電話機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47670&cuid=2371"
+     },
+     {
+      "name": "行動電話",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47671&cuid=2372"
+     },
+     {
+      "name": "連網(使用電腦或其他設備)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47672&cuid=2373"
+     },
+     {
+      "name": "汽車",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47673&cuid=2374"
+     },
+     {
+      "name": "機車",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47674&cuid=2375"
+     },
+     {
+      "name": "電磁爐",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47675&cuid=2376"
+     },
+     {
+      "name": "冷暖氣機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47676&cuid=2377"
+     },
+     {
+      "name": "除濕機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47677&cuid=2378"
+     },
+     {
+      "name": "洗衣機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47678&cuid=2379"
+     },
+     {
+      "name": "烘衣機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47679&cuid=2380"
+     },
+     {
+      "name": "空氣清淨機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47680&cuid=2381"
+     },
+     {
+      "name": "濾水器",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47681&cuid=2382"
+     },
+     {
+      "name": "吸塵器",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47682&cuid=2383"
+     },
+     {
+      "name": "熱水器",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47683&cuid=2384"
+     },
+     {
+      "name": "開飲機",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47684&cuid=2385"
+     },
+     {
+      "name": "微波爐",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47685&cuid=2386"
+     },
+     {
+      "name": "報紙",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47686&cuid=2387"
+     },
+     {
+      "name": "期刊雜誌",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=294ae73a-4942-467b-8291-947e02e3be80&uid=47687&cuid=2388"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "拾伍、其他",
+  "children": [
+   {
+    "name": "郵政機構概況",
+    "children": [
+     {
+      "name": "郵政機構概況依郵政機構別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0a3af6d8-30b8-417c-8a3c-210217771e33&uid=47689&cuid=2389"
+     }
+    ]
+   },
+   {
+    "name": "主要觀光遊憩區遊客人數－按觀光遊憩區別",
+    "children": [
+     {
+      "name": "遊客人數依觀光遊憩區別分",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d54f804b-de0d-4f72-afae-f3eceb12de44&uid=47965&cuid=2398"
+     },
+     {
+      "name": "增減數",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d54f804b-de0d-4f72-afae-f3eceb12de44&uid=52080&cuid=2399"
+     },
+     {
+      "name": "成長率(%)",
+      "url": "https://penghu.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d54f804b-de0d-4f72-afae-f3eceb12de44&uid=52081&cuid=2400"
+     }
+    ]
+   }
+  ]
+ }
+]

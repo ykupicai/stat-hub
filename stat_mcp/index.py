@@ -173,6 +173,19 @@ def build_items():
                                   "c": f"ptyb:{m.group(1)}", "u": "https://pthg.dgbas.gov.tw/STATWeb/Page/BookCatalog_Main.aspx",
                                   "meta": {"年報年度": "107～114（107～113 為試算表可解析；114 為 PDF）",
                                            "取數": f"stat_pingtung_yearbook(year, table=\"{m.group(1)}\")"}})
+    # 11 各縣市主計處資料庫查詢平台（同一套系統；來源 id 為「11-縣市」）
+    cty = DB / "11_各縣市主計處資料庫查詢平台"
+    if cty.exists():
+        for d in sorted(cty.iterdir()):
+            fp = d / "目錄.json"
+            if d.is_dir() and fp.exists():
+                tmp = []
+                walk_tree(load(fp), f"11-{d.name}", [d.name], tmp)
+                for it in tmp:
+                    c, rest = code_of(it["p"].split(" > ")[-1])
+                    if c:
+                        it["c"] = c
+                    items.append(it)
     # 09 三大普查動態查詢（統計項×可搭配複分類）
     cen_p = DB / "09_主計總處_三大普查動態查詢" / "結構.json"
     if cen_p.exists():

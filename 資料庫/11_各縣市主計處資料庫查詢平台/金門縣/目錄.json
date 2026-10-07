@@ -1,0 +1,3213 @@
+[
+ {
+  "name": "[統計年報] 壹、土地",
+  "children": [
+   {
+    "name": "已登記土地面積",
+    "children": [
+     {
+      "name": "已登記土地面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=794a7a73-8e1c-4bde-bc45-0a3024474459&uid=1&cuid=415"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租後購買耕地面積與戶數",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1142dfc3-eb2e-4a16-831a-c09071a7ea45&uid=6931&cuid=837"
+     },
+     {
+      "name": "戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1142dfc3-eb2e-4a16-831a-c09071a7ea45&uid=6932&cuid=838"
+     }
+    ]
+   },
+   {
+    "name": "實施三七五減租成果",
+    "children": [
+     {
+      "name": "佃農戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b62bdd9-1358-41ba-9edc-079c2b29cac3&uid=6933&cuid=839"
+     },
+     {
+      "name": "土地筆數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b62bdd9-1358-41ba-9edc-079c2b29cac3&uid=6934&cuid=840"
+     },
+     {
+      "name": "租約件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b62bdd9-1358-41ba-9edc-079c2b29cac3&uid=6935&cuid=841"
+     },
+     {
+      "name": "訂約面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b62bdd9-1358-41ba-9edc-079c2b29cac3&uid=6936&cuid=842"
+     }
+    ]
+   },
+   {
+    "name": "土地徵收面積",
+    "children": [
+     {
+      "name": "辦理土地徵收情形-徵收面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=015dd7df-7a97-4579-9853-63ca0825964b&uid=73&cuid=425"
+     },
+     {
+      "name": "辦理土地徵收情形-補償費用",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=015dd7df-7a97-4579-9853-63ca0825964b&uid=74&cuid=427"
+     }
+    ]
+   },
+   {
+    "name": "公地撥用面積",
+    "children": [
+     {
+      "name": "公地撥用-面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9d3e0936-32ac-4ec6-961e-3ec0af396a90&uid=3871&cuid=788"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 貳、人口",
+  "children": [
+   {
+    "name": "現住戶數、人口密度及性比例",
+    "children": [
+     {
+      "name": "面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=3178&cuid=441"
+     },
+     {
+      "name": "村里數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=3204&cuid=433"
+     },
+     {
+      "name": "鄰數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=3206&cuid=434"
+     },
+     {
+      "name": "現住戶口-戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=3144&cuid=793"
+     },
+     {
+      "name": "現住戶口-人口數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=6438&cuid=792"
+     },
+     {
+      "name": "戶量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=6899&cuid=815"
+     },
+     {
+      "name": "人口密度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=6897&cuid=790"
+     },
+     {
+      "name": "性比例",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f7e09bcb-2694-421d-a1c7-18d576edf224&uid=6898&cuid=791"
+     }
+    ]
+   },
+   {
+    "name": "戶籍動態",
+    "children": [
+     {
+      "name": "遷入人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=374&cuid=463"
+     },
+     {
+      "name": "遷出人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=375&cuid=445"
+     },
+     {
+      "name": "鄉鎮內住址變更人數(遷入)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=349&cuid=794"
+     },
+     {
+      "name": "鄉鎮內住址變更人數(遷出)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=350&cuid=795"
+     },
+     {
+      "name": "出生人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=5807&cuid=796"
+     },
+     {
+      "name": "死亡人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=4224&cuid=797"
+     },
+     {
+      "name": "粗出生率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3179&cuid=451"
+     },
+     {
+      "name": "粗死亡率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3180&cuid=452"
+     },
+     {
+      "name": "自然增加率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3181&cuid=455"
+     },
+     {
+      "name": "遷入率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3182&cuid=457"
+     },
+     {
+      "name": "遷出率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3183&cuid=458"
+     },
+     {
+      "name": "社會增加率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3184&cuid=456"
+     },
+     {
+      "name": "結婚對數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=7201&cuid=1600"
+     },
+     {
+      "name": "粗結婚率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3188&cuid=460"
+     },
+     {
+      "name": "離婚/終止結婚對數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=7202&cuid=1601"
+     },
+     {
+      "name": "粗離婚率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a0525598-1d0a-4a18-8af0-e386a104570f&uid=3185&cuid=459"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡分配",
+    "children": [
+     {
+      "name": "現住人口之年齡分配",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=eba896ca-2d93-4504-bb95-cb0d69967aad&uid=6911&cuid=804"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之年齡結構",
+    "children": [
+     {
+      "name": "幼年人口數(0-14歲)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6912&cuid=805"
+     },
+     {
+      "name": "幼年人口比率(0-14歲)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6915&cuid=808"
+     },
+     {
+      "name": "青壯年人口數(15-64歲)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6913&cuid=806"
+     },
+     {
+      "name": "青壯年人口比率(15-64歲)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6916&cuid=809"
+     },
+     {
+      "name": "老年人口數(65歲以上)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6914&cuid=807"
+     },
+     {
+      "name": "老年人口比率(65歲以上)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6917&cuid=810"
+     },
+     {
+      "name": "扶老比",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6918&cuid=811"
+     },
+     {
+      "name": "扶幼比",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6919&cuid=812"
+     },
+     {
+      "name": "扶養比",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6920&cuid=813"
+     },
+     {
+      "name": "老化指數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8750e45a-e838-432a-ad96-93e0bdeabae5&uid=6921&cuid=814"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住人口之教育程度",
+    "children": [
+     {
+      "name": "十五歲以上現住人口之教育程度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b576e5f6-0e30-4537-bee8-4ca97b76b5af&uid=460&cuid=817"
+     }
+    ]
+   },
+   {
+    "name": "現住人口之婚姻狀況",
+    "children": [
+     {
+      "name": "現住人口之婚姻狀況",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2fc6637c-4319-4773-9a71-2b9de14be34d&uid=388&cuid=819"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民戶口數",
+    "children": [
+     {
+      "name": "原住民戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14c04d00-6034-4d32-aa93-14b4870d1928&uid=404&cuid=820"
+     },
+     {
+      "name": "原住民人口數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14c04d00-6034-4d32-aa93-14b4870d1928&uid=403&cuid=821"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民年齡分配",
+    "children": [
+     {
+      "name": "現住原住民年齡分配",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e1d195cd-6d54-4e69-9dc8-5c7054a1b36b&uid=405&cuid=1049"
+     }
+    ]
+   },
+   {
+    "name": "15歲以上現住原住民教育程度",
+    "children": [
+     {
+      "name": "15歲以上現住原住民教育程度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2075b6e1-0578-4720-a69f-d583a1d4b51a&uid=6923&cuid=825"
+     }
+    ]
+   },
+   {
+    "name": "現住原住民婚姻狀況",
+    "children": [
+     {
+      "name": "現住原住民婚姻狀況",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7ff8569e-48aa-4b6d-b400-ebbdf448bbdf&uid=6926&cuid=831"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 參、行政組織",
+  "children": [
+   {
+    "name": "本縣各級機關學校正式預算員額",
+    "children": [
+     {
+      "name": "本縣各級機關學校正式預算員額依機關別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=75501e5f-2d17-4834-b23d-f4b9ff4f548a&uid=6922&cuid=818"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校員工總人數",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d155f639-77fa-41d1-a098-d22945543524&uid=6924&cuid=829"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d155f639-77fa-41d1-a098-d22945543524&uid=6925&cuid=830"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按官等別分",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8464a7e9-98c1-41b0-a58e-a8187720be93&uid=6927&cuid=832"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8464a7e9-98c1-41b0-a58e-a8187720be93&uid=6928&cuid=834"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按教育程度分",
+    "children": [
+     {
+      "name": "按性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ecca4c06-13a3-45f1-a620-79f2ef21552e&uid=6929&cuid=835"
+     },
+     {
+      "name": "按機關別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ecca4c06-13a3-45f1-a620-79f2ef21552e&uid=6930&cuid=836"
+     }
+    ]
+   },
+   {
+    "name": "本縣各級機關學校公教人員按年齡分",
+    "children": [
+     {
+      "name": "平均年齡按性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f55ac8c4-d537-4989-8d93-f207b870b628&uid=8868&cuid=1655"
+     },
+     {
+      "name": "平均年齡按機關別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f55ac8c4-d537-4989-8d93-f207b870b628&uid=8869&cuid=1656"
+     },
+     {
+      "name": "各級機關學校公教人員依性別、年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f55ac8c4-d537-4989-8d93-f207b870b628&uid=7199&cuid=1598"
+     },
+     {
+      "name": "各級機關學校公教人員依機關別、年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f55ac8c4-d537-4989-8d93-f207b870b628&uid=7200&cuid=1599"
+     }
+    ]
+   },
+   {
+    "name": "區域立法委員選舉概況",
+    "children": [
+     {
+      "name": "(立法委員)選舉人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb540f2f-8692-4a89-8b29-83aec24defe3&uid=2568&cuid=861"
+     },
+     {
+      "name": "(立法委員)候選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb540f2f-8692-4a89-8b29-83aec24defe3&uid=2569&cuid=862"
+     },
+     {
+      "name": "(立法委員)投票數依有效與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb540f2f-8692-4a89-8b29-83aec24defe3&uid=2570&cuid=863"
+     },
+     {
+      "name": "(立法委員)當選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb540f2f-8692-4a89-8b29-83aec24defe3&uid=2572&cuid=864"
+     },
+     {
+      "name": "投票數對當選人數比率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb540f2f-8692-4a89-8b29-83aec24defe3&uid=6942&cuid=917"
+     }
+    ]
+   },
+   {
+    "name": "縣長選舉概況",
+    "children": [
+     {
+      "name": "(縣長)選舉人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd076cb7-dbb8-4c0f-93e7-41e7ac252534&uid=2573&cuid=865"
+     },
+     {
+      "name": "(縣長)候選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd076cb7-dbb8-4c0f-93e7-41e7ac252534&uid=2574&cuid=866"
+     },
+     {
+      "name": "(縣長)投票數依有效與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd076cb7-dbb8-4c0f-93e7-41e7ac252534&uid=2575&cuid=867"
+     },
+     {
+      "name": "(縣長)投票數對選舉人數比率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dd076cb7-dbb8-4c0f-93e7-41e7ac252534&uid=6941&cuid=868"
+     }
+    ]
+   },
+   {
+    "name": "縣議員選舉概況",
+    "children": [
+     {
+      "name": "(縣議員)選舉人數依選舉區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c1854ff-5b13-4b1e-90e1-984317332532&uid=2577&cuid=927"
+     },
+     {
+      "name": "(縣議員)候選人數依性別、選舉區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c1854ff-5b13-4b1e-90e1-984317332532&uid=2578&cuid=928"
+     },
+     {
+      "name": "(縣議員)投票數依選舉區別、有效與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c1854ff-5b13-4b1e-90e1-984317332532&uid=2579&cuid=929"
+     },
+     {
+      "name": "(縣議員)當選人數依性別、選舉區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0c1854ff-5b13-4b1e-90e1-984317332532&uid=2581&cuid=930"
+     }
+    ]
+   },
+   {
+    "name": "鄉鎮市民代表選舉概況",
+    "children": [
+     {
+      "name": "(鄉鎮市民代表)選舉人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb3b38a9-7ddd-4ff6-92eb-9f8b756016ff&uid=2582&cuid=880"
+     },
+     {
+      "name": "(鄉鎮市民代表)候選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb3b38a9-7ddd-4ff6-92eb-9f8b756016ff&uid=2583&cuid=881"
+     },
+     {
+      "name": "(鄉鎮市民代表)投票數依有效與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb3b38a9-7ddd-4ff6-92eb-9f8b756016ff&uid=2584&cuid=882"
+     },
+     {
+      "name": "(鄉鎮市民代表)當選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb3b38a9-7ddd-4ff6-92eb-9f8b756016ff&uid=2586&cuid=883"
+     }
+    ]
+   },
+   {
+    "name": "鄉鎮市長選舉概況",
+    "children": [
+     {
+      "name": "(鄉鎮市長)選舉人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04d68886-d626-4f60-a30e-29975a5d3571&uid=2587&cuid=896"
+     },
+     {
+      "name": "(鄉鎮市長)候選人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04d68886-d626-4f60-a30e-29975a5d3571&uid=2588&cuid=897"
+     },
+     {
+      "name": "(鄉鎮市長)投票數依有效與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04d68886-d626-4f60-a30e-29975a5d3571&uid=2589&cuid=898"
+     },
+     {
+      "name": "(鄉鎮市長)當選人數對候選人數比率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=04d68886-d626-4f60-a30e-29975a5d3571&uid=3149&cuid=899"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 肆、農林漁牧",
+  "children": [
+   {
+    "name": "耕地面積",
+    "children": [
+     {
+      "name": "依農耕土地別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3aefdaf4-e69f-414c-8fff-61baa324a903&uid=3142&cuid=869"
+     }
+    ]
+   },
+   {
+    "name": "農牧戶概況–按可耕作地所有權屬分",
+    "children": [
+     {
+      "name": "農戶人口數-戶數依農戶類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3dfefc29-c55a-4925-8fb7-31a2c02ae7b9&uid=3100&cuid=870"
+     },
+     {
+      "name": "農戶人口數-人口數依農戶類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3dfefc29-c55a-4925-8fb7-31a2c02ae7b9&uid=3101&cuid=871"
+     }
+    ]
+   },
+   {
+    "name": "稻米收穫面積及生產量",
+    "children": [
+     {
+      "name": "稻米收穫面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27ad5d74-27e3-4a23-92f9-57afe8b758ee&uid=2076&cuid=895"
+     },
+     {
+      "name": "稻米生產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=27ad5d74-27e3-4a23-92f9-57afe8b758ee&uid=2077&cuid=900"
+     }
+    ]
+   },
+   {
+    "name": "農產品收穫面積及生產量",
+    "children": [
+     {
+      "name": "雜糧生產-收穫面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3104&cuid=1553"
+     },
+     {
+      "name": "雜糧生產-產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3105&cuid=1554"
+     },
+     {
+      "name": "特用作物生產-收穫面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3106&cuid=1555"
+     },
+     {
+      "name": "特用作物生產-產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3107&cuid=1556"
+     },
+     {
+      "name": "蔬菜生產-收穫面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3108&cuid=1557"
+     },
+     {
+      "name": "蔬菜生產-產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3109&cuid=1558"
+     },
+     {
+      "name": "果品生產-收穫面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3110&cuid=1559"
+     },
+     {
+      "name": "果品生產-產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=16ff46dd-d890-4f4d-ad01-76fa590418d7&uid=3111&cuid=1560"
+     }
+    ]
+   },
+   {
+    "name": "造林面積及數量",
+    "children": [
+     {
+      "name": "造林面積-依林種別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=01faa246-3a57-4199-88ad-143c8978c627&uid=6943&cuid=918"
+     },
+     {
+      "name": "造林數量-依林種別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=01faa246-3a57-4199-88ad-143c8978c627&uid=6944&cuid=919"
+     }
+    ]
+   },
+   {
+    "name": "森林主產物採伐面積及生產量",
+    "children": [
+     {
+      "name": "砍伐面積-林木",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3153&cuid=920"
+     },
+     {
+      "name": "砍伐數量-林木(立木材積)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3154&cuid=921"
+     },
+     {
+      "name": "砍伐面積-竹",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3155&cuid=922"
+     },
+     {
+      "name": "砍伐數量-竹",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3156&cuid=923"
+     },
+     {
+      "name": "生產數量-木材(利用材積)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3157&cuid=924"
+     },
+     {
+      "name": "生產數量-竹",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1daffe14-b597-4c03-a4da-08c48aad3b30&uid=3158&cuid=925"
+     }
+    ]
+   },
+   {
+    "name": "漁業從業人員",
+    "children": [
+     {
+      "name": "漁業從業人員",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0981303c-ac6c-4fc1-bcd1-280403d5ecce&uid=6945&cuid=933"
+     }
+    ]
+   },
+   {
+    "name": "漁戶數及漁戶人口數",
+    "children": [
+     {
+      "name": "漁戶數依漁業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=99e74235-fcfa-4789-abc7-6bfeb54f57c8&uid=2251&cuid=934"
+     },
+     {
+      "name": "漁戶人口數依漁業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=99e74235-fcfa-4789-abc7-6bfeb54f57c8&uid=2252&cuid=942"
+     }
+    ]
+   },
+   {
+    "name": "現有動力漁船數",
+    "children": [
+     {
+      "name": "現有動力漁船數-艘數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fae4a74b-946b-45ab-aa77-3080d938b240&uid=4766&cuid=947"
+     },
+     {
+      "name": "現有動力漁船數-噸數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fae4a74b-946b-45ab-aa77-3080d938b240&uid=4768&cuid=948"
+     }
+    ]
+   },
+   {
+    "name": "漁業生產量值",
+    "children": [
+     {
+      "name": "漁業生產量值-產量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=52bdd538-2faf-480a-bfe7-9b7417466367&uid=6953&cuid=970"
+     },
+     {
+      "name": "漁業生產量值-價值",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=52bdd538-2faf-480a-bfe7-9b7417466367&uid=3134&cuid=971"
+     }
+    ]
+   },
+   {
+    "name": "水產養殖面積",
+    "children": [
+     {
+      "name": "水產養殖面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=17c3e3ac-2876-47f0-9883-fc9ca50bc37b&uid=2214&cuid=973"
+     }
+    ]
+   },
+   {
+    "name": "遭難漁船數",
+    "children": [
+     {
+      "name": "遭難漁船數-艘數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a317570-2b2d-43c0-8304-f37908a1b600&uid=6955&cuid=999"
+     },
+     {
+      "name": "遭難漁船數-噸數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2a317570-2b2d-43c0-8304-f37908a1b600&uid=6956&cuid=1000"
+     }
+    ]
+   },
+   {
+    "name": "遭難漁民數",
+    "children": [
+     {
+      "name": "遭難漁民數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fbe6c1b4-a892-47f5-b7c7-ff91a5608d87&uid=6957&cuid=1004"
+     }
+    ]
+   },
+   {
+    "name": "現有家畜數",
+    "children": [
+     {
+      "name": "現有家畜數依家畜類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ec244abc-ab04-4d2b-a409-36af55307982&uid=3112&cuid=1005"
+     }
+    ]
+   },
+   {
+    "name": "家畜屠宰頭數",
+    "children": [
+     {
+      "name": "家畜屠宰頭數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=df3ef8e8-63f6-41d1-aa6d-73d5e027a15b&uid=3115&cuid=1006"
+     }
+    ]
+   },
+   {
+    "name": "產乳牛頭數及產乳量",
+    "children": [
+     {
+      "name": "年底飼養場數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d33f416-814f-424a-8438-d00d5a3a8716&uid=3116&cuid=1007"
+     },
+     {
+      "name": "年底經產牛頭數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d33f416-814f-424a-8438-d00d5a3a8716&uid=3117&cuid=1008"
+     },
+     {
+      "name": "全年產乳量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1d33f416-814f-424a-8438-d00d5a3a8716&uid=3118&cuid=1009"
+     }
+    ]
+   },
+   {
+    "name": "現有家禽數量",
+    "children": [
+     {
+      "name": "現有家禽數量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fb84a420-0284-480f-b563-291d4bd9980d&uid=3119&cuid=1010"
+     }
+    ]
+   },
+   {
+    "name": "水土保持處理面積",
+    "children": [
+     {
+      "name": "依農地地形分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3120&cuid=1012"
+     },
+     {
+      "name": "蝕溝控制",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3121&cuid=1013"
+     },
+     {
+      "name": "邊坡穩定",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3122&cuid=1014"
+     },
+     {
+      "name": "排水溝系統-安全排水",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3123&cuid=1015"
+     },
+     {
+      "name": "排水溝系統-其他",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3124&cuid=1016"
+     },
+     {
+      "name": "植生處理-全園植草",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3125&cuid=1017"
+     },
+     {
+      "name": "植生處理-草花種植",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3128&cuid=1020"
+     },
+     {
+      "name": "植生處理-喬、灌木及藤類種植",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3126&cuid=1018"
+     },
+     {
+      "name": "植生處理-其他",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f0748d57-e001-4804-a27d-0cfe814b908e&uid=3127&cuid=1019"
+     }
+    ]
+   },
+   {
+    "name": "農路改善及維護工程",
+    "children": [
+     {
+      "name": "工程件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2816f259-4677-432f-a149-9034dfe5086a&uid=3129&cuid=1029"
+     },
+     {
+      "name": "道路總長度-改善",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2816f259-4677-432f-a149-9034dfe5086a&uid=3130&cuid=1030"
+     },
+     {
+      "name": "道路總長度-維護",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2816f259-4677-432f-a149-9034dfe5086a&uid=3131&cuid=1031"
+     },
+     {
+      "name": "總工程費依經費來源分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2816f259-4677-432f-a149-9034dfe5086a&uid=3132&cuid=1032"
+     }
+    ]
+   },
+   {
+    "name": "灌溉服務面積",
+    "children": [
+     {
+      "name": "依灌溉排水服務類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3f8d0c1d-edd9-4151-a3a1-0616aa819a8d&uid=3133&cuid=1033"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 伍、工商業及縣建設",
+  "children": [
+   {
+    "name": "營業中工廠家數",
+    "children": [
+     {
+      "name": "營運中工廠家數依行業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=784ce3e1-9f77-4185-a076-cd53371677fa&uid=2984&cuid=931"
+     }
+    ]
+   },
+   {
+    "name": "商業登記現有家數與資本額",
+    "children": [
+     {
+      "name": "商業登記現有家數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b1f4a700-eb2d-47d3-9054-c86724398443&uid=6946&cuid=935"
+     },
+     {
+      "name": "商業登記現有資本額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b1f4a700-eb2d-47d3-9054-c86724398443&uid=6947&cuid=937"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額-按組織別分",
+    "children": [
+     {
+      "name": "公司登記現有家數依組織別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88aa830a-d5f8-4ded-821d-52ab0e691ec6&uid=2990&cuid=938"
+     },
+     {
+      "name": "公司登記現有資本額依組織別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88aa830a-d5f8-4ded-821d-52ab0e691ec6&uid=2991&cuid=939"
+     },
+     {
+      "name": "外國公司(在臺辦事處)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88aa830a-d5f8-4ded-821d-52ab0e691ec6&uid=2992&cuid=940"
+     },
+     {
+      "name": "大陸地區在臺許可辦事處",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=88aa830a-d5f8-4ded-821d-52ab0e691ec6&uid=2993&cuid=941"
+     }
+    ]
+   },
+   {
+    "name": "公司登記現有家數及資本額-按行業別分",
+    "children": [
+     {
+      "name": "公司登記現有家數依行業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10850c32-9917-4d27-bfd0-0dca161082f2&uid=2994&cuid=943"
+     },
+     {
+      "name": "公司登記現有資本額依行業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=10850c32-9917-4d27-bfd0-0dca161082f2&uid=2995&cuid=944"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區面積及人口",
+    "children": [
+     {
+      "name": "都市計畫地區面積及人口-都市計畫區面積依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ae19d7c-9ac8-43a4-923f-05c3603c1a5a&uid=1940&cuid=949"
+     },
+     {
+      "name": "都市計畫地區面積及人口-計畫人口數依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ae19d7c-9ac8-43a4-923f-05c3603c1a5a&uid=1941&cuid=950"
+     },
+     {
+      "name": "都市計畫地區面積及人口-現況人口數依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ae19d7c-9ac8-43a4-923f-05c3603c1a5a&uid=1942&cuid=951"
+     },
+     {
+      "name": "都市計畫地區面積及人口-計畫人口密度依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ae19d7c-9ac8-43a4-923f-05c3603c1a5a&uid=1943&cuid=952"
+     },
+     {
+      "name": "都市計畫地區面積及人口-現況人口密度依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ae19d7c-9ac8-43a4-923f-05c3603c1a5a&uid=1944&cuid=953"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫區域內公共工程實施數量",
+    "children": [
+     {
+      "name": "都市計畫區域內公共工程實施數量-道路(包括廣場)面積依都市計畫區別、路面別、施工別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1894&cuid=956"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-鋼筋混凝土橋-座依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1895&cuid=957"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-鋼筋混凝土橋-面積依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1896&cuid=958"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-其他-座依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1897&cuid=959"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-橋梁-其他-面積依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1898&cuid=960"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-抽水站-座依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1899&cuid=961"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-抽水站-抽水量依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1900&cuid=962"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-雨水下水道-排水幹支線依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1901&cuid=963"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水處理廠-座依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1902&cuid=964"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水處理廠-抽水量依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1903&cuid=965"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-下水道-污水下水道-污水幹支線依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1904&cuid=966"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-公園-處依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1905&cuid=967"
+     },
+     {
+      "name": "都市計畫區域內公共工程實施數量-公園-面積依都市計畫區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3c88723f-e5b6-4935-9e45-b9675ce83f6f&uid=1906&cuid=968"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地計畫面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地計畫面積依都市計畫區別、公共設施分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ec2be33-1374-43a8-88dc-c0654528da6d&uid=1945&cuid=972"
+     }
+    ]
+   },
+   {
+    "name": "都市計畫公共設施用地已闢建面積",
+    "children": [
+     {
+      "name": "都市計畫公共設施用地已闢建計畫面積依都市計畫區別、公共設施分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e50f857c-3461-4cb6-9b5e-14f2a82a5589&uid=1964&cuid=974"
+     }
+    ]
+   },
+   {
+    "name": "核發建築物使用執照總樓地板面積",
+    "children": [
+     {
+      "name": "核發建築物使用執照統計-總樓地板面積依土地使用分區別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6ddf5a20-014b-4c97-bf4c-73366a2895e1&uid=2437&cuid=976"
+     },
+     {
+      "name": "核發建築物使用執照統計-總樓地板面積依構造別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6ddf5a20-014b-4c97-bf4c-73366a2895e1&uid=2434&cuid=975"
+     }
+    ]
+   },
+   {
+    "name": "自來水供水普及率",
+    "children": [
+     {
+      "name": "行政區域人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e51f9e3-c1ab-44b9-a92f-37ed3909ac88&uid=2998&cuid=979"
+     },
+     {
+      "name": "供水區域人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e51f9e3-c1ab-44b9-a92f-37ed3909ac88&uid=2997&cuid=978"
+     },
+     {
+      "name": "實際供水人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e51f9e3-c1ab-44b9-a92f-37ed3909ac88&uid=2996&cuid=977"
+     },
+     {
+      "name": "供水普及率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e51f9e3-c1ab-44b9-a92f-37ed3909ac88&uid=6954&cuid=980"
+     }
+    ]
+   },
+   {
+    "name": "電力供應情形",
+    "children": [
+     {
+      "name": "電力供應情形-年底戶數依電力供應分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccd2ab76-f831-4b3e-9210-f4f585616151&uid=2999&cuid=981"
+     },
+     {
+      "name": "電力供應情形-售電量依電力供應分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccd2ab76-f831-4b3e-9210-f4f585616151&uid=3000&cuid=982"
+     },
+     {
+      "name": "電力供應情形-每用戶全年平均用電量依電力供應分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ccd2ab76-f831-4b3e-9210-f4f585616151&uid=3001&cuid=983"
+     }
+    ]
+   },
+   {
+    "name": "禦潮(海堤)工程實施",
+    "children": [
+     {
+      "name": "(海岸環境改善)工程內容-海堤",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10029&cuid=1674"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-海岸保護工",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10030&cuid=1675"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-環境改善-長度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10031&cuid=1676"
+     },
+     {
+      "name": "(海岸環境改善)工程內容-環境改善-面積",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10032&cuid=1677"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-海堤",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10033&cuid=1678"
+     },
+     {
+      "name": "(禦潮(海堤)-養護)工程內容-海岸保護工",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10034&cuid=1679"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-海堤",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10036&cuid=1681"
+     },
+     {
+      "name": "(禦潮(海堤)-整建)工程內容-海岸保護工",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10035&cuid=1680"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-海堤",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10037&cuid=1682"
+     },
+     {
+      "name": "(禦潮(海堤)-災害復建)工程內容-海岸保護工",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=704ad22a-083e-43b5-b56a-1086db32c62f&uid=10038&cuid=1683"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 陸、金融財稅",
+  "children": [
+   {
+    "name": "金融機構分布",
+    "children": [
+     {
+      "name": "金融機構分布依金融機構分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cbd408a1-f021-4a12-873f-900f417cdaa6&uid=2928&cuid=994"
+     }
+    ]
+   },
+   {
+    "name": "主要金融機構存、放款餘額",
+    "children": [
+     {
+      "name": "主要金融機構存款餘額依金融機構分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e341e4d5-51a7-4339-af6f-3e91e63acc77&uid=2930&cuid=995"
+     },
+     {
+      "name": "主要金融機構放款餘額依金融機構分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e341e4d5-51a7-4339-af6f-3e91e63acc77&uid=2932&cuid=996"
+     }
+    ]
+   },
+   {
+    "name": "歲入預決算-按來源別",
+    "children": [
+     {
+      "name": "預算依歲入來源別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=160067d2-4931-4785-991f-1207bb510b77&uid=2933&cuid=997"
+     },
+     {
+      "name": "決算依歲入來源別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=160067d2-4931-4785-991f-1207bb510b77&uid=2934&cuid=998"
+     }
+    ]
+   },
+   {
+    "name": "歲出預決算-按政事別分",
+    "children": [
+     {
+      "name": "預算依歲出政事別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ebfc287-365b-4735-a5c1-86061b40cfbe&uid=2936&cuid=1021"
+     },
+     {
+      "name": "決算依歲出政事別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2ebfc287-365b-4735-a5c1-86061b40cfbe&uid=2937&cuid=1022"
+     }
+    ]
+   },
+   {
+    "name": "歷年財政狀況",
+    "children": [
+     {
+      "name": "融資調度需求",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2938&cuid=1034"
+     },
+     {
+      "name": "融資調度財源",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2939&cuid=1035"
+     },
+     {
+      "name": "自籌財源比率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2940&cuid=1036"
+     },
+     {
+      "name": "賦稅依存度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2941&cuid=1037"
+     },
+     {
+      "name": "補助及協助依存度",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2942&cuid=1038"
+     },
+     {
+      "name": "債務未償餘額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2943&cuid=1039"
+     },
+     {
+      "name": "債務未償餘額占歲出比率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3fbe8fe7-82f8-47f6-b523-75b7964c717f&uid=2944&cuid=1040"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐實徵數",
+    "children": [
+     {
+      "name": "各項稅捐實徵數依各項稅捐(實徵)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=dfd6e630-7de7-4468-b4de-755ac2cb04e6&uid=2945&cuid=1041"
+     }
+    ]
+   },
+   {
+    "name": "各項稅捐納庫數",
+    "children": [
+     {
+      "name": "實徵數依各項稅捐(實徵)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37209b3f-9055-4b19-a670-196f20ee42ca&uid=2946&cuid=1046"
+     },
+     {
+      "name": "納庫數依各項稅捐(實徵)、各項稅捐(納庫)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37209b3f-9055-4b19-a670-196f20ee42ca&uid=2947&cuid=1047"
+     },
+     {
+      "name": "未納庫數依各項稅捐(實徵)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=37209b3f-9055-4b19-a670-196f20ee42ca&uid=2948&cuid=1048"
+     }
+    ]
+   },
+   {
+    "name": "縣公庫收支",
+    "children": [
+     {
+      "name": "收入",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4815296c-6347-43fd-9ad8-e01e30f7e89e&uid=6962&cuid=1068"
+     },
+     {
+      "name": "支出",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4815296c-6347-43fd-9ad8-e01e30f7e89e&uid=6958&cuid=1066"
+     },
+     {
+      "name": "公庫結存",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4815296c-6347-43fd-9ad8-e01e30f7e89e&uid=6961&cuid=1067"
+     }
+    ]
+   },
+   {
+    "name": "鄉鎮公庫收支",
+    "children": [
+     {
+      "name": "收入",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff067552-7b09-407a-8b02-f72f5eda34bd&uid=6965&cuid=1069"
+     },
+     {
+      "name": "支出",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff067552-7b09-407a-8b02-f72f5eda34bd&uid=6966&cuid=1070"
+     },
+     {
+      "name": "公庫結存",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ff067552-7b09-407a-8b02-f72f5eda34bd&uid=6967&cuid=1071"
+     }
+    ]
+   },
+   {
+    "name": "各鄉鎮歲入預決算-按來源別分",
+    "children": [
+     {
+      "name": "預算依歲入來源別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2dbb8776-4083-4877-898e-47119cf38944&uid=2949&cuid=1072"
+     },
+     {
+      "name": "決算依歲入來源別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2dbb8776-4083-4877-898e-47119cf38944&uid=2950&cuid=1073"
+     }
+    ]
+   },
+   {
+    "name": "各鄉鎮歲出預決算-按政事別分",
+    "children": [
+     {
+      "name": "預算依歲出政事別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=805db03e-9e4a-4a8f-8a59-63b39a099024&uid=2952&cuid=1074"
+     },
+     {
+      "name": "決算依歲出政事別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=805db03e-9e4a-4a8f-8a59-63b39a099024&uid=2954&cuid=1075"
+     }
+    ]
+   },
+   {
+    "name": "營業基金及非營業特種基金盈虧(餘絀)",
+    "children": [
+     {
+      "name": "預算數依基金類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc1a9770-e1e6-463f-815e-20078e9c12fd&uid=2955&cuid=1078"
+     },
+     {
+      "name": "決算數依基金類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bc1a9770-e1e6-463f-815e-20078e9c12fd&uid=2956&cuid=1079"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 柒、交通運輸",
+  "children": [
+   {
+    "name": "車輛登記",
+    "children": [
+     {
+      "name": "車輛登記依車輛別、用途別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c2a3636a-d172-495b-a792-f3024937db61&uid=2591&cuid=1045"
+     }
+    ]
+   },
+   {
+    "name": "公路里程概況",
+    "children": [
+     {
+      "name": "公路里程概況依公路別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8c9a591c-8196-4171-8cde-ad890746f8f7&uid=2592&cuid=1050"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 捌、教育文化",
+  "children": [
+   {
+    "name": "境內高等教育概況",
+    "children": [
+     {
+      "name": "大學-系所數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2673&cuid=1051"
+     },
+     {
+      "name": "大學-教職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2674&cuid=1052"
+     },
+     {
+      "name": "大學-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2675&cuid=1053"
+     },
+     {
+      "name": "大學-上學年度畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2676&cuid=1054"
+     },
+     {
+      "name": "專科-校數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2677&cuid=1055"
+     },
+     {
+      "name": "專科-教職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2678&cuid=1056"
+     },
+     {
+      "name": "專科-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2679&cuid=1057"
+     },
+     {
+      "name": "專科-上學年度畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b5f99ed1-f59a-4cbb-9921-30d024679eb7&uid=2680&cuid=1058"
+     }
+    ]
+   },
+   {
+    "name": "境內高級中等學校概況",
+    "children": [
+     {
+      "name": "高級中等學校概況-校數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2681&cuid=1140"
+     },
+     {
+      "name": "高級中等學校概況-教師數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2682&cuid=1141"
+     },
+     {
+      "name": "高級中等學校概況-職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2683&cuid=1142"
+     },
+     {
+      "name": "高級中等學校概況-班級數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2684&cuid=1143"
+     },
+     {
+      "name": "高級中等學校概況-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2685&cuid=1144"
+     },
+     {
+      "name": "高級中等學校概況-上學年度畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=92465cdf-cc5f-4d4c-872a-08ef35caf242&uid=2686&cuid=1145"
+     }
+    ]
+   },
+   {
+    "name": "境內國民中學概況",
+    "children": [
+     {
+      "name": "國民中學概況-校數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2698&cuid=1224"
+     },
+     {
+      "name": "國民中學概況-教師數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2699&cuid=1225"
+     },
+     {
+      "name": "國民中學概況-職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2700&cuid=1226"
+     },
+     {
+      "name": "國民中學概況-班級數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2701&cuid=1227"
+     },
+     {
+      "name": "國民中學概況-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2702&cuid=1228"
+     },
+     {
+      "name": "國民中學概況-上學年度畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3e393a12-e5fe-49ab-b6ba-cd2447c3a88a&uid=2703&cuid=1229"
+     }
+    ]
+   },
+   {
+    "name": "境內國民小學概況",
+    "children": [
+     {
+      "name": "國民小學概況-校數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2704&cuid=1230"
+     },
+     {
+      "name": "國民小學概況-教師數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2705&cuid=1231"
+     },
+     {
+      "name": "國民小學概況-職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2706&cuid=1232"
+     },
+     {
+      "name": "國民小學概況-班級數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2707&cuid=1233"
+     },
+     {
+      "name": "國民小學概況-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2708&cuid=1234"
+     },
+     {
+      "name": "國民小學概況-上學年度畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4cd7796a-0eb5-4841-aac1-3b3e1a4b1729&uid=2709&cuid=1235"
+     }
+    ]
+   },
+   {
+    "name": "境內幼兒園概況",
+    "children": [
+     {
+      "name": "幼兒園概況-園數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5a31a8ed-efab-486a-ad7c-4b4c995195d2&uid=668&cuid=1236"
+     },
+     {
+      "name": "幼兒園概況-教保服務人員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5a31a8ed-efab-486a-ad7c-4b4c995195d2&uid=669&cuid=1237"
+     },
+     {
+      "name": "幼兒園概況-職員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5a31a8ed-efab-486a-ad7c-4b4c995195d2&uid=670&cuid=1238"
+     },
+     {
+      "name": "幼兒園概況-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5a31a8ed-efab-486a-ad7c-4b4c995195d2&uid=671&cuid=1239"
+     }
+    ]
+   },
+   {
+    "name": "境內各級補校概況",
+    "children": [
+     {
+      "name": "國中小補校-校數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38909f71-035f-4a21-b73b-81fd25f4dbe3&uid=682&cuid=1245"
+     },
+     {
+      "name": "國中小補校-班級數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38909f71-035f-4a21-b73b-81fd25f4dbe3&uid=684&cuid=1246"
+     },
+     {
+      "name": "國中小補校-學生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38909f71-035f-4a21-b73b-81fd25f4dbe3&uid=686&cuid=1247"
+     },
+     {
+      "name": "國中小補校-畢業生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=38909f71-035f-4a21-b73b-81fd25f4dbe3&uid=688&cuid=1248"
+     }
+    ]
+   },
+   {
+    "name": "短期補習班概況",
+    "children": [
+     {
+      "name": "家數依補習類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=964ed6d5-e3bb-4d25-bd9b-7078d12a7037&uid=745&cuid=1249"
+     }
+    ]
+   },
+   {
+    "name": "國中小學中途輟學學生概況",
+    "children": [
+     {
+      "name": "輟學人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6be2abfe-7e65-42ef-9710-7bdf727edef1&uid=711&cuid=1250"
+     },
+     {
+      "name": "輟學率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6be2abfe-7e65-42ef-9710-7bdf727edef1&uid=718&cuid=1251"
+     },
+     {
+      "name": "復學率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6be2abfe-7e65-42ef-9710-7bdf727edef1&uid=723&cuid=1252"
+     }
+    ]
+   },
+   {
+    "name": "國民中學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸視視力檢查人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9d4b90b-c5ad-4926-a635-2ffaf23facf8&uid=2740&cuid=1265"
+     },
+     {
+      "name": "裸視視力不良人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9d4b90b-c5ad-4926-a635-2ffaf23facf8&uid=2741&cuid=1266"
+     },
+     {
+      "name": "裸視視力不良率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f9d4b90b-c5ad-4926-a635-2ffaf23facf8&uid=7008&cuid=1264"
+     }
+    ]
+   },
+   {
+    "name": "國民小學學生裸視視力檢查",
+    "children": [
+     {
+      "name": "裸視視力檢查人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c51f308a-09c8-4e57-8b8c-d0cb7d28e7be&uid=2742&cuid=1267"
+     },
+     {
+      "name": "裸視視力不良人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c51f308a-09c8-4e57-8b8c-d0cb7d28e7be&uid=2743&cuid=1268"
+     },
+     {
+      "name": "裸視視力不良率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c51f308a-09c8-4e57-8b8c-d0cb7d28e7be&uid=7009&cuid=1269"
+     }
+    ]
+   },
+   {
+    "name": "公立公共圖書館概況",
+    "children": [
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-圖書(冊)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e8a8d87-ddaf-480f-becd-794efb92ad75&uid=2744&cuid=1270"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資料收藏數-期刊",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e8a8d87-ddaf-480f-becd-794efb92ad75&uid=2981&cuid=1274"
+     },
+     {
+      "name": "公立公共圖書館概況-電子書收藏數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e8a8d87-ddaf-480f-becd-794efb92ad75&uid=2745&cuid=1271"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e8a8d87-ddaf-480f-becd-794efb92ad75&uid=2746&cuid=1272"
+     },
+     {
+      "name": "公立公共圖書館概況-圖書資訊借閱冊數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8e8a8d87-ddaf-480f-becd-794efb92ad75&uid=2747&cuid=1273"
+     }
+    ]
+   },
+   {
+    "name": "各項藝文展演活動",
+    "children": [
+     {
+      "name": "各項藝文展演活動-活動個數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ca7d2872-c436-486e-a27c-7ab1a59057d1&uid=2748&cuid=1275"
+     },
+     {
+      "name": "各項藝文展演活動-出席人次(千人次)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ca7d2872-c436-486e-a27c-7ab1a59057d1&uid=2749&cuid=1276"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 玖、衛生",
+  "children": [
+   {
+    "name": "醫療機構及其他醫事機構開(執)業醫事人員數",
+    "children": [
+     {
+      "name": "醫療機構及其他醫事機構開(執)業場所醫事人員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e89fa70b-6e90-4f68-b71a-01bc58a04a80&uid=3071&cuid=1086"
+     }
+    ]
+   },
+   {
+    "name": "醫療院所數及各類病床數",
+    "children": [
+     {
+      "name": "院所家數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3072&cuid=1087"
+     },
+     {
+      "name": "醫院家數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3073&cuid=1088"
+     },
+     {
+      "name": "診所家數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3074&cuid=1089"
+     },
+     {
+      "name": "醫療院所病床數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3075&cuid=1090"
+     },
+     {
+      "name": "醫院開放病床數依醫院病床別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3076&cuid=1091"
+     },
+     {
+      "name": "精神科日間照護人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3077&cuid=1092"
+     },
+     {
+      "name": "診所病床數依診所病床別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3078&cuid=1093"
+     },
+     {
+      "name": "醫院救護車",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=523eedca-88bf-4fe7-9b41-fede85ac097c&uid=3079&cuid=1094"
+     }
+    ]
+   },
+   {
+    "name": "預防接種工作",
+    "children": [
+     {
+      "name": "預防接種工作人次依疫苗種類分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9736faed-668a-4b10-bd0b-7b312f5a888c&uid=3080&cuid=1095"
+     }
+    ]
+   },
+   {
+    "name": "法定傳染病病例人數",
+    "children": [
+     {
+      "name": "確定病例依法定傳染病別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=be354af5-ff5b-4902-bfc3-2a8f96150854&uid=3081&cuid=1096"
+     },
+     {
+      "name": "報告病例依法定傳染病別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=be354af5-ff5b-4902-bfc3-2a8f96150854&uid=3082&cuid=1097"
+     }
+    ]
+   },
+   {
+    "name": "藥商家數",
+    "children": [
+     {
+      "name": "依藥商別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b279a845-1fee-4846-b2be-b556ab3ebc69&uid=3083&cuid=1098"
+     }
+    ]
+   },
+   {
+    "name": "主要死亡原因",
+    "children": [
+     {
+      "name": "十大死亡原因-死亡人數依性別、死亡原因分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ca54a648-a68e-4d02-9412-6fe9e2d25c8b&uid=3084&cuid=1104"
+     },
+     {
+      "name": "十大死亡原因-每十萬人口標準化死亡率依死亡原因分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ca54a648-a68e-4d02-9412-6fe9e2d25c8b&uid=3098&cuid=1106"
+     },
+     {
+      "name": "十大死亡原因-每十萬人口死亡率依死亡原因分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ca54a648-a68e-4d02-9412-6fe9e2d25c8b&uid=3085&cuid=1105"
+     }
+    ]
+   },
+   {
+    "name": "營業衛生管理稽核概況-按稽查家次分",
+    "children": [
+     {
+      "name": "稽查家次依衛生管理稽查項目分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d790e8cd-3e5d-413d-a618-257007b636f3&uid=5369&cuid=1103"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾、環境保護",
+  "children": [
+   {
+    "name": "垃圾清運處理概況",
+    "children": [
+     {
+      "name": "執行機關垃圾產生量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6988&cuid=1107"
+     },
+     {
+      "name": "垃圾清運",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6989&cuid=1108"
+     },
+     {
+      "name": "巨大垃圾回收再利用",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6990&cuid=1109"
+     },
+     {
+      "name": "廚餘回收-按清運方式分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6991&cuid=1110"
+     },
+     {
+      "name": "資源回收",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6992&cuid=1111"
+     },
+     {
+      "name": "一般垃圾-按清運單位或回收管道分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6993&cuid=1112"
+     },
+     {
+      "name": "巨大垃圾-按清運單位或回收管道分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6994&cuid=1113"
+     },
+     {
+      "name": "廚餘回收-按清運單位或回收管道分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6995&cuid=1114"
+     },
+     {
+      "name": "資源回收-按清運單位或回收管道分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6996&cuid=1115"
+     },
+     {
+      "name": "平均每日一般垃圾產生量(公噸)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6997&cuid=1116"
+     },
+     {
+      "name": "平均每人每日一般垃圾產生量(公斤)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6998&cuid=1117"
+     },
+     {
+      "name": "垃圾妥善處理率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=6999&cuid=1118"
+     },
+     {
+      "name": "垃圾回收率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f8d7ea75-054d-4cd6-9106-7142b42923ea&uid=7000&cuid=1119"
+     }
+    ]
+   },
+   {
+    "name": "環境空氣品質",
+    "children": [
+     {
+      "name": "年底監測站數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3088&cuid=1130"
+     },
+     {
+      "name": "人工測站-總懸浮微粒",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3089&cuid=1121"
+     },
+     {
+      "name": "人工測站-鉛",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3090&cuid=1122"
+     },
+     {
+      "name": "人工測站-落塵量",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3091&cuid=1123"
+     },
+     {
+      "name": "自動測站-粒徑10微米以下之懸浮微粒",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3092&cuid=1124"
+     },
+     {
+      "name": "自動測站-二氧化硫",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3093&cuid=1125"
+     },
+     {
+      "name": "自動測站-一氧化碳",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3094&cuid=1126"
+     },
+     {
+      "name": "自動測站-二氧化氮",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3095&cuid=1127"
+     },
+     {
+      "name": "自動測站-臭氧",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9882f72-0afd-4c76-99db-417c539d20d9&uid=3097&cuid=1129"
+     }
+    ]
+   },
+   {
+    "name": "一般地區環境音量監測不合格情形",
+    "children": [
+     {
+      "name": "監測站數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b25ea7b-25d1-4263-8c54-6ac0aff5d69b&uid=2008&cuid=1131"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b25ea7b-25d1-4263-8c54-6ac0aff5d69b&uid=2009&cuid=1132"
+     }
+    ]
+   },
+   {
+    "name": "道路交通音量監測不合格情形",
+    "children": [
+     {
+      "name": "監測站數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9ab212d-9388-4b44-8573-389e4bda3cbc&uid=2010&cuid=1133"
+     },
+     {
+      "name": "不合格站數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b9ab212d-9388-4b44-8573-389e4bda3cbc&uid=2011&cuid=1134"
+     }
+    ]
+   },
+   {
+    "name": "公害陳情受理案件",
+    "children": [
+     {
+      "name": "公害污染陳情案件-公害污染陳情案件依公害別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=045a0042-de71-4f62-ae9b-314258c9c2f2&uid=10154&cuid=1689"
+     },
+     {
+      "name": "公害污染陳情案件-縣所轄鄉鎮市公所-環境衛生-環保局移轉依被陳情對象別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=045a0042-de71-4f62-ae9b-314258c9c2f2&uid=7207&cuid=1619"
+     }
+    ]
+   },
+   {
+    "name": "環保稽查(查核)概況",
+    "children": [
+     {
+      "name": "稽查次數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=7001&cuid=1148"
+     },
+     {
+      "name": "罰鍰次數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=3282&cuid=1146"
+     },
+     {
+      "name": "罰鍰金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=7002&cuid=1149"
+     },
+     {
+      "name": "實收罰鍰",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=7003&cuid=1150"
+     },
+     {
+      "name": "年底稽查(查核)人力-環保局人力",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=3283&cuid=1147"
+     },
+     {
+      "name": "年底稽查(查核)人力-委外協辦人力",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=09b99771-3874-47dc-88ae-860d60a3fdda&uid=7004&cuid=1151"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾壹、社會福利",
+  "children": [
+   {
+    "name": "各級人民團體數",
+    "children": [
+     {
+      "name": "各級人民團體數-職業團體",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fc816927-bb02-4532-a754-7abee2700462&uid=3005&cuid=1277"
+     },
+     {
+      "name": "各級人民團體數-社會團體",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fc816927-bb02-4532-a754-7abee2700462&uid=3006&cuid=1278"
+     }
+    ]
+   },
+   {
+    "name": "宗教教務概況",
+    "children": [
+     {
+      "name": "宗教教務概況-寺廟教堂數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f46a56a-b0ae-40bb-a58a-4c4f8be2f6e7&uid=3013&cuid=1281"
+     },
+     {
+      "name": "宗教教務概況-信徒人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f46a56a-b0ae-40bb-a58a-4c4f8be2f6e7&uid=3014&cuid=1282"
+     }
+    ]
+   },
+   {
+    "name": "宗教社會服務概況",
+    "children": [
+     {
+      "name": "宗教社會服務概況-醫療機構",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b14f77e-d81d-4102-8167-f8d75f877dcd&uid=7010&cuid=1283"
+     },
+     {
+      "name": "宗教社會服務概況-文教機構",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b14f77e-d81d-4102-8167-f8d75f877dcd&uid=7011&cuid=1284"
+     },
+     {
+      "name": "宗教社會服務概況-公益慈善事業",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0b14f77e-d81d-4102-8167-f8d75f877dcd&uid=7012&cuid=1285"
+     }
+    ]
+   },
+   {
+    "name": "合作社概況",
+    "children": [
+     {
+      "name": "合作社-社數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7169c315-5ef8-4e9a-9a39-b645ca249084&uid=7196&cuid=1595"
+     },
+     {
+      "name": "合作社-社場員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7169c315-5ef8-4e9a-9a39-b645ca249084&uid=7197&cuid=1596"
+     },
+     {
+      "name": "合作社-股金總額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7169c315-5ef8-4e9a-9a39-b645ca249084&uid=7198&cuid=1597"
+     }
+    ]
+   },
+   {
+    "name": "推行社區發展工作成果",
+    "children": [
+     {
+      "name": "社區發展協會數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1510&cuid=1291"
+     },
+     {
+      "name": "社區戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1511&cuid=1292"
+     },
+     {
+      "name": "社區人口數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1512&cuid=1293"
+     },
+     {
+      "name": "理監事人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1513&cuid=1294"
+     },
+     {
+      "name": "社區發展協會會員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1514&cuid=1295"
+     },
+     {
+      "name": "設置社區生產建設基金",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1515&cuid=1296"
+     },
+     {
+      "name": "實際使用經費",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1516&cuid=1297"
+     },
+     {
+      "name": "社區活動中心",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1496&cuid=1289"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區幹部訓練",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1497&cuid=1290"
+     },
+     {
+      "name": "社區發展工作項目-辦理社區觀摩",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1498&cuid=1303"
+     },
+     {
+      "name": "社區發展工作項目-社區長壽俱樂部(~113年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1499&cuid=1304"
+     },
+     {
+      "name": "社區發展工作項目-社區成長(媽媽)教室(~113年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1500&cuid=1305"
+     },
+     {
+      "name": "社區發展工作項目-社區守望相助隊",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1501&cuid=1306"
+     },
+     {
+      "name": "社區發展工作項目-社區民俗藝文康樂班隊(~113年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1502&cuid=1307"
+     },
+     {
+      "name": "社區發展工作項目-社區志願服務-團隊",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1503&cuid=1308"
+     },
+     {
+      "name": "社區發展工作項目-社區志願服務-志工數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1504&cuid=1309"
+     },
+     {
+      "name": "社區發展工作項目-社區照顧關懷據點",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=10155&cuid=1693"
+     },
+     {
+      "name": "社區發展工作項目-長期照顧據點(114年~)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=9603&cuid=1691"
+     },
+     {
+      "name": "社區發展工作項目-社區圖書室(~113年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1506&cuid=1299"
+     },
+     {
+      "name": "社區發展工作項目-社區刊物",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1507&cuid=1300"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-福利服務或活動",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1508&cuid=1301"
+     },
+     {
+      "name": "社區發展工作項目-服務成果-其他服務",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=7632f31a-e3e0-45d3-8831-283676c8e202&uid=1509&cuid=1302"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙人數",
+    "children": [
+     {
+      "name": "身心障礙者人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5379bcf8-378a-4357-b19a-fb8ded1746c9&uid=7203&cuid=1602"
+     },
+     {
+      "name": "領有舊制身心障礙手冊者",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5379bcf8-378a-4357-b19a-fb8ded1746c9&uid=7027&cuid=1360"
+     },
+     {
+      "name": "領有新制身心障礙證明者",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5379bcf8-378a-4357-b19a-fb8ded1746c9&uid=7028&cuid=1361"
+     },
+     {
+      "name": "身心障礙人數占總人口比率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5379bcf8-378a-4357-b19a-fb8ded1746c9&uid=3266&cuid=1359"
+     }
+    ]
+   },
+   {
+    "name": "身心障礙福利服務概況",
+    "children": [
+     {
+      "name": "身心障礙福利機構-機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=3216&cuid=1362"
+     },
+     {
+      "name": "身心障礙福利機構-實際安置服務人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=3217&cuid=1363"
+     },
+     {
+      "name": "身心障礙者生活補助-人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7031&cuid=1370"
+     },
+     {
+      "name": "身心障礙者生活補助-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7032&cuid=1371"
+     },
+     {
+      "name": "身心障礙者生活輔助器具補助-人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7033&cuid=1372"
+     },
+     {
+      "name": "身心障礙者生活輔助器具補助-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7034&cuid=1373"
+     },
+     {
+      "name": "身心障礙者托育養護補助-人數(年底)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7029&cuid=1368"
+     },
+     {
+      "name": "身心障礙者托育養護補助-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=a19db1ad-05c2-4e33-91b3-cf738054d2d7&uid=7030&cuid=1369"
+     }
+    ]
+   },
+   {
+    "name": "低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "低收入戶戶數-占全縣總戶數比率(％)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=3069&cuid=1387"
+     },
+     {
+      "name": "低收入戶人數-占全縣總人口比率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=3070&cuid=1388"
+     },
+     {
+      "name": "低收入戶戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=3234&cuid=1374"
+     },
+     {
+      "name": "低收入戶人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=3235&cuid=1375"
+     },
+     {
+      "name": "低收入戶生活扶助-人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=616&cuid=1380"
+     },
+     {
+      "name": "低收入戶生活扶助-戶次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=618&cuid=1381"
+     },
+     {
+      "name": "低收入戶生活扶助-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=614&cuid=1378"
+     },
+     {
+      "name": "低收入戶補助人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=7037&cuid=1561"
+     },
+     {
+      "name": "低收入戶補助金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=48228add-a7e8-4e4f-be27-6379fdfb3fb6&uid=7043&cuid=1562"
+     }
+    ]
+   },
+   {
+    "name": "中低收入戶人數及生活扶助",
+    "children": [
+     {
+      "name": "中低收入戶戶數-占全縣總戶數比率(％)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=3019&cuid=1403"
+     },
+     {
+      "name": "中低收入戶人數-占全縣總人口比率(％)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=3020&cuid=1404"
+     },
+     {
+      "name": "中低收入戶戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=3205&cuid=1400"
+     },
+     {
+      "name": "中低收入戶人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=3207&cuid=1399"
+     },
+     {
+      "name": "中低收入戶救助及服務-人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=693&cuid=1401"
+     },
+     {
+      "name": "中低收入戶救助及服務-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=5b937eb8-d3e0-42ae-a34d-56365882c381&uid=695&cuid=1402"
+     }
+    ]
+   },
+   {
+    "name": "中低收入老人生活津貼與老農津貼",
+    "children": [
+     {
+      "name": "中低收入老人生活津貼-人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e9fc58b-417e-4dce-a26d-f295d85eafa6&uid=3221&cuid=1409"
+     },
+     {
+      "name": "中低收入老人生活津貼-金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e9fc58b-417e-4dce-a26d-f295d85eafa6&uid=1114&cuid=1410"
+     },
+     {
+      "name": "老農津貼-核付人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e9fc58b-417e-4dce-a26d-f295d85eafa6&uid=3035&cuid=1411"
+     },
+     {
+      "name": "老農津貼-核付金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e9fc58b-417e-4dce-a26d-f295d85eafa6&uid=3036&cuid=1412"
+     },
+     {
+      "name": "中低收入老人生活津貼與老農津貼受益人數占65歲以上人口比例(％)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1e9fc58b-417e-4dce-a26d-f295d85eafa6&uid=3037&cuid=1413"
+     }
+    ]
+   },
+   {
+    "name": "辦理社會救助醫療補助概況",
+    "children": [
+     {
+      "name": "社會救助醫療補助-受益人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7a70ba4-caee-457f-90f8-efd338ec08aa&uid=10156&cuid=1696"
+     },
+     {
+      "name": "社會救助醫療補助-受益金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7a70ba4-caee-457f-90f8-efd338ec08aa&uid=10157&cuid=1697"
+     },
+     {
+      "name": "社會救助醫療補助-住院總日數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c7a70ba4-caee-457f-90f8-efd338ec08aa&uid=10158&cuid=1698"
+     }
+    ]
+   },
+   {
+    "name": "辦理急難救助概況",
+    "children": [
+     {
+      "name": "辦理急難救助-救助人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=949fa93a-0239-4b8c-8709-874cbc1cb554&uid=4078&cuid=1417"
+     },
+     {
+      "name": "辦理急難救助-救助金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=949fa93a-0239-4b8c-8709-874cbc1cb554&uid=4080&cuid=1418"
+     },
+     {
+      "name": "辦理急難救助-救助人次(具原住民身分)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=949fa93a-0239-4b8c-8709-874cbc1cb554&uid=4082&cuid=1420"
+     },
+     {
+      "name": "辦理急難救助-救助金額(具原住民身分)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=949fa93a-0239-4b8c-8709-874cbc1cb554&uid=4077&cuid=1419"
+     }
+    ]
+   },
+   {
+    "name": "遭受災害救助情形",
+    "children": [
+     {
+      "name": "遭受災害救助-災害次數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=3038&cuid=1423"
+     },
+     {
+      "name": "遭受災害救助-收容所數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7044&cuid=1424"
+     },
+     {
+      "name": "遭受災害救助-臨時收容災民數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7045&cuid=1425"
+     },
+     {
+      "name": "遭受災害救助-受災人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7046&cuid=1426"
+     },
+     {
+      "name": "遭受災害救助-安遷救助戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7047&cuid=1427"
+     },
+     {
+      "name": "遭受災害救助-安遷救助人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7048&cuid=1428"
+     },
+     {
+      "name": "遭受災害救助-財物受損影響生計者",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7049&cuid=1429"
+     },
+     {
+      "name": "遭受災害救助-救助金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a82460c-c90a-4ff6-9c99-b6e7fc12fcb5&uid=7050&cuid=1430"
+     }
+    ]
+   },
+   {
+    "name": "遊民人數及處理情形",
+    "children": [
+     {
+      "name": "受理報案或查報遊民處理人數 ( 人、件 )",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2297fca0-2f08-4c47-bbb5-a7f3e9fc9707&uid=10159&cuid=1701"
+     },
+     {
+      "name": "處理遊民情形",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=2297fca0-2f08-4c47-bbb5-a7f3e9fc9707&uid=7174&cuid=1569"
+     }
+    ]
+   },
+   {
+    "name": "老人福利服務概況",
+    "children": [
+     {
+      "name": "老人福利服務概況-機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=3040&cuid=1570"
+     },
+     {
+      "name": "老人長期照顧與安養機構概況-實際進住人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=10160&cuid=1702"
+     },
+     {
+      "name": "社區安養堂-實際進住人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=3980&cuid=1437"
+     },
+     {
+      "name": "老人公寓-實際進住人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=3983&cuid=1438"
+     },
+     {
+      "name": "長青學苑辦理成果-開班參加人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=10161&cuid=1703"
+     },
+     {
+      "name": "老人福利服務概況-居家服務",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=7175&cuid=1571"
+     },
+     {
+      "name": "老人福利服務概況-老人營養餐飲服務-人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=7176&cuid=1572"
+     },
+     {
+      "name": "老人福利服務概況-老人營養餐飲服務-人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=18bb2100-20cd-46a8-83c5-0249fe6b3f21&uid=7177&cuid=1573"
+     }
+    ]
+   },
+   {
+    "name": "兒童及少年福利服務概況",
+    "children": [
+     {
+      "name": "兒童及少年福利機構-安置及教養機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7051&cuid=1461"
+     },
+     {
+      "name": "兒童及少年福利機構-安置及教養機構現有收容人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7052&cuid=1462"
+     },
+     {
+      "name": "兒童及少年福利機構-心理輔導或家庭諮詢機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7053&cuid=1463"
+     },
+     {
+      "name": "兒童及少年福利機構-心理輔導或家庭諮詢機構服務人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7054&cuid=1464"
+     },
+     {
+      "name": "兒童及少年福利機構-其他福利服務機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7055&cuid=1465"
+     },
+     {
+      "name": "兒童及少年福利機構-其他福利服務機構服務人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7056&cuid=1466"
+     },
+     {
+      "name": "家庭寄養-寄養家庭戶數(年底)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7057&cuid=1467"
+     },
+     {
+      "name": "家庭寄養-寄養兒童及少年人數(年底)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7058&cuid=1468"
+     },
+     {
+      "name": "弱勢兒童及少年扶助-扶助人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7059&cuid=1469"
+     },
+     {
+      "name": "弱勢兒童及少年扶助-扶助金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7060&cuid=1470"
+     },
+     {
+      "name": "辦理育樂活動參加人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=f3884d96-6116-46e8-a8c2-c241f0759ac7&uid=7061&cuid=1471"
+     }
+    ]
+   },
+   {
+    "name": "托育機構概況",
+    "children": [
+     {
+      "name": "托嬰中心-所數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb941bb-06fc-4564-92b4-88ce2f59a62e&uid=7065&cuid=1477"
+     },
+     {
+      "name": "托嬰中心-收托人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb941bb-06fc-4564-92b4-88ce2f59a62e&uid=7064&cuid=1476"
+     },
+     {
+      "name": "托嬰中心-專業人員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb941bb-06fc-4564-92b4-88ce2f59a62e&uid=7062&cuid=1474"
+     },
+     {
+      "name": "托嬰中心-專業人員數-保母及教保(含助理)員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=adb941bb-06fc-4564-92b4-88ce2f59a62e&uid=7063&cuid=1475"
+     }
+    ]
+   },
+   {
+    "name": "婦女福利服務概況",
+    "children": [
+     {
+      "name": "婦女福利機構-婦女福利服務中心機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=7066&cuid=1480"
+     },
+     {
+      "name": "婦女福利機構-婦女中途之家、庇護中心機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=7178&cuid=1574"
+     },
+     {
+      "name": "婦女福利機構-婦女中途之家、庇護中心收容個案數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=7069&cuid=1483"
+     },
+     {
+      "name": "婦女福利機構-外籍配偶(新住民)家庭服務中心機構數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=7179&cuid=1575"
+     },
+     {
+      "name": "婦女福利服務-辦理次數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=4698&cuid=1478"
+     },
+     {
+      "name": "婦女福利服務-參加人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6cc8fc96-8139-4503-bcdc-33d2ef363c92&uid=4697&cuid=1479"
+     }
+    ]
+   },
+   {
+    "name": "特殊境遇家庭扶助服務概況",
+    "children": [
+     {
+      "name": "特殊境遇家庭扶助-扶助人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e9d2f898-b41e-4c8d-b147-180acdcd430b&uid=1381&cuid=1500"
+     },
+     {
+      "name": "特殊境遇家庭扶助-扶助金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=e9d2f898-b41e-4c8d-b147-180acdcd430b&uid=1382&cuid=1501"
+     }
+    ]
+   },
+   {
+    "name": "社會福利工作人員數(111年起停編)",
+    "children": [
+     {
+      "name": "社會福利工作人員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=357a060b-bd04-48e6-a2c8-10e1800faca2&uid=7086&cuid=1503"
+     }
+    ]
+   },
+   {
+    "name": "性侵害通報案件",
+    "children": [
+     {
+      "name": "性侵害通報案件-通報件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73d8964c-526b-4fc6-abc0-d36c09570e22&uid=3007&cuid=1504"
+     },
+     {
+      "name": "性侵害通報案件-被害人依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73d8964c-526b-4fc6-abc0-d36c09570e22&uid=3008&cuid=1505"
+     },
+     {
+      "name": "性侵害通報案件-被害人依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=73d8964c-526b-4fc6-abc0-d36c09570e22&uid=3009&cuid=1506"
+     }
+    ]
+   },
+   {
+    "name": "家庭暴力通報案件",
+    "children": [
+     {
+      "name": "家庭暴力通報案件-通報件數依案件類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86056d0e-9113-4733-9095-77bf34c6095c&uid=3010&cuid=1507"
+     },
+     {
+      "name": "家庭暴力通報案件-通報件數依被害及加害者兩造關係別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86056d0e-9113-4733-9095-77bf34c6095c&uid=3011&cuid=1508"
+     },
+     {
+      "name": "家庭暴力通報案件-被害人依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=86056d0e-9113-4733-9095-77bf34c6095c&uid=3012&cuid=1509"
+     }
+    ]
+   },
+   {
+    "name": "長期照顧十年計畫服務個案人數",
+    "children": [
+     {
+      "name": "長期照顧十年計畫-居家服務人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba6a4e1c-2ba1-464a-8b86-0db73b0b6617&uid=7191&cuid=1590"
+     },
+     {
+      "name": "長期照顧十年計畫-日間照顧人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba6a4e1c-2ba1-464a-8b86-0db73b0b6617&uid=7192&cuid=1591"
+     },
+     {
+      "name": "長期照顧十年計畫-家庭托顧人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba6a4e1c-2ba1-464a-8b86-0db73b0b6617&uid=7193&cuid=1592"
+     },
+     {
+      "name": "長期照顧十年計畫-營養餐飲服務人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba6a4e1c-2ba1-464a-8b86-0db73b0b6617&uid=7194&cuid=1593"
+     },
+     {
+      "name": "長期照顧十年計畫-交通接送服務人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ba6a4e1c-2ba1-464a-8b86-0db73b0b6617&uid=7195&cuid=1594"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾貳、勞工行政",
+  "children": [
+   {
+    "name": "勞資爭議案件",
+    "children": [
+     {
+      "name": "勞資爭議案件-爭議件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2914&cuid=1253"
+     },
+     {
+      "name": "勞資爭議案件-爭議人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2915&cuid=1254"
+     },
+     {
+      "name": "勞資爭議案件-主要爭議類別依勞資爭議類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2916&cuid=1260"
+     },
+     {
+      "name": "處理方式-協調",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2918&cuid=1256"
+     },
+     {
+      "name": "處理方式-調解",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2919&cuid=1257"
+     },
+     {
+      "name": "處理方式-仲裁",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2920&cuid=1258"
+     },
+     {
+      "name": "處理方式-截至當年底未解決件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cd3fc925-f6d5-4c05-bd83-c52f2f8c64a2&uid=2921&cuid=1259"
+     }
+    ]
+   },
+   {
+    "name": "勞工團體概況",
+    "children": [
+     {
+      "name": "工會數依工會類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3de091f9-709a-4798-a0da-64a5989054f5&uid=2924&cuid=1312"
+     },
+     {
+      "name": "團體會員數依工會類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3de091f9-709a-4798-a0da-64a5989054f5&uid=2923&cuid=1311"
+     },
+     {
+      "name": "會員人數依工會類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3de091f9-709a-4798-a0da-64a5989054f5&uid=2922&cuid=1310"
+     }
+    ]
+   },
+   {
+    "name": "事業單位團體協約及勞資會議概況",
+    "children": [
+     {
+      "name": "團體協約依工會類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49245d34-fcaa-4d45-84e7-78c7c5239ec3&uid=2925&cuid=1313"
+     },
+     {
+      "name": "勞資會議依公營/民營分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=49245d34-fcaa-4d45-84e7-78c7c5239ec3&uid=2926&cuid=1314"
+     }
+    ]
+   },
+   {
+    "name": "勞工服務中心服務概況",
+    "children": [
+     {
+      "name": "服務件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ace0e6d-dc2a-462c-8e08-0cae26638531&uid=7013&cuid=1315"
+     },
+     {
+      "name": "服務件數-按服務性質分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ace0e6d-dc2a-462c-8e08-0cae26638531&uid=7014&cuid=1316"
+     },
+     {
+      "name": "服務件數-按服務類別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=4ace0e6d-dc2a-462c-8e08-0cae26638531&uid=7015&cuid=1317"
+     }
+    ]
+   },
+   {
+    "name": "勞工教育及志願服務概況",
+    "children": [
+     {
+      "name": "提撥勞工教育經費-提撥金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=488&cuid=1318"
+     },
+     {
+      "name": "辦理勞工教育-班數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=490&cuid=1319"
+     },
+     {
+      "name": "勞工刊物依刊物類型分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=492&cuid=1320"
+     },
+     {
+      "name": "勞工志願服務-志工隊數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=493&cuid=1321"
+     },
+     {
+      "name": "志工人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=5120&cuid=1325"
+     },
+     {
+      "name": "服務總時數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=495&cuid=1323"
+     },
+     {
+      "name": "服務總人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=494&cuid=1322"
+     },
+     {
+      "name": "訓練總時數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=460ed619-6bbb-4fd4-9df7-6de9aa7d0e46&uid=497&cuid=1324"
+     }
+    ]
+   },
+   {
+    "name": "職工福利概況",
+    "children": [
+     {
+      "name": "職工福利機構-期底已設立單位數依公、民營事業單位分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b661dc2e-1d8a-4e29-88fd-3414b95d5a0c&uid=10162&cuid=1704"
+     }
+    ]
+   },
+   {
+    "name": "勞工保險各類投保單位數及人數",
+    "children": [
+     {
+      "name": "投保單位數依勞保投保單位別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f41eb7d-3a05-4d9a-a474-6170f35cd3be&uid=2929&cuid=1328"
+     },
+     {
+      "name": "投保人數依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f41eb7d-3a05-4d9a-a474-6170f35cd3be&uid=2931&cuid=1329"
+     },
+     {
+      "name": "投保人數依勞保投保單位別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=0f41eb7d-3a05-4d9a-a474-6170f35cd3be&uid=2935&cuid=1330"
+     }
+    ]
+   },
+   {
+    "name": "有效聘僱許可移工人數",
+    "children": [
+     {
+      "name": "移工人數依外籍勞工別、國籍別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b51f1eb-a34b-4dcc-bc4c-e3e515f7b7c7&uid=2927&cuid=1331"
+     },
+     {
+      "name": "移工人數-按勞工別及性別",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=1b51f1eb-a34b-4dcc-bc4c-e3e515f7b7c7&uid=7016&cuid=1332"
+     }
+    ]
+   },
+   {
+    "name": "人力資源調查重要結果指標",
+    "children": [
+     {
+      "name": "總人口",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2951&cuid=1333"
+     },
+     {
+      "name": "十五歲以上民間人口依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2953&cuid=1334"
+     },
+     {
+      "name": "勞動力依性別、就業者/失業者分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2957&cuid=1335"
+     },
+     {
+      "name": "非勞動力依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2958&cuid=1336"
+     },
+     {
+      "name": "勞動力參與率依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2959&cuid=1337"
+     },
+     {
+      "name": "失業率依性別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fe9d076d-dc80-407c-9cd9-0c058994b22e&uid=2960&cuid=1338"
+     }
+    ]
+   },
+   {
+    "name": "勞動力之年齡分配",
+    "children": [
+     {
+      "name": "人力資源調查-勞動力依年齡別(15~65歲以上)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=bf8693ed-e14f-4aa1-b148-cf5b5ce6899e&uid=2961&cuid=1339"
+     }
+    ]
+   },
+   {
+    "name": "就業者之行業",
+    "children": [
+     {
+      "name": "就業者依行業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ded8ef51-e533-45bc-afbc-a8fd1d034115&uid=2963&cuid=1340"
+     }
+    ]
+   },
+   {
+    "name": "就業者之職業",
+    "children": [
+     {
+      "name": "就業者依職業別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=689de9a2-2cb1-4f51-bc11-94f7ba5ba2a9&uid=2964&cuid=1341"
+     }
+    ]
+   },
+   {
+    "name": "就業者之教育程度",
+    "children": [
+     {
+      "name": "就業者依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8a7842a3-0668-4992-bab3-5affee309b15&uid=2965&cuid=1342"
+     }
+    ]
+   },
+   {
+    "name": "就業者之年齡分配",
+    "children": [
+     {
+      "name": "就業者依年齡別(15~65歲以上)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=d1c6b8b6-560f-4fcf-82d0-3ec12139a74c&uid=2966&cuid=1343"
+     }
+    ]
+   },
+   {
+    "name": "失業者之教育程度",
+    "children": [
+     {
+      "name": "失業者依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=85608779-91ac-416a-8ab3-e3b544983786&uid=2967&cuid=1344"
+     }
+    ]
+   },
+   {
+    "name": "失業者之年齡分配",
+    "children": [
+     {
+      "name": "失業者依年齡別(15~65歲以上)分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=ad5a9165-d31f-49fd-a6c7-ffa5df414a91&uid=2968&cuid=1345"
+     }
+    ]
+   },
+   {
+    "name": "經指定填報職業災害統計之事業單位概況",
+    "children": [
+     {
+      "name": "陳報事業單位數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2969&cuid=1346"
+     },
+     {
+      "name": "工作者數(僱用勞工數)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2970&cuid=1347"
+     },
+     {
+      "name": "總工作日數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2971&cuid=1348"
+     },
+     {
+      "name": "總(經歷)工時",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2972&cuid=1349"
+     },
+     {
+      "name": "失能傷害次數依失能傷害分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2973&cuid=1350"
+     },
+     {
+      "name": "失能傷害頻率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2982&cuid=1352"
+     },
+     {
+      "name": "總損失工作日數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2974&cuid=1351"
+     },
+     {
+      "name": "失能傷害嚴重率",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=58c619ab-0d92-491f-be40-9bd682a3d31f&uid=2983&cuid=1353"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾參、社會治安",
+  "children": [
+   {
+    "name": "刑事案件",
+    "children": [
+     {
+      "name": "發生數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=74549d5f-e8f1-4e78-926f-865c38bfa685&uid=2596&cuid=1158"
+     },
+     {
+      "name": "破獲數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=74549d5f-e8f1-4e78-926f-865c38bfa685&uid=2597&cuid=1159"
+     },
+     {
+      "name": "嫌疑人犯數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=74549d5f-e8f1-4e78-926f-865c38bfa685&uid=2598&cuid=1160"
+     }
+    ]
+   },
+   {
+    "name": "違反社會秩序維護法案件",
+    "children": [
+     {
+      "name": "處罰件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fa2a1acf-5e60-4412-a20c-ddd493fac42c&uid=6599&cuid=1161"
+     },
+     {
+      "name": "處罰人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=fa2a1acf-5e60-4412-a20c-ddd493fac42c&uid=6601&cuid=1162"
+     }
+    ]
+   },
+   {
+    "name": "經濟案件",
+    "children": [
+     {
+      "name": "件數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6b9a1ff-d7c9-47bb-b39e-11468e077872&uid=275&cuid=1163"
+     },
+     {
+      "name": "人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6b9a1ff-d7c9-47bb-b39e-11468e077872&uid=276&cuid=1164"
+     },
+     {
+      "name": "估計金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=b6b9a1ff-d7c9-47bb-b39e-11468e077872&uid=277&cuid=1165"
+     }
+    ]
+   },
+   {
+    "name": "道路交通事故原因及傷亡人數",
+    "children": [
+     {
+      "name": "肇事原因",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26e83439-ddcc-4197-b344-75ce7da21019&uid=5027&cuid=1170"
+     },
+     {
+      "name": "道路交通事故傷亡人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=26e83439-ddcc-4197-b344-75ce7da21019&uid=7256&cuid=1649"
+     }
+    ]
+   },
+   {
+    "name": "消防人力及裝備",
+    "children": [
+     {
+      "name": "消防人員數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7213&cuid=1636"
+     },
+     {
+      "name": "消防人力",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7254&cuid=1647"
+     },
+     {
+      "name": "義消人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7255&cuid=1648"
+     },
+     {
+      "name": "消防車輛-按消防、救護車輛別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7216&cuid=1637"
+     },
+     {
+      "name": "消防設備-空氣呼吸器",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7217&cuid=1638"
+     },
+     {
+      "name": "消防設備-救生艇",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7218&cuid=1639"
+     },
+     {
+      "name": "消防設備-消防衣帽鞋",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7219&cuid=1640"
+     },
+     {
+      "name": "消防設備-耐高溫消防衣",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7220&cuid=1641"
+     },
+     {
+      "name": "消防設備-破壞器材組",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7221&cuid=1642"
+     },
+     {
+      "name": "消防設備-空氣壓縮機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7222&cuid=1643"
+     },
+     {
+      "name": "消防設備-潛水用裝備",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7223&cuid=1644"
+     },
+     {
+      "name": "消防設備-橡皮艇",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7224&cuid=1645"
+     },
+     {
+      "name": "消防設備-移動式幫浦",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=02094af1-23f7-4081-988a-7f6756dd2cce&uid=7225&cuid=1646"
+     }
+    ]
+   },
+   {
+    "name": "火災起火原因及損失情形",
+    "children": [
+     {
+      "name": "起火原因",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=5216&cuid=1178"
+     },
+     {
+      "name": "死亡人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=4868&cuid=1183"
+     },
+     {
+      "name": "受傷人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=4871&cuid=1184"
+     },
+     {
+      "name": "被毀損房屋數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=5729&cuid=1185"
+     },
+     {
+      "name": "被毀損車輛數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=1116&cuid=1179"
+     },
+     {
+      "name": "財物損失金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=1117&cuid=1180"
+     },
+     {
+      "name": "被災戶保險情形-保險戶數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=1118&cuid=1181"
+     },
+     {
+      "name": "被災戶保險情形-保險金額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=c34f1a32-fd31-4c04-888d-2c0e3c5c7004&uid=1119&cuid=1182"
+     }
+    ]
+   },
+   {
+    "name": "辦理調解業務概況",
+    "children": [
+     {
+      "name": "結案件數依調解業務項目別、成立與否分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=992a5d51-7655-496f-af7d-6aa765ec17ce&uid=511&cuid=1186"
+     },
+     {
+      "name": "委員總人數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=992a5d51-7655-496f-af7d-6aa765ec17ce&uid=520&cuid=1187"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾肆、家庭收支",
+  "children": [
+   {
+    "name": "平均每戶家庭收支",
+    "children": [
+     {
+      "name": "所得收入依所得收入別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2975&cuid=1188"
+     },
+     {
+      "name": "消費支出依消費支出別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2976&cuid=1189"
+     },
+     {
+      "name": "非消費支出依非消費支出別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2977&cuid=1190"
+     },
+     {
+      "name": "可支配所得",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2978&cuid=1191"
+     },
+     {
+      "name": "儲蓄",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2979&cuid=1192"
+     },
+     {
+      "name": "所得總額",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6167a9d3-3610-4c5c-986f-d50ad729f5a5&uid=2980&cuid=1193"
+     }
+    ]
+   },
+   {
+    "name": "家庭主要設備普及率",
+    "children": [
+     {
+      "name": "彩色電視機(112年~)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=8867&cuid=1654"
+     },
+     {
+      "name": "一般彩色電視機(~111年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2603&cuid=1194"
+     },
+     {
+      "name": "液晶、電漿電視(~111年)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2604&cuid=1195"
+     },
+     {
+      "name": "數位影音光碟機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2605&cuid=1196"
+     },
+     {
+      "name": "攝影機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2606&cuid=1197"
+     },
+     {
+      "name": "音響",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2607&cuid=1198"
+     },
+     {
+      "name": "鋼琴(含電子琴)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2608&cuid=1199"
+     },
+     {
+      "name": "數位相機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2609&cuid=1200"
+     },
+     {
+      "name": "電視遊樂器",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2611&cuid=1202"
+     },
+     {
+      "name": "有線電視頻道設備(含多媒體隨選視訊)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2612&cuid=1203"
+     },
+     {
+      "name": "家用電腦",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2613&cuid=1204"
+     },
+     {
+      "name": "電話機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2614&cuid=1205"
+     },
+     {
+      "name": "行動電話",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2615&cuid=1206"
+     },
+     {
+      "name": "連網(使用電腦或其他設備)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2616&cuid=1207"
+     },
+     {
+      "name": "汽車",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2617&cuid=1208"
+     },
+     {
+      "name": "機車",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2618&cuid=1209"
+     },
+     {
+      "name": "電磁爐",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2619&cuid=1210"
+     },
+     {
+      "name": "冷暖氣機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2620&cuid=1211"
+     },
+     {
+      "name": "除濕機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2621&cuid=1212"
+     },
+     {
+      "name": "洗衣機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2622&cuid=1213"
+     },
+     {
+      "name": "烘衣機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2623&cuid=1214"
+     },
+     {
+      "name": "空氣清淨機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2624&cuid=1215"
+     },
+     {
+      "name": "濾水器",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2625&cuid=1216"
+     },
+     {
+      "name": "吸塵器",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2626&cuid=1217"
+     },
+     {
+      "name": "熱水器",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2627&cuid=1218"
+     },
+     {
+      "name": "開飲機",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2628&cuid=1219"
+     },
+     {
+      "name": "微波爐",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2629&cuid=1220"
+     },
+     {
+      "name": "報紙",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2630&cuid=1221"
+     },
+     {
+      "name": "期刊雜誌",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=3afc8d1e-92c4-47e2-949a-65f96f66765d&uid=2631&cuid=1222"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[統計年報] 拾伍、其他",
+  "children": [
+   {
+    "name": "郵政機構概況",
+    "children": [
+     {
+      "name": "郵政機構",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=8d2dcb3d-cf49-409a-88d8-5136c3ec0727&uid=2636&cuid=1223"
+     }
+    ]
+   },
+   {
+    "name": "主要觀光遊憩區遊客人數",
+    "children": [
+     {
+      "name": "遊客人次",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6ae628e6-4298-4f64-bda5-0a653112552e&uid=2635&cuid=1240"
+     },
+     {
+      "name": "增減數",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6ae628e6-4298-4f64-bda5-0a653112552e&uid=7157&cuid=1552"
+     },
+     {
+      "name": "成長率(%)",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=6ae628e6-4298-4f64-bda5-0a653112552e&uid=7007&cuid=1243"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[金門縣人力資源報告重要指標] 鄉鎮指標",
+  "children": [
+   {
+    "name": "15歲以上民間人口_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6744&cuid=501"
+   },
+   {
+    "name": "勞動力_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6745&cuid=521"
+   },
+   {
+    "name": "非勞動力_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6746&cuid=503"
+   },
+   {
+    "name": "勞動參與率_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6747&cuid=504"
+   },
+   {
+    "name": "就業者占15歲以上民間人口之比率_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6748&cuid=505"
+   },
+   {
+    "name": "就業者占勞動力之比率_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6749&cuid=506"
+   },
+   {
+    "name": "失業率_鄉鎮",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=23b4e450-9f23-4d9f-949a-63bdedb7b963&uid=6750&cuid=507"
+   }
+  ]
+ },
+ {
+  "name": "[金門縣人力資源報告重要指標] 勞動力狀況",
+  "children": [
+   {
+    "name": "15歲以上民間人口",
+    "children": [
+     {
+      "name": "15歲以上民間人口依婚姻狀況分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb44c35f-94a2-4e03-9f05-d96fba6a312e&uid=6733&cuid=510"
+     },
+     {
+      "name": "15歲以上民間人口依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb44c35f-94a2-4e03-9f05-d96fba6a312e&uid=6969&cuid=1081"
+     },
+     {
+      "name": "15歲以上民間人口依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb44c35f-94a2-4e03-9f05-d96fba6a312e&uid=6732&cuid=509"
+     },
+     {
+      "name": "15歲以上民間人口依年齡別及教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=cb44c35f-94a2-4e03-9f05-d96fba6a312e&uid=6968&cuid=1080"
+     }
+    ]
+   },
+   {
+    "name": "勞動力",
+    "children": [
+     {
+      "name": "勞動力依婚姻狀況分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9bb1623c-d04a-46ea-89fe-06829694a2e3&uid=6754&cuid=513"
+     },
+     {
+      "name": "勞動力依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9bb1623c-d04a-46ea-89fe-06829694a2e3&uid=6752&cuid=511"
+     },
+     {
+      "name": "勞動力依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=9bb1623c-d04a-46ea-89fe-06829694a2e3&uid=6753&cuid=512"
+     }
+    ]
+   },
+   {
+    "name": "非勞動力",
+    "children": [
+     {
+      "name": "非勞動力依婚姻狀況分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d66c89-9d07-4be7-835d-ad9829ae51bc&uid=6757&cuid=516"
+     },
+     {
+      "name": "非勞動力依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d66c89-9d07-4be7-835d-ad9829ae51bc&uid=6755&cuid=514"
+     },
+     {
+      "name": "非勞動力依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=14d66c89-9d07-4be7-835d-ad9829ae51bc&uid=6756&cuid=515"
+     }
+    ]
+   },
+   {
+    "name": "勞動參與率",
+    "children": [
+     {
+      "name": "勞動參與率依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=866831c9-946a-4435-9da0-6ba43006da38&uid=6758&cuid=517"
+     },
+     {
+      "name": "勞動參與率依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=866831c9-946a-4435-9da0-6ba43006da38&uid=6759&cuid=518"
+     }
+    ]
+   },
+   {
+    "name": "失業率",
+    "children": [
+     {
+      "name": "失業率依年齡別分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=339c29d1-4a38-489d-a344-5a21617ea800&uid=6760&cuid=519"
+     },
+     {
+      "name": "失業率依教育程度分",
+      "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=339c29d1-4a38-489d-a344-5a21617ea800&uid=6761&cuid=520"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "name": "[金門縣人力資源報告重要指標] 就業者行業指標",
+  "children": [
+   {
+    "name": "就業者按行業、性別及年齡",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de204a5a-2bee-4b57-abfc-5a46363e4f32&uid=6970&cuid=1082"
+   },
+   {
+    "name": "就業者按行業、性別及職業",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=de204a5a-2bee-4b57-abfc-5a46363e4f32&uid=6985&cuid=1083"
+   }
+  ]
+ },
+ {
+  "name": "[金門縣人力資源報告重要指標] 就業者職業指標",
+  "children": [
+   {
+    "name": "就業者按職業、性別及教育程度",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19d987a3-cbd7-42c8-8c13-b0e97185d0d6&uid=6986&cuid=1084"
+   },
+   {
+    "name": "就業者按職業、性別及年齡",
+    "url": "https://kinmen.dgbas.gov.tw/DgbasWeb/varval3.aspx?guid=19d987a3-cbd7-42c8-8c13-b0e97185d0d6&uid=6987&cuid=1085"
+   }
+  ]
+ }
+]
