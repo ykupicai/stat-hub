@@ -189,6 +189,14 @@ def build_items():
                                           "meta": {"取數": f"stat_query_tpe(\"{n['funid']}\", years)"}})
                 tp(load(fp), ["臺北市"])
                 continue
+            if d.is_dir() and fp.exists() and d.name == "桃園市":  # 統計報表資料庫 API：cuid/週期
+                for g in load(fp):
+                    for tb in g["children"]:
+                        code = f"{tb['cuid']}/{tb['period']}"
+                        items.append({"s": "11-桃園市", "p": f"桃園市統計報表資料庫 > {g['name']}", "n": tb["name"], "c": f"tyc:{code}",
+                                      "u": f"https://statbas.tycg.gov.tw/SDBTool/StatDBAPIQuery/EffectiveComplexSpecification?cuid={tb['cuid']}&periodNo={tb['period']}",
+                                      "meta": {"取數": f"stat_query_tyc(\"{code}\", years=years, areas=areas)"}})
+                continue
             if d.is_dir() and fp.exists() and d.name == "高雄市":  # PX-Web：矩陣代碼
                 for g in load(fp):
                     for tb in g["children"]:

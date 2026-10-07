@@ -27,6 +27,7 @@ import pingtung_yearbook  # noqa: E402
 import ntpc  # noqa: E402
 import kcg  # noqa: E402
 import tpe  # noqa: E402
+import tyc  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -620,6 +621,22 @@ def stat_query_tpe(funid: str, years: list[int] | None = None, max_rows: int = 3
     years：民國或西元年（取最小～最大；月資料取該區間各月），未給取最近 10 年。
     ⚠ 有分類維度的表目前只取網站預設選項（多為「總計」）；「-」照原樣保留。"""
     r = tpe.query(funid.replace("tpe:", ""), years)
+    total = len(r["rows"])
+    r["rows"] = r["rows"][:max_rows]
+    r["total_rows"] = total
+    return r
+
+@mcp.tool()
+def stat_query_tyc(cuid: str, period: str = "Y", years: list[int] | None = None, areas: list[str] | None = None,
+                   max_rows: int = 500) -> dict:
+    """即時查詢桃園市統計報表資料庫 API（11-桃園市，約 5,365 個統計單元，多含行政區別）。
+    cuid：統計單元代碼（stat_search 目錄細項代碼為 tyc:<cuid>/<週期>，例 10282/Y＝農耕土地面積依農耕土地別(103年起)）。
+    period：Y 年、M 月等（照目錄代碼斜線後的值）。years：民國或西元年（取最小～最大）；areas：行政區名片段。
+    回傳長表（資料日期、行政區、分類…、數值），數值為公務統計報表原始值。"""
+    c = cuid.replace("tyc:", "")
+    if "/" in c:
+        c, period = c.split("/", 1)
+    r = tyc.query(c, period, years, areas)
     total = len(r["rows"])
     r["rows"] = r["rows"][:max_rows]
     r["total_rows"] = total
