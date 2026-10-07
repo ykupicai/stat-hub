@@ -178,6 +178,13 @@ def build_items():
     if cty.exists():
         for d in sorted(cty.iterdir()):
             fp = d / "目錄.json"
+            if d.is_dir() and fp.exists() and d.name == "高雄市":  # PX-Web：矩陣代碼
+                for g in load(fp):
+                    for tb in g["children"]:
+                        items.append({"s": "11-高雄市", "p": f"高雄市 PX-Web > {g['name']}", "n": tb["name"], "c": f"kcg:{tb['ma']}",
+                                      "u": "https://pxweb.kcg.gov.tw/pxweb2007p/dialog/",
+                                      "meta": {"取數": f"stat_query_kcg(\"{tb['ma']}\", years, areas)"}})
+                continue
             if d.is_dir() and fp.exists() and d.name == "新北市":  # 改版介面：表 ID 結構
                 for c in load(fp):
                     for ch in c["children"]:

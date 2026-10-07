@@ -25,6 +25,7 @@ import census  # noqa: E402
 import census_tables  # noqa: E402
 import pingtung_yearbook  # noqa: E402
 import ntpc  # noqa: E402
+import kcg  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -594,6 +595,18 @@ def stat_query_ntpc(table_id: str, years: list[int] | None = None, areas: list[s
     table_id：表 ID（stat_search 目錄細項代碼為 ntpc:<ID>，例 11878＝農耕土地面積_103年以後）。
     years：民國或西元年；areas：區名片段（如 ["新北市","板橋"]），空白＝全部 29 區＋全市。"""
     r = ntpc.query(str(table_id).replace("ntpc:", ""), years, areas)
+    total = len(r["rows"])
+    r["rows"] = r["rows"][:max_rows]
+    r["total_rows"] = total
+    return r
+
+@mcp.tool()
+def stat_query_kcg(ma: str, years: list[int] | None = None, areas: list[str] | None = None, max_rows: int = 300) -> dict:
+    """即時查詢高雄市 PX-Web 多維度資料庫（11-高雄市，約 508 表）。
+    ma：PX 矩陣代碼（stat_search 目錄細項代碼為 kcg:<ma>，例 AG300401RA＝耕地面積(2014~)）。
+    years：民國或西元年（只篩「年／期」維度）；areas：地區名片段（只在有該名稱的維度生效）。
+    ⚠ 部分表只有全市值、沒有區別（例：耕地面積），以回傳的 dims 為準。"""
+    r = kcg.query(ma.replace("kcg:", ""), years, areas)
     total = len(r["rows"])
     r["rows"] = r["rows"][:max_rows]
     r["total_rows"] = total

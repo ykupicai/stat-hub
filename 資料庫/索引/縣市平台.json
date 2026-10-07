@@ -141,9 +141,17 @@
    "mode": "ntpc",
    "no_db": true,
    "說明": "改版介面（Page/StatFile2 + lbtGUID 回傳 + 查詢視窗），目錄與查詢由 stat_mcp/ntpc.py 處理（crawl_counties 略過）；查詢仍送 /網頁資料查詢/ShowQuery.aspx"
+  },
+  "高雄市": {
+   "base": "https://pxweb.kcg.gov.tw/pxweb2007p/Dialog/",
+   "catenos": {},
+   "stat08": null,
+   "mode": "pxweb",
+   "no_db": true,
+   "說明": "PX-Web 2007（統計資訊服務網 kcgdg.kcg.gov.tw › 資料庫查詢）；網址參數須 Big5 編碼。由 stat_mcp/kcg.py 處理"
   }
  },
  "未納入": {
-  "臺北市、桃園市、高雄市、宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
+  "臺北市、桃園市、宜蘭縣、新竹市、連江縣": "處理中（2026-10-07）"
  }
 }
