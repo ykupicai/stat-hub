@@ -3,7 +3,7 @@
 # 開發環境實測版本（2026-10-07，Python 3.14）；Python 3.10 以上即可。
 
 # --- MCP server（stat_mcp/）必要 ---
-mcp>=1.27            # FastMCP stdio server
+mcp>=1.27,<2         # FastMCP stdio server；mcp 2.x 已把 FastMCP 改名為 MCPServer，程式未遷移前須鎖 <2
 requests>=2.32       # 向各政府平台取數
 urllib3>=2.2
 lxml>=5.0            # 解析網頁
