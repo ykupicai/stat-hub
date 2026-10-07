@@ -82,6 +82,9 @@
   `stat_mcp/store.py`（SQLite 結構＋通用表格解析器）。
 - 表：`datasets`（網址、sha256、本機原始檔）→ `sheets`（原始格子 raw_json）→ `facts`（長表 row_label × col_label → value，推定 year／area）。
 - **`stat.sqlite` 與 `資料庫/原始檔/` 不進版控**（可由 harvest 重建）；要保存某次取數請把原始檔另存到 `案件/<案名>/原始報表/`。
+- **共用快照（2026-10-07 起）**：`python scripts/publish_db_snapshot.py` 以 SQLite backup 產生一致快照、VACUUM、完整性檢查，
+  複製到 `local_paths.json` 的「資料庫快照」資料夾（公司 NAS）並逐 byte 核對、改寫同資料夾 README.txt。同事複製到本機使用，不直接讀寫 NAS 檔。
+  首次發布：2026-10-07，223 MB，SHA-256 63EF0EE8…7400。
 - agrstat 破解要點：統計量與維度代碼以 **AES-ECB（金鑰 `2025000000000000`，寫在頁面 JS）** 加密於隱藏欄位；
   全選＝解密→Selected=true→把各維度 OriginCodeArray 塞進 `hidInquireGroup`（Position/SerialNo 用 Default 值）→
   補 `chkYearData=on` 與統計量 checkbox `..._ucItemCode_panCode_{SerialNo}=on` → POST `btnInquire`。結果表 `#..._tabResult`。單次上限 15,000 格，程式依年度分段。
