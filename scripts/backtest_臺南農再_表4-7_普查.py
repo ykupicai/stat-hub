@@ -89,6 +89,32 @@ def main(docx_path):
     tot = {f"{c}{y}": cen[("總計", c, y)] for c in CATS for y in (104, 109)}
     print("普查臺南市合計：", tot)
 
+    # ── 第二來源：主計總處普查結果統計表（按縣市別：臺南市）表1 統計結果摘要 ──
+    # 欄位（2026-10-07 實測 104、109 同版型）：2 農牧業家數、8 農事及畜牧服務業家數、9 林業家數、11 漁業家數
+    import store  # noqa: E402
+    STATIC = {104: "普查104_臺南市_表１農林漁牧業普查統計結果摘要.ods", 109: "普查109_臺南市_表1農林漁牧業普查統計結果摘要.ods"}
+    COLS = {"農牧業": 2, "農事及畜牧服務業": 8, "林業": 9, "漁業": 11}
+    sta = {}
+    for yr, fn in STATIC.items():
+        rows_s = store.read_workbook(RAW.parent / fn)[0][1]
+        for r in rows_s:
+            name = (r[1] if len(r) > 1 else "").replace(" ", "").replace("　", "")
+            if name.endswith("區") and len(name) <= 4:
+                for cat, j in COLS.items():
+                    sta[(name, cat, yr)] = num(r[j].replace(" ", "")) if j < len(r) else None
+    for cat in CATS:
+        for yr in (104, 109):
+            sta[("總計", cat, yr)] = sum(v or 0 for (a, c, y), v in sta.items() if c == cat and y == yr and a != "總計")
+    d2, n2 = [], 0
+    for key, bv in book.items():
+        if key not in sta:
+            continue
+        n2 += 1
+        if (bv or 0) != (sta[key] or 0):
+            d2.append({"行政區": key[0], "類別": key[1], "年": key[2], "書中": bv, "統計表": sta[key]})
+    print(json.dumps({"第二來源": "普查結果統計表 臺南市 表1", "比對格數": n2, "不符": len(d2), "不符明細": d2},
+                     ensure_ascii=False, indent=1))
+
 
 if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
