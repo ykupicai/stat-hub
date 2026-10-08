@@ -29,6 +29,7 @@ import kcg  # noqa: E402
 import tpe  # noqa: E402
 import tyc  # noqa: E402
 import hcc  # noqa: E402
+import lvr  # noqa: E402
 import harvest  # noqa: E402
 import store  # noqa: E402
 from index import ROOT, build_index  # noqa: E402
@@ -38,6 +39,7 @@ INSTRUCTIONS = """統計資料機器人：查「某項統計資料該去哪裡�
 臺南市農業局、data.gov.tw，以及無公開來源時的索取窗口 X1–X4；約 4 萬個平台目錄細項、兩案實際用表與口徑地雷。
 各縣市取數：同系統用 stat_query_dgbas；新北 stat_query_ntpc、高雄 stat_query_kcg、臺北 stat_query_tpe、
 桃園 stat_query_tyc、新竹市 stat_hcc_report（宜蘭、連江只有 Power BI，無法取數）。
+實價登錄（土地／房地交易單價、地號、使用分區）用 stat_lvr。
 
 典型流程：
 1. stat_search("關鍵字") 找候選：同時回主題速查、案件用表、地雷、來源、目錄細項（細項附查詢網址）。
@@ -656,6 +658,20 @@ def stat_hcc_report(md: str, period: str | None = None, max_rows: int = 80) -> d
         sh["total_rows"] = len(sh["rows"])
         sh["rows"] = sh["rows"][:max_rows]
     return r
+
+@mcp.tool()
+def stat_lvr(county: str, district: str | None = None, kind: str = "買賣", target: str | None = None,
+             zoning: str | None = None, date_from: str | None = None, date_to: str | None = None,
+             seasons: list[str] | None = None, exclude_special: bool = True, limit: int = 50) -> dict:
+    """實價登錄（內政部不動產交易實價查詢服務網開放資料，來源 12）：逐筆交易＋單價統計，含土地段號／地號與使用分區編定。
+    county：縣市（臺南市…）；district：鄉鎮市區片段；kind：買賣｜預售屋｜租賃；
+    target：交易標的（土地／建物／車位／房地(土地+建物)… 精確比對，「房地」模糊比對）；
+    zoning：使用分區或編定關鍵字（如 農牧用地、特定農業區、住宅區、乙種建築用地）；
+    date_from／date_to：交易日期，民國 yyymm 或 yyy（例 11401～11412）；未給日期取最近 4 季。
+    seasons：直接指定季別（如 ["115S2"]）。缺的季會當場下載入 資料庫/lvr.sqlite（每季全國約 15 MB、13 萬筆）。
+    exclude_special：統計時排除備註含親友、債權債務、含增建等特殊交易（rows 仍全列）。
+    ⚠ 季別依「登記日期」分包，交易日期會跨季；單價為平台單價（房地含建物）。屬個案交易資料，引用書件請註明篩選條件。"""
+    return lvr.query(county, district, kind, target, zoning, date_from, date_to, seasons, exclude_special, limit)
 
 
 if __name__ == "__main__":

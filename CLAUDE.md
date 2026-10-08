@@ -136,6 +136,11 @@
   （發布時間表報表檔）；宜蘭、連江只有 Power BI，登記為來源但無法取數。index.py 依縣市名分支（代碼前綴 ntpc:/kcg:/tpe:/tyc:/hcc:）。
 - `fetchers._retry` 改為攔所有 `requests.RequestException`（含回傳途中斷線的 ChunkedEncodingError）。
 
+### 來源 12 實價登錄（2026-10-08 新增）
+
+- `stat_mcp/lvr.py`／MCP `stat_lvr`：季別 zip（101S1～，全國一包約 15 MB）用到才下載，入**獨立**的 `資料庫/lvr.sqlite`（`lvr_tx` 主檔、`lvr_land` 地號明細、`lvr_seasons`），不進 stat.sqlite 快照與版控。
+- 季別＝登記期間，依交易日期查詢會多抓後續季再篩；`target="土地"` 精確比對；統計預設排除特殊交易。細節見 `資料庫/12_內政部_實價登錄/操作說明.md`。
+
 ## stat-hub 擴充 SOP（2026-10-07）
 
 依擴充類型由輕到重，**每一種做完都要：回測（拿已知數字核對）→ `python stat_mcp/index.py` 自檢 → 重開 session 驗工具 → commit**。

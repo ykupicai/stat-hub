@@ -31,3 +31,4 @@ __pycache__/
 local_paths.json
 # 改寫歷史前的備份（含舊歷史與敏感資訊，勿上傳）
 .git-backup/
+資料庫/lvr.sqlite
