@@ -662,7 +662,10 @@ def stat_hcc_report(md: str, period: str | None = None, max_rows: int = 80) -> d
 @mcp.tool()
 def stat_lvr(county: str, district: str | None = None, kind: str = "買賣", target: str | None = None,
              zoning: str | None = None, date_from: str | None = None, date_to: str | None = None,
-             seasons: list[str] | None = None, exclude_special: bool = True, limit: int = 50) -> dict:
+             seasons: list[str] | None = None, exclude_special: bool = True, limit: int = 50,
+             building_type: str | None = None, main_use: str | None = None, rooms: str | None = None,
+             rent_type: str | None = None, furnished: bool | None = None, elevator: bool | None = None,
+             rent_service: str | None = None) -> dict:
     """實價登錄（內政部不動產交易實價查詢服務網開放資料，來源 12）：逐筆交易＋單價統計，含土地段號／地號與使用分區編定。
     county：縣市（臺南市…）；district：鄉鎮市區片段；kind：買賣｜預售屋｜租賃；
     target：交易標的（土地／建物／車位／房地(土地+建物)… 精確比對，「房地」模糊比對）；
@@ -670,8 +673,14 @@ def stat_lvr(county: str, district: str | None = None, kind: str = "買賣", tar
     date_from／date_to：交易日期，民國 yyymm 或 yyy（例 11401～11412）；未給日期取最近 4 季。
     seasons：直接指定季別（如 ["115S2"]）。缺的季會當場下載入 資料庫/lvr.sqlite（每季全國約 15 MB、13 萬筆）。
     exclude_special：統計時排除備註含親友、債權債務、含增建等特殊交易（rows 仍全列）。
-    ⚠ 季別依「登記日期」分包，交易日期會跨季；單價為平台單價（房地含建物）。屬個案交易資料，引用書件請註明篩選條件。"""
-    return lvr.query(county, district, kind, target, zoning, date_from, date_to, seasons, exclude_special, limit)
+    building_type：建物型態片段（公寓、華廈、住宅大樓、透天厝、套房、店面…）；main_use：主要用途片段（住家用、商業用…）；
+    rooms：房數，"2"、"3+"、"1-2"。
+    租賃專用：rent_type 出租型態片段（整棟(戶)、獨立套房、分租套房、分層分租）；furnished／elevator 有無附傢俱／電梯；
+    rent_service 租賃住宅服務片段（社會住宅、代管、包租、一般）。租賃另回「租賃_依出租型態」：各型態筆數、月租金與面積中位數。
+    ⚠ 季別依「登記日期」分包，交易日期會跨季；單價為平台單價（房地含建物）。屬個案交易資料，引用書件請註明篩選條件。
+    ⚠ 租賃為申報案件，社宅包租代管與租賃住宅服務業者經手者比例偏高，非全部租約。"""
+    return lvr.query(county, district, kind, target, zoning, date_from, date_to, seasons, exclude_special, limit,
+                     building_type, main_use, rent_type, rooms, furnished, elevator, rent_service)
 
 
 if __name__ == "__main__":

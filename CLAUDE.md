@@ -37,6 +37,7 @@
 
 仿 TwinkleHub 的「搜尋 → 看 metadata → 拉資料」作法，把本專案的來源知識包成 MCP 工具，
 任何 Claude session 都能直接問「OO 資料去哪裡拿、口徑是什麼」並即時取數。
+**使用者要的是資料機器人 agent，不是網頁入口**（2026-10-04 使用者指示），擴充一律做成 MCP 工具。
 
 - 程式：`stat_mcp/server.py`（工具定義）、`index.py`（彙整索引）、`fetchers.py`（即時取數）
 - 註冊：**使用者層（全域）** `~/.claude.json` 的 `mcpServers.stat-hub`（絕對路徑，任何專案都能用，2026-10-04 登記；改前備份 `~/.claude.json.bak-20261004-stathub`）；
@@ -140,6 +141,8 @@
 
 - `stat_mcp/lvr.py`／MCP `stat_lvr`：季別 zip（101S1～，全國一包約 15 MB）用到才下載，入**獨立**的 `資料庫/lvr.sqlite`（`lvr_tx` 主檔、`lvr_land` 地號明細、`lvr_seasons`），不進 stat.sqlite 快照與版控。
 - 季別＝登記期間，依交易日期查詢會多抓後續季再篩；`target="土地"` 精確比對；統計預設排除特殊交易。細節見 `資料庫/12_內政部_實價登錄/操作說明.md`。
+- 2026-10-14 加篩選：`building_type`、`main_use`、`rooms`（全部）與 `rent_type`、`furnished`、`elevator`、`rent_service`（租賃，比對 extra 欄）；
+  租賃另回「租賃_依出租型態」分組中位數。租賃申報約半數是社宅包租代管，比較市場租金前先看 `rent_service`。
 
 ## stat-hub 擴充 SOP（2026-10-07）
 

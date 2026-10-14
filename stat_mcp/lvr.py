@@ -179,8 +179,12 @@ def seasons_for(date_from, date_to):
 
 
 def query(county, district=None, kind="買賣", target=None, zoning=None, date_from=None, date_to=None,
-          season_list=None, exclude_special=True, limit=50):
-    """逐筆查詢＋單價統計。日期為交易日期（民國 yyymm 或 yyy）；未給取最近 4 季。缺的季會先下載。"""
+          season_list=None, exclude_special=True, limit=50, building_type=None, main_use=None,
+          rent_type=None, rooms=None, furnished=None, elevator=None, rent_service=None):
+    """逐筆查詢＋單價統計。日期為交易日期（民國 yyymm 或 yyy）；未給取最近 4 季。缺的季會先下載。
+    building_type 建物型態片段（公寓、華廈、住宅大樓、透天厝、套房、店面…）；main_use 主要用途片段；
+    rooms 房數：整數或 "3+"／"1-2"；以下僅租賃：rent_type 出租型態片段（整棟(戶)、獨立套房、分租套房、分層分租…）、
+    furnished／elevator 有無附傢俱／電梯（True/False）、rent_service 租賃住宅服務片段（社會住宅、代管、包租、一般）。"""
     k = KIND_BY_NAME.get(kind, kind)
     if season_list:
         ss = list(season_list)
@@ -202,6 +206,12 @@ def query(county, district=None, kind="買賣", target=None, zoning=None, date_f
     if zoning:
         sql += " and (都市土地使用分區 like ? or 非都市土地使用分區 like ? or 非都市土地使用編定 like ?)"
         args += [f"%{zoning}%"] * 3
+    if building_type:
+        sql += " and 建物型態 like ?"
+        args.append(f"%{building_type}%")
+    if main_use:
+        sql += " and 主要用途 like ?"
+        args.append(f"%{main_use}%")
     if date_from:
         v = str(date_from)
         sql += " and 交易日 >= ?"
@@ -213,6 +223,31 @@ def query(county, district=None, kind="買賣", target=None, zoning=None, date_f
     sql += f" and season in ({','.join('?' * len(ss))}) order by 交易日 desc"
     args += ss
     rows = [dict(zip(COLS, r)) for r in c.execute(sql, args)]
+    for r in rows:
+        r["extra"] = json.loads(r["extra"]) if r["extra"] else {}
+
+    def yn(v, want):  # 有／無 欄位
+        return want is None or (v == "有") == bool(want)
+
+    def room_ok(v):
+        if rooms in (None, ""):
+            return True
+        try:
+            n = int(v or 0)
+        except ValueError:
+            return False
+        s = str(rooms).strip()
+        if s.endswith("+"):
+            return n >= int(s[:-1])
+        if "-" in s:
+            lo, hi = s.split("-", 1)
+            return int(lo) <= n <= int(hi)
+        return n == int(s)
+    rows = [r for r in rows
+            if (not rent_type or rent_type in r["extra"].get("出租型態", ""))
+            and (not rent_service or rent_service in r["extra"].get("租賃住宅服務", ""))
+            and yn(r["extra"].get("有無附傢俱"), furnished) and yn(r["extra"].get("有無電梯"), elevator)
+            and room_ok(r["extra"].get("建物現況格局-房"))]
     special = [r for r in rows if any(w in (r["備註"] or "") for w in SPECIAL)]
     sp_ids = {r["編號"] for r in special}
     use = [r for r in rows if r["編號"] not in sp_ids] if exclude_special else rows
@@ -230,9 +265,16 @@ def query(county, district=None, kind="買賣", target=None, zoning=None, date_f
         q = statistics.quantiles(v, n=4) if len(v) >= 4 else [v[0], statistics.median(v), v[-1]]
         return {"筆數": len(v), "中位數_元每平方公尺": round(statistics.median(v)), "中位數_元每坪": round(statistics.median(v) * PING),
                 "平均_元每平方公尺": round(statistics.mean(v)), "P25": round(q[0]), "P75": round(q[-1])}
-    for r in rows:
-        if r["extra"]:
-            r["extra"] = json.loads(r["extra"])
+    breakdown = None
+    if k == "c":  # 租賃：依出租型態分組，附月租金中位數（單價混合套房與整戶意義不大）
+        groups = {}
+        for r in use:
+            groups.setdefault(r["extra"].get("出租型態") or "（未填）", []).append(r)
+        breakdown = {g: {"筆數": len(v),
+                         "月租金中位數_元": round(statistics.median([x["總價"] for x in v if x["總價"]] or [0])),
+                         "建物面積中位數_坪": round(statistics.median([x["建物面積"] for x in v if x["建物面積"]] or [0]) / PING, 1),
+                         "單價中位數_元每坪": round(statistics.median([x["單價"] for x in v if x["單價"]] or [0]) * PING)}
+                     for g, v in sorted(groups.items(), key=lambda kv: -len(kv[1]))}
     ids = [r["編號"] for r in rows[:limit]]
     lands = {}
     if ids:
@@ -242,10 +284,13 @@ def query(county, district=None, kind="買賣", target=None, zoning=None, date_f
     for r in rows[:limit]:
         r["土地明細"] = lands.get(r["編號"], [])
     return {"條件": {"縣市": county, "鄉鎮市區": district, "類別": KINDS[k], "交易標的": target, "使用分區關鍵字": zoning,
-                     "交易日期": f"{date_from or ''}~{date_to or ''}", "季別": ss, "排除特殊交易": exclude_special},
+                     "交易日期": f"{date_from or ''}~{date_to or ''}", "季別": ss, "排除特殊交易": exclude_special,
+                     "建物型態": building_type, "主要用途": main_use, "房數": rooms, "出租型態": rent_type,
+                     "有無附傢俱": furnished, "有無電梯": elevator, "租賃住宅服務": rent_service},
             "季別登記期間": {x["season"]: x["period"] for x in loaded},
             "總筆數": len(rows), "特殊交易筆數": len(special),
             "單價統計": summ(prices),
+            **({"租賃_依出租型態": breakdown} if breakdown is not None else {}),
             "注意": "單價為平台「單價元平方公尺」（房地交易含建物，車位價格未拆分）；季別依登記日期分包，交易日期篩選後才是區間內交易",
             "rows": rows[:limit]}
 
