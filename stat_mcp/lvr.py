@@ -60,7 +60,14 @@ def _db():
     create table if not exists lvr_land(kind text, 編號 text, 土地位置 text, 面積 real, 使用分區或編定 text, 持分分母 text,
         持分分子 text, 移轉情形 text, 地號 text);
     create index if not exists ix_land on lvr_land(kind, 編號);
+    create table if not exists lvr_build(kind text, 編號 text, 屋齡 text, 面積 real, 主要用途 text, 主要建材 text,
+        建築完成日期 text, 總層數 text, 建物分層 text, 移轉情形 text);
+    create index if not exists ix_build on lvr_build(kind, 編號);
     """)
+    have = {r[1] for r in c.execute("pragma table_info(lvr_seasons)")}
+    for col in ("scope text", "has_build int"):  # scope：ALL 或逗號分隔的縣市；has_build：是否已入建物明細
+        if col.split()[0] not in have:
+            c.execute(f"alter table lvr_seasons add column {col}")
     return c
 
 
@@ -84,27 +91,39 @@ def _int(v):
     return int(v) if v else None
 
 
-def harvest(season, force=False):
-    """下載一季全國 CSV 包並入 lvr.sqlite（同編號覆寫）。回傳 {season, rows, period}。"""
+def harvest(season, force=False, counties=None, need_build=False):
+    """下載一季全國 CSV 包並入 lvr.sqlite（同編號覆寫）。回傳 {season, rows, period}。
+    counties：只入這些縣市（None＝全國）；已入庫且範圍涵蓋就略過。need_build：要求已有建物明細（lvr_build）。
+    原始 zip 已在 資料庫/原始檔/12-實價登錄/ 者直接讀本機，不重抓。"""
     c = _db()
-    if not force and c.execute("select 1 from lvr_seasons where season=?", (season,)).fetchone():
-        r = c.execute("select rows, period from lvr_seasons where season=?", (season,)).fetchone()
-        return {"season": season, "rows": r[0], "period": r[1], "cached": True}
-    s = _session()
-    s.get(B + "DownloadOpenData", timeout=60)
-    for k in range(4):
-        try:
-            r = s.get(B + f"DownloadSeason?season={season}&type=zip&fileName=lvr_landcsv.zip", timeout=600)
-            if r.content[:2] == b"PK":
-                break
-        except requests.RequestException:
-            pass
-        time.sleep(10 * (k + 1))
+    row = c.execute("select rows, period, scope, has_build from lvr_seasons where season=?", (season,)).fetchone()
+    old_scope = (row[2] or "ALL") if row else ""
+    if not force and row:
+        covered = old_scope == "ALL" or (counties and set(counties) <= set(old_scope.split(",")))
+        if covered and (not need_build or row[3]):
+            return {"season": season, "rows": row[0], "period": row[1], "cached": True}
+    local = RAW / f"lvr_landcsv_{season}.zip"
+    if local.exists() and local.stat().st_size > 1000:
+        content = local.read_bytes()
     else:
-        raise RuntimeError(f"{season} 下載失敗")
-    RAW.mkdir(parents=True, exist_ok=True)
-    (RAW / f"lvr_landcsv_{season}.zip").write_bytes(r.content)
-    z = zipfile.ZipFile(io.BytesIO(r.content))
+        s = _session()
+        s.get(B + "DownloadOpenData", timeout=60)
+        for k in range(4):
+            try:
+                r = s.get(B + f"DownloadSeason?season={season}&type=zip&fileName=lvr_landcsv.zip", timeout=600)
+                if r.content[:2] == b"PK":
+                    break
+            except requests.RequestException:
+                pass
+            time.sleep(10 * (k + 1))
+        else:
+            raise RuntimeError(f"{season} 下載失敗")
+        content = r.content
+        RAW.mkdir(parents=True, exist_ok=True)
+        local.write_bytes(content)
+    # 範圍只升不降；舊紀錄的 ALL 沒有建物明細，改以本次縣市為準（保守：其他縣市日後再查時由本機 zip 重入，不重抓）
+    scope = "ALL" if counties is None else ",".join(sorted(set(counties) | (set(old_scope.split(",")) if row and old_scope != "ALL" else set())))
+    z = zipfile.ZipFile(io.BytesIO(content))
     names = set(z.namelist())
     county = {}
     if "manifest.csv" in names:
@@ -118,14 +137,23 @@ def harvest(season, force=False):
         period = m.group(1).strip() if m else ""
     n = 0
     for name in sorted(names):
-        m = re.match(r"([a-z])_lvr_land_([abc])(_land)?\.csv$", name)
+        m = re.match(r"([a-z])_lvr_land_([abc])(_land|_build)?\.csv$", name)
         if not m:
             continue
-        cc, kind, land = m.groups()
+        cc, kind, sub = m.groups()
+        land = sub == "_land"
+        if counties and county.get(cc, cc) not in counties:
+            continue
         rows = list(csv.reader(io.StringIO(z.read(name).decode("utf-8-sig", "replace"))))
         if len(rows) < 3:
             continue
         head, body = rows[0], rows[2:]  # 第 2 列為英文欄名
+        if sub == "_build":
+            c.executemany("delete from lvr_build where kind=? and 編號=?", {(kind, x[0]) for x in body if x})
+            c.executemany("insert into lvr_build values(?,?,?,?,?,?,?,?,?,?)",
+                          [(kind, x[0], x[1], _num(x[2]), x[3], x[4], x[5], x[6], x[7] if len(x) > 7 else "",
+                            x[8] if len(x) > 8 else "") for x in body if len(x) >= 7])
+            continue
         if land:
             c.executemany("delete from lvr_land where kind=? and 編號=?", {(kind, x[0]) for x in body if x})
             c.executemany("insert into lvr_land values(?,?,?,?,?,?,?,?,?)",
@@ -155,8 +183,9 @@ def harvest(season, force=False):
                          json.dumps(extra, ensure_ascii=False) if extra else ""))
         c.executemany(f"insert or replace into lvr_tx values({','.join('?' * len(COLS))})", recs)
         n += len(recs)
-    c.execute("insert or replace into lvr_seasons values(?,?,?,?,?,?)",
-              (season, datetime.now().isoformat(timespec="seconds"), hashlib.sha256(r.content).hexdigest(), len(r.content), n, period))
+    c.execute("insert or replace into lvr_seasons values(?,?,?,?,?,?,?,?)",
+              (season, datetime.now().isoformat(timespec="seconds"), hashlib.sha256(content).hexdigest(), len(content),
+               n, period, scope, 1))
     c.commit()
     return {"season": season, "rows": n, "period": period, "cached": False}
 
@@ -192,7 +221,7 @@ def query(county, district=None, kind="買賣", target=None, zoning=None, date_f
         ss = seasons_for(date_from or date_to, date_to or date_from)
     else:
         ss = seasons()[-4:]
-    loaded = [harvest(x) for x in ss]
+    loaded = [harvest(x, counties=[county.replace("台", "臺")]) for x in ss]
     c = _db()
     sql = "select * from lvr_tx where county=? and kind=?"
     args = [county.replace("台", "臺"), k]
